@@ -27,7 +27,7 @@ class Extractor(object):
                 print("Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
                 lastDate=str(tempo.created_at)[:10]
                 if(lastDate!=dayDate):
-                    newf = os.getcwd()+"python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
+                    newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
                     with open(newf,"w",encoding="utf-8") as file2:
                         string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4)
                         file2.write(string)
