@@ -54,7 +54,7 @@ if __name__ == '__main__':
         ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
 
     spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
- 
+
     for query in spath:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
 
