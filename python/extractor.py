@@ -62,5 +62,3 @@ if __name__ == '__main__':
     for q in smart:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
     print('end of the call')
-    
-    
