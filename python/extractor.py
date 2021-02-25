@@ -49,7 +49,7 @@ if __name__ == '__main__':
     until = dt.datetime.today()
     since = until - dt.timedelta(days=4)
     print('outside the call')
-    lappath = open(os.getcwd()+"/python/corp/assets/companies.txt","r") 
+    lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
     for q in lappath:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
 #
@@ -57,8 +57,8 @@ if __name__ == '__main__':
 #
     #for query in spath:
     #    ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
-#7
-    #smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
-    #for q in smart:
-    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
+
+    smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
+    for q in smart:
+        ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
     print('end of the call')
