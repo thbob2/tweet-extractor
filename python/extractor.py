@@ -52,11 +52,11 @@ if __name__ == '__main__':
     lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
     for q in lappath:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
-#
-    #spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
-#
-    #for query in spath:
-    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
+
+    spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
+
+    for query in spath:
+        ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
 
     smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
     for q in smart:
