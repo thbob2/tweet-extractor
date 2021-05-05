@@ -28,8 +28,8 @@ class Extractor(object):
                 lastDate=str(tempo.created_at)[:10]
                 if(lastDate!=dayDate):
                     newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
-                    with open(newf,"w",encoding="utf-8") as file2:
-                        string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4)
+                    with open(newf,"wb",encoding="utf-8") as file2:
+                        string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4,ensure_ascii=False).encode("utf8")
                         file2.write(string)
                         Tweets = []
                         dayDate=lastDate

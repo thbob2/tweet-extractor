@@ -14,6 +14,8 @@ class Tweet():
 		self.user_id = user_id
 		self.mention = []
 		self.label = ""
+		self.tanslation=""
+		
 	def __str__(self):
 		# on ne retourne que le text l'id et la langue 
 		return "tweet_id:{} \ncontenu: {} \nlangue du tweet: {}\n".format(self.id,self.text,self.lang)
