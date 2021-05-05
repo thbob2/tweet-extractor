@@ -53,10 +53,30 @@ def groupor():
                 w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
 
-        #elif entity in smartphones:
-        #else:
+        elif entity in smartphones:
+            with open(spath+entity+"/"+c,"wb") as w:
+                with open(rpath+c,"r",encoding="utf-8") as read:
+                    try:
+                        data = json.load(read)
+                    except JSONDecodeError as e:
+                        print(c +" is the one causing error")
+                for tweet in data["tweets"]:
+                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                    tweetArray.append(tempo)
+                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+        elif entity in laptops:
+            with open(lpath+entity+"/"+c,"wb") as w:
+                with open(rpath+c,"r",encoding="utf-8") as read:
+                    try:
+                        data = json.load(read)
+                    except JSONDecodeError as e:
+                        print(c +" is the one causing error")
+                for tweet in data["tweets"]:
+                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                    tweetArray.append(tempo)
+                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     groupor()
     
