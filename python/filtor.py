@@ -10,14 +10,25 @@ from os.path import isfile, join
 import os 
 import datetime as dt
 
-def filter():
-    
-    file = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
-    lines = file.read().splitlines()
+def filter(path,parent):
+    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
+    try:
+        os.mkdir(rpath)
+    except OSError as e:
+        print('parent exist')
+    file = open(path,"r")
+    dirs = file.read().splitlines()
     file.close()
-    return lines
+    for d in dirs:
+        try:
+            os.mkdir(os.path.join(rpath,d))
+        except OSError as error:
+            print("file already exist skipping ahead")
+        finally:
+            print("going to the next file")
+
 
 if __name__ == '__main__':
-    words = filter()
-    print(words)
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    
     
