@@ -31,7 +31,8 @@ class Tweet():
 				'coordinates' : self.coordinates,
 				'mention': self.mention,
 				'label': self.label,
-				'user_id': self.user_id
+				'user_id': self.user_id,
+				'text_translation': self.tanslation
 				}
 
 class TweetEncoder(json.JSONEncoder):
