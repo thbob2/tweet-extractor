@@ -28,7 +28,7 @@ class Extractor(object):
                 lastDate=str(tempo.created_at)[:10]
                 if(lastDate!=dayDate):
                     newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
-                    with open(newf,"wb",encoding="utf-8") as file2:
+                    with open(newf,"wb") as file2:
                         string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4,ensure_ascii=False).encode("utf8")
                         file2.write(string)
                         Tweets = []
@@ -50,15 +50,15 @@ if __name__ == '__main__':
     since = until - dt.timedelta(days=4)
     print('outside the call')
     lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
-    for q in lappath:
-        ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
+    #for q in lappath:
+    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
 
     spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
-
+#
     for query in spath:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
-
-    smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
-    for q in smart:
-        ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
+#
+    #smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
+    #for q in smart:
+    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
     print('end of the call')
