@@ -77,6 +77,6 @@ def groupor():
                 w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
 if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     groupor()
     
