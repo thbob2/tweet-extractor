@@ -38,10 +38,10 @@ class Extractor(object):
                 break
 if __name__ == '__main__':
     user = {
-        'ck':"D9ZEhBqeHhfkZyvYmAEaEkBu9",
-        'cs':"P8IF41bY0snOhokD3LkN67agVxUI3DXDjA2ug436AV5mqOVyyN",
-        'act':"295286840-vfHEQEaa50E2ypBXCwkp5gMUL9wgpL6WPSGFykZ2",
-        'acs':"Rwy8lkwhnQlubrtyPX5CaF1duOHMAdM8GSRzu6cqba3sc"
+        'ck':"GqnDqpBgQTSrqJHMJrwcTJ8G5",
+        'cs':"J8BOoUHdIqsMYPkdtH7aoeo9TSUQqATP1IKIxWjry8OvhRZY6b",
+        'act':"295286840-YLBMvqNd4KavYUnvw7jMgLs9NXzizCWUelbgKL5D",
+        'acs':"XJC0G0SExp7foR5FH30Q3uTpe7IGHf25gTOcKXa7QY49R"
     }
     agent = TwitterAgent(user["ck"],user['cs'],user["act"],user["acs"])
     api = agent.get_twitter_client()
