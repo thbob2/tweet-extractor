@@ -37,28 +37,30 @@ class Extractor(object):
                 cpt+=1
                 break
 if __name__ == '__main__':
-    user = {
-        'ck':"GqnDqpBgQTSrqJHMJrwcTJ8G5",
-        'cs':"J8BOoUHdIqsMYPkdtH7aoeo9TSUQqATP1IKIxWjry8OvhRZY6b",
-        'act':"295286840-YLBMvqNd4KavYUnvw7jMgLs9NXzizCWUelbgKL5D",
-        'acs':"XJC0G0SExp7foR5FH30Q3uTpe7IGHf25gTOcKXa7QY49R"
-    }
-    agent = TwitterAgent(user["ck"],user['cs'],user["act"],user["acs"])
+
+    with open(os.getcwd()+"/user.json","r") as ufile:
+        try:
+            data = json.load(ufile)
+        except JSONDecodeError as e:
+            print(c +" is the one causing error")
+    user = data["user"]
+    agent = TwitterAgent(user["key"],user["secret_key"],user["access_token"],user["access_token_secret"])
     api = agent.get_twitter_client()
     ext = Extractor()
     until = dt.datetime.today()
     since = until - dt.timedelta(days=5)
     print('outside the call')
-    #lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
-    #for q in lappath:
-    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
-
-    spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
+    lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
+    for q in lappath:
+        ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
 #
+    spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
+##
     for query in spath:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
-
+#
     smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
     for q in smart:
        ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
     print('end of the call')
+#
