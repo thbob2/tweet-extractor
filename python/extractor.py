@@ -1,4 +1,5 @@
 import regex as re
+import time
 import pickle
 import tweepy
 import json
@@ -16,26 +17,36 @@ class Extractor(object):
         start = since.strftime('%Y-%m-%d')
         end = until.strftime('%Y-%m-%d')
         dayDate = (until - dt.timedelta(days=1)).strftime('%Y-%m-%d')
-        
-        Alltweets=tweepy.Cursor(api.search,q=query,wait_on_rate_limit=True, wait_on_rate_limit_notify=True,since=start,until=end,count=200).pages()
+        backoffCounter  = 1 
+        while True :
+            try:
 
-        cpt=1
-        Tweets=[]
-        for page in Alltweets:
-            for tweet in page:
-                tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
-                print("Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
-                lastDate=str(tempo.created_at)[:10]
-                if(lastDate!=dayDate):
-                    newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
-                    with open(newf,"wb") as file2:
-                        string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4,ensure_ascii=False).encode("utf8")
-                        file2.write(string)
-                        Tweets = []
-                        dayDate=lastDate
-                Tweets.append(tempo)
-                cpt+=1
+                Alltweets=tweepy.Cursor(api.search,q=query,wait_on_rate_limit=True, wait_on_rate_limit_notify=True,since=start,until=end,count=200).pages()
+
+                cpt=1
+                Tweets=[]
+                for page in Alltweets:
+                    for tweet in page:
+                        tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
+                        print(query+" Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
+                        lastDate=str(tempo.created_at)[:10]
+                        if(lastDate!=dayDate):
+                            newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
+                            with open(newf,"wb") as file2:
+                                string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4,ensure_ascii=False).encode("utf8")
+                                file2.write(string)
+                                Tweets = []
+                                dayDate=lastDate
+                        Tweets.append(tempo)
+                        cpt+=1
+                        break
                 break
+            except tweepy.TweepError as e:
+                print(e.reason)
+                time.sleep(60 * backoffCounter)
+                backoffCounter += 1
+                continue
+
 if __name__ == '__main__':
 
     with open(os.getcwd()+"/user.json","r") as ufile:

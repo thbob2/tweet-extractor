@@ -10,6 +10,7 @@ numpy = "*"
 regex = "*"
 datetime = "*"
 textblob = "*"
+owlready2 = "*"
 
 [dev-packages]
 
