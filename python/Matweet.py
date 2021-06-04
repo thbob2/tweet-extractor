@@ -1,8 +1,12 @@
 import json 
-
+from googletrans import Translator
+import httpx
 class Tweet():
 	
 	def __init__(self,id,text,created_at,retweet_count,favorite_count,lang,user_id,coordinates,geo):
+		timout = httpx.Timeout(30)		
+		
+		translator = Translator(timeout=timout)
 		self.id = id
 		self.text = text
 		self.created_at = created_at 
@@ -14,8 +18,11 @@ class Tweet():
 		self.user_id = user_id
 		self.mention = []
 		self.label = ""
-		self.tanslation=""
-		
+		result = translator.translate(text,dest="en")
+		print("translating text")
+		self.tanslation= result.text
+		print("object created")
+	
 	def __str__(self):
 		# on ne retourne que le text l'id et la langue 
 		return "tweet_id:{} \ncontenu: {} \nlangue du tweet: {}\n".format(self.id,self.text,self.lang)

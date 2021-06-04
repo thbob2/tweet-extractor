@@ -10,6 +10,7 @@ from os import error, listdir
 from os.path import isfile, join
 import os 
 import datetime as dt
+from googletrans import Translator
 
 def filter(path,parent):
     rpath = os.getcwd()+"/python/corp/data2.0/" + parent
@@ -37,44 +38,65 @@ def groupor():
     companies = [f for f in listdir(cpath)]
     smartphones = [f for f in listdir(spath)]
     laptops = [f for f in listdir(lpath)]
+    emptyfile=0
     for c in corp :
-        tweetArray = []
-        entity = c.split("-")[0]
-        if entity in companies:
-            with open(cpath+entity+"/"+c,"wb") as w:
-                with open(rpath+c,"r",encoding="utf-8") as read:
-                    try:
-                        data = json.load(read)
-                    except JSONDecodeError as e:
-                        print(c +" is the one causing error")
-                for tweet in data["tweets"]:
-                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                    tweetArray.append(tempo)
-                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+        try:
+            tweetArray = []
+            entity = c.split("-")[0]
+            if entity in companies:
+                with open(cpath+entity+"/"+c,"wb") as w:
+                    with open(rpath+c,"r",encoding="utf-8") as read:
+                        try:
+                            data = json.load(read)
+                        except JSONDecodeError as e:
+                            print(c +" is the one causing error")
+                    if data["tweets"] == []:
+                        print("empty array skiped")
+                        emptyfile+=1
+                        continue
+                    else:    
+                        for tweet in data["tweets"]:
+                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                            tweetArray.append(tempo)
+                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
 
-        elif entity in smartphones:
-            with open(spath+entity+"/"+c,"wb") as w:
-                with open(rpath+c,"r",encoding="utf-8") as read:
-                    try:
-                        data = json.load(read)
-                    except JSONDecodeError as e:
-                        print(c +" is the one causing error")
-                for tweet in data["tweets"]:
-                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                    tweetArray.append(tempo)
-                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
-        elif entity in laptops:
-            with open(lpath+entity+"/"+c,"wb") as w:
-                with open(rpath+c,"r",encoding="utf-8") as read:
-                    try:
-                        data = json.load(read)
-                    except JSONDecodeError as e:
-                        print(c +" is the one causing error")
-                for tweet in data["tweets"]:
-                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                    tweetArray.append(tempo)
-                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+            elif entity in smartphones:
+                with open(spath+entity+"/"+c,"wb") as w:
+                    with open(rpath+c,"r",encoding="utf-8") as read:
+                        try:
+                            data = json.load(read)
+                        except JSONDecodeError as e:
+                            print(c +" is the one causing error")
+                    if data["tweets"] == []:
+                        print("empty array skiped")
+                        emptyfile+=1
+                        continue
+                    else: 
+                        for tweet in data["tweets"]:
+                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                            tweetArray.append(tempo)
+                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+            
+            elif entity in laptops:
+                with open(lpath+entity+"/"+c,"wb") as w:
+                    with open(rpath+c,"r",encoding="utf-8") as read:
+                        try:
+                            data = json.load(read)
+                        except JSONDecodeError as e:
+                            print(c +" is the one causing error")
+                    if data["tweets"] == []:
+                        print("empty array skiped")
+                        emptyfile+=1
+                        continue
+                    else: 
+                        for tweet in data["tweets"]:
+                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                            tweetArray.append(tempo)
+                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+        except ValueError as e:
+            print(e)
+            continue
 
 if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
