@@ -6,7 +6,7 @@ class Tweet():
 	def __init__(self,id,text,created_at,retweet_count,favorite_count,lang,user_id,coordinates,geo):
 		timout = httpx.Timeout(30)		
 		
-		translator = Translator(timeout=timout)
+		#translator = Translator(timeout=timout)
 		self.id = id
 		self.text = text
 		self.created_at = created_at 
@@ -18,9 +18,9 @@ class Tweet():
 		self.user_id = user_id
 		self.mention = []
 		self.label = ""
-		result = translator.translate(text,dest="en")
+		#result = translator.translate(text,dest="en")
 		print("translating text")
-		self.tanslation= result.text
+		self.tanslation=""
 		print("object created")
 	
 	def __str__(self):

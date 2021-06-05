@@ -56,8 +56,11 @@ def groupor():
                         continue
                     else:    
                         for tweet in data["tweets"]:
-                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                            tweetArray.append(tempo)
+                            try:
+                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                tweetArray.append(tempo)
+                            except KeyError as e :
+                                continue    
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
 
@@ -74,8 +77,11 @@ def groupor():
                         continue
                     else: 
                         for tweet in data["tweets"]:
-                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                            tweetArray.append(tempo)
+                            try:
+                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                tweetArray.append(tempo)
+                            except KeyError as e :
+                                continue 
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
             
             elif entity in laptops:
@@ -91,13 +97,16 @@ def groupor():
                         continue
                     else: 
                         for tweet in data["tweets"]:
-                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                            tweetArray.append(tempo)
+                            try:
+                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                tweetArray.append(tempo)
+                            except KeyError as e :
+                                continue 
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
         except ValueError as e:
             print(e)
             continue
-
+    print("number of empty files = "+str(emptyfile))
 if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     groupor()
