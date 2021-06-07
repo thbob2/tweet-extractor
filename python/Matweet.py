@@ -19,9 +19,9 @@ class Tweet():
 		self.mention = []
 		self.label = ""
 		#result = translator.translate(text,dest="en")
-		print("translating text")
+		#print("translating text")
 		self.tanslation=""
-		print("object created")
+		#print("object created")
 	
 	def __str__(self):
 		# on ne retourne que le text l'id et la langue 

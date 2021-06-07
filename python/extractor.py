@@ -20,15 +20,15 @@ class Extractor(object):
         backoffCounter  = 1 
         while True :
             try:
-
-                Alltweets=tweepy.Cursor(api.search,q=query,wait_on_rate_limit=True, wait_on_rate_limit_notify=True,since=start,until=end,count=200).pages()
+                print(query)
+                Alltweets=tweepy.Cursor(api.search,q=query,wait_on_rate_limit=True, wait_on_rate_limit_notify=True,since=start,until=end).pages()
 
                 cpt=1
                 Tweets=[]
                 for page in Alltweets:
                     for tweet in page:
                         tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
-                        print(query+" Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
+                        print(" Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
                         lastDate=str(tempo.created_at)[:10]
                         if(lastDate!=dayDate):
                             newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
