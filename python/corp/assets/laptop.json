@@ -3,12 +3,75 @@
         "name":"laptop",
         "childs":[
             {
-                "name":"",
-                "childs":[]
+                "name":"CPU",
+                "childs":[
+                    {
+                        "name":"intel Core",
+                        "childs":[
+                            {
+                                "name":"i3",
+                                "childs":[]
+                            },
+                            {
+                                "name":"i5",
+                                "childs":[]
+                            },
+                            {
+                                "name":"i7",
+                                "childs":[]
+                            },
+                            {
+                                "name":"i9",
+                                "childs":[]
+                            }
+                        ]
+                        
+                    },
+                    {
+                        "name":"AMD",
+                        "childs":[
+                            {
+                                "name":"RYZEN 3",
+                                "childs":[]
+                            },
+                            {
+                                "name":"RYZEN 5",
+                                "childs":[]
+                            },
+                            {
+                                "name":"RYZEN 7",
+                                "childs":[]
+                            },{
+                                "name":"RYZEN 9",
+                                "childs":[]
+                            }
+                        
+                        ]
+                    }
+
+                ]
             },
             {
-                "name":"",
-                "childs":[]
+                "name":"display size",
+                "childs":[
+                    {
+                        "name":"13inch",
+                        "childs":[]
+                    },
+                    {
+                        "name":"14inch",
+                        "childs":[]
+                    },
+                    {
+                        "name":"15inch",
+                        "childs":[]
+                    }
+                    ,
+                    {
+                        "name":"17inch",
+                        "childs":[]
+                    }
+                ]
             },
             {
                 "name":"",
