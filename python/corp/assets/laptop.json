@@ -84,12 +84,50 @@
                         "name":"NVDIA",
                         "childs":[
                             {
-                                "name":"",
-                                "childs":[]
+                                "name":"GTX",
+                                "childs":[
+                                    {
+                                        "name":"GTX 1050",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"GTX 1060",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"GTX 1070",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"GTX 1080",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"GTX TITAN",
+                                        "childs":[]
+                                    }
+                                ]
                             },
                             {
-                                "name":"",
-                                "childs":[]
+                                "name":"RTX",
+                                "childs":[
+                                    {
+                                        "name":"RTX 2060",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"RTX 2070",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"RTX 2080",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"RTX SUPER",
+                                        "childs":[]
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -100,20 +138,104 @@
                 ]
             },
             {
-                "name":"",
-                "childs":[]
+                "name":"OS",
+                "childs":[
+                    {
+                        "name":"windows 10",
+                        "childs":[]
+                    },
+                    {
+                        "name":"linux",
+                        "childs":[]
+                    },
+                    {
+                        "name":"Mac OS",
+                        "childs":[]
+                    }
+
+                ]
             },
             {
-                "name":"",
-                "childs":[]
+                "name":"RAM",
+                "childs":[
+                    {
+                        "name":"8G",
+                        "childs":[]
+                    },
+                    {
+                        "name":"16G",
+                        "childs":[]
+                    },
+                    {
+                        "name":"32G",
+                        "childs":[]
+                    }
+                ]
             },
             {
-                "name":"",
-                "childs":[]
+                "name":"Storage",
+                "childs":[
+                    {
+                        "name":"HDD",
+                        "childs":[]
+                    },
+                    {
+                        "name":"SSD",
+                        "childs":[]
+                    }
+                ]
             },
             {
-                "name":"",
-                "childs":[]
+                "name":"specs",
+                "childs":[
+                    {
+                        "name":"dimensions",
+                        "childs":[
+                            {
+                                "name":"height",
+                                "childs":[]
+                            },
+                            {
+                                "name":"width",
+                                "childs":[]
+                            },
+                            {
+                                "name":"weight",
+                                "childs":[]
+                            }
+                        ]
+                    },
+                    {
+                        "name":"audio",
+                        "childs":[
+                            {
+                                "name":"speakers",
+                                "childs":[]
+                            },
+                            {
+                                "name":"microphone",
+                                "childs":[]
+                            }
+                        ]
+                    },
+                    {
+                        "name":"wireless",
+                        "childs":[
+                            {
+                                "name":"WIFI",
+                                "childs":[]
+                            },
+                            {
+                                "name":"bluetooth",
+                                "childs":[]
+                            }
+                        ]
+                    },
+                    {
+                        "name":"",
+                        "childs":[]
+                    }
+                ]
             },
             {
                 "name":"",
