@@ -74,8 +74,30 @@
                 ]
             },
             {
-                "name":"",
-                "childs":[]
+                "name":"GPU",
+                "childs":[
+                    {
+                        "name":"integrated",
+                        "childs":[]
+                    },
+                    {
+                        "name":"NVDIA",
+                        "childs":[
+                            {
+                                "name":"",
+                                "childs":[]
+                            },
+                            {
+                                "name":"",
+                                "childs":[]
+                            }
+                        ]
+                    },
+                    {
+                        "name":"RADEON",
+                        "childs":[]
+                    }
+                ]
             },
             {
                 "name":"",
