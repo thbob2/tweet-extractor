@@ -107,10 +107,58 @@ def groupor():
             print(e)
             continue
     print("number of empty files = "+str(emptyfile))
-if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 
-    groupor()
+    #0categorizing
+
+    def filterPhones():
+        path = os.getcwd()+"/python/corp/data2.0/smartphones/"
+        corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
+        smartphones = [f for f in listdir(path)]
+        stats = {}
+        emptyfile=0
+        for c in corp :
+            try:
+                tweetArray = []
+                entity = c.split("-")[0]
+                if entity in smartphones:
+                    with open(spath+entity+"/"+c,"wb") as w:
+                        with open(rpath+c,"r",encoding="utf-8") as read:
+                            try:
+                                data = json.load(read)
+                            except JSONDecodeError as e:
+                                print(c +" is the one causing error")
+                        if data["tweets"] == []:
+                            print("empty array skiped")
+                            emptyfile+=1
+                            continue
+                        else: 
+                            for tweet in data["tweets"]:
+                                try:
+                                    if tweet["lang"]=="en":
+                                        tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                        tweetArray.append(tempo)
+                                    else:
+                                        continue
+                                    stats[tweet["lang"]]+=1
+                                except KeyError as e :
+                                    continue 
+                            w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+            except ValueError as e:
+                print(e)
+                continue
+        print("number of empty files = "+str(emptyfile))
+        print(stats)
     
+    
+    def filterLaptops():
+        pass
+    
+    def filterCompanies():
+        pass
+if __name__ == '__main__':
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+#
+    #groupor()
+    filterPhones()
