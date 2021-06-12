@@ -115,6 +115,7 @@ def filterPhones():
     path = os.getcwd()+"/python/corp/data2.0/smartphones/"
     corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
     smartphones = [f for f in listdir(path)]
+    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/smartphone.json")
     stats = {}
     emptyfile=0
     for c in corp :
@@ -141,8 +142,10 @@ def filterPhones():
                                 stats[tweet["lang"]]=1
                             try:
                                 if tweet["lang"]=="en":
-                                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                    tweetArray.append(tempo)
+                                    for name in classNames:
+                                        if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
+                                            tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                            tweetArray.append(tempo)
                                 else:
                                     continue
                             
@@ -275,7 +278,7 @@ def ontologieClasses(onto):
             res = getChilds(p[0])
         except JSONDecodeError as e:
             print( "causing error")
-    print(res)
+    return (res)
     
 
     
@@ -288,6 +291,6 @@ if __name__ == '__main__':
     #groupor()
     #filterLaptops()
     #filterCompanies()
-    #filterPhones()
-    sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
-    ontologieClasses(sphones)
+    filterPhones()
+    #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
+    #ontologieClasses(sphones)
