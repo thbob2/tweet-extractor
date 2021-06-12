@@ -253,12 +253,41 @@ def filterCompanies():
             continue
     print("number of empty files = "+str(emptyfile))
     print(stats)
+
+def getChilds(obj):
+    res = []
+    res.append(obj["name"])
+    for c in obj["childs"]:
+        res.extend(getChilds(c))
+
+    return res
+        
+    
+    return res
+#! methods that returns the ontologies subclasses
+def ontologieClasses(onto):
+    clsList = {}
+    res = []
+    with open(onto,"r") as file:
+        try:
+            clsList = json.load(file)
+            p = clsList['product']
+            res = getChilds(p[0])
+        except JSONDecodeError as e:
+            print( "causing error")
+    print(res)
+    
+
+    
+#!main method
 if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
     #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 #
     #groupor()
-    filterLaptops()
-    filterCompanies()
-    filterPhones()
+    #filterLaptops()
+    #filterCompanies()
+    #filterPhones()
+    sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
+    ontologieClasses(sphones)
