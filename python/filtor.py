@@ -133,8 +133,7 @@ def filterPhones():
                         print("empty array skiped")
                         emptyfile+=1
                         continue
-                    else: 
-                        
+                    else:                  
                         for tweet in data["tweets"]:
                             try:
                                 stats[tweet["lang"]]+=1
@@ -145,21 +144,20 @@ def filterPhones():
                                     for name in classNames:
                                         if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                             tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                            tweetArray.append(tempo)
-                                else:
-                                    continue
-                            
+                                            tweetArray.append(tempo)                           
                             except KeyError as e :
                                 continue
-                            
-                            
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
         except ValueError as e:
             print(e)
             continue
-    print("number of empty files = "+str(emptyfile))
-    print(stats)
-    
+    towrite = {
+        "empty-files" : emptyfile,
+        "languages-stats": stats
+    }
+    with open (os.getcwd()+"/python/corp/stats/Smartphones-stats.json","wb") as file:
+        string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
+        file.write(string)
     
 def filterLaptops():
     rpath = os.getcwd()+"/python/corp/data/"
