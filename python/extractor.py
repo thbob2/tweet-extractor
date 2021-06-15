@@ -18,34 +18,34 @@ class Extractor(object):
         end = until.strftime('%Y-%m-%d')
         dayDate = (until - dt.timedelta(days=1)).strftime('%Y-%m-%d')
         backoffCounter  = 1 
-        while True :
-            try:
-                print(query)
-                Alltweets=tweepy.Cursor(api.search,q=query,wait_on_rate_limit=True, wait_on_rate_limit_notify=True,since=start,until=end).pages()
+        #while True :
+        #    try:
+        print(query)
+        Alltweets=tweepy.Cursor(api.search,q=query,wait_on_rate_limit=True, wait_on_rate_limit_notify=True,since=start,until=end,count=200).pages(100)
 
-                cpt=1
-                Tweets=[]
-                for page in Alltweets:
-                    for tweet in page:
-                        tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
-                        print(" Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
-                        lastDate=str(tempo.created_at)[:10]
-                        if(lastDate!=dayDate):
-                            newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
-                            with open(newf,"wb") as file2:
-                                string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4,ensure_ascii=False).encode("utf8")
-                                file2.write(string)
-                                Tweets = []
-                                dayDate=lastDate
-                        Tweets.append(tempo)
-                        cpt+=1
-                        break
+        cpt=1
+        Tweets=[]
+        for page in Alltweets:
+            for tweet in page:
+                tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
+                print(" Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
+                lastDate=str(tempo.created_at)[:10]
+                if(lastDate!=dayDate):
+                    newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
+                    with open(newf,"wb") as file2:
+                        string=json.dumps({'tweets':[o.dump() for o in Tweets]},indent=4,ensure_ascii=False).encode("utf8")
+                        file2.write(string)
+                        Tweets = []
+                        dayDate=lastDate
+                Tweets.append(tempo)
+                cpt+=1
                 break
-            except tweepy.TweepError as e:
-                print(e.reason)
-                time.sleep(60 * backoffCounter)
-                backoffCounter += 1
-                continue
+        #break
+        #    except tweepy.TweepError as e:
+        #        print(e.reason)
+        #        time.sleep(60 * backoffCounter)
+        #        backoffCounter += 1
+        #        continue
 
 if __name__ == '__main__':
 
@@ -61,14 +61,14 @@ if __name__ == '__main__':
     until = dt.datetime.today()
     since = until - dt.timedelta(days=5)
     print('outside the call')
-    lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
-    for q in lappath:
-        ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
+    #lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
+    #for q in lappath:
+    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
 #
-    # spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
+    spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
 # ##
-    # for query in spath:
-        # ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
+    for query in spath:
+        ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
 #
     smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
     for q in smart:
