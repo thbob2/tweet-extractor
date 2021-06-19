@@ -112,7 +112,7 @@ def groupor():
 
 def filterPhones():
     rpath = os.getcwd()+"/python/corp/data/"
-    path = os.getcwd()+"/python/corp/data2.0/test/"
+    path = os.getcwd()+"/python/corp/data2.0/smartphones/"
     corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
     smartphones = [f for f in listdir(path)]
     classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/smartphone.json")
@@ -146,12 +146,13 @@ def filterPhones():
                                                 continue                         
                                 except KeyError as e :
                                     continue
+                            if tweetArray != []:
+                                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         print("empty array skiped")
                         emptyfile+=1
                         continue   
-                if tweetArray != []:
-                    w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                
         except ValueError as e:
             print(e)
             continue
@@ -159,7 +160,7 @@ def filterPhones():
         "empty-files" : emptyfile,
         "languages-stats": stats
     }
-    with open (os.getcwd()+"/python/corp/stats/test-stats.json","wb") as file:
+    with open (os.getcwd()+"/python/corp/stats/phones-stats.json","wb") as file:
         string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
         file.write(string)
     
@@ -192,8 +193,7 @@ def filterLaptops():
                                     if tweet["lang"]=="en":
                                         tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                         tweetArray.append(tempo)
-                                    else:
-                                        continue
+                                    
 
                                 except KeyError as e :
                                     continue
@@ -289,7 +289,7 @@ def ontologieClasses(onto):
 if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
     #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 #
     #groupor()
     #filterLaptops()
