@@ -1,8 +1,10 @@
 {	
 	"product":[
-		{"name":"Smartphone",
-		"childs":[	
-		{	"name":"Accessoires",
+		{
+			"name":"Smartphone",
+			"childs":[	
+
+				{	"name":"Accessoires",
 			"childs":[
 				{
 					"name":"Bag",
@@ -275,6 +277,10 @@
 				},
 				{
 					"name":"Touch Screen",
+					"childs":[]
+				},
+				{
+					"name":"Screen Size",
 					"childs":[]
 				},
 				{

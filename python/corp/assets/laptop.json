@@ -1,5 +1,8 @@
 {
-    "product":{
+    "product":[
+
+    
+    {
         "name":"laptop",
         "childs":[
             {
@@ -230,18 +233,9 @@
                                 "childs":[]
                             }
                         ]
-                    },
-                    {
-                        "name":"",
-                        "childs":[]
                     }
-                ]
-            },
-            {
-                "name":"",
-                "childs":[]
-            }
-
         ]
     }
+
+    ]
 }
