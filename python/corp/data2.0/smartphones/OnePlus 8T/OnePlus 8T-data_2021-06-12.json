@@ -2,14 +2,16 @@
     "tweets": [
         {
             "id": 1403577944660791299,
-            "text": "RT @Gadgets360: OnePlus 8, OnePlus 8 Pro, and OnePlus 8T have started getting a fresh OxygenOS update in India with system, camera improvem…",
+            "text": "RT  OnePlus 8 OnePlus 8 Pro and OnePlus 8T have started getting a fresh OxygenOS update in India with system camera improvem",
             "created_at": "2021-06-12 05:00:33",
             "retweet_count": 2,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "",
             "user_id": 50282586,
             "text_translation": ""

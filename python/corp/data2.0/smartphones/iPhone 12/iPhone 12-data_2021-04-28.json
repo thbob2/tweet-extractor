@@ -2,14 +2,16 @@
     "tweets": [
         {
             "id": 1387490382838181893,
-            "text": "RT @Fox0x01: Corellium supports iOS 14.5! 🥳\n\nWatching a virtual iPhone 12 Pro booting iOS 14.5 in a browser is just wild.\n\nI remember the h…",
+            "text": "RT  Corellium supports iOS  Watching a virtual iPhone 12 Pro booting iOS 145 in a browser is just wildI remember the h",
             "created_at": "2021-04-28 19:34:20",
             "retweet_count": 51,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Browser"
+            ],
             "label": "",
             "user_id": 207617689,
             "text_translation": ""

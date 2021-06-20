@@ -2,14 +2,16 @@
     "tweets": [
         {
             "id": 1362980432107642882,
-            "text": "Moto E7 Power First Impressions: Big 5000mAh Battery, MediaTek G25 SoC Under Rs. 10000 - NDTV https://t.co/TWUoDrV5kj",
+            "text": "Moto E7 Power First Impressions Big 5000mAh Battery MediaTek G25 SoC Under Rs 10000  NDTV TWUoDrV5kj",
             "created_at": "2021-02-20 04:20:32",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "",
             "user_id": 188267210,
             "text_translation": ""

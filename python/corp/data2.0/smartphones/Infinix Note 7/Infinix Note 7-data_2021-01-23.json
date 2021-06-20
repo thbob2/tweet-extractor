@@ -2,14 +2,16 @@
     "tweets": [
         {
             "id": 1352914172594548739,
-            "text": "Brand : infinix note 7\nAge : 3 months\nAccessories : 2 pouch/cases, charger, 1 wireless earpod, receipt and slot pin… https://t.co/n3yS7u3jB8",
+            "text": "Brand  infinix note 7Age  3 monthsAccessories  2 pouchcases charger 1 wireless earpod receipt and slot pin n3yS7u3jB8",
             "created_at": "2021-01-23 09:40:49",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "charger"
+            ],
             "label": "",
             "user_id": 1200229185324830722,
             "text_translation": ""

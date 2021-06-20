@@ -138,18 +138,25 @@ def filterPhones():
                                     stats[tweet["lang"]]=1
                                 try:
                                     if tweet["lang"]=="en":
+                                        #cleaning
+                                        text=re.sub("(@[A-Za-z0-9_]+)|([^0-9A-Za-z \t])|((http[s]?:\/\/)?(www[\.])?\S+[\.]\S{2,3})","",tweet["text"])
+                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                         for name in classNames:
+                                            #eticting + elaguing
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
-                                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                                tweetArray.append(tempo)
+                                                tempo.mention.append(name)
+                                                
                                             else:
-                                                continue                         
+                                                continue
+                                        if len(tempo.mention) != 0 :
+                                            tweetArray.append(tempo)
+
                                 except KeyError as e :
                                     continue
                             if tweetArray != []:
                                 w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
-                        print("empty array skiped")
+                        
                         emptyfile+=1
                         continue   
                 
@@ -169,6 +176,7 @@ def filterLaptops():
     path = os.getcwd()+"/python/corp/data2.0/laptops/"
     corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
     laptops = [f for f in listdir(path)]
+    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/laptop.json")
     stats = {}
     emptyfile=0
     for c in corp :
@@ -176,14 +184,14 @@ def filterLaptops():
             tweetArray = []
             entity = c.split("-")[0]
             if entity in laptops:
+                
                 with open(rpath+c,"r",encoding="utf-8") as read:
                     try:
                         data = json.load(read)
                     except JSONDecodeError as e:
                         print(c +" is the one causing error")
-                    
                     if data["tweets"] != []:
-                        with open(path+entity+"/"+c,"wb") as w: 
+                        with open(path+entity+"/"+c,"wb") as w:                  
                             for tweet in data["tweets"]:
                                 try:
                                     stats[tweet["lang"]]+=1
@@ -191,25 +199,39 @@ def filterLaptops():
                                     stats[tweet["lang"]]=1
                                 try:
                                     if tweet["lang"]=="en":
-                                        tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                        tweetArray.append(tempo)
-                                    
+                                        #cleaning
+                                        text=re.sub("(@[A-Za-z0-9_]+)|([^0-9A-Za-z \t])|((http[s]?:\/\/)?(www[\.])?\S+[\.]\S{2,3})","",tweet["text"])
+                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                        for name in classNames:
+                                            #eticting + elaguing
+                                            if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
+                                                tempo.mention.append(name)
+                                                
+                                            else:
+                                                continue
+                                        if len(tempo.mention) != 0 :
+                                            tweetArray.append(tempo)
 
                                 except KeyError as e :
                                     continue
-                    elif data["teeets"] == [] :
-                        print("empty array skiped")
-                        emptyfile+=1
-                        continue
-            w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
-
+                            if tweetArray != []:
+                                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                    elif data["tweets"]==[]:
                         
+                        emptyfile+=1
+                        continue   
+                
         except ValueError as e:
             print(e)
             continue
-    print("number of empty files = "+str(emptyfile))
-    print(stats)
-    
+    towrite = {
+        "empty-files" : emptyfile,
+        "languages-stats": stats
+    }
+    with open (os.getcwd()+"/python/corp/stats/laptops-stats.json","wb") as file:
+        string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
+        file.write(string)
+
 def filterCompanies():
     rpath = os.getcwd()+"/python/corp/data/"
     path = os.getcwd()+"/python/corp/data2.0/companies/"
@@ -222,43 +244,48 @@ def filterCompanies():
             tweetArray = []
             entity = c.split("-")[0]
             if entity in companies:
-                with open(path+entity+"/"+c,"wb") as w:
-                    with open(rpath+c,"r",encoding="utf-8") as read:
-                        try:
-                            data = json.load(read)
-                        except JSONDecodeError as e:
-                            print(c +" is the one causing error")
-                    if data["tweets"] == []:
-                        print("empty array skiped")
-                        emptyfile+=1
-                        continue
-                    else: 
-                        for tweet in data["tweets"]:
-                            
-                            try:
-                                stats[tweet["lang"]]+=1
-                            except KeyError as e:
+                with open(rpath+c,"r",encoding="utf-8") as read:
+                    try:
+                        data = json.load(read)
+                    except JSONDecodeError as e:
+                        print(c +" is the one causing error")
+                    if data["tweets"] != []:
+                        with open(path+entity+"/"+c,"wb") as w:                  
+                            for tweet in data["tweets"]:
                                 try:
-                                    stats[tweet["lang"]]=1
+                                    stats[tweet["lang"]]+=1
                                 except KeyError as e:
-                                    pass
-                            try:
-                                if tweet["lang"]=="en":
-                                    tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                    tweetArray.append(tempo)
-                                else:
+                                    try:
+                                        stats[tweet["lang"]]=1
+                                    except KeyError as e:
+                                        continue
+                                try:
+                                    if tweet["lang"]=="en":
+                                        #cleaning
+                                        text=re.sub("(@[A-Za-z0-9_]+)|([^0-9A-Za-z \t])|((http[s]?:\/\/)?(www[\.])?\S+[\.]\S{2,3})","",tweet["text"])
+                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                        
+                                        tweetArray.append(tempo)
+
+                                except KeyError as e :
                                     continue
-                            
-                            except KeyError as e :
-                                continue
-                            
-                            
-                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                            if tweetArray != []:
+                                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                    elif data["tweets"]==[]:
+                        
+                        emptyfile+=1
+                        continue   
+                
         except ValueError as e:
             print(e)
             continue
-    print("number of empty files = "+str(emptyfile))
-    print(stats)
+    towrite = {
+        "empty-files" : emptyfile,
+        "languages-stats": stats
+    }
+    with open (os.getcwd()+"/python/corp/stats/companies-stats.json","wb") as file:
+        string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
+        file.write(string)
 
 def getChilds(obj):
     res = []
@@ -287,13 +314,13 @@ def ontologieClasses(onto):
     
 #!main method
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 #
     #groupor()
-    #filterLaptops()
-    #filterCompanies()
+    filterLaptops()
+    filterCompanies()
     filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
