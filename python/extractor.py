@@ -64,7 +64,7 @@ if __name__ == '__main__':
     api = agent.get_twitter_client()
     ext = Extractor()
     until = dt.datetime.today()
-    since = until - dt.timedelta(days=5)
+    since = until - dt.timedelta(days=5 )
     print('outside the call')
     lappath = open(os.getcwd()+"/python/corp/assets/laptops.txt","r") 
     for q in lappath:
