@@ -10,8 +10,11 @@ from os import error, listdir
 from os.path import isfile, join
 import os 
 import datetime as dt
-from googletrans import Translator
+import exceptionsaver as Es
 
+companies = os.getcwd()+"/python/corp/data2.0/companies/"
+phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
+laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
 def filter(path,parent):
     rpath = os.getcwd()+"/python/corp/data2.0/" + parent
     try:
@@ -24,8 +27,10 @@ def filter(path,parent):
     for d in dirs:
         try:
             os.mkdir(os.path.join(rpath,d))
-        except OSError as error:
-            print("file already exist skipping ahead")
+        except OSError as e:
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
+            
         finally:
             print("going to the next file")
 
@@ -49,6 +54,8 @@ def groupor():
                         try:
                             data = json.load(read)
                         except JSONDecodeError as e:
+                            mySaver = Es.ExceptionSaver()
+                            mySaver.save(str(e))
                             print(c +" is the one causing error")
                     if data["tweets"] == []:
                         print("empty array skiped")
@@ -60,7 +67,9 @@ def groupor():
                                 tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 tweetArray.append(tempo)
                             except KeyError as e :
-                                continue    
+                                mySaver = Es.ExceptionSaver()
+                                mySaver.save(str(e))
+                                continue   
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
 
@@ -71,6 +80,9 @@ def groupor():
                             data = json.load(read)
                         except JSONDecodeError as e:
                             print(c +" is the one causing error")
+                            mySaver = Es.ExceptionSaver()
+                            mySaver.save(str(e))
+                
                     if data["tweets"] == []:
                         print("empty array skiped")
                         emptyfile+=1
@@ -81,7 +93,9 @@ def groupor():
                                 tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 tweetArray.append(tempo)
                             except KeyError as e :
-                                continue 
+                                mySaver = Es.ExceptionSaver()
+                                mySaver.save(str(e))
+                                continue
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
             
             elif entity in laptops:
@@ -101,10 +115,13 @@ def groupor():
                                 tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 tweetArray.append(tempo)
                             except KeyError as e :
-                                continue 
+                                mySaver = Es.ExceptionSaver()
+                                mySaver.save(str(e))
+                                continue
                         w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
         except ValueError as e:
-            print(e)
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
             continue
     print("number of empty files = "+str(emptyfile))
 
@@ -161,7 +178,8 @@ def filterPhones():
                         continue   
                 
         except ValueError as e:
-            print(e)
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
             continue
     towrite = {
         "empty-files" : emptyfile,
@@ -222,8 +240,10 @@ def filterLaptops():
                         continue   
                 
         except ValueError as e:
-            print(e)
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
             continue
+            
     towrite = {
         "empty-files" : emptyfile,
         "languages-stats": stats
@@ -277,7 +297,8 @@ def filterCompanies():
                         continue   
                 
         except ValueError as e:
-            print(e)
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
             continue
     towrite = {
         "empty-files" : emptyfile,
@@ -310,17 +331,23 @@ def ontologieClasses(onto):
             print( "causing error")
     return (res)
     
+def exploreCorp(path):
+    phoneFiles = []
+    for i in os.scandir(path):
+        for j in os.scandir(i):
+            phoneFiles.append(j.path)
+    return phoneFiles
 
-    
 #!main method
 if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
-#
-
-    filterLaptops()
-    filterCompanies()
-    filterPhones()
-    #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+##
+    ##groupor()
+    #filterLaptops()
+    #filterCompanies()
+    #filterPhones()
+    ##sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
+    print(exploreCorp(companies))

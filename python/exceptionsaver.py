@@ -6,16 +6,8 @@ import sys
 class ExceptionSaver(object):
     
     def __init__(self):
-       exmap = []
-    def save(self,e):
-        exmap.add(e)
-
-
-"""if __name__ == '__main__':
-    
-    try:
-        print(5/0)
-    except Exception as e:
-        print(e)
-    finally: 
-        print("gg boss")"""
+        self.date = dt.datetime.today()
+       
+    def save(self,exceptionMessage):
+        with open(os.getcwd()+"/python/logs/exceptionlogs.txt","w") as logs:
+            logs.write(exceptionMessage+":::"+str(self.date)+"\n")

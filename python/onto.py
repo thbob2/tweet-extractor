@@ -15,5 +15,8 @@ def ontology_classesNames(onto):
 
 if __name__ == '__main__':
     
-    onto = ontology_classesNames(os.getcwd()+"/python/corp/assets/test.owx")
-    print(onto)
+    for i in os.scandir(os.getcwd()+"/python/corp/data2.0/companies/XIOAMI/"):
+        if i.is_file():
+            print('File: ' + i.path)
+        elif i.is_dir():
+            print('Folder: ' + i.path)
