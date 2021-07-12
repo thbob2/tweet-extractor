@@ -148,8 +148,8 @@ def filterPhones():
                                                 
                                             else:
                                                 continue
-                                        if len(tempo.mention) != 0 :
-                                            tweetArray.append(tempo)
+                                        
+                                        tweetArray.append(tempo)
 
                                 except KeyError as e :
                                     continue
@@ -209,8 +209,8 @@ def filterLaptops():
                                                 
                                             else:
                                                 continue
-                                        if len(tempo.mention) != 0 :
-                                            tweetArray.append(tempo)
+                                        
+                                        tweetArray.append(tempo)
 
                                 except KeyError as e :
                                     continue
@@ -318,7 +318,7 @@ if __name__ == '__main__':
     filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 #
-    #groupor()
+
     filterLaptops()
     filterCompanies()
     filterPhones()
