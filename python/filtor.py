@@ -15,6 +15,7 @@ import exceptionsaver as Es
 companies = os.getcwd()+"/python/corp/data2.0/companies/"
 phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
 laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
+
 def filter(path,parent):
     rpath = os.getcwd()+"/python/corp/data2.0/" + parent
     try:
@@ -104,9 +105,11 @@ def groupor():
                         try:
                             data = json.load(read)
                         except JSONDecodeError as e:
-                            print(c +" is the one causing error")
+                            mySaver = Es.ExceptionSaver()
+                            mySaver.save(str(e)+":::"+c+" is the one causing error")
+                            
                     if data["tweets"] == []:
-                        print("empty array skiped")
+                        
                         emptyfile+=1
                         continue
                     else: 
@@ -316,8 +319,7 @@ def getChilds(obj):
 
     return res
         
-    
-    return res
+
 #! methods that returns the ontologies subclasses
 def ontologieClasses(onto):
     clsList = {}
@@ -328,7 +330,8 @@ def ontologieClasses(onto):
             p = clsList['product']
             res = getChilds(p[0])
         except JSONDecodeError as e:
-            print( "causing error")
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
     return (res)
     
 def exploreCorp(path):

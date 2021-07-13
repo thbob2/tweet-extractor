@@ -1,3 +1,4 @@
+from json.decoder import JSONDecodeError
 import regex as re
 import time
 import pickle
@@ -11,6 +12,7 @@ from os import listdir
 from os.path import isfile, join
 import os 
 import datetime as dt
+import exceptionsaver as Es
 class Extractor(object):
     def MainCorpExtraction(self,api,since,until,query):
         print('it started hello world')
@@ -49,7 +51,8 @@ class Extractor(object):
                 #        backoffCounter += 1
                 #        continue
             except tweepy.error.TweepError as e:
-                print(e.reason)
+                mySaver = Es.ExceptionSaver()
+                mySaver.save(str(e))
                 continue
 
 if __name__ == '__main__':
@@ -58,7 +61,8 @@ if __name__ == '__main__':
         try:
             data = json.load(ufile)
         except JSONDecodeError as e:
-            print(c +" is the one causing error")
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
     user = data["user"]
     agent = TwitterAgent(user["key"],user["secret_key"],user["access_token"],user["access_token_secret"])
     api = agent.get_twitter_client()
