@@ -347,7 +347,7 @@ if __name__ == '__main__':
     filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
-    groupor()
+    #groupor()
     filterLaptops()
     filterCompanies()
     filterPhones()
