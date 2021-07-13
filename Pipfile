@@ -21,6 +21,8 @@ matplotlib = "*"
 tensorflow = "*"
 tkinter-math = "*"
 pyqt5 = "*"
+jupyterlab = "*"
+keras-nightly = "*"
 
 [dev-packages]
 
