@@ -16,6 +16,11 @@ httpx = "*"
 cython = "*"
 nltk = "*"
 seaborn = "*"
+sklearn = "*"
+matplotlib = "*"
+tensorflow = "*"
+tkinter-math = "*"
+pyqt5 = "*"
 
 [dev-packages]
 
