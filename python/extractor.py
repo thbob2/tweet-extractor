@@ -61,8 +61,8 @@ if __name__ == '__main__':
         try:
             data = json.load(ufile)
         except JSONDecodeError as e:
-            mySaver = Es.ExceptionSaver()
-            mySaver.save(str(e))
+            print(c +" is the one causing error")
+            
     user = data["user"]
     agent = TwitterAgent(user["key"],user["secret_key"],user["access_token"],user["access_token_secret"])
     api = agent.get_twitter_client()

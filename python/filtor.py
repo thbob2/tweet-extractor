@@ -168,8 +168,8 @@ def filterPhones():
                                                 
                                             else:
                                                 continue
-                                        if len(tempo.mention) != 0 :
-                                            tweetArray.append(tempo)
+                                        
+                                        tweetArray.append(tempo)
 
                                 except KeyError as e :
                                     continue
@@ -230,8 +230,8 @@ def filterLaptops():
                                                 
                                             else:
                                                 continue
-                                        if len(tempo.mention) != 0 :
-                                            tweetArray.append(tempo)
+                                        
+                                        tweetArray.append(tempo)
 
                                 except KeyError as e :
                                     continue
@@ -343,14 +343,14 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
-    ##groupor()
-    #filterLaptops()
-    #filterCompanies()
-    #filterPhones()
-    ##sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
+    groupor()
+    filterLaptops()
+    filterCompanies()
+    filterPhones()
+    #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
-    print(exploreCorp(companies))
+    #print(exploreCorp(companies))
