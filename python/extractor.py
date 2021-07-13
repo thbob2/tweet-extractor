@@ -32,7 +32,7 @@ class Extractor(object):
                 for page in Alltweets:
                     for tweet in page:
                         tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
-                        print(" Tweet number {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
+                        print(" FBI AGENT FUCKED {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
                         lastDate=str(tempo.created_at)[:10]
                         if(lastDate!=dayDate):
                             newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
@@ -74,13 +74,13 @@ if __name__ == '__main__':
     for q in lappath:
         ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
 #
-    #spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
+    spath = open(os.getcwd()+"/python/corp/assets/companies.txt","r")
 # ###
-    #for query in spath:
-    #    ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
+    for query in spath:
+        ext.MainCorpExtraction(api,since,dt.datetime.today(),query)
 ##
-    #smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
-    #for q in smart:
-    #   ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
-    #print('end of the call')
+    smart = open(os.getcwd()+"/python/corp/assets/smartphones.txt","r") 
+    for q in smart:
+       ext.MainCorpExtraction(api,since,dt.datetime.today(),q)
+    print('end of the call')
 #                                    

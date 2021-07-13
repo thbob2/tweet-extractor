@@ -3,6 +3,10 @@ import regex as re
 import pickle
 import json
 import pandas as pd
+import nltk 
+import emoji
+nltk.download('words')
+words = set(nltk.corpus.words.words())
 from textblob import TextBlob
 from twitter_client import *
 from Matweet import Tweet
@@ -129,6 +133,15 @@ def groupor():
     print("number of empty files = "+str(emptyfile))
 
 #0categorizing
+def cleaner(tweet):
+    tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
+    tweet = re.sub(r"(?:\@|http?\://|https?\://|www)\S+", "", tweet) #Remove http links
+    tweet = " ".join(tweet.split())
+    tweet = ''.join(c for c in tweet if c not in emoji.UNICODE_EMOJI) #Remove Emojis
+    tweet = tweet.replace("#", "").replace("_", " ") #Remove hashtag sign but keep the text
+    tweet = " ".join(w for w in nltk.wordpunct_tokenize(tweet) \
+         if w.lower() in words or not w.isalpha())
+    return tweet
 
 def filterPhones():
     rpath = os.getcwd()+"/python/corp/data/"
@@ -159,7 +172,7 @@ def filterPhones():
                                 try:
                                     if tweet["lang"]=="en":
                                         #cleaning
-                                        text=re.sub("(@[A-Za-z0-9_]+)|([^0-9A-Za-z \t])|((http[s]?:\/\/)?(www[\.])?\S+[\.]\S{2,3})","",tweet["text"])
+                                        text=cleaner(tweet["text"])
                                         tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                         for name in classNames:
                                             #eticting + elaguing
@@ -221,7 +234,7 @@ def filterLaptops():
                                 try:
                                     if tweet["lang"]=="en":
                                         #cleaning
-                                        text=re.sub("(@[A-Za-z0-9_]+)|([^0-9A-Za-z \t])|((http[s]?:\/\/)?(www[\.])?\S+[\.]\S{2,3})","",tweet["text"])
+                                        text=cleaner(tweet["text"])
                                         tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                         for name in classNames:
                                             #eticting + elaguing
@@ -285,7 +298,7 @@ def filterCompanies():
                                 try:
                                     if tweet["lang"]=="en":
                                         #cleaning
-                                        text=re.sub("(@[A-Za-z0-9_]+)|([^0-9A-Za-z \t])|((http[s]?:\/\/)?(www[\.])?\S+[\.]\S{2,3})","",tweet["text"])
+                                        text=cleaner(tweet["text"])
                                         tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                         
                                         tweetArray.append(tempo)

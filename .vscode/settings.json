@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/home/boe/.local/share/virtualenvs/tweet-extractor-8IrAfhiU/bin/python"
+    "python.pythonPath": "/home/boe/.local/share/virtualenvs/tweet-extractor-8IrAfhiU/bin/python",
+    "python.analysis.extraPaths": [
+        "./python",
+        "./python"
+    ]
 }
