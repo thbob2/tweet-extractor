@@ -37,7 +37,7 @@ def feelingBayes(text):
     return result.sentiment[0]
 
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
@@ -186,15 +186,18 @@ def filterPhones():
                                 except KeyError as e:
                                     stats[tweet["lang"]]=1
                                 try:
-                                    text=cleaner(tweet["text"])
-                                    tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                    if tempo.lang =="en":
+                                    if tweet["lang"]=="en":
+                                        #cleaning
+                                        text=cleaner(tweet["text"])
+                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                         for name in classNames:
                                             #eticting + elaguing
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                                 tempo.mention.append(name)
-                                        
-                                        tempo.label = feeling(tempo.text)
+                                                
+                                            else:
+                                                continue
+                                        tempo.label= feeling(tempo.text)
                                         tweetArray.append(tempo)
                                 
                                 except KeyError as e :
@@ -364,9 +367,9 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #git groupor()
