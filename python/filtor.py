@@ -193,18 +193,8 @@ def filterPhones():
                                             #eticting + elaguing
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                                 tempo.mention.append(name)
-                                                tempo.label = feeling(tempo.text)
-                                                
-                                            else:
-                                                #try:
-                                                #    tempo.translation = TextBlob(tempo.text).translate(from_lang=tempo.lang,to="en")
-                                                #    tempo.label = feeling(tempo.tanslationc)
-                                                #except textblob.exceptions.NotTranslated as tbe: 
-                                                #    tempo.tanslation ="null"
-                                                #    es = Es.ExceptionSaver()
-                                                #    es.save(tbe)
-                                                #    print('tbe')
-                                                continue
+                                        
+                                        tempo.label = feeling(tempo.text)
                                         tweetArray.append(tempo)
                                 
                                 except KeyError as e :
@@ -257,16 +247,12 @@ def filterLaptops():
                                 try:
                                     text=cleaner(tweet["text"])
                                     tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                    if tempo.lang =="en":
+                                    if tempo.lang == "en":
                                         for name in classNames:
                                             #eticting + elaguing
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                                 tempo.mention.append(name)
-                                                tempo.label = feeling(tempo.text)
-                                                
-                                            else:
-                                                continue
-                                        
+                                        tempo.label = feeling(tempo.text)
                                         tweetArray.append(tempo)
 
                                 except KeyError as e :
@@ -378,15 +364,16 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #git groupor()
-    #filterLaptops()
-    #filterCompanies()
-    #filterPhones()
+    filterLaptops()
+    
+    filterCompanies()
+    filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
-    print(exploreCorp(phones)[0].split('_'))
+    
