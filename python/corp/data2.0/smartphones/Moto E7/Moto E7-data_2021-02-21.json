@@ -10,7 +10,8 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "",
+            "label": "positive",
+            "note": {},
             "user_id": 1273479937530499072,
             "text_translation": ""
         },
@@ -24,7 +25,8 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "",
+            "label": "negative",
+            "note": {},
             "user_id": 1182884858399342593,
             "text_translation": ""
         },
@@ -42,7 +44,8 @@
                 "Camera",
                 "Dual Camera"
             ],
-            "label": "",
+            "label": "nutral",
+            "note": {},
             "user_id": 1195194608738697217,
             "text_translation": ""
         }

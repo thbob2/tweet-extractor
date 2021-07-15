@@ -3,7 +3,7 @@ from googletrans import Translator
 import httpx
 class Tweet():
 	
-	def __init__(self,id,text,created_at,retweet_count,favorite_count,lang,user_id,coordinates,geo):
+	def __init__(self,id,text,created_at,retweet_count,favorite_count,lang,user_id,coordinates,geo,label="",note={}):
 		timout = httpx.Timeout(30)		
 		
 		#translator = Translator(timeout=timout)
@@ -17,7 +17,8 @@ class Tweet():
 		self.coordinates = coordinates
 		self.user_id = user_id
 		self.mention = []
-		self.label = ""
+		self.label = label
+		self.note = note
 		#result = translator.translate(text,dest="en")
 		#print("translating text")
 		self.tanslation=""
@@ -38,6 +39,7 @@ class Tweet():
 				'coordinates' : self.coordinates,
 				'mention': self.mention,
 				'label': self.label,
+				'note' : self.note,
 				'user_id': self.user_id,
 				'text_translation': self.tanslation
 				}
