@@ -5,8 +5,9 @@ import json
 import pandas as pd
 import nltk 
 import emoji
-nltk.download('words')
+
 words = set(nltk.corpus.words.words())
+import textblob
 from textblob import TextBlob
 from twitter_client import *
 from Matweet import Tweet
@@ -20,8 +21,23 @@ companies = os.getcwd()+"/python/corp/data2.0/companies/"
 phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
 laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
 
+def feeling(text):
+    result = TextBlob(text)          
+    if(result.sentiment[0]>0): 
+        return "positive".format(result.sentiment[0])
+    elif(result.sentiment[0]==0): 
+        return"nutral".format(result.sentiment[0])
+    else: 
+        return "negative".format(result.sentiment[0])
+
+
+# naive bayes felling analyser 
+def feelingBayes(text):
+    result = TextBlob(text,analyzer=NaiveBayesAnalyzer())
+    return result.sentiment[0]
+
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
@@ -170,20 +186,27 @@ def filterPhones():
                                 except KeyError as e:
                                     stats[tweet["lang"]]=1
                                 try:
-                                    if tweet["lang"]=="en":
-                                        #cleaning
-                                        text=cleaner(tweet["text"])
-                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                    text=cleaner(tweet["text"])
+                                    tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                    if tempo.lang =="en":
                                         for name in classNames:
                                             #eticting + elaguing
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                                 tempo.mention.append(name)
+                                                tempo.label = feeling(tempo.text)
                                                 
                                             else:
+                                                #try:
+                                                #    tempo.translation = TextBlob(tempo.text).translate(from_lang=tempo.lang,to="en")
+                                                #    tempo.label = feeling(tempo.tanslationc)
+                                                #except textblob.exceptions.NotTranslated as tbe: 
+                                                #    tempo.tanslation ="null"
+                                                #    es = Es.ExceptionSaver()
+                                                #    es.save(tbe)
+                                                #    print('tbe')
                                                 continue
-                                        
                                         tweetArray.append(tempo)
-
+                                
                                 except KeyError as e :
                                     continue
                             if tweetArray != []:
@@ -232,14 +255,14 @@ def filterLaptops():
                                 except KeyError as e:
                                     stats[tweet["lang"]]=1
                                 try:
-                                    if tweet["lang"]=="en":
-                                        #cleaning
-                                        text=cleaner(tweet["text"])
-                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                    text=cleaner(tweet["text"])
+                                    tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                    if tempo.lang =="en":
                                         for name in classNames:
                                             #eticting + elaguing
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                                 tempo.mention.append(name)
+                                                tempo.label = feeling(tempo.text)
                                                 
                                             else:
                                                 continue
@@ -293,14 +316,13 @@ def filterCompanies():
                                 except KeyError as e:
                                     try:
                                         stats[tweet["lang"]]=1
-                                    except KeyError as e:
+                                    except:
                                         continue
                                 try:
-                                    if tweet["lang"]=="en":
-                                        #cleaning
-                                        text=cleaner(tweet["text"])
-                                        tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                        
+                                    text=cleaner(tweet["text"])
+                                    tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
+                                    if tempo.lang =="en":
+                                        tempo.label = feeling(tempo.text)                        
                                         tweetArray.append(tempo)
 
                                 except KeyError as e :
@@ -360,10 +382,11 @@ if __name__ == '__main__':
     filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
+    #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #git groupor()
-    filterLaptops()
-    filterCompanies()
-    filterPhones()
+    #filterLaptops()
+    #filterCompanies()
+    #filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
-    #print(exploreCorp(companies))
+    print(exploreCorp(phones)[0].split('_'))

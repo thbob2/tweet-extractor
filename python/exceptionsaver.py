@@ -10,4 +10,4 @@ class ExceptionSaver(object):
        
     def save(self,exceptionMessage):
         with open(os.getcwd()+"/python/logs/exceptionlogs.txt","w") as logs:
-            logs.write(exceptionMessage+":::"+str(self.date)+"\n")
+            logs.write(str(exceptionMessage)+":::"+str(self.date)+"\n")
