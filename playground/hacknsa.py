@@ -42,21 +42,25 @@ def get_text_processing(text):
     return ' '.join([word for word in no_punctuation.split() if word.lower() not in stpword])
 
 
-data = readJson(os.getcwd()+"/python/corp/data2.0/smartphones/iPhone SE (2nd generation)/iPhone SE (2nd generation)-data_2021-01-21.json")
-
-df = pd.json_normalize(data,record_path=['tweets'])
+#data = readJson(os.getcwd()+"/python/corp/data2.0/smartphones/iPhone SE (2nd generation)/iPhone SE (2nd generation)-data_2021-01-21.json")
+#
+#df = pd.json_normalize(data,record_path=['tweets'])
+##print(df.head())
+#df = df[['text','favorite_count','retweet_count']]
 #print(df.head())
-df = df[['text','favorite_count','retweet_count']]
-print(df.head())
+#
+#df['polarity_rating'] = df['text'].apply(feeling)
+#df['cl_text'] = df['text'].apply(get_text_processing)
+#sns.set_style('whitegrid')
+#sns.countplot(x='polarity_rating',data=df, palette='summer')
+#plt.show()
+#df = df[['cl_text', 'polarity_rating','favorite_count','retweet_count']]
+#one_hot = pd.get_dummies(df['polarity_rating'])
+#df.drop(['polarity_rating'],axis=1, inplace=True)
+#df = pd.concat([df,one_hot],axis=1)
+##df['text'] = df['text'].apply(isFbi)
+#print(df.head())
 
-df['polarity_rating'] = df['text'].apply(feeling)
-df['cl_text'] = df['text'].apply(get_text_processing)
-sns.set_style('whitegrid')
-sns.countplot(x='polarity_rating',data=df, palette='summer')
-plt.show()
-df = df[['cl_text', 'polarity_rating','favorite_count','retweet_count']]
-one_hot = pd.get_dummies(df['polarity_rating'])
-df.drop(['polarity_rating'],axis=1, inplace=True)
-df = pd.concat([df,one_hot],axis=1)
-#df['text'] = df['text'].apply(isFbi)
-print(df.head())
+if __name__ == '__main__':
+    
+    nltk.download()
