@@ -311,6 +311,7 @@ Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:57:49.640999
 Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:57:49.641999
 Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:57:52.720234
 Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:57:52.964095
+<<<<<<< HEAD
 [Errno 2] No such file or directory: '/home/boe/webplay/tweet-extractor/python/corp/data2.0//home/boe/webplay/tweet-extractor/python/corp/data3.0/smartphones/Infinix Note 7':::2021-07-26 23:17:55.893600
 [Errno 2] No such file or directory: '/home/boe/webplay/tweet-extractor/python/corp/data2.0//home/boe/webplay/tweet-extractor/python/corp/data3.0/smartphones/iPhone 12':::2021-07-26 23:17:55.893757
 [Errno 2] No such file or directory: '/home/boe/webplay/tweet-extractor/python/corp/data2.0//home/boe/webplay/tweet-extractor/python/corp/data3.0/smartphones/iPhone 12 Pro':::2021-07-26 23:17:55.893883
@@ -959,3 +960,161 @@ Expecting value: line 1 column 1 (char 0)::::::2021-07-26 23:29:47.383969
 Expecting value: line 1 column 1 (char 0)::::::2021-07-26 23:29:47.402974
 Expecting value: line 1 column 1 (char 0)::::::2021-07-26 23:29:47.404694
 Expecting value: line 1 column 1 (char 0)::::::2021-07-26 23:29:47.405160
+=======
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Infinix Note 7':::2021-07-26 22:59:16.689416
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/iPhone 12':::2021-07-26 22:59:16.690415
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/iPhone 12 Pro':::2021-07-26 22:59:16.690415
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/iPhone SE (2nd generation)':::2021-07-26 22:59:16.691415
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/LEGION DUEL':::2021-07-26 22:59:16.692430
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/LG V60 ThinQ':::2021-07-26 22:59:16.693414
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/LG Velvet':::2021-07-26 22:59:16.693414
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/LG Wing':::2021-07-26 22:59:16.694413
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Micromax IN Note 1':::2021-07-26 22:59:16.694413
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Moto E (2020)':::2021-07-26 22:59:16.695412
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Moto E7':::2021-07-26 22:59:16.695412
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Moto G (2020)':::2021-07-26 22:59:16.696412
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Moto G 5G':::2021-07-26 22:59:16.696412
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Moto G 5G Plus':::2021-07-26 22:59:16.697411
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Moto G9':::2021-07-26 22:59:16.697411
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Motorola Edge':::2021-07-26 22:59:16.698417
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Motorola Edge+':::2021-07-26 22:59:16.698417
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/Motorola Razr (5G)':::2021-07-26 22:59:16.699410
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/OnePlus 8':::2021-07-26 22:59:16.700426
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/OnePlus 8T':::2021-07-26 22:59:16.700426
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord':::2021-07-26 22:59:16.701409
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N10':::2021-07-26 22:59:16.702409
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N100':::2021-07-26 22:59:16.702409
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY S20':::2021-07-26 22:59:16.703413
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note':::2021-07-26 22:59:16.703413
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/NVIDIA':::2021-07-26 22:59:16.704407
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/RADEON':::2021-07-26 22:59:16.705407
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/APPLE':::2021-07-26 22:59:16.705407
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/ASUS':::2021-07-26 22:59:16.706407
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/GIGABYTE':::2021-07-26 22:59:16.707406
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/DELL':::2021-07-26 22:59:16.707406
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/ACER':::2021-07-26 22:59:16.708421
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/HP':::2021-07-26 22:59:16.709405
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/SONY':::2021-07-26 22:59:16.710404
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/SAMSUNG':::2021-07-26 22:59:16.712403
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/RAZOR':::2021-07-26 22:59:16.712403
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/NZXT':::2021-07-26 22:59:16.713402
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/THERMALTAKE':::2021-07-26 22:59:16.715401
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/CORSAIR':::2021-07-26 22:59:16.717400
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/GSKILL':::2021-07-26 22:59:16.718400
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/HUAWEI':::2021-07-26 22:59:16.719399
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/XIOAMI':::2021-07-26 22:59:16.722397
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/NVME':::2021-07-26 22:59:16.724396
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/Intel':::2021-07-26 22:59:16.724396
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/AMD':::2021-07-26 22:59:16.725395
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/BEST CPU':::2021-07-26 22:59:16.725395
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/BEST GPU':::2021-07-26 22:59:16.726399
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/companies/BEST LAPTOP':::2021-07-26 22:59:16.726399
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/TUF Gaming':::2021-07-26 22:59:16.727394
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Strix G':::2021-07-26 22:59:16.728409
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Scar III':::2021-07-26 22:59:16.728409
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-G':::2021-07-26 22:59:16.729398
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus S':::2021-07-26 22:59:16.729398
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus':::2021-07-26 22:59:16.730392
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Scar II':::2021-07-26 22:59:16.730392
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus M':::2021-07-26 22:59:16.732392
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Hero II':::2021-07-26 22:59:16.733391
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Hero III':::2021-07-26 22:59:16.733391
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus G':::2021-07-26 22:59:16.734390
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/VivoBook Gaming':::2021-07-26 22:59:16.734390
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/TUF A15':::2021-07-26 22:59:16.735391
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/DELL XPS 13':::2021-07-26 22:59:16.735391
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/DELL XPS 15':::2021-07-26 22:59:16.737389
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/MACBOOK PRO':::2021-07-26 22:59:16.737389
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/MACBOOK AIR':::2021-07-26 22:59:16.738389
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/HP Spectre x360 14':::2021-07-26 22:59:16.738389
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/HP Envy x360s':::2021-07-26 22:59:16.739387
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Asus ROG Zephyrus G14':::2021-07-26 22:59:16.740387
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Razer Book 13':::2021-07-26 22:59:16.740387
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Razer Blade Pro 17':::2021-07-26 22:59:16.741386
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Gigabyte Aero 15':::2021-07-26 22:59:16.741386
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Swift 3x':::2021-07-26 22:59:16.742386
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-07-26 22:59:16.742386
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer ConceptD 7':::2021-07-26 22:59:16.743386
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Swift 3':::2021-07-26 22:59:16.743386
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Predator Triton 500':::2021-07-26 22:59:16.744385
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook 314':::2021-07-26 22:59:16.744385
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Predator Helios 700':::2021-07-26 22:59:16.745384
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-07-26 22:59:16.745384
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook Spin 311':::2021-07-26 22:59:16.746384
+[WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data2.0/C:\\Users\\Boe\\Documents\\projects\\web\\tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook 714':::2021-07-26 22:59:16.746384
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.058883
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.061881
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.062881
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.075873
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.075873
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.076873
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.235782
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.236781
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.241778
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.241778
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.242778
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.242778
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.243777
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.250773
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.251773
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.251773
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.273760
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.274760
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.274760
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.275758
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.353714
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.353714
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.354714
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.355713
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.355713
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.357713
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.358712
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.359711
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.359711
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.360710
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.361710
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.365708
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.366707
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.369705
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.370704
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.371704
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.374702
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.386695
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.390693
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.402686
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.404685
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.636552
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.638551
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.638551
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.640550
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.643548
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.643548
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.644548
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.644548
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.645547
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.646546
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.646546
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.650544
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.651544
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.651544
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.652543
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.652543
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.683525
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.683525
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.895404
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:19.901400
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.034324
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.035324
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.035324
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.037323
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.039321
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.306169
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.310166
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.868846
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.869845
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:20.872844
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:21.113705
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:21.114706
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:24.402822
+Expecting value: line 1 column 1 (char 0)::::::2021-07-26 22:59:24.457791
+>>>>>>> f20a1c62f7e3fe8d86abfd0715931b15bc937486
