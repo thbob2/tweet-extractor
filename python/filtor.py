@@ -363,7 +363,7 @@ def exploreCorp(path):
     
     for i in os.scandir(path):
         folder = {
-            "name": i.path,
+            "name": i.name,
             "files": []
         }    
         for j in os.scandir(i):
