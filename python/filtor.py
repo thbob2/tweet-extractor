@@ -359,11 +359,17 @@ def ontologieClasses(onto):
     return (res)
     
 def exploreCorp(path):
-    phoneFiles = []
+    folders = []
+    
     for i in os.scandir(path):
+        folder = {
+            "name": i.path,
+            "files": []
+        }    
         for j in os.scandir(i):
-            phoneFiles.append(j.path)
-    return phoneFiles
+            folder['files'].append(j.path)
+        folders.append(folder)      
+    return folders
 
 #!main method
 if __name__ == '__main__':

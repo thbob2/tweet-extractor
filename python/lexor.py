@@ -72,4 +72,4 @@ def Semantico(files,n):
 
 if __name__ == '__main__':
 
-    Semantico(filtor.exploreCorp(filtor.phones),7)
+    print(filtor.exploreCorp(os.getcwd()+"/python/corp/data2.0/laptops/"))

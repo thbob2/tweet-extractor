@@ -9,5 +9,5 @@ class ExceptionSaver(object):
         self.date = dt.datetime.today()
        
     def save(self,exceptionMessage):
-        with open(os.getcwd()+"/python/logs/exceptionlogs.txt","w") as logs:
+        with open(os.getcwd()+"/python/logs/exceptionlogs.txt","a") as logs:
             logs.write(str(exceptionMessage)+":::"+str(self.date)+"\n")
