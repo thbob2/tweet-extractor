@@ -202,7 +202,7 @@ def filterPhones():
                                 
                                 except KeyError as e :
                                     continue
-                            if tweetArray != []:
+                            if len(tweetArray) > 0:
                                 w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
@@ -260,7 +260,7 @@ def filterLaptops():
 
                                 except KeyError as e :
                                     continue
-                            if tweetArray != []:
+                            if len(tweetArray) > 0:
                                 w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
@@ -316,7 +316,7 @@ def filterCompanies():
 
                                 except KeyError as e :
                                     continue
-                            if tweetArray != []:
+                            if len(tweetArray) > 0:
                                 w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
@@ -379,10 +379,10 @@ if __name__ == '__main__':
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #git groupor()
-    filterLaptops()
+    #filterLaptops()
     
-    filterCompanies()
-    filterPhones()
+    #filterCompanies()
+    #filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
     

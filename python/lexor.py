@@ -5,6 +5,7 @@ import json
 import pandas as pd
 import nltk 
 import emoji
+import platform
 
 words = set(nltk.corpus.words.words())
 from textblob.sentiments import NaiveBayesAnalyzer 
@@ -30,7 +31,7 @@ def feelingBayes(text):
     return result.sentiment
 
 def readJson(path):
-    with open(path,'r') as f:
+    with open(path,'r',encoding="utf8") as f:
         return json.loads(f.read())
 
 
@@ -55,22 +56,29 @@ def Semantico(files,n):
     chunk_m = month_j
     mychunks = chunks(files,n)
     cpt = 0 
+
     for chunk in mychunks:
+        alltweets = []
         chunk_m = month_j
         for f in chunk:
-            fdata = readJson(f)
-            
+            try:  
+                fdata = readJson(f)
+            except  JSONDecodeError as e :
+                mySaver = Es.ExceptionSaver()
+                mySaver.save(str(e)+":::")
+                continue
             for tweet in fdata["tweets"]:
                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"],tweet['label'])
                 print("entering naiv bayes {}".format(cpt))
-                tempo.note = feelingBayes(tempo.text)
+                #tempo.note = feelingBayes(tempo.text)
                 chunk_m[tempo.label]+=1
                 chunk_m['total'] += 1
-                chunk_m['tweets'].append(tempo)
+                alltweets.append(tempo)
                 cpt +=1
         
-        chunk_m['start'] = chunk_m['tweets'][0].created_at
-        chunk_m['end'] = chunk_m['tweets'][len(chunk_m["tweets"]-1)].created_at
+        chunk_m['start'] = alltweets[0].created_at
+        chunk_m['end'] = alltweets[len(alltweets)-1].created_at
+        chunk_m['tweets'] = alltweets
         chunk_list.append(chunk_m)
     return chunk_list
 
@@ -83,15 +91,24 @@ def chunkyboy():
     laptochinks = filtor.exploreCorp(filtor.laptops)        
     
     #! going throught phones
-    for folder in phonechinks:
-        towrite = Semantico(folder['files'],30)
-        for w in towrite:
-            with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
-                writer.write(w,indent=4,ensure_ascii=False).encode("utf8")
-    
+    try:
+        for folder in phonechinks:
+            towrite = Semantico(folder['files'],30)
+            for w in towrite:
+                if(platform.system() == "windows"):
+                    with open(str(phones+folder['name']+"/"+folder['name']+w['start']+".json").replace("/","\\"),"wb") as writer:
+                        writer.write(w,indent=4,ensure_ascii=False).encode("utf8")
+                #else:    
+                #    with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
+                #        writer.write(w,indent=4,ensure_ascii=False).encode("utf8")
+    except  JSONDecodeError as e :
+        mySaver = Es.ExceptionSaver()
+        mySaver.save(str(e)+":::")
 
 if __name__ == '__main__':
 
 #    print(filtor.exploreCorp(os.getcwd()+"/python/corp/data2.0/laptops/"))
-
+    filtor.filter(os.getcwd()+'/python/corp/assets/smartphones.txt',phones)
+    filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',companies)
+    filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',laptops)
     chunkyboy()
