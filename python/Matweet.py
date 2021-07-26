@@ -28,7 +28,7 @@ class Tweet():
 		# on ne retourne que le text l'id et la langue 
 		return "tweet_id:{} \ncontenu: {} \nlangue du tweet: {}\n".format(self.id,self.text,self.lang)
 
-	def dump(self):
+	def dumps(self):
 		return {'id': self.id,
 				'text': self.text,
 				'created_at': self.created_at,

@@ -78,7 +78,7 @@ def Semantico(files,n):
         
         chunk_m['start'] = alltweets[0].created_at
         chunk_m['end'] = alltweets[len(alltweets)-1].created_at
-        chunk_m['tweets'] = alltweets
+        chunk_m['tweets'] = [t.dumps() for t in alltweets]
         chunk_list.append(chunk_m)
     return chunk_list
 
@@ -98,9 +98,10 @@ def chunkyboy():
                 if(platform.system() == "windows"):
                     with open(str(phones+folder['name']+"/"+folder['name']+w['start']+".json").replace("/","\\"),"wb") as writer:
                         writer.write(w,indent=4,ensure_ascii=False).encode("utf8")
-                #else:    
-                #    with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
-                #        writer.write(w,indent=4,ensure_ascii=False).encode("utf8")
+                else:    
+                    with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
+                        string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
+                        writer.write(string)
     except  JSONDecodeError as e :
         mySaver = Es.ExceptionSaver()
         mySaver.save(str(e)+":::")
