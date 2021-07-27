@@ -70,7 +70,7 @@ def Semantico(files,n):
             for tweet in fdata["tweets"]:
                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"],tweet['label'])
                 print("entering naiv bayes {}".format(cpt))
-                #tempo.note = feelingBayes(tempo.text)
+                tempo.note = feelingBayes(tempo.text)
                 chunk_m[tempo.label]+=1
                 chunk_m['total'] += 1
                 alltweets.append(tempo)
