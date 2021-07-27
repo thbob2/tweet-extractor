@@ -23,7 +23,6 @@ pyqt5 = "*"
 jupyterlab = "*"
 keras-nightly = "*"
 emoji = "*"
-keras = "*"
 tensorflow = "*"
 
 [dev-packages]

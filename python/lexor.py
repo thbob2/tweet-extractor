@@ -6,7 +6,7 @@ import pandas as pd
 import nltk 
 import emoji
 import platform
-
+nltk.download()
 words = set(nltk.corpus.words.words())
 from textblob.sentiments import NaiveBayesAnalyzer 
 from textblob.classifiers import NaiveBayesClassifier
