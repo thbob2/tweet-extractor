@@ -65,12 +65,12 @@ def Semantico(files,n):
                 fdata = readJson(f)
             except  JSONDecodeError as e :
                 mySaver = Es.ExceptionSaver()
-                mySaver.save(str(e)+":::")
+                mySaver.save(str(e)+"continued")
                 continue
             for tweet in fdata["tweets"]:
                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"],tweet['label'])
                 print("entering naiv bayes {}".format(cpt))
-                tempo.note = feelingBayes(tempo.text)
+                #qtempo.note = feelingBayes(tempo.text)
                 chunk_m[tempo.label]+=1
                 chunk_m['total'] += 1
                 alltweets.append(tempo)
@@ -95,13 +95,10 @@ def chunkyboy():
         for folder in phonechinks:
             towrite = Semantico(folder['files'],30)
             for w in towrite:
-                if(platform.system() == "windows"):
-                    with open(str(phones+folder['name']+"/"+folder['name']+w['start']+".json").replace("/","\\"),"wb") as writer:
-                        writer.write(w,indent=4,ensure_ascii=False).encode("utf8")
-                else:    
-                    with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
-                        string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
-                        writer.write(string)
+                 
+                with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
+                    string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
+                    writer.write(string)
     except  JSONDecodeError as e :
         mySaver = Es.ExceptionSaver()
         mySaver.save(str(e)+":::")
