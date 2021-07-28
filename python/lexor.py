@@ -5,8 +5,8 @@ import json
 import pandas as pd
 import nltk 
 import emoji
-import platform
-nltk.download()
+
+
 words = set(nltk.corpus.words.words())
 from textblob.sentiments import NaiveBayesAnalyzer 
 from textblob.classifiers import NaiveBayesClassifier
@@ -95,8 +95,8 @@ def chunkyboy():
         for folder in phonechinks:
             towrite = Semantico(folder['files'],30)
             for w in towrite:
-                 
-                with open(phones+folder['name']+"/"+folder['name']+w['start']+".json","wb") as writer:
+                fname = "{0}-{1}--{2}.json".format(folder['name'],str(w['start'])[0:10],str(w['end'])[0:10])
+                with open(phones+folder['name']+"/"+fname,"xb") as writer:
                     string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
                     writer.write(string)
     except  JSONDecodeError as e :
@@ -109,4 +109,4 @@ if __name__ == '__main__':
     filtor.filter(os.getcwd()+'/python/corp/assets/smartphones.txt',phones)
     filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',companies)
     filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',laptops)
-    chunkyboy()
+    #chunkyboy()

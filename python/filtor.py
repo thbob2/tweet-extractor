@@ -373,9 +373,9 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #git groupor()
@@ -385,4 +385,6 @@ if __name__ == '__main__':
     #filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
-    
+    folders = exploreCorp(phones)
+    with open(os.getcwd()+"/python/logs/test.txt","w") as w:
+        w.write(str(folders))
