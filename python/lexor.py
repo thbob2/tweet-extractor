@@ -106,7 +106,7 @@ def chunkyboy():
 if __name__ == '__main__':
 
 #    print(filtor.exploreCorp(os.getcwd()+"/python/corp/data2.0/laptops/"))
-    filtor.filter(os.getcwd()+'/python/corp/assets/smartphones.txt',phones)
-    filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',companies)
-    filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',laptops)
+    filtor.filter(os.getcwd()+'/python/corp/assets/smartphones.txt',os.getcwd()+"/python/corp/data3.0/smartphones/")
+    filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',os.getcwd()+"/python/corp/data3.0/companies/")
+    filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',os.getcwd()+"/python/corp/data3.0/laptops/")
     #chunkyboy()

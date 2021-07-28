@@ -37,7 +37,7 @@ def feelingBayes(text):
     return result.sentiment[0]
 
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
