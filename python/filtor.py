@@ -5,9 +5,9 @@ import json
 import pandas as pd
 import nltk 
 import emoji
-
 words = set(nltk.corpus.words.words())
-import textblob
+from textblob.sentiments import NaiveBayesAnalyzer 
+from textblob.classifiers import NaiveBayesClassifier
 from textblob import TextBlob
 from twitter_client import *
 from Matweet import Tweet
@@ -16,6 +16,7 @@ from os.path import isfile, join
 import os 
 import datetime as dt
 import exceptionsaver as Es
+
 
 companies = os.getcwd()+"/python/corp/data2.0/companies/"
 phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
@@ -181,6 +182,7 @@ def filterPhones():
                     if data["tweets"] != []:
                         with open(path+entity+"/"+c,"wb") as w:                  
                             for tweet in data["tweets"]:
+                                cpt = 1
                                 try:
                                     stats[tweet["lang"]]+=1
                                 except KeyError as e:
@@ -198,8 +200,11 @@ def filterPhones():
                                             else:
                                                 continue
                                         tempo.label= feeling(tempo.text)
+                                        print("nb on {}".format(cpt))
+                                        
+                                        tempo.note = feelingBayes(tempo.text)
                                         tweetArray.append(tempo)
-                                
+                                        cpt+=1
                                 except KeyError as e :
                                     continue
                             if len(tweetArray) > 0:
@@ -243,6 +248,7 @@ def filterLaptops():
                     if data["tweets"] != []:
                         with open(path+entity+"/"+c,"wb") as w:                  
                             for tweet in data["tweets"]:
+                                cpt =1
                                 try:
                                     stats[tweet["lang"]]+=1
                                 except KeyError as e:
@@ -256,7 +262,10 @@ def filterLaptops():
                                             if (re.search(r'\b{}\b'.format(name.lower()),tweet["text"]) or re.search(r'\b{}\b'.format(name.upper()),tweet["text"]) or re.search(r'\b{}\b'.format(name),tweet["text"])!=None):
                                                 tempo.mention.append(name)
                                         tempo.label = feeling(tempo.text)
+                                        print("nb on laps {}".format(cpt))
+                                        tempo.note = feelingBayes(tempo.text)
                                         tweetArray.append(tempo)
+                                        cpt+=1
 
                                 except KeyError as e :
                                     continue
@@ -300,6 +309,7 @@ def filterCompanies():
                     if data["tweets"] != []:
                         with open(path+entity+"/"+c,"wb") as w:                  
                             for tweet in data["tweets"]:
+                                cpt =0
                                 try:
                                     stats[tweet["lang"]]+=1
                                 except KeyError as e:
@@ -311,8 +321,11 @@ def filterCompanies():
                                     text=cleaner(tweet["text"])
                                     tempo = Tweet(tweet["id"],text,str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                     if tempo.lang =="en":
-                                        tempo.label = feeling(tempo.text)                        
+                                        tempo.label = feeling(tempo.text)
+                                        print("nb on companies {}".format(cpt))
+                                        tempo.note = feelingBayes(tempo.text)                        
                                         tweetArray.append(tempo)
+                                        cpt +=1
 
                                 except KeyError as e :
                                     continue
