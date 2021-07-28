@@ -85,20 +85,20 @@ def Semantico(files,n):
 
 
 
-def chunkyboy():
-    phonechinks = filtor.exploreCorp(filtor.phones)
-    compachinks = filtor.exploreCorp(filtor.companies)
-    laptochinks = filtor.exploreCorp(filtor.laptops)        
+def chunkyboy(path):
+    chinks = filtor.exploreCorp(path)
+    alterpath = path.replace("data2.0","data3.0")
     
     #! going throught phones
     try:
-        for folder in phonechinks:
+        for folder in chinks:
             towrite = Semantico(folder['files'],30)
             for w in towrite:
                 fname = "{0}-{1}--{2}.json".format(folder['name'],str(w['start'])[0:10],str(w['end'])[0:10])
-                with open(phones+folder['name']+"/"+fname,"xb") as writer:
-                    string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
-                    writer.write(string)
+                writer = open(alterpath+folder['name']+"/"+fname,"wb")
+                string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
+                writer.write(string)
+                writer.close    
     except  JSONDecodeError as e :
         mySaver = Es.ExceptionSaver()
         mySaver.save(str(e)+":::")
@@ -106,7 +106,9 @@ def chunkyboy():
 if __name__ == '__main__':
 
 #    print(filtor.exploreCorp(os.getcwd()+"/python/corp/data2.0/laptops/"))
-    filtor.filter(os.getcwd()+'/python/corp/assets/smartphones.txt',os.getcwd()+"/python/corp/data3.0/smartphones/")
-    filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',os.getcwd()+"/python/corp/data3.0/companies/")
-    filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',os.getcwd()+"/python/corp/data3.0/laptops/")
-    #chunkyboy()
+    #filtor.filter(os.getcwd()+'/python/corp/assets/smartphones.txt',os.getcwd()+"/python/corp/data3.0/smartphones/")
+    #filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',os.getcwd()+"/python/corp/data3.0/companies/")
+    #filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',os.getcwd()+"/python/corp/data3.0/laptops/")
+    chunkyboy(filtor.phones)
+    chunkyboy(filtor.companies)
+    chunkyboy(filtor.laptops)

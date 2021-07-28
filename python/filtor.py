@@ -203,7 +203,7 @@ def filterPhones():
                                 except KeyError as e :
                                     continue
                             if len(tweetArray) > 0:
-                                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                                w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
                         emptyfile+=1
@@ -261,7 +261,7 @@ def filterLaptops():
                                 except KeyError as e :
                                     continue
                             if len(tweetArray) > 0:
-                                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                                w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
                         emptyfile+=1
@@ -317,7 +317,7 @@ def filterCompanies():
                                 except KeyError as e :
                                     continue
                             if len(tweetArray) > 0:
-                                w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
+                                w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
                         emptyfile+=1
@@ -373,16 +373,16 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    #filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
+    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #git groupor()
-    #filterLaptops()
+    filterLaptops()
     
-    #filterCompanies()
-    #filterPhones()
+    filterCompanies()
+    filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)
     folders = exploreCorp(phones)
