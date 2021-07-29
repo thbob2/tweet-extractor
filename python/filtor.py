@@ -35,10 +35,10 @@ def feeling(text):
 # naive bayes felling analyser 
 def feelingBayes(text):
     result = TextBlob(text,analyzer=NaiveBayesAnalyzer())
-    return result.sentiment[0]
+    return result.sentiment
 
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
@@ -181,8 +181,9 @@ def filterPhones():
                         print(c +" is the one causing error")
                     if data["tweets"] != []:
                         with open(path+entity+"/"+c,"wb") as w:                  
+                            cpt = 0
                             for tweet in data["tweets"]:
-                                cpt = 1
+                                
                                 try:
                                     stats[tweet["lang"]]+=1
                                 except KeyError as e:
@@ -201,10 +202,10 @@ def filterPhones():
                                                 continue
                                         tempo.label= feeling(tempo.text)
                                         print("nb on {}".format(cpt))
-                                        
+                                        cpt+=1
                                         tempo.note = feelingBayes(tempo.text)
                                         tweetArray.append(tempo)
-                                        cpt+=1
+                                        
                                 except KeyError as e :
                                     continue
                             if len(tweetArray) > 0:
@@ -247,8 +248,9 @@ def filterLaptops():
                         print(c +" is the one causing error")
                     if data["tweets"] != []:
                         with open(path+entity+"/"+c,"wb") as w:                  
+                            cpt =1
                             for tweet in data["tweets"]:
-                                cpt =1
+                                
                                 try:
                                     stats[tweet["lang"]]+=1
                                 except KeyError as e:
@@ -308,8 +310,9 @@ def filterCompanies():
                         print(c +" is the one causing error")
                     if data["tweets"] != []:
                         with open(path+entity+"/"+c,"wb") as w:                  
+                            cpt =0
                             for tweet in data["tweets"]:
-                                cpt =0
+                                
                                 try:
                                     stats[tweet["lang"]]+=1
                                 except KeyError as e:
@@ -386,14 +389,14 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt','laptops')
-    filter(os.getcwd()+'/python/corp/assets/companies.txt','companies')
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt','smartphones')
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
-    #git groupor()
-    filterLaptops()
     
+    filterLaptops()
+    #
     filterCompanies()
     filterPhones()
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"

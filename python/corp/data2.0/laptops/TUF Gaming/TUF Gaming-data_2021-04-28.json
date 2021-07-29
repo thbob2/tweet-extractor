@@ -11,7 +11,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "pos",
+                0.8720930232558143,
+                0.12790697674418597
+            ],
             "user_id": 1314575666130694144,
             "text_translation": ""
         },
@@ -26,7 +30,11 @@
             "coordinates": null,
             "mention": [],
             "label": "positive",
-            "note": {},
+            "note": [
+                "pos",
+                0.9545535590191746,
+                0.045446440980826466
+            ],
             "user_id": 464813057,
             "text_translation": ""
         }

@@ -11,7 +11,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "pos",
+                0.9225114713898205,
+                0.0774885286101794
+            ],
             "user_id": 1190824698197602305,
             "text_translation": ""
         },
@@ -26,7 +30,11 @@
             "coordinates": null,
             "mention": [],
             "label": "negative",
-            "note": {},
+            "note": [
+                "pos",
+                0.6093306694685453,
+                0.3906693305314545
+            ],
             "user_id": 1085932468014731264,
             "text_translation": ""
         },
@@ -41,7 +49,11 @@
             "coordinates": null,
             "mention": [],
             "label": "positive",
-            "note": {},
+            "note": [
+                "neg",
+                0.4315291414228533,
+                0.5684708585771461
+            ],
             "user_id": 75840965,
             "text_translation": ""
         },
@@ -56,7 +68,11 @@
             "coordinates": null,
             "mention": [],
             "label": "positive",
-            "note": {},
+            "note": [
+                "pos",
+                0.8740947709343619,
+                0.12590522906563983
+            ],
             "user_id": 1204438107153747968,
             "text_translation": ""
         },
@@ -71,7 +87,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "pos",
+                0.7066127007159696,
+                0.2933872992840318
+            ],
             "user_id": 1342436636,
             "text_translation": ""
         },
@@ -86,7 +106,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "pos",
+                0.5714195114357299,
+                0.4285804885642726
+            ],
             "user_id": 50595242,
             "text_translation": ""
         }

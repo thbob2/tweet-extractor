@@ -11,7 +11,11 @@
             "coordinates": null,
             "mention": [],
             "label": "positive",
-            "note": {},
+            "note": [
+                "neg",
+                0.4760694442165763,
+                0.5239305557834242
+            ],
             "user_id": 239434259,
             "text_translation": ""
         }

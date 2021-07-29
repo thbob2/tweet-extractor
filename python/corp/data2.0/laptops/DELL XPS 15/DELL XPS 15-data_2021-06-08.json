@@ -11,7 +11,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "pos",
+                0.6637301343062292,
+                0.33626986569377126
+            ],
             "user_id": 1229113463756161024,
             "text_translation": ""
         },
@@ -26,7 +30,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "neg",
+                0.24724182308334744,
+                0.7527581769166541
+            ],
             "user_id": 336556251,
             "text_translation": ""
         },
@@ -41,7 +49,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "neg",
+                0.010216330365683774,
+                0.9897836696343114
+            ],
             "user_id": 4846407964,
             "text_translation": ""
         },
@@ -56,7 +68,11 @@
             "coordinates": null,
             "mention": [],
             "label": "nutral",
-            "note": {},
+            "note": [
+                "neg",
+                0.010216330365683774,
+                0.9897836696343114
+            ],
             "user_id": 855285013465538560,
             "text_translation": ""
         }
