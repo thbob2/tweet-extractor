@@ -16,26 +16,12 @@ from os.path import isfile, join
 import os 
 import datetime as dt
 import exceptionsaver as Es
+from lexor import Lexor
 words = set(nltk.corpus.words.words())
 
 companies = os.getcwd()+"/python/corp/data2.0/companies/"
 phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
 laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
-
-def feeling(text):
-    result = TextBlob(text)          
-    if(result.sentiment[0]>0): 
-        return "positive".format(result.sentiment[0])
-    elif(result.sentiment[0]==0): 
-        return"nutral".format(result.sentiment[0])
-    else: 
-        return "negative".format(result.sentiment[0])
-
-
-# naive bayes felling analyser 
-def feelingBayes(text):
-    result = TextBlob(text,analyzer=NaiveBayesAnalyzer())
-    return result.sentiment
 
 def filter(path,parent):
     rpath = os.getcwd()+"/python/corp/data2.0/" + parent

@@ -66,7 +66,7 @@ if __name__ == '__main__':
     
     tb = Blobber(analyzer=NaiveBayesAnalyzer())
 
-    result = tb("i love piza")
+    result = tb("i LOVE pizza")
 
     print(result.translate(to="ja"))
     print(result.sentiment)
