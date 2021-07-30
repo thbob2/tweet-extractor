@@ -5,10 +5,10 @@ import json
 import pandas as pd
 import nltk 
 import emoji
-words = set(nltk.corpus.words.words())
+from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer 
 from textblob.classifiers import NaiveBayesClassifier
-from textblob import TextBlob
+from textblob import Blobber
 from twitter_client import *
 from Matweet import Tweet
 from os import error, listdir
@@ -16,7 +16,7 @@ from os.path import isfile, join
 import os 
 import datetime as dt
 import exceptionsaver as Es
-
+words = set(nltk.corpus.words.words())
 
 companies = os.getcwd()+"/python/corp/data2.0/companies/"
 phones = os.getcwd()+"/python/corp/data2.0/smartphones/"

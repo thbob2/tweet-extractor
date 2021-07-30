@@ -11,9 +11,10 @@ from string import punctuation
 import nltk
 from nltk.corpus import stopwords
 import json
-nltk.download("stopwords")
+from textblob import Blobber
+from textblob.sentiments import NaiveBayesAnalyzer
 import matplotlib.pyplot as plt
-import textblob as tb
+
 
 
 def readJson(path):
@@ -63,4 +64,9 @@ def get_text_processing(text):
 
 if __name__ == '__main__':
     
-    nltk.download()
+    tb = Blobber(analyzer=NaiveBayesAnalyzer())
+
+    result = tb("i love piza")
+
+    print(result.translate(to="ja"))
+    print(result.sentiment)
