@@ -1,9 +1,9 @@
 import json 
-import httpx
+
 class Tweet():
 	
 	def __init__(self,id,text,created_at,retweet_count,favorite_count,lang,user_id,coordinates,geo,label="",note={}):
-		timout = httpx.Timeout(30)		
+			
 		
 		#translator = Translator(timeout=timout)
 		self.id = id
@@ -18,10 +18,8 @@ class Tweet():
 		self.mention = []
 		self.label = label
 		self.note = note
-		#result = translator.translate(text,dest="en")
-		#print("translating text")
 		self.translation=""
-		#print("object created")
+
 	
 	def __str__(self):
 		# on ne retourne que le text l'id et la langue 

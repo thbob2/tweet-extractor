@@ -14,7 +14,7 @@ import json
 from textblob import Blobber
 from textblob.sentiments import NaiveBayesAnalyzer
 import matplotlib.pyplot as plt
-
+from googletrans import Translator
 
 
 def readJson(path):
@@ -66,7 +66,11 @@ if __name__ == '__main__':
     
     tb = Blobber(analyzer=NaiveBayesAnalyzer())
 
-    result = tb("i LOVE pizza").
+    result = tb("i LOVE pizza")
 
     print(result.translate(to="ja"))
     print(result.sentiment)
+
+    translator = Translator()
+    translation = translator.translate("Der Himmel ist blau und ich mag Bananen", dest='en')
+    print(translation.text)

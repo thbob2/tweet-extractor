@@ -10,6 +10,7 @@ from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer 
 from textblob.classifiers import NaiveBayesClassifier
 from textblob.blob import Blobber
+from textblob.translate import Translator
 words = set(nltk.corpus.words.words())
 from twitter_client import *
 from Matweet import Tweet
@@ -17,8 +18,10 @@ from os import error, listdir
 from os.path import isfile, join
 import os 
 import datetime as dt
-import exceptionsaver as Es
-
+from exceptionsaver import ExceptionSaver
+from googletrans import Translator
+import httpx
+timout = httpx.Timeout(30)	
 
 class Lexor(object):
     def __init__(self):
@@ -26,6 +29,7 @@ class Lexor(object):
         self.phones = os.getcwd()+"/python/corp/data3.0/smartphones/"
         self.laptops = os.getcwd()+"/python/corp/data3.0/laptops/"
         self.blober = Blobber(analyzer=NaiveBayesAnalyzer())
+        self.translator = Translator()
     #@staticmethod
     #def clean(tweet):
     #    tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
@@ -38,8 +42,17 @@ class Lexor(object):
     #    return tweet
     
     
-    def translate(self,text,blobber,slang):
-        blob = blobber(text).translate(from_lang=slang,to="en")
+    def translate(self,text):
+        blob = ""
+        ok = True
+        while(ok):
+            try:
+                translated = self.translator.translate(text, dest='en')
+                blob = translated.text
+                ok  = not ok
+            except error as e:
+                ExceptionSaver().save(str(e))
+                continue
         return str(blob)
 
     def feelingBayes(self,text):
@@ -145,7 +158,7 @@ if __name__ == '__main__':
     #lex.chunkyboy(filtor.companies)
     #lex.chunkyboy(filtor.laptops)
     tb = Blobber(analyzer=NaiveBayesAnalyzer())
-    print(lex.feelingBayes("ILOVE PIZZA",tb))
+    print(lex.feelingBayes("ILOVE PIZZA"))
     print(lex.feeling("ILOVE PIZZA"))
-    test = lex.translate("j'aime la pizza",tb)
+    test = lex.translate("j'aime la pizza")
      
