@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1411701378561548288,
+            "text": "Brand New V60 5G - V600AM 128GB Blue AT & ; T Unlocked 👉",
+            "created_at": "2021-07-04 15:00:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5721325393114648,
+                "negativity": 0.42786746068853493
+            },
+            "user_id": 360376907,
+            "text_translation": ""
+        },
+        {
+            "id": 1411556097488478210,
+            "text": "My next is I currently rock the dual screen v60 5g been on team since the chocolate days …",
+            "created_at": "2021-07-04 05:22:53",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7879406268051873,
+                "negativity": 0.2120593731948137
+            },
+            "user_id": 231663463,
+            "text_translation": ""
+        }
+    ]
+}

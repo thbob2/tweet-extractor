@@ -3594,3 +3594,730 @@ Expecting ',' delimiter: line 241 column 2 (char 7788):::2021-07-28 22:35:34.658
 [Errno 2] No such file or directory: '/mnt/c/Users/Boe/Documents/projects/.wolfprojects/tweet-extractor/python/corp/data2.0//mnt/c/Users/Boe/Documents/projects/.wolfprojects/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-28 22:43:44.327230
 [Errno 17] File exists: '/mnt/c/Users/Boe/Documents/projects/.wolfprojects/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-07-28 22:46:50.965374
 Expecting ',' delimiter: line 241 column 2 (char 7788):::2021-07-28 22:47:24.769324
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:26:53.709160
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:26:53.710206
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:26:53.710304
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:26:53.710365
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:26:53.710419
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:26:53.710469
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:26:53.710592
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:26:53.710649
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:26:53.710707
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:26:53.710759
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:26:53.710800
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:26:53.712717
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:26:53.713755
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:26:53.713925
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:26:53.714022
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:26:53.714088
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:26:53.714141
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:26:53.714191
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:26:53.714237
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:26:53.714298
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:26:53.714358
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:26:53.715132
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:26:53.715227
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:26:53.715281
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:26:53.715660
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:28:43.344465
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:28:43.344606
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:28:43.344726
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:28:43.344785
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:28:43.344832
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:28:43.344946
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:28:43.344992
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:28:43.345033
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:28:43.345074
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:28:43.345129
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:28:43.345183
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:28:43.345225
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:28:43.345266
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:28:43.345305
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:28:43.345344
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:28:43.345383
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:28:43.345421
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:28:43.345459
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:28:43.345585
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:28:43.345675
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:28:43.345727
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:28:43.345781
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:28:43.345828
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:28:43.345881
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:28:43.345922
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:29:22.961871
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:29:22.961988
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:29:22.962038
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:29:22.962082
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:29:22.962123
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:29:22.962161
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:29:22.962200
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:29:22.962247
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:29:22.962286
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:29:22.962375
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:29:22.962416
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:29:22.962453
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:29:22.962523
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:29:22.962584
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:29:22.962626
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:29:22.962667
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:29:22.962707
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:29:22.962746
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:29:22.962783
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:29:22.962820
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:29:22.962882
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:29:22.962921
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:29:22.962959
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:29:22.962995
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:29:22.963032
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:34:40.000567
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:34:40.000713
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:34:40.000780
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:34:40.000832
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:34:40.000881
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:34:40.000926
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:34:40.000971
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:34:40.001014
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:34:40.001056
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:34:40.001098
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:34:40.001140
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:34:40.001181
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:34:40.001222
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:34:40.001273
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:34:40.001315
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:34:40.001355
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:34:40.001395
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:34:40.001439
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:34:40.001482
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:34:40.001523
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:34:40.001563
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:34:40.001604
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:34:40.001644
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:34:40.001683
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:34:40.001722
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:35:15.549549
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:35:15.549699
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:35:15.549755
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:35:15.549801
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:35:15.549845
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:35:15.549901
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:35:15.549958
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:35:15.550002
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:35:15.550047
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:35:15.550090
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:35:15.550131
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:35:15.550172
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:35:15.550213
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:35:15.550253
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:35:15.550295
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:35:15.550335
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:35:15.550375
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:35:15.550414
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:35:15.550453
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:35:15.550502
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:35:15.550541
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:35:15.550582
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:35:15.550625
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:35:15.550664
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:35:15.550703
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:36:56.208102
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:36:56.208246
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:36:56.208313
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:36:56.208366
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:36:56.208413
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:36:56.208502
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:36:56.208552
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:36:56.208599
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:36:56.208643
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:36:56.208684
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:36:56.208728
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:36:56.208770
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:36:56.208810
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:36:56.208849
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:36:56.208890
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:36:56.208931
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:36:56.208972
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:36:56.209013
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:36:56.209052
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:36:56.209092
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:36:56.209132
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:36:56.209239
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:36:56.209301
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:36:56.209367
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:36:56.209419
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:37:05.962829
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:37:05.963475
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:37:05.963576
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:37:05.963649
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:37:05.963719
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:37:05.963776
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:37:05.963825
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:37:05.963872
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:37:05.963919
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:37:05.963964
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:37:05.964034
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:37:05.964087
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:37:05.964132
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:37:05.964177
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:37:05.964222
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:37:05.964265
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:37:05.964306
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:37:05.964347
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:37:05.964388
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:37:05.964437
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:37:05.964486
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:37:05.964527
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:37:05.964576
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:37:05.964617
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:37:05.964657
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:38:11.668374
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:38:11.668489
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:38:11.668538
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:38:11.668580
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:38:11.668622
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:38:11.668672
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:38:11.668714
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:38:11.668754
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:38:11.668793
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:38:11.668830
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:38:11.668867
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:38:11.668903
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:38:11.668938
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:38:11.668974
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:38:11.669010
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:38:11.669048
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:38:11.669084
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:38:11.669122
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:38:11.669159
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:38:11.669197
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:38:11.669401
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:38:11.669475
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:38:11.669535
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:38:11.669591
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:38:11.669648
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:38:42.924268
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:38:42.924389
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:38:42.924442
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:38:42.924487
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:38:42.924531
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:38:42.924572
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:38:42.924612
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:38:42.924653
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:38:42.924693
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:38:42.924733
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:38:42.924775
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:38:42.924826
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:38:42.924867
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:38:42.924906
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:38:42.924945
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:38:42.924985
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:38:42.925023
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:38:42.925062
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:38:42.925101
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:38:42.925139
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:38:42.925177
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:38:42.925216
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:38:42.925288
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:38:42.925339
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:38:42.925382
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:39:48.027346
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:39:48.027881
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:39:48.027986
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:39:48.028054
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:39:48.028109
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:39:48.028159
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:39:48.028207
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:39:48.028286
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:39:48.028336
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:39:48.028532
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:39:48.028587
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:39:48.028632
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:39:48.028686
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:39:48.028737
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:39:48.028786
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:39:48.028834
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:39:48.028882
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:39:48.028939
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:39:48.028987
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:39:48.029032
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:39:48.029078
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:39:48.029124
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:39:48.029170
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:39:48.029235
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:39:48.029294
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:40:34.560609
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:40:34.560727
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:40:34.560778
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:40:34.560823
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:40:34.560866
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:40:34.560905
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:40:34.560945
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:40:34.560984
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:40:34.561024
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:40:34.561063
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:40:34.561101
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:40:34.561139
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:40:34.561215
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:40:34.561262
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:40:34.561301
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:40:34.561391
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:40:34.561441
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:40:34.561514
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:40:34.561565
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:40:34.561615
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:40:34.561804
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:40:34.561941
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:40:34.562001
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:40:34.562117
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:40:34.562187
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:43:29.829636
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:43:29.829754
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:43:29.829806
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:43:29.829850
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:43:29.829894
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:43:29.829937
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:43:29.829979
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:43:29.830019
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:43:29.830058
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:43:29.830097
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:43:29.830136
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:43:29.830175
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:43:29.830215
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:43:29.830253
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:43:29.830291
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:43:29.830329
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:43:29.830368
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:43:29.830406
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:43:29.830444
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:43:29.830482
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:43:29.830523
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:43:29.830564
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:43:29.830604
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:43:29.830642
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:43:29.830681
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:48:26.927689
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:48:26.927804
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:48:26.927857
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:48:26.927905
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:48:26.928022
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:48:26.928072
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:48:26.928115
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:48:26.928156
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:48:26.928195
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:48:26.928234
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:48:26.928272
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:48:26.928313
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:48:26.928352
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:48:26.928391
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:48:26.928429
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:48:26.928468
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:48:26.928507
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:48:26.928544
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:48:26.928582
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:48:26.928774
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:48:26.928828
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:48:26.928928
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:48:26.929135
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:48:26.929258
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:48:26.929323
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:49:31.748383
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:49:31.748498
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:49:31.748549
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:49:31.748593
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:49:31.748635
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:49:31.748675
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:49:31.748714
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:49:31.748753
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:49:31.748839
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:49:31.748907
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:49:31.748947
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:49:31.748984
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:49:31.749021
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:49:31.749058
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:49:31.749120
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:49:31.749160
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:49:31.749198
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:49:31.749239
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:49:31.749278
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:49:31.749315
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:49:31.749351
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:49:31.749388
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:49:31.749457
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:49:31.749496
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:49:31.749534
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:49:46.080635
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:49:46.080750
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:49:46.080800
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:49:46.080843
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:49:46.080885
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:49:46.080925
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:49:46.080964
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:49:46.081003
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:49:46.081084
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:49:46.081143
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:49:46.081183
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:49:46.081222
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:49:46.081288
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:49:46.081336
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:49:46.081378
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:49:46.081428
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:49:46.081468
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:49:46.081510
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:49:46.081550
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:49:46.081588
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:49:46.081626
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:49:46.081664
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:49:46.081702
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:49:46.081740
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:49:46.081778
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:53:29.805498
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:53:29.806598
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:53:29.806804
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:53:29.806873
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:53:29.807048
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:53:29.807207
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:53:29.807675
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:53:29.807799
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:53:29.807873
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:53:29.807921
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:53:29.808459
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:53:29.808514
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:53:29.808559
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:53:29.808601
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:53:29.808711
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:53:29.809119
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:53:29.809469
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:53:29.809552
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:53:29.809857
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:53:29.809949
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:53:29.810271
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:53:29.810330
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:53:29.810613
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:53:29.810663
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:53:29.811973
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:55:15.446917
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:55:15.447030
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:55:15.447079
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:55:15.447122
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:55:15.447162
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:55:15.447201
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:55:15.447238
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:55:15.447275
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:55:15.447311
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:55:15.447348
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:55:15.447384
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:55:15.447419
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:55:15.447455
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:55:15.447491
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:55:15.447527
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:55:15.447562
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:55:15.447598
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:55:15.447638
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:55:15.447675
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:55:15.447711
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:55:15.447770
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:55:15.447820
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:55:15.447862
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:55:15.447901
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:55:15.447938
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:56:56.209238
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:56:56.209356
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:56:56.209442
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:56:56.209496
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:56:56.209541
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:56:56.209581
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:56:56.209621
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:56:56.209723
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:56:56.209766
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:56:56.209806
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:56:56.209845
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:56:56.209898
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:56:56.209939
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:56:56.209977
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:56:56.210015
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:56:56.210052
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:56:56.210090
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:56:56.210127
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:56:56.210165
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:56:56.210202
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:56:56.210239
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:56:56.210279
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:56:56.210318
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:56:56.210356
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:56:56.210429
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:58:49.050966
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:58:49.051708
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:58:49.051835
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:58:49.051920
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:58:49.051991
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:58:49.052045
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:58:49.052096
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:58:49.052153
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:58:49.052227
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:58:49.052284
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:58:49.052330
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:58:49.052378
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:58:49.052424
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:58:49.052466
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:58:49.052517
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:58:49.052586
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:58:49.052631
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:58:49.052672
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:58:49.052713
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:58:49.052753
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:58:49.052795
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:58:49.052837
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:58:49.052877
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:58:49.052927
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:58:49.052965
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 13:59:43.936486
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 13:59:43.937143
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 13:59:43.937265
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 13:59:43.937338
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 13:59:43.937393
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 13:59:43.937447
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 13:59:43.937489
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 13:59:43.937529
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 13:59:43.937569
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 13:59:43.937609
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 13:59:43.937650
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 13:59:43.937689
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 13:59:43.937728
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 13:59:43.937788
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 13:59:43.937829
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 13:59:43.937868
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 13:59:43.938248
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 13:59:43.938326
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 13:59:43.938371
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 13:59:43.938840
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 13:59:43.938953
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 13:59:43.939008
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 13:59:43.939053
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 13:59:43.939366
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 13:59:43.939420
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 14:07:42.690676
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 14:07:42.690793
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 14:07:42.690844
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 14:07:42.690890
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 14:07:42.690933
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 14:07:42.690976
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 14:07:42.691018
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 14:07:42.691058
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 14:07:42.691099
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 14:07:42.691141
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 14:07:42.691182
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 14:07:42.691221
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 14:07:42.691262
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 14:07:42.691303
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 14:07:42.691344
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 14:07:42.691384
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 14:07:42.691425
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 14:07:42.691465
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 14:07:42.691506
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 14:07:42.691555
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 14:07:42.691596
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 14:07:42.691636
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 14:07:42.691676
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 14:07:42.691716
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 14:07:42.691756
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 14:21:01.912739
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 14:21:01.912858
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 14:21:01.912908
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 14:21:01.912952
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 14:21:01.912992
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 14:21:01.913031
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 14:21:01.913069
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 14:21:01.913106
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 14:21:01.913144
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 14:21:01.913182
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 14:21:01.913218
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 14:21:01.913256
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 14:21:01.913293
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 14:21:01.913330
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 14:21:01.913368
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 14:21:01.913407
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 14:21:01.913445
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 14:21:01.913483
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 14:21:01.913521
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 14:21:01.913559
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 14:21:01.913597
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 14:21:01.913635
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 14:21:01.913672
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 14:21:01.913710
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 14:21:01.913749
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-07-31 16:28:34.612814
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 16:28:34.616108
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 16:28:34.616205
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 16:28:34.616267
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 16:28:34.616321
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 16:28:34.616370
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 16:28:34.616417
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 16:28:34.616464
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 16:28:34.616510
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 16:28:34.616585
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 16:28:34.616648
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 16:28:34.616740
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 16:28:34.616794
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 16:28:34.621166
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 16:28:34.630156
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 16:28:34.630481
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 16:28:34.630635
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 16:28:34.630722
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 16:28:34.630793
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 16:28:34.630853
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 16:28:34.630909
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 16:28:34.630961
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 16:28:34.631011
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 16:28:34.631062
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 16:28:34.631111
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 16:28:34.631160
+Expecting ',' delimiter: line 241 column 2 (char 7788):::2021-07-31 16:29:51.035635
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 19:01:16.440495
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 19:01:16.440615
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 19:01:16.440666
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 19:01:16.440709
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 19:01:16.441904
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 19:01:16.442239
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 19:01:16.442555
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 19:01:16.442847
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 19:01:16.443110
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 19:01:16.443365
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 19:01:16.443634
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 19:01:16.443903
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 19:01:16.444466
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 19:01:16.444748
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 19:01:16.445015
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 19:01:16.445292
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 19:01:16.445561
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 19:01:16.445780
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 19:01:16.446038
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 19:01:16.446321
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 19:01:16.446682
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 19:01:16.446961
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 19:01:16.447233
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 19:01:16.447762
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 19:01:16.448487
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 19:15:41.464784
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 19:15:41.464980
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 19:15:41.465078
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 19:15:41.465154
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 19:15:41.465218
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 19:15:41.465300
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 19:15:41.465365
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 19:15:41.465417
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 19:15:41.465466
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 19:15:41.465512
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 19:15:41.465569
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 19:15:41.465613
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 19:15:41.465656
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 19:15:41.465697
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 19:15:41.465742
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 19:15:41.465810
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 19:15:41.465852
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 19:15:41.465893
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 19:15:41.465933
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 19:15:41.465974
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 19:15:41.466075
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 19:15:41.466123
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 19:15:41.466166
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 19:15:41.466208
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 19:15:41.466265
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 19:18:18.805295
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 19:18:18.805413
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 19:18:18.805463
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 19:18:18.805506
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 19:18:18.805546
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 19:18:18.805587
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 19:18:18.805626
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 19:18:18.805664
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 19:18:18.805701
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 19:18:18.805738
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 19:18:18.805775
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 19:18:18.805813
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 19:18:18.805850
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 19:18:18.805887
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 19:18:18.805926
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 19:18:18.805964
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 19:18:18.806010
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 19:18:18.806047
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 19:18:18.806085
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 19:18:18.806123
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 19:18:18.806159
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 19:18:18.806194
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 19:18:18.806230
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 19:18:18.806268
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 19:18:18.806314
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 19:47:52.502934
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 19:47:52.503053
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 19:47:52.503105
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 19:47:52.503149
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 19:47:52.503191
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 19:47:52.503230
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 19:47:52.503269
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 19:47:52.503306
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 19:47:52.503346
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 19:47:52.503385
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 19:47:52.503424
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 19:47:52.503462
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 19:47:52.503499
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 19:47:52.503538
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 19:47:52.503576
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 19:47:52.503614
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 19:47:52.503652
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 19:47:52.503690
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 19:47:52.503731
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 19:47:52.503768
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 19:47:52.503804
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 19:47:52.503852
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 19:47:52.503892
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 19:47:52.503930
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 19:47:52.503968
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 20:49:55.862440
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 20:49:55.862580
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 20:49:55.862634
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 20:49:55.862718
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 20:49:55.862780
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 20:49:55.862823
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 20:49:55.862864
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 20:49:55.862903
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 20:49:55.862942
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 20:49:55.862981
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 20:49:55.863019
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 20:49:55.863056
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 20:49:55.863094
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 20:49:55.863132
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 20:49:55.863169
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 20:49:55.863207
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 20:49:55.863244
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 20:49:55.863281
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 20:49:55.863319
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 20:49:55.863359
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 20:49:55.863400
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 20:49:55.863438
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 20:49:55.863476
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 20:49:55.863514
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 20:49:55.863551
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-07-31 21:58:16.389527
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-07-31 21:58:16.389737
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-07-31 21:58:16.389816
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-07-31 21:58:16.389872
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-07-31 21:58:16.389923
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-07-31 21:58:16.389971
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-07-31 21:58:16.390016
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-07-31 21:58:16.390110
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-07-31 21:58:16.390171
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-07-31 21:58:16.390218
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-07-31 21:58:16.390261
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-07-31 21:58:16.390303
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-07-31 21:58:16.390345
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-07-31 21:58:16.390387
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-07-31 21:58:16.390429
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-07-31 21:58:16.390471
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-07-31 21:58:16.390551
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-07-31 21:58:16.390594
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-07-31 21:58:16.390635
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-07-31 21:58:16.390674
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-07-31 21:58:16.390724
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-07-31 21:58:16.390828
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-07-31 21:58:16.390875
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-07-31 21:58:16.390939
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-07-31 21:58:16.390986

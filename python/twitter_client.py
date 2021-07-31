@@ -6,14 +6,7 @@ import json
 
 
 #decorateur de la class sigleton 
-"""def singleton(defined_class):
-		instances = {}
-		def get_instance(*arg,**kwargs):
-			 if defined_class not in instances:
-			 	instances[defined_class] = defined_class(*arg, **kwargs)
-			 return instances[defined_class]
-		return get_instance
-@singleton"""
+
 class TwitterAgent():
 	
 	def __init__(self,consumer_key,consumer_secret,access_token,access_secret):
