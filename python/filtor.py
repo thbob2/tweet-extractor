@@ -191,7 +191,7 @@ def filterPhones():
                                     tempo.label= lex.feeling(tempo.text)
                                     print("nb on {}".format(cpt))
                                     cpt+=1
-                                    tempo.note = lex.feelingBayes(tempo.text,tb)
+                                    tempo.note = lex.feelingBayes(tempo.text)
                                     tweetArray.append(tempo)
                                 
                             except KeyError as e :

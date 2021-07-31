@@ -25,7 +25,7 @@ class Lexor(object):
         self.companies = os.getcwd()+"/python/corp/data3.0/companies/"
         self.phones = os.getcwd()+"/python/corp/data3.0/smartphones/"
         self.laptops = os.getcwd()+"/python/corp/data3.0/laptops/"
-        
+        self.blober = Blobber(analyzer=NaiveBayesAnalyzer())
     #@staticmethod
     #def clean(tweet):
     #    tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
@@ -42,8 +42,8 @@ class Lexor(object):
         blob = blobber(text).translate(from_lang=slang,to="en")
         return str(blob)
 
-    def feelingBayes(self,text,blobber):
-        blob = blobber(text).sentiment
+    def feelingBayes(self,text):
+        blob = self.blober(text).sentiment
         return {
             "classisication" : blob[0],
             "positivity" :blob[1],
