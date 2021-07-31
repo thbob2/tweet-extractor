@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1354184022340067331,
+            "text": "Only difference between edge S and g 5G plus is the SD870 . If you can get a g 5G plus ...",
+            "created_at": "2021-01-26 21:46:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "EDGE"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6988029993726056,
+                "negativity": 0.30119700062739413
+            },
+            "user_id": 18578264,
+            "text_translation": ""
+        },
+        {
+            "id": 1354118171838599171,
+            "text": "tech If I had to guess this is the same basic shell as the g 5g plus to keep the …",
+            "created_at": "2021-01-26 17:25:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.40238351628582436,
+                "negativity": 0.597616483714176
+            },
+            "user_id": 1694191878,
+            "text_translation": ""
+        }
+    ]
+}

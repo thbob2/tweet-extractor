@@ -1,0 +1,85 @@
+{
+    "tweets": [
+        {
+            "id": 1410495963689623554,
+            "text": "WIRED : : I know it ' s $ 240 , but the camera really is pretty poor on the N200 5G …",
+            "created_at": "2021-07-01 07:10:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.15142954984321155,
+                "negativity": 0.8485704501567893
+            },
+            "user_id": 21268553,
+            "text_translation": ""
+        },
+        {
+            "id": 1410480003108724736,
+            "text": "torn and confused . I have a 2020 G Power . The battery is awesome 11 + on screen time . B …",
+            "created_at": "2021-07-01 06:06:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.1976828804766456,
+                "negativity": 0.8023171195233526
+            },
+            "user_id": 1322552259482443778,
+            "text_translation": ""
+        },
+        {
+            "id": 1410464703378231297,
+            "text": "Hi , I would like to inform you that while we never share the , yes , G 5G is to r …",
+            "created_at": "2021-07-01 05:06:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5327818197654591,
+                "negativity": 0.4672181802345418
+            },
+            "user_id": 2460859956,
+            "text_translation": ""
+        },
+        {
+            "id": 1410436846799233024,
+            "text": "Hi , I would like to inform you that while we never share the , yes , G 5G is …",
+            "created_at": "2021-07-01 03:15:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5327818197654591,
+                "negativity": 0.4672181802345418
+            },
+            "user_id": 2460859956,
+            "text_translation": ""
+        }
+    ]
+}

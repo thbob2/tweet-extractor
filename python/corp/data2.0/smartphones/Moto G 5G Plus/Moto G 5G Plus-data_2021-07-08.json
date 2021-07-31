@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1413274721186205700,
+            "text": "Hi there , I think there is some problem with cooking diary display screen in g 5g plus …",
+            "created_at": "2021-07-08 23:12:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2602839015307799,
+                "negativity": 0.7397160984692207
+            },
+            "user_id": 952327164438786049,
+            "text_translation": ""
+        },
+        {
+            "id": 1413112372437323778,
+            "text": "G9 Play is the Android 11 update from and it is available now in Brazil and .…",
+            "created_at": "2021-07-08 12:26:58",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4458699207660321,
+                "negativity": 0.5541300792339668
+            },
+            "user_id": 1108175739659026432,
+            "text_translation": ""
+        },
+        {
+            "id": 1413082063708823559,
+            "text": ", what a fool , he is the g 5g plus and the g5 plus . * Completely * different . How coul …",
+            "created_at": "2021-07-08 10:26:32",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7250458567546024,
+                "negativity": 0.2749541432453986
+            },
+            "user_id": 1220755746670960642,
+            "text_translation": ""
+        }
+    ]
+}

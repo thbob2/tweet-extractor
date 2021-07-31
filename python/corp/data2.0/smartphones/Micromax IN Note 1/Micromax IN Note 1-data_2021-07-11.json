@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1414273159759421440,
+            "text": "In note 1 many and please give update And what to android 11 update please respond me",
+            "created_at": "2021-07-11 17:19:31",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.24831336613453586,
+                "negativity": 0.7516866338654632
+            },
+            "user_id": 1312269868671016960,
+            "text_translation": ""
+        },
+        {
+            "id": 1414233632303050758,
+            "text": "Android 11 in note 1 ?? gone its now",
+            "created_at": "2021-07-11 14:42:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.620605013339727,
+                "negativity": 0.3793949866602726
+            },
+            "user_id": 797074132269756416,
+            "text_translation": ""
+        },
+        {
+            "id": 1414177874039361544,
+            "text": "Agree but , why he never , , he made a video of drop test for …",
+            "created_at": "2021-07-11 11:00:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2488614730113268,
+                "negativity": 0.7511385269886732
+            },
+            "user_id": 1372901801591140358,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1411402898773200900,
+            "text": "Check out Apple SE 2nd Generation 64GB Red - ( Factory Unlocked )",
+            "created_at": "2021-07-03 19:14:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.933474909640631,
+                "negativity": 0.06652509035936936
+            },
+            "user_id": 291123769,
+            "text_translation": ""
+        },
+        {
+            "id": 1411322307595816970,
+            "text": "SE 2nd generation",
+            "created_at": "2021-07-03 13:53:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9050991501416433,
+                "negativity": 0.0949008498583569
+            },
+            "user_id": 1335203700009144323,
+            "text_translation": ""
+        },
+        {
+            "id": 1411291529537273857,
+            "text": "Unicorn Beetle Pro Series Case Designed for 7 / 8 / SE 2nd generation ( 2020 Release ), …",
+            "created_at": "2021-07-03 11:51:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6400092929609204,
+                "negativity": 0.3599907070390797
+            },
+            "user_id": 1003759327784636416,
+            "text_translation": ""
+        },
+        {
+            "id": 1411207221883674629,
+            "text": "I ' m still not completely used to my new phone Like I ' m so used to the home button on my that I keep trying t …",
+            "created_at": "2021-07-03 06:16:35",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3056595440043701,
+                "negativity": 0.694340455995629
+            },
+            "user_id": 1201846361886474241,
+            "text_translation": ""
+        },
+        {
+            "id": 1411124341547290626,
+            "text": ": Or \" what year will you deliver a chip as fast as the one in the $ 400 SE from last year ?\" A13 :",
+            "created_at": "2021-07-03 00:47:15",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5001147870412874,
+                "negativity": 0.49988521295871235
+            },
+            "user_id": 771810098025037824,
+            "text_translation": ""
+        }
+    ]
+}

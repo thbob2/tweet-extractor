@@ -1,5 +1,4 @@
 import json 
-from googletrans import Translator
 import httpx
 class Tweet():
 	
@@ -21,7 +20,7 @@ class Tweet():
 		self.note = note
 		#result = translator.translate(text,dest="en")
 		#print("translating text")
-		self.tanslation=""
+		self.translation=""
 		#print("object created")
 	
 	def __str__(self):
@@ -41,7 +40,7 @@ class Tweet():
 				'label': self.label,
 				'note' : self.note,
 				'user_id': self.user_id,
-				'text_translation': self.tanslation
+				'text_translation': self.translation
 				}
 
 class TweetEncoder(json.JSONEncoder):

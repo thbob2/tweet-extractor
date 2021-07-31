@@ -6,9 +6,10 @@ import pandas as pd
 import nltk 
 import emoji
 from textblob import TextBlob
-from textblob.blob import Blobber
+
 from textblob.sentiments import NaiveBayesAnalyzer 
 from textblob.classifiers import NaiveBayesClassifier
+from textblob.blob import Blobber
 words = set(nltk.corpus.words.words())
 from twitter_client import *
 from Matweet import Tweet
@@ -17,18 +18,32 @@ from os.path import isfile, join
 import os 
 import datetime as dt
 import exceptionsaver as Es
-import filtor as filtor
+
 
 class Lexor(object):
-    def __init__(self, *args):
+    def __init__(self):
         self.companies = os.getcwd()+"/python/corp/data3.0/companies/"
         self.phones = os.getcwd()+"/python/corp/data3.0/smartphones/"
         self.laptops = os.getcwd()+"/python/corp/data3.0/laptops/"
-        self.blober = Blobber(analyzer=NaiveBayesAnalyzer)
+        
+    #@staticmethod
+    #def clean(tweet):
+    #    tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
+    #    tweet = re.sub(r"(?:\@|http?\://|https?\://|www)\S+", "", tweet) #Remove http links
+    #    tweet = " ".join(tweet.split())
+    #    tweet = ''.join(c for c in tweet if c not in emoji.UNICODE_EMOJI) #Remove Emojis
+    #    tweet = tweet.replace("#", "").replace("_", " ") #Remove hashtag sign but keep the text
+    #    tweet = " ".join(w for w in nltk.wordpunct_tokenize(tweet) \
+    #        if w.lower() in words or not w.isalpha())
+    #    return tweet
+    
+    
+    def translate(self,text,blobber,slang):
+        blob = blobber(text).translate(from_lang=slang,to="en")
+        return str(blob)
 
-    # naive bayes felling analyser 
-    def feelingBayes(self,text):
-        blob = self.blober(text).sentiment
+    def feelingBayes(self,text,blobber):
+        blob = blobber(text).sentiment
         return {
             "classisication" : blob[0],
             "positivity" :blob[1],
@@ -101,7 +116,7 @@ class Lexor(object):
 
 
 
-    def chunkyboy(self,path):
+    #def chunkyboy(self,path):
         chinks = filtor.exploreCorp(path)
         alterpath = path.replace("data2.0","data3.0")
         
@@ -126,6 +141,11 @@ if __name__ == '__main__':
     #filtor.filter(os.getcwd()+'/python/corp/assets/companies.txt',os.getcwd()+"/python/corp/data3.0/companies/")
     #filtor.filter(os.getcwd()+'/python/corp/assets/laptops.txt',os.getcwd()+"/python/corp/data3.0/laptops/")
     lex = Lexor()
-    lex.chunkyboy(filtor.phones)
-    lex.chunkyboy(filtor.companies)
-    lex.chunkyboy(filtor.laptops)
+    #lex.chunkyboy(filtor.phones)
+    #lex.chunkyboy(filtor.companies)
+    #lex.chunkyboy(filtor.laptops)
+    tb = Blobber(analyzer=NaiveBayesAnalyzer())
+    print(lex.feelingBayes("ILOVE PIZZA",tb))
+    print(lex.feeling("ILOVE PIZZA"))
+    test = lex.translate("j'aime la pizza",tb)
+     

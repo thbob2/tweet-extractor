@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1412895909520756738,
+            "text": "Note 7 Lite Price and For 👉 hashtag1",
+            "created_at": "2021-07-07 22:06:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.601961764914848,
+                "negativity": 0.39803823508515157
+            },
+            "user_id": 1273858157081657344,
+            "text_translation": ""
+        },
+        {
+            "id": 1412740815672184833,
+            "text": "Note 7 Lite Price and",
+            "created_at": "2021-07-07 11:50:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5994671403197152,
+                "negativity": 0.40053285968028396
+            },
+            "user_id": 1273858157081657344,
+            "text_translation": ""
+        }
+    ]
+}

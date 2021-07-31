@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1411785758491299841,
+            "text": "…",
+            "created_at": "2021-07-04 20:35:29",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1078546005887352833,
+            "text_translation": ""
+        },
+        {
+            "id": 1411731790121811968,
+            "text": "// Red Velvet Official ( Ice Cream Cake ) Great condition ( shipment within 5 - 7 days of purchase …",
+            "created_at": "2021-07-04 17:01:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.33326788693208154,
+                "negativity": 0.6667321130679174
+            },
+            "user_id": 1411714633010921481,
+            "text_translation": ""
+        },
+        {
+            "id": 1411567468544356359,
+            "text": "Oh ? ALWAYS WITH RED VELVET",
+            "created_at": "2021-07-04 06:08:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5467122992584567,
+                "negativity": 0.4532877007415439
+            },
+            "user_id": 1210889270472273921,
+            "text_translation": ""
+        },
+        {
+            "id": 1411512367238635520,
+            "text": "Velvet 2 Pro in Bronze . Among 3000 total of the Velvet 2 Pro , only 200 are in Bronze color . So …",
+            "created_at": "2021-07-04 02:29:07",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Color"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.01781147065544868,
+                "negativity": 0.9821885293445535
+            },
+            "user_id": 1327026536248012800,
+            "text_translation": ""
+        }
+    ]
+}
