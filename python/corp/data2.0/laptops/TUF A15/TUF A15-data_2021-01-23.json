@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1352995060007235584,
+            "text": "Gaming A15 Gaming , 15 . 6 ” 144Hz Full BUY NOW",
+            "created_at": "2021-01-23 15:02:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8868104281398178,
+                "negativity": 0.11318957186018302
+            },
+            "user_id": 1352956154494783494,
+            "text_translation": ""
+        },
+        {
+            "id": 1352856603163123718,
+            "text": "Gaming A15 & ; A17 , 5000 & ; 30 Series Hardware",
+            "created_at": "2021-01-23 05:52:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6471528181289952,
+                "negativity": 0.35284718187100483
+            },
+            "user_id": 1352684979789189120,
+            "text_translation": ""
+        },
+        {
+            "id": 1352770622464516096,
+            "text": "this time at least out a 90w for the 3070 from the …",
+            "created_at": "2021-01-23 00:10:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.39601759084655236,
+                "negativity": 0.6039824091534473
+            },
+            "user_id": 1178646551004110848,
+            "text_translation": ""
+        }
+    ]
+}

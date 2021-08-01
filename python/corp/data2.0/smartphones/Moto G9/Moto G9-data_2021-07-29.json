@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1420808106116669441,
+            "text": "The upgrade to Android ™ 11 on 29 , 2021 , for G9 Power in .",
+            "created_at": "2021-07-29 18:07:04",
+            "retweet_count": 2,
+            "favorite_count": 43,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6737838018628236,
+                "negativity": 0.3262161981371765
+            },
+            "user_id": 3226915932,
+            "text_translation": ""
+        },
+        {
+            "id": 1420598358046040067,
+            "text": "TWITTER NO CANAL G9",
+            "created_at": "2021-07-29 04:13:36",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1318389933682401280,
+            "text_translation": ""
+        }
+    ]
+}

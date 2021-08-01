@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1420850339503296518,
+            "text": "orl01 Is from",
+            "created_at": "2021-07-29 20:54:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.504697592483852,
+                "negativity": 0.495302407516148
+            },
+            "user_id": 1267486573622439938,
+            "text_translation": ""
+        },
+        {
+            "id": 1420735208769298432,
+            "text": "tag on your . But this attitude of yours is what will take you down . You ' re hardening the resolve of …",
+            "created_at": "2021-07-29 13:17:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5145250770931086,
+                "negativity": 0.48547492290689287
+            },
+            "user_id": 4378820959,
+            "text_translation": ""
+        },
+        {
+            "id": 1420695415046000645,
+            "text": "8 Pro Review : Under 20 , 000 ( 108MP Camera / 4500mAh Battery ) - Goral Web | Tech News | Social Media …",
+            "created_at": "2021-07-29 10:39:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5433818892610174,
+                "negativity": 0.4566181107389847
+            },
+            "user_id": 3314964391,
+            "text_translation": ""
+        },
+        {
+            "id": 1420546181491527682,
+            "text": "If you are to buy , don ' t get the 10S as it the worst display and one of the worst …",
+            "created_at": "2021-07-29 00:46:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.07231282869340501,
+                "negativity": 0.9276871713065962
+            },
+            "user_id": 181593106,
+            "text_translation": ""
+        }
+    ]
+}

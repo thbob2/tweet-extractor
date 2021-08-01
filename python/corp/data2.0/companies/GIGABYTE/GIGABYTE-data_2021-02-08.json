@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1358924685417799680,
+            "text": "jaywhatdoyouthink4 a clean setup with a lot of free space . H1 ( yes this one can still …",
+            "created_at": "2021-02-08 23:44:27",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6542011489517825,
+                "negativity": 0.34579885104821706
+            },
+            "user_id": 334099599,
+            "text_translation": ""
+        },
+        {
+            "id": 1358886417015914497,
+            "text": "Do you work for ?",
+            "created_at": "2021-02-08 21:12:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5100575633582621,
+                "negativity": 0.489942436641738
+            },
+            "user_id": 987559723,
+            "text_translation": ""
+        },
+        {
+            "id": 1358823152336441346,
+            "text": "I ordered a RTX3080 at release date . Almost 6 ago . Still nothing . Vendor . arrival da …",
+            "created_at": "2021-02-08 17:00:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9599991538567418,
+                "negativity": 0.04000084614325836
+            },
+            "user_id": 26451758,
+            "text_translation": ""
+        },
+        {
+            "id": 1358633752730173442,
+            "text": "z170 pro gaming | B450M ELITE Socket AM4 2nd and 3rd generation Gaming Mot",
+            "created_at": "2021-02-08 04:28:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9997212460306759,
+                "negativity": 0.0002787539693252302
+            },
+            "user_id": 1346983675917815809,
+            "text_translation": ""
+        }
+    ]
+}

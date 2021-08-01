@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1420448031820984336,
+            "text": "Get the new G Stylus 5G for only $ 79 . 99 when you switch over to Boost Mobile ! Visit Us Today 1108 n loop 336 w …",
+            "created_at": "2021-07-28 18:16:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8941150365266266,
+                "negativity": 0.1058849634733724
+            },
+            "user_id": 2239755001,
+            "text_translation": ""
+        },
+        {
+            "id": 1420443881292713993,
+            "text": "Check out our Guardian and Revolution series designed for G Stylus 5G ! motogstylus5g …",
+            "created_at": "2021-07-28 17:59:46",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8384353946335573,
+                "negativity": 0.16156460536644274
+            },
+            "user_id": 242476958,
+            "text_translation": ""
+        },
+        {
+            "id": 1420305214762930178,
+            "text": "security patch received in G 5G . MotoG5G",
+            "created_at": "2021-07-28 08:48:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.24666372139788545,
+                "negativity": 0.753336278602115
+            },
+            "user_id": 1369199614390202369,
+            "text_translation": ""
+        },
+        {
+            "id": 1420278148390850563,
+            "text": "Crazy deal ! Don ’ t miss out ! One 5G Case , One 5G / G 5G Plus Case with Built in ... by …",
+            "created_at": "2021-07-28 07:01:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5627381950709978,
+                "negativity": 0.4372618049290018
+            },
+            "user_id": 1175867613634801664,
+            "text_translation": ""
+        }
+    ]
+}

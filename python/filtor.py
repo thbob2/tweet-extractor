@@ -321,7 +321,10 @@ def filterCompanies():
                             try:
                                 stats[tweet["lang"]]+=1
                             except KeyError as e:
-                                stats[tweet["lang"]]=1
+                                try:
+                                    stats[tweet["lang"]]=1
+                                except KeyError as e:
+                                    continue
                             try:
                                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 if tempo.lang=="en":
@@ -395,15 +398,15 @@ def exploreCorp(path):
 
 #!main method
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
-    #filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
+    filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
-    filterPhones()
+    #filterPhones()
     #filterLaptops()
     
-    #filterCompanies()
+    filterCompanies()
     
     #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
     #ontologieClasses(sphones)

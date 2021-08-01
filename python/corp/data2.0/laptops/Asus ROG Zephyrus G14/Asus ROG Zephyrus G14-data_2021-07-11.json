@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1414317885447491584,
+            "text": "ROG Zephyrus G14 : the",
+            "created_at": "2021-07-11 20:17:15",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.50025,
+                "negativity": 0.49974999999999997
+            },
+            "user_id": 1380472055968137223,
+            "text_translation": ""
+        },
+        {
+            "id": 1414247097348546565,
+            "text": ", it ' s that time of year again . I have a 2020 ROG Zephyrus G14 for sale . Fantastic - powered with a …",
+            "created_at": "2021-07-11 15:35:58",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5737757587261578,
+                "negativity": 0.42622424127384423
+            },
+            "user_id": 66432490,
+            "text_translation": ""
+        }
+    ]
+}
