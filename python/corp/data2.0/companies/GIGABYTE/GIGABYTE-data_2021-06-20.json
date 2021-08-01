@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1406596891991752708,
+            "text": "🚨🚨 at ES 🇪🇸 💥 6900 Master 🚛 from 🏷 Sold by …",
+            "created_at": "2021-06-20 12:56:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7846460745690081,
+                "negativity": 0.2153539254309919
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1406510351332659202,
+            "text": "3080 10G Graphics Card is now in stock . Product Page :…",
+            "created_at": "2021-06-20 07:12:54",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.0626042851684208,
+                "negativity": 0.9373957148315784
+            },
+            "user_id": 1377519267143376898,
+            "text_translation": ""
+        },
+        {
+            "id": 1406405145383129094,
+            "text": "It ' s clearly stated in the question , the ' t use an acronym . \" how many …",
+            "created_at": "2021-06-20 00:14:51",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8446339488063952,
+                "negativity": 0.15536605119360464
+            },
+            "user_id": 141825371,
+            "text_translation": ""
+        }
+    ]
+}

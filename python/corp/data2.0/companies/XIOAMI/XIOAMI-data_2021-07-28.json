@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1420430204997079041,
+            "text": "I Vote Harry ( ) for",
+            "created_at": "2021-07-28 17:05:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.24507606644788846,
+                "negativity": 0.754923933552111
+            },
+            "user_id": 1357986134714961923,
+            "text_translation": ""
+        },
+        {
+            "id": 1420349544861110274,
+            "text": "Why are you fooling mobile customer ?",
+            "created_at": "2021-07-28 11:44:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2620727190586797,
+                "negativity": 0.7379272809413203
+            },
+            "user_id": 218072633,
+            "text_translation": ""
+        },
+        {
+            "id": 1420303434939461632,
+            "text": "2 days ago I bought Mi Box 4k and today it is not booting . The first time I a problem with a product .",
+            "created_at": "2021-07-28 08:41:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6751770722953477,
+                "negativity": 0.3248229277046512
+            },
+            "user_id": 709941242210230276,
+            "text_translation": ""
+        },
+        {
+            "id": 1420264531968790530,
+            "text": "and mi 😂 working on a high quality display smart band with specs Mi Band X Extremely thin …",
+            "created_at": "2021-07-28 06:07:06",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5925566562261292,
+                "negativity": 0.4074433437738705
+            },
+            "user_id": 1296100778051080192,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1419368970243686409,
+            "text": "GAMING CORE I5 | 4GB GRAPHICS | 8GB RAM 512 | on",
+            "created_at": "2021-07-25 18:48:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3933177022274328,
+                "negativity": 0.6066822977725665
+            },
+            "user_id": 46431871,
+            "text_translation": ""
+        },
+        {
+            "id": 1419339273489162240,
+            "text": "Bought an Gaming 9mon ago . Terrible experience so far . Faced the same battery / char …",
+            "created_at": "2021-07-25 16:50:27",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7595558022015435,
+                "negativity": 0.2404441977984552
+            },
+            "user_id": 895989351204573184,
+            "text_translation": ""
+        },
+        {
+            "id": 1419197992805011459,
+            "text": "Gaming Core i5 9th Gen – ( 16 / 512 / 10 Home / 4 Graphics / 1650 / 120 …",
+            "created_at": "2021-07-25 07:29:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8341621084037797,
+                "negativity": 0.16583789159622078
+            },
+            "user_id": 1256200450988277761,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1403473099358556161,
+            "text": "in debt",
+            "created_at": "2021-06-11 22:03:56",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.75,
+                "negativity": 0.25000000000000017
+            },
+            "user_id": 2360397631,
+            "text_translation": ""
+        },
+        {
+            "id": 1403402876102320135,
+            "text": "is in sunny weather condition right now :) Legend it , when it , the just",
+            "created_at": "2021-06-11 17:24:54",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6765546085468602,
+                "negativity": 0.3234453914531398
+            },
+            "user_id": 973682873327906817,
+            "text_translation": ""
+        },
+        {
+            "id": 1403361214479192065,
+            "text": "Agreed ! I want a Z in white .",
+            "created_at": "2021-06-11 14:39:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5806681495006182,
+                "negativity": 0.4193318504993819
+            },
+            "user_id": 1400557179732647939,
+            "text_translation": ""
+        },
+        {
+            "id": 1403193351017353217,
+            "text": ": What ' s your new feature added from Season 7 of ? ⚡️",
+            "created_at": "2021-06-11 03:32:19",
+            "retweet_count": 972,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7680280231668317,
+                "negativity": 0.23197197683316792
+            },
+            "user_id": 1048621420475891712,
+            "text_translation": ""
+        }
+    ]
+}

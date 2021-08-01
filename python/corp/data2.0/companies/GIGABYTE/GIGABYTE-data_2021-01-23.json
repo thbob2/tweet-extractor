@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1353106834102644743,
+            "text": "3060 Ti 8 EAGLE Graphics Card is now in stock at for £ 400 !",
+            "created_at": "2021-01-23 22:26:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.055008432488779964,
+                "negativity": 0.9449915675112215
+            },
+            "user_id": 1322565033180733440,
+            "text_translation": ""
+        },
+        {
+            "id": 1352841610279727104,
+            "text": "2080 GAMING WHITE GDDR6 Graphics Card - 8GB Auction Gaming …",
+            "created_at": "2021-01-23 04:52:29",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5999716660370246,
+                "negativity": 0.4000283339629775
+            },
+            "user_id": 307605293,
+            "text_translation": ""
+        },
+        {
+            "id": 1352777118422335489,
+            "text": "Let ’ s play sometime Not sure how decent Smash is ( I remember there was significant i …",
+            "created_at": "2021-01-23 00:36:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7763757203774757,
+                "negativity": 0.22362427962252526
+            },
+            "user_id": 489618452,
+            "text_translation": ""
+        }
+    ]
+}

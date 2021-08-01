@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1406021384950587398,
+            "text": ": Win a FREE limited - edition Pride t - shirt ! and click here to enter :",
+            "created_at": "2021-06-18 22:49:55",
+            "retweet_count": 56,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9824468133246671,
+                "negativity": 0.01755318667533407
+            },
+            "user_id": 3965594846,
+            "text_translation": ""
+        },
+        {
+            "id": 1405904384287035404,
+            "text": ": if we get to 1M , we ' release this",
+            "created_at": "2021-06-18 15:05:00",
+            "retweet_count": 607,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5641870534759792,
+                "negativity": 0.4358129465240206
+            },
+            "user_id": 1295870857382944768,
+            "text_translation": ""
+        },
+        {
+            "id": 1405694382339149826,
+            "text": "and free",
+            "created_at": "2021-06-18 01:10:31",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5300751879699249,
+                "negativity": 0.46992481203007497
+            },
+            "user_id": 940186250757197824,
+            "text_translation": ""
+        }
+    ]
+}

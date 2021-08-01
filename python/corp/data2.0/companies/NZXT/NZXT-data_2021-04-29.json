@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1387877161709674497,
+            "text": "Why is space dark when they are all of ? Can science explain this ?",
+            "created_at": "2021-04-29 21:11:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3679166269595645,
+                "negativity": 0.6320833730404364
+            },
+            "user_id": 1081237530677313536,
+            "text_translation": ""
+        },
+        {
+            "id": 1387796710223659008,
+            "text": "we should get in touch with and do something special at some point ..…",
+            "created_at": "2021-04-29 15:51:34",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.48913539183854643,
+                "negativity": 0.5108646081614541
+            },
+            "user_id": 1122468522297298945,
+            "text_translation": ""
+        },
+        {
+            "id": 1387755381716291589,
+            "text": "Why do we yawn",
+            "created_at": "2021-04-29 13:07:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.11177522590361438,
+                "negativity": 0.8882247740963857
+            },
+            "user_id": 802388018275516416,
+            "text_translation": ""
+        },
+        {
+            "id": 1387680284062093313,
+            "text": "My existence",
+            "created_at": "2021-04-29 08:08:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6048387096774193,
+                "negativity": 0.3951612903225805
+            },
+            "user_id": 1188285657535434753,
+            "text_translation": ""
+        },
+        {
+            "id": 1387646704518901762,
+            "text": "Why people but graphics card for the purpose of just them",
+            "created_at": "2021-04-29 05:55:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2640481298786543,
+                "negativity": 0.7359518701213467
+            },
+            "user_id": 1068621939932098560,
+            "text_translation": ""
+        }
+    ]
+}

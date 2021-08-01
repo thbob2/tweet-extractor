@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1374103506995580937,
+            "text": "my connection never made so clear to me before",
+            "created_at": "2021-03-22 20:59:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6898294028918716,
+                "negativity": 0.31017059710812867
+            },
+            "user_id": 2283913219,
+            "text_translation": ""
+        },
+        {
+            "id": 1373971443579510784,
+            "text": "001 !!!!!!!!!!😲🤣🤣🤣..... ore you are a foolish boy .... How are you",
+            "created_at": "2021-03-22 12:14:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.41417559311472096,
+                "negativity": 0.5858244068852795
+            },
+            "user_id": 1273712198196609027,
+            "text_translation": ""
+        },
+        {
+            "id": 1373795077148057602,
+            "text": "ah then is would really be nice with something for 100 something like this",
+            "created_at": "2021-03-22 00:34:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4888660613411255,
+                "negativity": 0.5111339386588747
+            },
+            "user_id": 1273202932004130817,
+            "text_translation": ""
+        }
+    ]
+}
