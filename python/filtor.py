@@ -20,9 +20,9 @@ import exceptionsaver as Es
 from lexor import Lexor
 words = set(nltk.corpus.words.words())
 
-companies = os.getcwd()+"/python/corp/data2.0/companies/"
-phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
-laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
+companies = os.getcwd()+"/python/corp/data3.0/companies/"
+phones = os.getcwd()+"/python/corp/data3.0/smartphones/"
+laptops = os.getcwd()+"/python/corp/data3.0/laptops/"
 
 def clean(tweet):
     tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
@@ -35,7 +35,7 @@ def clean(tweet):
     return tweet
 
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
@@ -53,100 +53,14 @@ def filter(path,parent):
         finally:
             print("going to the next file")
 
-def groupor():
-    rpath = os.getcwd()+"/python/corp/data/"
-    cpath = os.getcwd()+"/python/corp/data2.0/companies/"
-    spath = os.getcwd()+"/python/corp/data2.0/smartphones/"
-    lpath = os.getcwd()+"/python/corp/data2.0/laptops/"
-    corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
-    companies = [f for f in listdir(cpath)]
-    smartphones = [f for f in listdir(spath)]
-    laptops = [f for f in listdir(lpath)]
-    emptyfile=0
-    for c in corp :
-        try:
-            tweetArray = []
-            entity = c.split("-")[0]
-            if entity in companies:
-                with open(cpath+entity+"/"+c,"wb") as w:
-                    with open(rpath+c,"r",encoding="utf-8") as read:
-                        try:
-                            data = json.load(read)
-                        except JSONDecodeError as e:
-                            mySaver = Es.ExceptionSaver()
-                            mySaver.save(str(e))
-                            print(c +" is the one causing error")
-                    if data["tweets"] == []:
-                        print("empty array skiped")
-                        emptyfile+=1
-                        continue
-                    else:    
-                        for tweet in data["tweets"]:
-                            try:
-                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                tweetArray.append(tempo)
-                            except KeyError as e :
-                                mySaver = Es.ExceptionSaver()
-                                mySaver.save(str(e))
-                                continue   
-                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
 
-
-            elif entity in smartphones:
-                with open(spath+entity+"/"+c,"wb") as w:
-                    with open(rpath+c,"r",encoding="utf-8") as read:
-                        try:
-                            data = json.load(read)
-                        except JSONDecodeError as e:
-                            print(c +" is the one causing error")
-                            mySaver = Es.ExceptionSaver()
-                            mySaver.save(str(e))
-                
-                    if data["tweets"] == []:
-                        print("empty array skiped")
-                        emptyfile+=1
-                        continue
-                    else: 
-                        for tweet in data["tweets"]:
-                            try:
-                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                tweetArray.append(tempo)
-                            except KeyError as e :
-                                mySaver = Es.ExceptionSaver()
-                                mySaver.save(str(e))
-                                continue
-                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
-            
-            elif entity in laptops:
-                with open(lpath+entity+"/"+c,"wb") as w:
-                    with open(rpath+c,"r",encoding="utf-8") as read:
-                        try:
-                            data = json.load(read)
-                        except JSONDecodeError as e:
-                            mySaver = Es.ExceptionSaver()
-                            mySaver.save(str(e)+":::"+c+" is the one causing error")
-                            
-                    if data["tweets"] == []:
-                        
-                        emptyfile+=1
-                        continue
-                    else: 
-                        for tweet in data["tweets"]:
-                            try:
-                                tempo = Tweet(tweet["id"],tweet["text"],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
-                                tweetArray.append(tempo)
-                            except KeyError as e :
-                                mySaver = Es.ExceptionSaver()
-                                mySaver.save(str(e))
-                                continue
-                        w.write(json.dumps({'tweets':[o.dump() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
-        except ValueError as e:
-            mySaver = Es.ExceptionSaver()
-            mySaver.save(str(e))
-            continue
-    print("number of empty files = "+str(emptyfile))
-
-
+#!.########.####.##.......########.########.########...######.
+#!.##........##..##..........##....##.......##.....##.##....##
+#!.##........##..##..........##....##.......##.....##.##......
+#!.######....##..##..........##....######...########...######.
+#!.##........##..##..........##....##.......##...##.........##
+#!.##........##..##..........##....##.......##....##..##....##
+#!.##.......####.########....##....########.##.....##..######.
 
 def filterPhones():
     rpath = os.getcwd()+"/python/corp/data/"
@@ -360,6 +274,21 @@ def filterCompanies():
         string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
         file.write(string)
 
+#*..#######..##....##.########..#######..##........#######...######...##....##
+#*.##.....##.###...##....##....##.....##.##.......##.....##.##....##...##..##.
+#*.##.....##.####..##....##....##.....##.##.......##.....##.##..........####..
+#*.##.....##.##.##.##....##....##.....##.##.......##.....##.##...####....##...
+#*.##.....##.##..####....##....##.....##.##.......##.....##.##....##.....##...
+#*.##.....##.##...###....##....##.....##.##.......##.....##.##....##.....##...
+#*..#######..##....##....##.....#######..########..#######...######......##...
+#*..######..##..........###.....######...######..########..######.
+#*.##....##.##.........##.##...##....##.##....##.##.......##....##
+#*.##.......##........##...##..##.......##.......##.......##......
+#*.##.......##.......##.....##..######...######..######....######.
+#*.##.......##.......#########.......##.......##.##.............##
+#*.##....##.##.......##.....##.##....##.##....##.##.......##....##
+#*..######..########.##.....##..######...######..########..######.
+
 def getChilds(obj):
     res = []
     res.append(obj["name"])
@@ -383,6 +312,25 @@ def ontologieClasses(onto):
             mySaver.save(str(e))
     return (res)
     
+#?.########.##.....##.########..##........#######..####.########.####.##....##..######.....
+#?.##........##...##..##.....##.##.......##.....##..##.....##.....##..###...##.##....##....
+#?.##.........##.##...##.....##.##.......##.....##..##.....##.....##..####..##.##..........
+#?.######......###....########..##.......##.....##..##.....##.....##..##.##.##.##...####...
+#?.##.........##.##...##........##.......##.....##..##.....##.....##..##..####.##....##....
+#?.##........##...##..##........##.......##.....##..##.....##.....##..##...###.##....##....
+#?.########.##.....##.##........########..#######..####....##....####.##....##..######.....
+#?.########.....###....########....###.......########.####.##.......########..######.
+#?.##.....##...##.##......##......##.##......##........##..##.......##.......##....##
+#?.##.....##..##...##.....##.....##...##.....##........##..##.......##.......##......
+#?.##.....##.##.....##....##....##.....##....######....##..##.......######....######.
+#?.##.....##.#########....##....#########....##........##..##.......##.............##
+#?.##.....##.##.....##....##....##.....##....##........##..##.......##.......##....##
+#?.########..##.....##....##....##.....##....##.......####.########.########..######.    
+
+def sortfunc(stdate):
+    rdate = stdate.split("_")[1][0:10].split("-")
+    return dt.datetime(int(rdate[0]),int(rdate[1]),int(rdate[2])).date()
+
 def exploreCorp(path):
     folders = []
     
@@ -393,8 +341,92 @@ def exploreCorp(path):
         }    
         for j in os.scandir(i):
             folder['files'].append(j.path)
+        folder['files'].sort(key=sortfunc,reverse=False)
         folders.append(folder)      
+    
     return folders
+
+#!.#######..##.....##.##.....##.##....##.##....##.####.########..######.
+#!.##....##.##.....##.##.....##.###...##.##...##...##..##.......##....##
+#!.##.......##.....##.##.....##.####..##.##..##....##..##.......##......
+#!.##.......#########.##.....##.##.##.##.#####.....##..######....######.
+#!.##.......##.....##.##.....##.##..####.##..##....##..##.............##
+#!.##....#.##.....##.##.....##.##...###.##...##...##..##.......##....##
+#!.#######..##.....##..#######..##....##.##....##.####.########..######.
+
+
+
+def readJson(path):
+    with open(path,'r',encoding="utf8") as f:
+        return json.loads(f.read())
+
+
+
+def chunks(l, n):
+    
+    return [l[i:i + n] for i in range(0, len(l), n)]
+
+
+def Semantico(files,n):
+    
+    chunk_list = []
+    month_j = {
+        "start":"",
+        "end":"",
+        "total":0,
+        "positive": 0,
+        "nutral":0,
+        "negative":0,
+        "tweets" : []
+
+    }
+    chunk_m = month_j
+    mychunks = chunks(files,n)
+    cpt = 0 
+
+    for chunk in mychunks:
+        alltweets = []
+        chunk_m = month_j
+        for f in chunk:
+            try:  
+                fdata = readJson(f)
+            except  JSONDecodeError as e :
+                mySaver = Es.ExceptionSaver()
+                mySaver.save(str(e)+"continued")
+                continue
+            for tweet in fdata["tweets"]:
+                tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"],tweet['label'],tweet['note'])   
+                chunk_m[tempo.label]+=1
+                chunk_m['total'] += 1
+                alltweets.append(tempo)
+                cpt +=1
+        
+        chunk_m['start'] = alltweets[0].created_at
+        chunk_m['end'] = alltweets[len(alltweets)-1].created_at
+        chunk_m['tweets'] = [t.dumps() for t in alltweets]
+        chunk_list.append(chunk_m)
+    return chunk_list
+
+
+
+
+def chunkyboy(path):
+    chinks = exploreCorp(path)
+    alterpath = path.replace("data2.0","data3.0")
+    
+    #! going throught phones
+    try:
+        for folder in chinks:
+            towrite = Semantico(folder['files'],30)
+            for w in towrite:
+                fname = "{0}-{1}--{2}.json".format(folder['name'],str(w['start'])[0:10],str(w['end'])[0:10])
+                writer = open(alterpath+folder['name']+"/"+fname,"wb")
+                string=json.dumps(w,indent=4,ensure_ascii=False).encode("utf8")
+                writer.write(string)
+                writer.close    
+    except  JSONDecodeError as e :
+        mySaver = Es.ExceptionSaver()
+        mySaver.save(str(e)+":::")
 
 #!main method
 if __name__ == '__main__':
@@ -406,10 +438,8 @@ if __name__ == '__main__':
     #filterPhones()
     #filterLaptops()
     
-    filterCompanies()
+    #filterCompanies()
+    chunkyboy(phones)
     
-    #sphones = os.getcwd()+"/python/corp/assets/smartphone.json"
-    #ontologieClasses(sphones)
-    folders = exploreCorp(phones)
-    with open(os.getcwd()+"/python/logs/test.txt","w") as w:
-        w.write(str(folders))
+    #sortfunc("infinx note7-data_2021-01-21.json")
+    
