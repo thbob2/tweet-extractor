@@ -20,9 +20,9 @@ import exceptionsaver as Es
 from lexor import Lexor
 words = set(nltk.corpus.words.words())
 
-companies = os.getcwd()+"/python/corp/data3.0/companies/"
-phones = os.getcwd()+"/python/corp/data3.0/smartphones/"
-laptops = os.getcwd()+"/python/corp/data3.0/laptops/"
+companies = os.getcwd()+"/python/corp/data2.0/companies/"
+phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
+laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
 
 def clean(tweet):
     tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
@@ -430,16 +430,16 @@ def chunkyboy(path):
 
 #!main method
 if __name__ == '__main__':
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
-    filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #filterPhones()
     #filterLaptops()
     
     #filterCompanies()
-    chunkyboy(phones)
+    chunkyboy(laptops)
     
     #sortfunc("infinx note7-data_2021-01-21.json")
     
