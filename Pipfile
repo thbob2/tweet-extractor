@@ -24,6 +24,7 @@ jupyterlab = "*"
 keras-nightly = "*"
 emoji = "*"
 tensorflow = "*"
+mongopy = "*"
 
 [dev-packages]
 
