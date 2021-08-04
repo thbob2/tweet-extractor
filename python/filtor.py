@@ -67,7 +67,7 @@ def filterPhones():
     path = os.getcwd()+"/python/corp/data2.0/smartphones/"
     corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
     smartphones = [f for f in listdir(path)]
-    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/smartphone.json")
+    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/smartphone-ontology.json")
     stats = {}
     emptyfile=0
     lex = Lexor()
@@ -148,7 +148,7 @@ def filterLaptops():
     path = os.getcwd()+"/python/corp/data2.0/laptops/"
     corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
     laptops = [f for f in listdir(path)]
-    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/laptop.json")
+    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/laptop-ontology.json")
     stats = {}
     emptyfile = 0
     lex = Lexor()
