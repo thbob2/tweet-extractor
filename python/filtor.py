@@ -437,9 +437,10 @@ if __name__ == '__main__':
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
     #filterPhones()
     #filterLaptops()
-    
+    #
     #filterCompanies()
     chunkyboy(laptops)
-    
+    chunkyboy(companies)
+    chunkyboy(phones)
     #sortfunc("infinx note7-data_2021-01-21.json")
     
