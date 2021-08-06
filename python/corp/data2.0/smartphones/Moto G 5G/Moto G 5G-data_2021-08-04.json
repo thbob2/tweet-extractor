@@ -1,0 +1,104 @@
+{
+    "tweets": [
+        {
+            "id": 1422980767693606915,
+            "text": "The new 5G functionality with productivity and 256GB of storage , 5G connectivity , an …",
+            "created_at": "2021-08-04 18:00:27",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Connectivity"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2943095418495818,
+                "negativity": 0.705690458150419
+            },
+            "user_id": 2273643162,
+            "text_translation": ""
+        },
+        {
+            "id": 1422978469055565833,
+            "text": "Get the new G Stylus 5G for only $ 79 . 99 when you switch over to Boost Mobile ! Visit Us Today 1108 n loop 336 …",
+            "created_at": "2021-08-04 17:51:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8941150365266266,
+                "negativity": 0.1058849634733724
+            },
+            "user_id": 2239755001,
+            "text_translation": ""
+        },
+        {
+            "id": 1422943393018089472,
+            "text": ": The G Stylus 5G is a good phone with a too - short shelf life",
+            "created_at": "2021-08-04 15:31:56",
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3867746151766336,
+                "negativity": 0.6132253848233664
+            },
+            "user_id": 1360587936794697731,
+            "text_translation": ""
+        },
+        {
+            "id": 1422879446457978882,
+            "text": "When will android 11 update come to g 5g ??? tell",
+            "created_at": "2021-08-04 11:17:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.47404096164179,
+                "negativity": 0.5259590383582088
+            },
+            "user_id": 1334070609110724610,
+            "text_translation": ""
+        },
+        {
+            "id": 1422837778547630080,
+            "text": "G Power | 2021 | 3 - Day battery | Unlocked | Made for the US by | 4 / 64GB | 48MP Camera | Gray by Motor …",
+            "created_at": "2021-08-04 08:32:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery",
+                "Camera"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.26977498212897877,
+                "negativity": 0.7302250178710213
+            },
+            "user_id": 722533029713944576,
+            "text_translation": ""
+        }
+    ]
+}
