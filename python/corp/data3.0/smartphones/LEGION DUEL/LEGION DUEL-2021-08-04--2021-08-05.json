@@ -1,0 +1,48 @@
+{
+    "start": "2021-08-04 18:09:50",
+    "end": "2021-08-05 10:06:57",
+    "total": 144,
+    "positive": 61,
+    "nutral": 74,
+    "negative": 9,
+    "tweets": [
+        {
+            "id": 1422983131041251330,
+            "text": "The Legion Duel : possibly the best gaming smart phone ? via Check …",
+            "created_at": "2021-08-04 18:09:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9292581607054811,
+                "negativity": 0.0707418392945176
+            },
+            "user_id": 610694119,
+            "text_translation": ""
+        },
+        {
+            "id": 1423223997030928389,
+            "text": "Legion Duel 2 is , May 2021 Available , it - core , 12 / 16GB RAM , 256 / 512GB Storage , 6 . 92 in …",
+            "created_at": "2021-08-05 10:06:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.47512981688985934,
+                "negativity": 0.5248701831101409
+            },
+            "user_id": 1223847580154679298,
+            "text_translation": ""
+        }
+    ]
+}

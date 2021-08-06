@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1422831141858553857,
+            "text": "note 7",
+            "created_at": "2021-08-04 08:05:53",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5232558139534884,
+                "negativity": 0.4767441860465117
+            },
+            "user_id": 1286965512145117185,
+            "text_translation": ""
+        },
+        {
+            "id": 1422792681412087813,
+            "text": "7 tha phone tha us ko sale k note 10 pro he battery t …",
+            "created_at": "2021-08-04 05:33:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6091101694915271,
+                "negativity": 0.3908898305084747
+            },
+            "user_id": 908036098043064325,
+            "text_translation": ""
+        }
+    ]
+}

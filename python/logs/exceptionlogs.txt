@@ -356,3 +356,5 @@
 [Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N100':::2021-08-02 20:35:22.155173
 [Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY S20':::2021-08-02 20:35:22.155426
 [Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note':::2021-08-02 20:35:22.155689
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-08-05 22:25:11.222736
+Expecting ',' delimiter: line 241 column 2 (char 7788):::2021-08-06 10:00:26.139723

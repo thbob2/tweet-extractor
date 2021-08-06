@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1423059943838556160,
+            "text": "B . False . and should be fairly simple task if choose powerful l …",
+            "created_at": "2021-08-04 23:15:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9119106618977965,
+                "negativity": 0.08808933810220314
+            },
+            "user_id": 395763895,
+            "text_translation": ""
+        },
+        {
+            "id": 1422853006966542337,
+            "text": "Review of the Aero 15 , which a next - generation 4K display",
+            "created_at": "2021-08-04 09:32:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4253907364154478,
+                "negativity": 0.5746092635845519
+            },
+            "user_id": 2833394594,
+            "text_translation": ""
+        },
+        {
+            "id": 1422814697925922821,
+            "text": "Aero 15 review : Next - generation 4K review tech",
+            "created_at": "2021-08-04 07:00:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.526829091224873,
+                "negativity": 0.47317090877512646
+            },
+            "user_id": 334213174,
+            "text_translation": ""
+        }
+    ]
+}

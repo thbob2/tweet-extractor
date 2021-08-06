@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1422649110759448577,
+            "text": "Awesome ! Then we think you should definitely check out these 3 : Aspire3 :",
+            "created_at": "2021-08-03 20:02:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6602641343872875,
+                "negativity": 0.33973586561271174
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1422579884581277704,
+            "text": "semester full swift 3x",
+            "created_at": "2021-08-03 15:27:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.11239495798319316,
+                "negativity": 0.8876050420168062
+            },
+            "user_id": 1216000981575405569,
+            "text_translation": ""
+        },
+        {
+            "id": 1422462033354653701,
+            "text": "I mean it ' s a necessity for me , not necessarily for . Swift 3x was 5k b …",
+            "created_at": "2021-08-03 07:39:11",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4585329058446481,
+                "negativity": 0.5414670941553514
+            },
+            "user_id": 1141823460,
+            "text_translation": ""
+        },
+        {
+            "id": 1422458454749290498,
+            "text": "Wow . Even this is missing keyboard ? I Swift 3x over Mi …",
+            "created_at": "2021-08-03 07:24:58",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.09841245248734487,
+                "negativity": 0.9015875475126542
+            },
+            "user_id": 1141823460,
+            "text_translation": ""
+        }
+    ]
+}
