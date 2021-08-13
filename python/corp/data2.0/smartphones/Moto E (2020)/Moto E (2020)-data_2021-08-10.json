@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1425115029234503680,
+            "text": "valdez07 E 2020 is an old phone but also not a good one . Check if you can install L …",
+            "created_at": "2021-08-10 15:21:14",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.16728246324276017,
+                "negativity": 0.8327175367572419
+            },
+            "user_id": 1891141321,
+            "text_translation": ""
+        },
+        {
+            "id": 1424923399936258059,
+            "text": "Geek Which one ? Mine is the E 2020 .",
+            "created_at": "2021-08-10 02:39:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.08730879301907266,
+                "negativity": 0.9126912069809274
+            },
+            "user_id": 1418614580410945537,
+            "text_translation": ""
+        }
+    ]
+}

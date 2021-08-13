@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1423772635012374529,
+            "text": "2020 7m Kite , Excellent Condition , Blue , Never .",
+            "created_at": "2021-08-06 22:27:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8128584614007408,
+                "negativity": 0.1871415385992608
+            },
+            "user_id": 1391878867976015877,
+            "text_translation": ""
+        },
+        {
+            "id": 1423548460251426827,
+            "text": "Protect your G Stylus ( 2020 ) in style with the best",
+            "created_at": "2021-08-06 07:36:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.15699180448068822,
+                "negativity": 0.8430081955193125
+            },
+            "user_id": 467774910,
+            "text_translation": ""
+        },
+        {
+            "id": 1423540401743568899,
+            "text": "Android News : \" Protect your G Stylus ( 2020 ) in style with the best \"",
+            "created_at": "2021-08-06 07:04:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.1829063512184506,
+                "negativity": 0.8170936487815474
+            },
+            "user_id": 302524261,
+            "text_translation": ""
+        },
+        {
+            "id": 1423444474206720001,
+            "text": "NEW ! Men ' s Burton 2020 - US Size 8 ( Black )",
+            "created_at": "2021-08-06 00:43:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Size"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2376572691691657,
+                "negativity": 0.7623427308308355
+            },
+            "user_id": 1393055735580266498,
+            "text_translation": ""
+        }
+    ]
+}

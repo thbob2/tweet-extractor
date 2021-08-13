@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1424720547913551884,
+            "text": ": Just a few days ago we finished our third campaign in Only War . We all ( Though some with some ugly ) and …",
+            "created_at": "2021-08-09 13:13:43",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5522303783318094,
+                "negativity": 0.4477696216681909
+            },
+            "user_id": 52558208,
+            "text_translation": ""
+        },
+        {
+            "id": 1424701958376538116,
+            "text": "Just a few days ago we finished our third campaign in Only War . We all ( Though some with some ugly )…",
+            "created_at": "2021-08-09 11:59:51",
+            "retweet_count": 2,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5522303783318094,
+                "negativity": 0.4477696216681909
+            },
+            "user_id": 809355458750410752,
+            "text_translation": ""
+        },
+        {
+            "id": 1424660472825929732,
+            "text": "Built for those who crave to compete 💪",
+            "created_at": "2021-08-09 09:15:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8035170171875056,
+                "negativity": 0.19648298281249346
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        }
+    ]
+}

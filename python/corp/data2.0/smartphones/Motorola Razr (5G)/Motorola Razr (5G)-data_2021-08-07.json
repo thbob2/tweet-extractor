@@ -1,0 +1,65 @@
+{
+    "tweets": [
+        {
+            "id": 1424061397638463491,
+            "text": "Watch BEFORE YOU BUY the 5G | 5 of Daily Use",
+            "created_at": "2021-08-07 17:34:29",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7394900334076413,
+                "negativity": 0.2605099665923575
+            },
+            "user_id": 805796742449037312,
+            "text_translation": ""
+        },
+        {
+            "id": 1423833560050552833,
+            "text": ": 5G | Unlocked | Made for US by | 8 / 256GB | 48MP Camera | 2020 | Liquid ( ) :…",
+            "created_at": "2021-08-07 02:29:08",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.04358833703409954,
+                "negativity": 0.9564116629659009
+            },
+            "user_id": 959180838893244416,
+            "text_translation": ""
+        },
+        {
+            "id": 1423833513338494979,
+            "text": "5G | Unlocked | Made for US by | 8 / 256GB | 48MP Camera | 2020 | Liquid ( )…",
+            "created_at": "2021-08-07 02:28:57",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.04358833703409954,
+                "negativity": 0.9564116629659009
+            },
+            "user_id": 4345829474,
+            "text_translation": ""
+        }
+    ]
+}

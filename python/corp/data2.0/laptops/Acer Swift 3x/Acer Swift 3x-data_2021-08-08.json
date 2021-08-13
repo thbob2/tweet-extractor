@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1424263023602987012,
+            "text": "Hi , do you have in stock somewhere this same specs , but in Safari Gold color ?…",
+            "created_at": "2021-08-08 06:55:41",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.47455569004103454,
+                "negativity": 0.5254443099589655
+            },
+            "user_id": 2911018602,
+            "text_translation": ""
+        },
+        {
+            "id": 1424226594189574145,
+            "text": "This one , i7 , 16GB RAM , 1TB Storage , with graphics and Office 2019 . May free Tablet ! Not bad for …",
+            "created_at": "2021-08-08 04:30:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.061639272349844294,
+                "negativity": 0.9383607276501575
+            },
+            "user_id": 2911018602,
+            "text_translation": ""
+        }
+    ]
+}

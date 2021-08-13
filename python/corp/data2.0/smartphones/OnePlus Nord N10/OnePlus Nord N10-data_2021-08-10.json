@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1424957931737468951,
+            "text": "N10 5G Unlocked , Midnight Ice ​, 90Hz Refresh Rate , 6GB RAM + 128GB storage , US Version , …",
+            "created_at": "2021-08-10 04:57:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4311361305169792,
+                "negativity": 0.5688638694830201
+            },
+            "user_id": 1274629164897714176,
+            "text_translation": ""
+        },
+        {
+            "id": 1424945243292520453,
+            "text": "The n10 5g a awesome 1080p60 camera for recording it ' s base storage is 12 …",
+            "created_at": "2021-08-10 04:06:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9245211663758387,
+                "negativity": 0.07547883362416027
+            },
+            "user_id": 38612614,
+            "text_translation": ""
+        }
+    ]
+}

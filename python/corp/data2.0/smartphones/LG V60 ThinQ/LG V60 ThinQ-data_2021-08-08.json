@@ -1,0 +1,103 @@
+{
+    "tweets": [
+        {
+            "id": 1424449527189225478,
+            "text": "V60 5G Best Buy Smart Phone near me 128GB Android - V600TM ( ) ( Classy White , 128GB , …",
+            "created_at": "2021-08-08 19:16:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.948620195748595,
+                "negativity": 0.051379804251402685
+            },
+            "user_id": 1421395289584373761,
+            "text_translation": ""
+        },
+        {
+            "id": 1424406910082584577,
+            "text": ": 512GB Ultra - I Memory Card for Phone Works with K92 5G , Velvet 5G , V60 5G …",
+            "created_at": "2021-08-08 16:27:26",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5945960692961643,
+                "negativity": 0.40540393070383685
+            },
+            "user_id": 1265821289085718529,
+            "text_translation": ""
+        },
+        {
+            "id": 1424348488427474950,
+            "text": "512GB Ultra - I Memory Card for Phone Works with K92 5G , Velvet 5G , V60 Thin …",
+            "created_at": "2021-08-08 12:35:17",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory"
+            ],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4706878259389577,
+                "negativity": 0.5293121740610435
+            },
+            "user_id": 1217721733433581568,
+            "text_translation": ""
+        },
+        {
+            "id": 1424346807102885896,
+            "text": "US $ 378 . 99 | Brand New V60 5G - V600AM 128GB Blue AT & ; T Unlocked | …",
+            "created_at": "2021-08-08 12:28:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5721325393114648,
+                "negativity": 0.42786746068853493
+            },
+            "user_id": 1349702570739183618,
+            "text_translation": ""
+        },
+        {
+            "id": 1424340922913939468,
+            "text": "Yeah , that ' d explain it . I ' m on an V60 , which should be capable of running it . Just need to wait on a patch , then !",
+            "created_at": "2021-08-08 12:05:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.03512151095404783,
+                "negativity": 0.9648784890459526
+            },
+            "user_id": 93697649,
+            "text_translation": ""
+        }
+    ]
+}

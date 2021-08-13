@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1423390978011025409,
+            "text": "Or , you could get a convertible that is also a tablet ! It ' s much easier to have one device than …",
+            "created_at": "2021-08-05 21:10:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2707652430923431,
+                "negativity": 0.7292347569076566
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1423312927273099266,
+            "text": ": The screen on the new 2021 Spin 713 is , well , still amazing . This is now the 3rd iteration of the Spin 7 …",
+            "created_at": "2021-08-05 16:00:20",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9600703960956809,
+                "negativity": 0.03992960390431925
+            },
+            "user_id": 157863310,
+            "text_translation": ""
+        },
+        {
+            "id": 1423312581222092801,
+            "text": "The screen on the new 2021 Spin 713 is , well , still amazing . This is now the 3rd iteration of the S …",
+            "created_at": "2021-08-05 15:58:57",
+            "retweet_count": 3,
+            "favorite_count": 22,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9600703960956809,
+                "negativity": 0.03992960390431925
+            },
+            "user_id": 2287201435,
+            "text_translation": ""
+        },
+        {
+            "id": 1423181843088691201,
+            "text": "Spin 311 Convertible , N4020 , 11 . 6 \" Touch , 4GB …",
+            "created_at": "2021-08-05 07:19:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5948023426061497,
+                "negativity": 0.4051976573938508
+            },
+            "user_id": 1197364662,
+            "text_translation": ""
+        }
+    ]
+}

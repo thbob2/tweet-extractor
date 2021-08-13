@@ -435,10 +435,10 @@ if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
-    #filterPhones()
-    #filterLaptops()
+    filterPhones()
+    filterLaptops()
     #
-    #filterCompanies()
+    filterCompanies()
     chunkyboy(laptops)
     chunkyboy(companies)
     chunkyboy(phones)

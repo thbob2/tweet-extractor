@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1424465848568320003,
+            "text": "YOU ' RE PART OF THE A15 GANG",
+            "created_at": "2021-08-08 20:21:38",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.48307349801081123,
+                "negativity": 0.5169265019891888
+            },
+            "user_id": 1067209122477735937,
+            "text_translation": ""
+        },
+        {
+            "id": 1424300079301611525,
+            "text": "Gaming A15 Full Review & ; ryzen4000 …",
+            "created_at": "2021-08-08 09:22:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.8088065533010698,
+                "negativity": 0.1911934466989295
+            },
+            "user_id": 1414524040899792897,
+            "text_translation": ""
+        },
+        {
+            "id": 1424252431651676161,
+            "text": "Gaming A15 FX506II",
+            "created_at": "2021-08-08 06:13:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.833333333333333,
+                "negativity": 0.16666666666666646
+            },
+            "user_id": 812308555466317832,
+            "text_translation": ""
+        },
+        {
+            "id": 1424206071682506753,
+            "text": ": IN STOCK a15 ( R7 + 3060 + 1 ) Like and spread 👍 gaming …",
+            "created_at": "2021-08-08 03:09:22",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7427282005485752,
+                "negativity": 0.2572717994514252
+            },
+            "user_id": 1233805036846768128,
+            "text_translation": ""
+        }
+    ]
+}

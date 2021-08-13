@@ -1,0 +1,45 @@
+{
+    "tweets": [
+        {
+            "id": 1424585237611225090,
+            "text": "E Phone case , E case , with Screen Protector , M Soft Slim Fashion Non - …",
+            "created_at": "2021-08-09 04:16:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.7660731862070634,
+                "negativity": 0.233926813792934
+            },
+            "user_id": 1411464527233748998,
+            "text_translation": ""
+        },
+        {
+            "id": 1424567516878225417,
+            "text": "valdez07 It ' s E ( 2020 ), but nothing but TWITTER .",
+            "created_at": "2021-08-09 03:05:37",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.08704048392361746,
+                "negativity": 0.9129595160763819
+            },
+            "user_id": 1418614580410945537,
+            "text_translation": ""
+        }
+    ]
+}

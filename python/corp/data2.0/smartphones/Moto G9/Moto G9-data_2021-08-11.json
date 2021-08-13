@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1425530347186446347,
+            "text": "This random G9 Play I bought is ( almost ) the thing to an to be an android ,…",
+            "created_at": "2021-08-11 18:51:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3359695230358589,
+                "negativity": 0.6640304769641405
+            },
+            "user_id": 22731154,
+            "text_translation": ""
+        },
+        {
+            "id": 1425493904003158019,
+            "text": "g9 play es 🥰",
+            "created_at": "2021-08-11 16:26:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5044910179640717,
+                "negativity": 0.4955089820359282
+            },
+            "user_id": 226041706,
+            "text_translation": ""
+        },
+        {
+            "id": 1425480613742665729,
+            "text": "G9 + Plus XT2087 , 4G , International Version ( No US Warranty ), 128GB , 4GB , Dark Blue – Unlocked ( AT & ; T , T …",
+            "created_at": "2021-08-11 15:33:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "4G"
+            ],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.694035087358602,
+                "negativity": 0.3059649126413992
+            },
+            "user_id": 1274629164897714176,
+            "text_translation": ""
+        }
+    ]
+}
