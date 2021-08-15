@@ -636,7 +636,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -693,7 +695,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Office",
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

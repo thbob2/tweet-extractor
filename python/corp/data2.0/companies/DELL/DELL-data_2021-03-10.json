@@ -142,7 +142,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB",
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -275,7 +280,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -389,7 +398,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Entertainment"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -446,7 +457,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "Bag"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

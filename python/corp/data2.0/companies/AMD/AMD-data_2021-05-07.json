@@ -769,7 +769,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Size",
+                "Screen",
+                "Screen Size",
+                "Screen Size"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1142,7 +1147,9 @@
                     12.9715987
                 ]
             },
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

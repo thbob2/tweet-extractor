@@ -142,7 +142,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -199,7 +201,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Color"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -218,7 +222,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Color"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

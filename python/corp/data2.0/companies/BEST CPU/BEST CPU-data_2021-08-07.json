@@ -28,7 +28,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -142,7 +146,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speed"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -332,7 +338,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -408,7 +416,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

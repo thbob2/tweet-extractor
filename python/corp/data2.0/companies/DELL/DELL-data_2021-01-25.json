@@ -85,7 +85,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB",
+                "Battery",
+                "Battery Life"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -180,7 +185,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "General"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -313,7 +320,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -332,7 +343,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -408,7 +423,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Dual Core Processor"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -522,7 +539,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

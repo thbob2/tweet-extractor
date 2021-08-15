@@ -104,7 +104,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -427,7 +429,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -484,7 +489,13 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "OS",
+                "RAM",
+                "8GB",
+                "OS"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -921,7 +932,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -978,7 +992,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1396,7 +1413,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1453,7 +1472,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1472,7 +1495,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1586,7 +1611,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1814,7 +1842,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

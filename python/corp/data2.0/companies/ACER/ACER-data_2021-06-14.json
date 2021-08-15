@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -85,7 +87,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery",
+                "Battery Life"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

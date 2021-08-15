@@ -142,7 +142,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -218,7 +220,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -370,7 +376,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

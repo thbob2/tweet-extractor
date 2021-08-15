@@ -28,7 +28,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -104,7 +106,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -123,7 +127,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

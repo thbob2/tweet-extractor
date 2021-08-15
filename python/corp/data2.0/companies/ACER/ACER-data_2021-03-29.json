@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Browser"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -142,7 +144,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

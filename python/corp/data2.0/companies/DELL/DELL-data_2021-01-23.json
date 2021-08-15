@@ -275,7 +275,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -370,7 +373,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "Screen",
+                "Touch Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

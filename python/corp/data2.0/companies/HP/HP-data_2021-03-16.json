@@ -522,7 +522,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1016,7 +1019,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1472,7 +1478,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1605,7 +1613,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1662,7 +1672,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "General"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1738,7 +1750,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1814,7 +1828,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -1852,7 +1868,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1985,7 +2003,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -2175,7 +2195,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "General"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -2301,7 +2323,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

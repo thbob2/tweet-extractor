@@ -902,7 +902,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1016,7 +1019,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB",
+                "Speed"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1624,7 +1632,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Entertainment"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1890,7 +1900,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Office"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -2099,7 +2111,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB",
+                "Storage"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -2137,7 +2153,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -2213,7 +2232,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -2270,7 +2292,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "wireless"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -142,7 +144,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

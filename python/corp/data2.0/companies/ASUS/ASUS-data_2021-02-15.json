@@ -47,7 +47,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "3080",
+                "3090",
+                "Build"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -180,7 +185,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Communication"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

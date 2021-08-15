@@ -180,7 +180,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -275,7 +277,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -313,7 +317,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090",
+                "Size",
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -370,7 +378,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

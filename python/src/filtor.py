@@ -216,6 +216,8 @@ def filterCompanies():
     path = os.getcwd()+"/python/corp/data2.0/companies/"
     corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
     companies = [f for f in listdir(path)]
+    laptopsonto = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/laptop-ontology.json")
+    phonesonto = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/smartphone-ontology.json")
     stats = {}
     emptyfile=0
     lex = Lexor()
@@ -245,6 +247,14 @@ def filterCompanies():
                                     #cleaning
                                     print(tempo.text)
                                     tempo.text= clean(tempo.text)
+                                    for name in laptopsonto :
+                                        #eticting + elaguing
+                                        if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
+                                            tempo.mention.append(name)
+                                    for name in phonesonto :
+                                        #eticting + elaguing
+                                        if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
+                                            tempo.mention.append(name)
 
                                     tempo.label= lex.feeling(tempo.text)
                                     print("nb on {}".format(cpt))
@@ -435,12 +445,12 @@ if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
 ##
     #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
-    filterPhones()
-    filterLaptops()
+    #filterPhones()
+    #filterLaptops()
     #
     filterCompanies()
-    chunkyboy(laptops)
+    #chunkyboy(laptops)
     chunkyboy(companies)
-    chunkyboy(phones)
+    #chunkyboy(phones)
     #sortfunc("infinx note7-data_2021-01-21.json")
     

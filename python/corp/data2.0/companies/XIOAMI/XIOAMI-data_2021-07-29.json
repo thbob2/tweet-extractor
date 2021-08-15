@@ -47,7 +47,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery",
+                "Camera",
+                "Web"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

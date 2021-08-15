@@ -218,7 +218,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

@@ -1009,7 +1009,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Volume"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1522,7 +1524,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1712,7 +1717,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1769,7 +1777,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

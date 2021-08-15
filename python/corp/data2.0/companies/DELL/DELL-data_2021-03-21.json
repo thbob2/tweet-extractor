@@ -180,7 +180,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

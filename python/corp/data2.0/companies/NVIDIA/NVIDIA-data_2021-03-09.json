@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "audio"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -218,7 +220,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -256,7 +261,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -465,7 +472,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "8GB",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -598,7 +609,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

@@ -408,7 +408,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -427,7 +429,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -465,7 +469,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

@@ -28,7 +28,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Office"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -142,7 +144,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

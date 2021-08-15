@@ -617,7 +617,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speed"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -655,7 +657,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "OS"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

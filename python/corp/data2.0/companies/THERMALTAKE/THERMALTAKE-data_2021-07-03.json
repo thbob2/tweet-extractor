@@ -9,7 +9,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs",
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -275,7 +278,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -294,7 +299,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -313,7 +320,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

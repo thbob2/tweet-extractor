@@ -180,7 +180,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB",
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -370,7 +375,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -484,7 +491,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Web"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -541,7 +550,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -560,7 +572,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "32GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -655,7 +671,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage",
+                "specs"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

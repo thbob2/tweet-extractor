@@ -28,7 +28,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Storage"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

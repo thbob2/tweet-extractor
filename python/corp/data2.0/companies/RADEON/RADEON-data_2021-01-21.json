@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -66,7 +68,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

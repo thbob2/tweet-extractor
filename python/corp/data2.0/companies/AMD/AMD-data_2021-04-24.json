@@ -389,7 +389,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Radio"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -883,7 +885,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "OS"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1054,7 +1059,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1389,7 +1396,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

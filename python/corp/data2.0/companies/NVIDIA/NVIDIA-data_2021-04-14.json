@@ -28,7 +28,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9",
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -66,7 +69,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -617,7 +623,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1054,7 +1062,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1130,7 +1140,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1529,7 +1541,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

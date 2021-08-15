@@ -47,7 +47,14 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM",
+                "Size",
+                "Screen",
+                "Screen Size",
+                "Screen Size"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -104,7 +111,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -180,7 +189,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

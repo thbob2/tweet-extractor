@@ -28,7 +28,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -104,7 +107,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -199,7 +201,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage",
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -218,7 +223,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -237,7 +244,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

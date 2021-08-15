@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -636,7 +638,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

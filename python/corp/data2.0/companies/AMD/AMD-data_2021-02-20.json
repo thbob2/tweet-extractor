@@ -47,7 +47,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -370,7 +373,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -788,7 +793,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1168,7 +1175,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "OS"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

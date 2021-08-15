@@ -237,7 +237,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Office"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -294,7 +296,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -1035,7 +1039,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1130,7 +1136,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Radio"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

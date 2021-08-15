@@ -85,7 +85,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM",
+                "16GB",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -161,7 +166,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -237,7 +244,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Office"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -465,7 +474,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

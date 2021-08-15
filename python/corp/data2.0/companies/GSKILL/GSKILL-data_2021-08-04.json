@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -28,7 +30,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -47,7 +51,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -66,7 +72,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

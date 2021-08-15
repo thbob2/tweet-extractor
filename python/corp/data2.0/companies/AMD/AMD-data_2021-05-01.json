@@ -218,7 +218,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -256,7 +258,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -534,7 +538,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -572,7 +578,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM",
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -724,7 +734,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "15inch",
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1066,7 +1079,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speed"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

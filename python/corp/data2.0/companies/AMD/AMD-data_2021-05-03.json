@@ -275,7 +275,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Bag"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -313,7 +315,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Storage"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

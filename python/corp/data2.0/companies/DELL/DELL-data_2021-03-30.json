@@ -9,7 +9,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -85,7 +89,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case",
+                "Size"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -465,7 +472,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -560,7 +569,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "3060"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

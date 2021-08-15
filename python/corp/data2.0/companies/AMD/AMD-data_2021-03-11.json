@@ -85,7 +85,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Volume"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -724,7 +726,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "audio"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -990,7 +994,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1104,7 +1110,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1484,7 +1492,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery",
+                "Battery Life"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1731,7 +1742,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

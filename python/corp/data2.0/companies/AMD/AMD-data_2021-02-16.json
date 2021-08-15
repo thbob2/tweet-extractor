@@ -560,7 +560,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Radio"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -940,7 +942,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Durability"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

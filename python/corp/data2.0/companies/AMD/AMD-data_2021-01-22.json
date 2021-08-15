@@ -503,7 +503,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -845,7 +847,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -959,7 +964,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1016,7 +1024,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1092,7 +1103,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Volume"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1263,7 +1276,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery",
+                "Battery Life"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -1472,7 +1488,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "32GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

@@ -275,7 +275,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -370,7 +372,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "General"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -427,7 +431,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM",
+                "Office"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

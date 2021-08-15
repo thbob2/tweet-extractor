@@ -28,7 +28,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -47,7 +50,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -66,7 +71,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build",
+                "Design"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -85,7 +93,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

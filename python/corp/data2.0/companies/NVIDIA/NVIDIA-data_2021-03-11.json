@@ -66,7 +66,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -85,7 +87,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speed"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -180,7 +184,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -522,7 +528,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -541,7 +549,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "i9",
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -674,7 +686,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -712,7 +726,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

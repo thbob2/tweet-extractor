@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Radio"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -750,7 +752,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

@@ -439,7 +439,9 @@
                     12.9715987
                 ]
             },
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -952,7 +954,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1066,7 +1070,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1123,7 +1129,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080",
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

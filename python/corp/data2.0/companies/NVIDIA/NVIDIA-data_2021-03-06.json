@@ -104,7 +104,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -123,7 +125,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -275,7 +279,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

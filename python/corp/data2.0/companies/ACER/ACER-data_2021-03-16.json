@@ -218,7 +218,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Bag",
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -370,7 +373,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -484,7 +489,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

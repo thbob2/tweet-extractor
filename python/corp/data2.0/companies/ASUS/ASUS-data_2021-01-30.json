@@ -66,7 +66,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -275,7 +277,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -351,7 +355,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -465,7 +471,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery",
+                "Build"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

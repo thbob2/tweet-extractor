@@ -142,7 +142,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Office"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1263,7 +1265,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9",
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1377,7 +1382,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1681,7 +1688,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

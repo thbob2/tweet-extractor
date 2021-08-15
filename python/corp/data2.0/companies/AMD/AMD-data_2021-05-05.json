@@ -610,7 +610,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1028,7 +1030,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1085,7 +1089,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

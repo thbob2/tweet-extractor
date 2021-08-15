@@ -104,7 +104,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -199,7 +202,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1453,7 +1458,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1529,7 +1536,13 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB",
+                "Size",
+                "Screen",
+                "Screen Size",
+                "Screen Size"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1719,7 +1732,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Size"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1738,7 +1753,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -1776,7 +1793,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

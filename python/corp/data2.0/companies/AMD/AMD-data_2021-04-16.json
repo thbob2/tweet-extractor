@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -66,7 +68,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -85,7 +89,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "8GB",
+                "32GB",
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -218,7 +227,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -408,7 +419,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -591,7 +605,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Size"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -781,7 +797,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -819,7 +837,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "General"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -914,7 +934,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "i5",
+                "i7"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1313,7 +1337,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Color"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -1446,7 +1472,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Volume"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1465,7 +1493,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

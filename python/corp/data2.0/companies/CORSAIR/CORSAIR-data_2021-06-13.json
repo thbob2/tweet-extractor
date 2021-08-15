@@ -28,7 +28,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -66,7 +68,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

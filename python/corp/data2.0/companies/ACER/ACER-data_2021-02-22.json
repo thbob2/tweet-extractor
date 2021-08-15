@@ -85,7 +85,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -104,7 +106,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -123,7 +127,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

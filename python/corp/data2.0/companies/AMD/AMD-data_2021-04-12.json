@@ -104,7 +104,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -389,7 +391,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -427,7 +431,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -484,7 +490,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "height"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -522,7 +530,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Size"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1149,7 +1159,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1168,7 +1180,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1377,7 +1392,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1415,7 +1432,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

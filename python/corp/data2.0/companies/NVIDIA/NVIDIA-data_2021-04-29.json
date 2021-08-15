@@ -66,7 +66,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -85,7 +87,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -142,7 +148,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -161,7 +169,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -180,7 +190,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -427,7 +439,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -484,7 +498,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -560,7 +576,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "i7"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

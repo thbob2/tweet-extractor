@@ -560,7 +560,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "i5",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -693,7 +697,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -807,7 +813,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speaker"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

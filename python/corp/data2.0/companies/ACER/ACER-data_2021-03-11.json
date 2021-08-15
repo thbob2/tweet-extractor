@@ -154,7 +154,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

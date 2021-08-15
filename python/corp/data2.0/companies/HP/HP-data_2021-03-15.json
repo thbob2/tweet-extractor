@@ -28,7 +28,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -294,7 +296,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Volume"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -617,7 +621,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1548,7 +1554,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1624,7 +1632,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Color"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1700,7 +1710,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1814,7 +1826,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1890,7 +1905,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB",
+                "Speed"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1947,7 +1967,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "8GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -2118,7 +2141,13 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "Size",
+                "Screen",
+                "Screen Size",
+                "Screen Size"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -2441,7 +2470,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Communication"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -2688,7 +2719,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

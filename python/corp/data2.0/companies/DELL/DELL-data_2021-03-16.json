@@ -161,7 +161,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -180,7 +183,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "14inch"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -218,7 +224,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB",
+                "32GB",
+                "Memory"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -503,7 +513,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -598,7 +611,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -617,7 +632,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "Office"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -655,7 +673,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speaker"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

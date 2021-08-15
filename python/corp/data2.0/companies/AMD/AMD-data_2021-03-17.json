@@ -522,7 +522,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Connectivity"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1491,7 +1493,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1586,7 +1590,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Radio"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -1662,7 +1668,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Speed"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

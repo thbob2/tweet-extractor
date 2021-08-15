@@ -218,7 +218,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -598,7 +600,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

@@ -180,7 +180,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -465,7 +467,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Bright"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -902,7 +906,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design",
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

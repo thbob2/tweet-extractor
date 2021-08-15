@@ -123,7 +123,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -142,7 +144,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -161,7 +165,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -389,7 +395,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "32GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -503,7 +511,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -655,7 +665,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "RAM",
+                "OS"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -731,7 +745,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -902,7 +918,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1130,7 +1148,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1168,7 +1188,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Size"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1320,7 +1342,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Camera",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1434,7 +1460,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1491,7 +1519,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1529,7 +1559,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "weight",
+                "Camera",
+                "Weight"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1548,7 +1582,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Connectivity"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1719,7 +1755,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1776,7 +1814,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -2023,7 +2063,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -2118,7 +2160,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "audio"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -2232,7 +2276,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -2403,7 +2449,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -2555,7 +2603,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Size"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -2669,7 +2719,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

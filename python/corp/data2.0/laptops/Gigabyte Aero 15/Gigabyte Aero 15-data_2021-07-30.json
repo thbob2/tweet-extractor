@@ -85,7 +85,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -142,7 +144,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
