@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -161,7 +163,13 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM",
+                "8GB",
+                "Battery",
+                "Battery Life"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -294,7 +302,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "audio"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -332,7 +342,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -351,7 +366,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "wireless",
+                "Connectivity"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -598,7 +616,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -674,7 +694,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "RAM"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -693,7 +716,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

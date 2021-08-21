@@ -66,7 +66,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -180,7 +182,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -294,7 +298,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -332,7 +339,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

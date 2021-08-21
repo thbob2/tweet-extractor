@@ -85,7 +85,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -237,7 +239,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "charger"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -465,7 +469,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "4G"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -541,7 +548,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -617,7 +627,13 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "Size",
+                "Screen",
+                "Screen Size",
+                "Screen Size"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -674,7 +690,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Speed"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -750,7 +769,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

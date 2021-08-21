@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "8GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -28,7 +30,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -104,7 +108,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "4G"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -123,7 +129,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB",
+                "Battery",
+                "Battery Life"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -218,7 +229,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

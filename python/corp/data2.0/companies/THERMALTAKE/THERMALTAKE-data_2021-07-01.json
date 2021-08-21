@@ -9,7 +9,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -66,7 +69,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -85,7 +90,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -142,7 +149,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -351,7 +360,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case",
+                "Build"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -484,7 +496,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -541,7 +555,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -560,7 +576,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

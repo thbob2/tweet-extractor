@@ -2,177 +2,452 @@
     "models":[
             {
                 "model-name":"Infinix Note 7",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"Infinx",
+                "date-of-release":"2020-04-06",
+                "discription":{
+                    "network":"GSM/LTE",
+                    "body":"173.4 x 79 x 8.8 mm (6.83 x 3.11 x 0.35 in)",
+                    "display":"720 x 1640 pixels (~258 ppi density)",
+                    "os":"Android 10, XOS 6.0",
+                    "cpu":"Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)",
+                    "gpu":"Mali-G52 2EEMC2",
+                    "memory":"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+                    "main-camera":"QUAD 48 MP, f/1.8, (wide), 1/2.0, 0.8µm, PDAF 2 MP, f/2.4, (macro) 2 MP, f/2.4, (depth) 2 MP, f/1.8, (dedicated video camera) - 128/6 model only",
+                    "selfie-camera":"16 MP, f/2.0, 26mm (wide), 1/3.06, 1.0µm",
+                    "battery":"Li-Po 5000 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"iPhone 12",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
-                "rating":0
+                "manifactor":"Apple",
+                "date-of-release":"2020-10-13",
+                "discription":{
+                    "network":"GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                    "body":"Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame",
+                    "display":" 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
+                    "os":"iOS 14.1, upgradable to iOS 14.7",
+                    "cpu":"Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)",
+                    "gpu":"Apple GPU (4-core graphics)",
+                    "memory":"64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM",
+                    "main-camera":"12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6",
+                    "selfie-camera":" 12 MP, f/2.2, 23mm (wide), 1/3.6 SL 3D, (depth/biometrics sensor)",
+                    "battery":"Li-Ion 2815 mAh, non-removable (10.78 Wh)"
+                },
+                "rating":5
             },
             {
                 "model-name":"iPhone 12 Pro",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"Apple",
+                "date-of-release":"2020, October 23",
+                "discription":{
+                    "network":"GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                    "body":"Glass front (Gorilla Glass), glass back (Gorilla Glass), stainless steel frame",
+                    "display":"1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
+                    "os":" iOS 14.1, upgradable to iOS 14.7",
+                    "cpu":" Apple A14 Bionic (5 nm) Hexa-core (2x3.1 GHz Firestorm + 4x1.8 GHz Icestorm)",
+                    "gpu":"Apple GPU (4-core graphics)",
+                    "memory":"128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM",
+                    "main-camera":"12 MP, f/1.6, 26mm (wide), 1.4µm, dual pixel PDAF, OIS 12 MP, f/2.0, 52mm (telephoto), 1/3.4, 1.0µm, PDAF, OIS, 2x optical zoom 12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.6 TOF 3D LiDAR scanner (depth)",
+                    "selfie-camera":"12 MP, f/2.2, 23mm (wide), 1/3.6 SL 3D, (depth/biometrics sensor)",
+                    "battery":"Li-Ion 2815 mAh, non-removable (10.78 Wh)"
+                },
                 "rating":0
             },
             {
                 "model-name":"iPhone SE (2nd generation)",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"Apple",
+                "date-of-release":" 2020, April 24",
+                "discription":{
+                    "network":"GSM / CDMA / HSPA / EVDO / LTE",
+                    "body":"Glass front, glass back, aluminum frame",
+                    "display":"750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+                    "os":"iOS 13, upgradable to iOS 14.7",
+                    "cpu":"Apple A13 Bionic (7 nm+) CPU Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)",
+                    "gpu":"Apple GPU (4-core graphics)",
+                    "memory":"64GB 3GB RAM, 128GB 3GB RAM, 256GB 3GB RAM",
+                    "main-camera":"12 MP, f/1.8 (wide), PDAF, OIS",
+                    "selfie-camera":"7 MP, f/2.2",
+                    "battery":" Li-Ion 1821 mAh, non-removable (6.96 Wh)"
+                },
                 "rating":0
             },
             {
                 "model-name":"LEGION DUEL",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"Lenovi",
+                "date-of-release":"2020, October 15",
+                "discription":{
+                    "network":" GSM / HSPA / LTE / 5G",
+                    "body":"Glass front, glass back, aluminum frame",
+                    "display":"1080 x 2340 pixels, 19.5:9 ratio (~388 ppi density)",
+                    "os":"Android 10, Legion OS/ ZUI12",
+                    "cpu":"Qualcomm SM8250 Snapdragon 865 5G+ (7 nm+) CPU Octa-core (1x3.09 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)",
+                    "gpu":"Adreno 650",
+                    "memory":"256GB 12GB RAM, 512GB 16GB RAM",
+                    "main-camera":"64 MP, f/1.9, 25mm (wide), 1/1.72, 0.8µm, PDAF 16 MP, f/2.2, 120˚, 16mm (ultrawide)",
+                    "selfie-camera":"Motorized pop-up 20 MP, f/2.2, 25mm (wide), 1/3.1 , 0.9µm",
+                    "battery":"Li-Po 5000 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"LG V60 ThinQ",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"LG",
+                "date-of-release":" 2020, March 20",
+                "discription":{
+                    "network":"GSM / CDMA / HSPA / EVDO / LTE / 5G",
+                    "body":"Glass front (Gorilla Glass 5), glass back (Gorilla Glass 6), aluminum frame",
+                    "display":"1080 x 2460 pixels (~395 ppi density)",
+                    "os":"Android 10",
+                    "cpu":"Qualcomm SM8250 Snapdragon 865 5G (7 nm+) CPU Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)",
+                    "gpu":"Adreno 650",
+                    "memory":"128GB 8GB RAM, 256GB 8GB RAM",
+                    "main-camera":"64 MP, f/1.8, 27mm (standard), 1/1.72\", 0.8µm, Dual pixel PDAF, OIS 13 MP, f/1.9, 12mm (ultrawide), 1/3.4\", 1.0µm 0.3 MP, TOF 3D, f/1.4, (depth)",
+                    "selfie-camera":"10 MP, f/1.9, 30mm (standard), 1/3.1\", 1.22µm",
+                    "battery":"Li-Po 5000 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"LG Velvet",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"LG",
+                "date-of-release":"2020, July 31",
+                "discription":{
+                    "network":" GSM / HSPA / LTE",
+                    "body":"Glass front, glass back, aluminum frame",
+                    "display":"1080 x 2460 pixels (~395 ppi density)",
+                    "os":"Android 10, upgradable to Android 11, LG UX 10",
+                    "cpu":"Qualcomm SDM845 Snapdragon 845 (10 nm) Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)",
+                    "gpu":"Adreno 630",
+                    "memory":"128GB 6GB RAM ",
+                    "main-camera":"48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF 8 MP, f/2.2, 120˚, 15mm (ultrawide), 1/4.0\", 1.12µm  5 MP, f/2.4, (depth)",
+                    "selfie-camera":"16 MP, f/1.9, 29mm (standard), 1/3.06, 1.0µm",
+                    "battery":"Li-Po 4300 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"LG Wing",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"LG",
+                "date-of-release":" 2020, October 15",
+                "discription":{
+                    "network":"GSM / CDMA / HSPA / LTE / 5G",
+                    "body":"Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+                    "display":"1080 x 2460 pixels (~395 ppi density)",
+                    "os":"Android 10",
+                    "cpu":"Qualcomm SM7250 Snapdragon 765G 5G (7 nm) Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver)",
+                    "gpu":"Adreno 620",
+                    "memory":"128GB 8GB RAM, 256GB 8GB RAM",
+                    "main-camera":"Triple 64 MP, f/1.8, 25mm (wide), 1/1.72\", 0.8µm, PDAF, OIS 13 MP, f/1.9, 117˚, (ultrawide), 1/3.4\", 1.0µm 12 MP, f/2.2, 120˚, (ultrawide), 1/2.55\", 1.4µm",
+                    "selfie-camera":"Motorized pop-up 32 MP, f/1.9, 26mm (wide), 1/2.8\", 0.8µm",
+                    "battery":"Li-Po 4000 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"Micromax IN Note 1",
-                "manifactor":"",
-                "date-of-release":"",
-                "discription":{},
+                "manifactor":"Micromax",
+                "date-of-release":"2020, November 24",
+                "discription":{
+                    "network":"GSM / HSPA / LTE",
+                    "body":"165.2 x 77 x 9 mm (6.50 x 3.03 x 0.35 in)",
+                    "display":"1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+                    "os":"Android 10 ",
+                    "cpu":"MediaTek Helio G85 (12nm) Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) ",
+                    "gpu":"Mali-G52 MC2",
+                    "memory":"64GB 4GB RAM, 128GB 4GB RAM",
+                    "main-camera":"48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF    5 MP, f/2.2, 115˚ (ultrawide), 1/5.0\", 1.12µm 2 MP, f/2.4, (macro) 2 MP, f/2.4, (depth)",
+                    "selfie-camera":"16 MP, f/2.0, 27mm (wide), 1/3.06\", 1.0µm",
+                    "battery":"Li-Po 5000 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"Moto E (2020)",
-                "manifactor":"",
+                "manifactor":"Motorola",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"GSM / CDMA / HSPA / EVDO / LTE",
+                    "body":"Glass front, plastic back, plastic frame",
+                    "display":"720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
+                    "os":"Android 10",
+                    "cpu":"Qualcomm SDM632 Snapdragon 632 (14 nm) Octa-core (4x1.8 GHz Kryo 250 Gold & 4x1.8 GHz Kryo 250 Silver)",
+                    "gpu":"Adreno 506",
+                    "memory":"32GB 2GB RAM",
+                    "main-camera":" 13 MP, f/2.0, 1/3.1\", 1.12µm, PDAF 2 MP, f/2.2, (depth)",
+                    "selfie-camera":"5 MP, f/2.0, 1.12µm",
+                    "battery":"Li-Po 3550 mAh, non-removable"
+                },
                 "rating":0
             },
             {
                 "model-name":"Moto E7",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Moto G (2020)",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Moto G 5G",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Moto G 5G Plus",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Moto G9",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Motorola Edge",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Motorola Edge+",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"Motorola Razr (5G)",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"OnePlus 8",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"OnePlus 8T",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"OnePlus Nord",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"OnePlus Nord N10",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"OnePlus Nord N100",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
                 "model-name":"SAMSUNG GALAXY S20",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             },
             {
-                "model-name":"SAMSUNG GALAXY Note",
+                "model-name":"SAMSUNG GALAXY Note 20",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{},
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
                 "rating":0
             }
     ]

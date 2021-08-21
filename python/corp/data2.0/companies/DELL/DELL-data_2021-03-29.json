@@ -47,7 +47,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "16GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -85,7 +88,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -218,7 +223,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -313,7 +323,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -332,7 +344,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -484,7 +499,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -617,7 +634,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Bag"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -693,7 +712,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Radio"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -731,7 +752,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060",
+                "RAM"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

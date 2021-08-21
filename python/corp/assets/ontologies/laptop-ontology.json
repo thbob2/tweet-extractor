@@ -1,16 +1,14 @@
 {
-    "product":[
-
-    
-    {
-        "name":"laptop",
-        "childs":[
-            {
-                "name":"CPU",
-                "childs":[
-                    {
-                        "name":"intel Core",
-                        "childs":[
+    "product":[    
+        {
+            "name":"laptop",
+            "childs":[
+                {
+                    "name":"CPU",
+                    "childs":[
+                        {
+                            "name":"intel Core",
+                            "childs":[
                             {
                                 "name":"i3",
                                 "childs":[]
@@ -129,7 +127,24 @@
                                     {
                                         "name":"RTX SUPER",
                                         "childs":[]
+                                    },
+                                    {
+                                        "name":"3060",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"3070",
+                                        "childs":[]
+                                    },
+                                    {
+                                        "name":"3080",
+                                        "childs":[]
                                     }
+                                    ,{
+                                        "name":"3090",
+                                        "childs":[]
+                                    }
+                                    
                                 ]
                             }
                         ]
@@ -162,15 +177,15 @@
                 "name":"RAM",
                 "childs":[
                     {
-                        "name":"8G",
+                        "name":"8GB",
                         "childs":[]
                     },
                     {
-                        "name":"16G",
+                        "name":"16GB",
                         "childs":[]
                     },
                     {
-                        "name":"32G",
+                        "name":"32GB",
                         "childs":[]
                     }
                 ]
@@ -238,4 +253,6 @@
     }
 
     ]
+}
+]
 }

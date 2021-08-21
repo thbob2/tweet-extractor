@@ -180,7 +180,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "13inch",
+                "Battery",
+                "Screen",
+                "Touch Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -218,7 +223,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -256,7 +263,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -522,7 +531,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -541,7 +552,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

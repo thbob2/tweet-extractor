@@ -9,7 +9,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -28,7 +31,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -66,7 +71,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -142,7 +149,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -389,7 +398,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Battery"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

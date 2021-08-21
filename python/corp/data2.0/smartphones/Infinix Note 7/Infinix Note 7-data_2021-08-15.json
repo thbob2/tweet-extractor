@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1426901098628005890,
+            "text": "SHORT MOBILE GAMING note 7 via gaming mobile …",
+            "created_at": "2021-08-15 13:38:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9655703670136552,
+                "negativity": 0.03442963298634508
+            },
+            "user_id": 1421716074442240005,
+            "text_translation": ""
+        },
+        {
+            "id": 1426818358574415879,
+            "text": "Good day ! Name : Mark De Age : 17 Gender : Male Location : City Nationality …",
+            "created_at": "2021-08-15 08:09:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9146807682304121,
+                "negativity": 0.08531923176958979
+            },
+            "user_id": 1413509776160346112,
+            "text_translation": ""
+        }
+    ]
+}

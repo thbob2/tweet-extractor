@@ -1282,7 +1282,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "32GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1548,7 +1551,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

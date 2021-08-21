@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1427616645749657603,
+            "text": "Good afternoon . Please , how much will it cost me for a screen replacement ( note 7 )?",
+            "created_at": "2021-08-17 13:01:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.49327407080426905,
+                "negativity": 0.5067259291957289
+            },
+            "user_id": 293531626,
+            "text_translation": ""
+        },
+        {
+            "id": 1427607828123078720,
+            "text": "Note 10 Pro is , June 2021 Available , it - core , 6 / 8GB RAM , 128 / 256GB Storage , 6 . 95 …",
+            "created_at": "2021-08-17 12:26:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2886435331230284,
+                "negativity": 0.711356466876972
+            },
+            "user_id": 1223847580154679298,
+            "text_translation": ""
+        },
+        {
+            "id": 1427603936186454032,
+            "text": "Note 10 Pro is , June 2021 Available , it - core , 6 / 8GB RAM , 64 / 128 / 256GB Storage , 6 . 95 i …",
+            "created_at": "2021-08-17 12:11:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2886435331230284,
+                "negativity": 0.711356466876972
+            },
+            "user_id": 1223847580154679298,
+            "text_translation": ""
+        },
+        {
+            "id": 1427600530889756717,
+            "text": "Note 10 is , June 2021 Available , it - core , 4 / 6GB RAM , 64 / 128GB Storage , 6 . 95 Di …",
+            "created_at": "2021-08-17 11:57:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.47361209783822156,
+                "negativity": 0.5263879021617786
+            },
+            "user_id": 1223847580154679298,
+            "text_translation": ""
+        },
+        {
+            "id": 1427438615655706630,
+            "text": "note 7 It works well and doesnt lag too much",
+            "created_at": "2021-08-17 01:14:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9819309489525773,
+                "negativity": 0.01806905104742192
+            },
+            "user_id": 1335113583265337344,
+            "text_translation": ""
+        }
+    ]
+}

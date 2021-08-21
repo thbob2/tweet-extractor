@@ -1,0 +1,47 @@
+{
+    "tweets": [
+        {
+            "id": 1428134375065985025,
+            "text": "power Hybrid Rugged Armor 2 in 1 + Shockproof Case For G9 Plus G8 Power Lite One Fusion Plus …",
+            "created_at": "2021-08-18 23:19:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.986030633342643,
+                "negativity": 0.013969366657355339
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1427978037207998468,
+            "text": "G 5G Plus ( 128GB , 6GB ) 6 . 7 ″ +, Snapdragon 765 , 5000mAh Battery ( 5G Only / Global 4G ) Unlocked In …",
+            "created_at": "2021-08-18 12:57:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery",
+                "4G"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3199153468448131,
+                "negativity": 0.6800846531551868
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        }
+    ]
+}

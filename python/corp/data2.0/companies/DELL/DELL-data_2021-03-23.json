@@ -161,7 +161,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -427,7 +429,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "RAM",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -446,7 +452,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -674,7 +682,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -826,7 +836,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Screen"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

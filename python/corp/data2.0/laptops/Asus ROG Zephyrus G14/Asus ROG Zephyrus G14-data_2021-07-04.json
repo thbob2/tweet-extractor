@@ -66,7 +66,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -123,7 +125,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060",
+                "RAM",
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

@@ -180,7 +180,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1073,7 +1075,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -1225,7 +1229,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "8GB",
+                "Office"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1320,7 +1327,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Volume"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

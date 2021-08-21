@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Color"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1339,7 +1341,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070",
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

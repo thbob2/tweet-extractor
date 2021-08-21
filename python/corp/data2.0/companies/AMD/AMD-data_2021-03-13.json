@@ -230,7 +230,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -394,7 +396,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Message"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

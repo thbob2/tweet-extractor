@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

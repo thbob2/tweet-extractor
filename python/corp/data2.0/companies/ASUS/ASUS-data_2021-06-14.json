@@ -161,7 +161,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9",
+                "Build"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -275,7 +278,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -294,7 +299,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "OS",
+                "8GB",
+                "OS"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -370,7 +380,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

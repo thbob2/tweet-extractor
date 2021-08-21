@@ -598,7 +598,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs",
+                "Camera"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -617,7 +620,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -959,7 +964,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -997,7 +1004,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

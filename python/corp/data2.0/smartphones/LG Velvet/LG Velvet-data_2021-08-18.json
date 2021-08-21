@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1428142766106812423,
+            "text": "What am I supposed to do with this Velvet . Is it a collectible now ?",
+            "created_at": "2021-08-18 23:52:23",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.3586255338262597,
+                "negativity": 0.6413744661737402
+            },
+            "user_id": 1029546854269313024,
+            "text_translation": ""
+        },
+        {
+            "id": 1427973904451080192,
+            "text": "27 . 9 30 !!! STREAM QUEENDOM RED VELVET ON STUDIO …",
+            "created_at": "2021-08-18 12:41:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2350347682613805,
+                "negativity": 0.7649652317386186
+            },
+            "user_id": 1284955259865972736,
+            "text_translation": ""
+        },
+        {
+            "id": 1427918135693299712,
+            "text": ": red velvet ur so dear to me",
+            "created_at": "2021-08-18 08:59:47",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.39574355484992807,
+                "negativity": 0.604256445150073
+            },
+            "user_id": 1004489874374881283,
+            "text_translation": ""
+        }
+    ]
+}

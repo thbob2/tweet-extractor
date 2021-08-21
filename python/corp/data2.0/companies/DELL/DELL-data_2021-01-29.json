@@ -142,7 +142,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB",
+                "Storage"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -275,7 +279,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -427,7 +433,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -484,7 +492,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "EDGE"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

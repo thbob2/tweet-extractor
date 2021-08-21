@@ -617,7 +617,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "OS"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1263,7 +1266,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

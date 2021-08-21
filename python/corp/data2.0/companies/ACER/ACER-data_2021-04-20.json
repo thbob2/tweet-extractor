@@ -9,7 +9,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060",
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -47,7 +50,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage",
+                "Memory"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",

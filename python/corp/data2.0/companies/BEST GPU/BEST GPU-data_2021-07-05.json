@@ -389,7 +389,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080",
+                "specs"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -560,7 +563,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3070"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

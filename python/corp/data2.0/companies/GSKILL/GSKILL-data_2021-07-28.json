@@ -9,7 +9,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "32GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -47,7 +50,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080",
+                "RAM",
+                "32GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -104,7 +111,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "32GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

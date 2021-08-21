@@ -28,7 +28,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "weight",
+                "Weight"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

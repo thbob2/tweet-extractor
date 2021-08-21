@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -28,7 +30,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9",
+                "32GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -161,7 +166,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "3060",
+                "RAM",
+                "16GB"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",

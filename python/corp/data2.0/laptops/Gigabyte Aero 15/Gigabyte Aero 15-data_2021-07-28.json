@@ -9,7 +9,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -28,7 +31,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "3080",
+                "8GB",
+                "16GB"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

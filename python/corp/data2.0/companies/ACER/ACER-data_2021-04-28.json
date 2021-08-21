@@ -28,7 +28,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "Battery",
+                "OS"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -66,7 +70,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "specs"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -123,7 +129,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

@@ -921,7 +921,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Connectivity"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1434,7 +1436,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1548,7 +1552,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Speed",
+                "Screen"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",

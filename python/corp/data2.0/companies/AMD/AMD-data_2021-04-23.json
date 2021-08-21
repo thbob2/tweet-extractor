@@ -800,7 +800,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "16GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -1218,7 +1220,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9",
+                "3060",
+                "3070",
+                "3090"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -1541,7 +1548,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Music"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -1579,7 +1588,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1655,7 +1666,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -1883,7 +1896,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Entertainment"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

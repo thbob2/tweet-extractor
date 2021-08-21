@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -85,7 +87,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i9",
+                "Build"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -123,7 +128,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -161,7 +168,13 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3",
+                "i5",
+                "RAM",
+                "8GB",
+                "Office"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -237,7 +250,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",

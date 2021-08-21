@@ -47,7 +47,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i3"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -85,7 +87,12 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "8GB",
+                "Screen",
+                "Touch Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -199,7 +206,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

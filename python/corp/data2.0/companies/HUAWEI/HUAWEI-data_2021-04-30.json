@@ -28,7 +28,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -123,7 +125,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Durability"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -218,7 +222,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera",
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -275,7 +282,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "neg",
@@ -351,7 +361,11 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "OS",
+                "Build",
+                "OS"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -446,7 +460,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Design"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

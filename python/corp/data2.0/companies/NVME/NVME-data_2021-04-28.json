@@ -66,7 +66,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "i7"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "pos",
@@ -85,7 +88,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i5",
+                "8GB"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -104,7 +110,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Storage"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",

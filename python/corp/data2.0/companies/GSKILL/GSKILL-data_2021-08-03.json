@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3090"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -28,7 +30,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM"
+            ],
             "label": "negative",
             "note": {
                 "classisication": "neg",
@@ -47,7 +51,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -66,7 +73,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "RAM",
+                "Memory"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "neg",
@@ -85,7 +95,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "4G"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

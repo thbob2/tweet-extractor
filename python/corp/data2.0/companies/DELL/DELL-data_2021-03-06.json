@@ -142,7 +142,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060",
+                "3080"
+            ],
             "label": "positive",
             "note": {
                 "classisication": "pos",
@@ -313,7 +316,10 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "audio",
+                "microphone"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",

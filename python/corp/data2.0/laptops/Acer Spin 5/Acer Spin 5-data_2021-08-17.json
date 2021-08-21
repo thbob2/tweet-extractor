@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1427532138157465607,
+            "text": "New Spin CP713 - 2W - 3311 13 . 5 ” 2K i3 - 10110U 4GB 64GB",
+            "created_at": "2021-08-17 07:25:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5219533613035418,
+                "negativity": 0.4780466386964586
+            },
+            "user_id": 1221379289121054721,
+            "text_translation": ""
+        },
+        {
+            "id": 1427432977626185730,
+            "text": ": Is your heading back to school ? It is time to upgrade their . The Spin 5 Convertible is super …",
+            "created_at": "2021-08-17 00:51:56",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6372437533506656,
+                "negativity": 0.3627562466493341
+            },
+            "user_id": 2891325005,
+            "text_translation": ""
+        }
+    ]
+}
