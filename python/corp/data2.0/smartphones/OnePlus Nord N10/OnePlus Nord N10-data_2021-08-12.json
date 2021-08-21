@@ -1,0 +1,64 @@
+{
+    "tweets": [
+        {
+            "id": 1425709190190800897,
+            "text": "Shot on : N10 5g",
+            "created_at": "2021-08-12 06:42:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5190114068441065,
+                "negativity": 0.48098859315589354
+            },
+            "user_id": 1397230290322427904,
+            "text_translation": ""
+        },
+        {
+            "id": 1425671872688107523,
+            "text": "Soft Silicone Clear for N10 N100 NordN10 5G Phone Case Transparent Camera Protective Bum …",
+            "created_at": "2021-08-12 04:13:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.2899821352753252,
+                "negativity": 0.7100178647246739
+            },
+            "user_id": 1355540838181289989,
+            "text_translation": ""
+        },
+        {
+            "id": 1425617957158146048,
+            "text": "Here are my best from N10",
+            "created_at": "2021-08-12 00:39:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5355095577520895,
+                "negativity": 0.4644904422479105
+            },
+            "user_id": 1381952498764681219,
+            "text_translation": ""
+        }
+    ]
+}

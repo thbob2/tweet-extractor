@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1428084427901620229,
+            "text": "note 7",
+            "created_at": "2021-08-18 20:00:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.5232558139534884,
+                "negativity": 0.4767441860465117
+            },
+            "user_id": 2215494431,
+            "text_translation": ""
+        },
+        {
+            "id": 1427958540161847300,
+            "text": "I am tired of waiting for 7 . 6 update in Note 7 . But there is only one answer from your si …",
+            "created_at": "2021-08-18 11:40:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.1471435934996714,
+                "negativity": 0.8528564065003283
+            },
+            "user_id": 796998497337769984,
+            "text_translation": ""
+        }
+    ]
+}

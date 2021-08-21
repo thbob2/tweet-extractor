@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1426663182475698178,
+            "text": "is its first - gen foldable — with Android 11 - The Verge 5G Security :",
+            "created_at": "2021-08-14 21:53:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.706432455466138,
+                "negativity": 0.2935675445338627
+            },
+            "user_id": 1049585267772968960,
+            "text_translation": ""
+        },
+        {
+            "id": 1426440612182728704,
+            "text": ": Latest Nest Hub to $ 80 , 5G $ 400 off , more | 🔗",
+            "created_at": "2021-08-14 07:08:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.21068120163081253,
+                "negativity": 0.7893187983691868
+            },
+            "user_id": 3438095788,
+            "text_translation": ""
+        },
+        {
+            "id": 1426362463382016006,
+            "text": "Save $ 400 on the 5G Unlocked Cell Phone . Only $ 999 . 99 $ 1 , 399 . 99 .",
+            "created_at": "2021-08-14 01:58:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.015493692773254946,
+                "negativity": 0.9845063072267456
+            },
+            "user_id": 1409620894947938304,
+            "text_translation": ""
+        }
+    ]
+}

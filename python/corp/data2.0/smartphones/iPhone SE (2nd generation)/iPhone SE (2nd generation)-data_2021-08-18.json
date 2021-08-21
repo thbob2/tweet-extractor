@@ -1,0 +1,107 @@
+{
+    "tweets": [
+        {
+            "id": 1428016345975689218,
+            "text": "Case 02 Anime \" \" Exhibition - of -…",
+            "created_at": "2021-08-18 15:30:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.15803108808290148,
+                "negativity": 0.8419689119170994
+            },
+            "user_id": 1384880363269361664,
+            "text_translation": ""
+        },
+        {
+            "id": 1427968527751733253,
+            "text": "Case 01 Anime \" \" Exhibition - of -…",
+            "created_at": "2021-08-18 12:20:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.15803108808290148,
+                "negativity": 0.8419689119170994
+            },
+            "user_id": 1384880363269361664,
+            "text_translation": ""
+        },
+        {
+            "id": 1427951956925026304,
+            "text": "Apple SE ( 2nd Generation ), 64GB , White - Unlocked ( Premium ) by Apple via",
+            "created_at": "2021-08-18 11:14:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.9937887659536774,
+                "negativity": 0.006211234046320576
+            },
+            "user_id": 722533029713944576,
+            "text_translation": ""
+        },
+        {
+            "id": 1427951318166130689,
+            "text": "SE 2nd Generation 4G ( Locked ) - Black - 64GB - Card Included - by A …",
+            "created_at": "2021-08-18 11:11:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "4G"
+            ],
+            "label": "negative",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.936875947110155,
+                "negativity": 0.06312405288984244
+            },
+            "user_id": 722533029713944576,
+            "text_translation": ""
+        },
+        {
+            "id": 1427847866635231236,
+            "text": ": & ;& ;& ; NEW IN Silicone Case Compatible with SE 2020 2nd Generation , 8 and 7 , 4 . 7 - Inch , Silky - Soft …",
+            "created_at": "2021-08-18 04:20:34",
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.0793590756358348,
+                "negativity": 0.9206409243641681
+            },
+            "user_id": 1384164826839011334,
+            "text_translation": ""
+        }
+    ]
+}

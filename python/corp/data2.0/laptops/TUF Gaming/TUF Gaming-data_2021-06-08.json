@@ -9,7 +9,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3060"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -49,7 +51,9 @@
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "3080"
+            ],
             "label": "nutral",
             "note": {
                 "classisication": "pos",
@@ -129,6 +133,7 @@
             "coordinates": null,
             "mention": [
                 "i7",
+                "3060",
                 "RAM"
             ],
             "label": "negative",

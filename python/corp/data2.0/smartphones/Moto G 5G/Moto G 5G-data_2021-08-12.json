@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1425764586716807172,
+            "text": "G Stylus 5G is , June 2021 Available , it - core , 4 / 6GB RAM , 128 / 256GB Storage , 6 . 8 …",
+            "created_at": "2021-08-12 10:22:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.21461092715231794,
+                "negativity": 0.785389072847683
+            },
+            "user_id": 1223847580154679298,
+            "text_translation": ""
+        },
+        {
+            "id": 1425758979179827200,
+            "text": "The G Stylus 5G is a true bargain for stylus .",
+            "created_at": "2021-08-12 10:00:04",
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6233427084757613,
+                "negativity": 0.37665729152423866
+            },
+            "user_id": 15066271,
+            "text_translation": ""
+        },
+        {
+            "id": 1425651897587830784,
+            "text": "And same for g 5g .... You will never get android 11 update",
+            "created_at": "2021-08-12 02:54:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.43250979934824657,
+                "negativity": 0.5674902006517523
+            },
+            "user_id": 2868615193,
+            "text_translation": ""
+        }
+    ]
+}
