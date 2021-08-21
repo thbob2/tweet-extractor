@@ -1,9 +1,18 @@
 import mongoengine
-class Tweet(mongoengine.EmbeddedDocument):
 
+
+
+class Score(mongoengine.EmbeddedDocument):
+    classification = mongoengine.StringField()
+    positivity = mongoengine.FloatField()
+    negativity = mongoengine.FloatField()
+
+
+class Tweet(mongoengine.Document):
+    
     t_id = mongoengine.IntField()
     t_text = mongoengine.StringField()
-    post_time = mongoengine.DateField()
+    post_time = mongoengine.DateTimeField()
     lang = mongoengine.StringField()
     retweet_count = mongoengine.IntField()
     fav_count = mongoengine.IntField()
@@ -13,8 +22,7 @@ class Tweet(mongoengine.EmbeddedDocument):
     score = mongoengine.EmbeddedDocument()
     user_id = mongoengine.IntField()
 
-
-class Score(mongoengine.EmbeddedDocument):
-    classification = mongoengine.StringFiled()
-    positivity = mongoengine.FloatField()
-    negativity = mongoengine.FloatField()
+    meta = {
+        'db_alias': 'core',
+        'collection': 'tweets'
+    }

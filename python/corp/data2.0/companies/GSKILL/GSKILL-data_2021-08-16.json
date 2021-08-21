@@ -1,0 +1,66 @@
+{
+    "tweets": [
+        {
+            "id": 1427370230381088783,
+            "text": ": 10900KF 50 / 48 Direct Die , Liquid Metal : Strix 3080 White : 970 Plus 1 …",
+            "created_at": "2021-08-16 20:42:36",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "positive",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.22867552017031215,
+                "negativity": 0.7713244798296872
+            },
+            "user_id": 3096287474,
+            "text_translation": ""
+        },
+        {
+            "id": 1427343398772494343,
+            "text": "can you do a side by side of a $ 3000 i9 10900k to 5 . 0ghz a 3080 FE and 64gb of …",
+            "created_at": "2021-08-16 18:55:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "3080"
+            ],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.10926176699097133,
+                "negativity": 0.8907382330090284
+            },
+            "user_id": 63085792,
+            "text_translation": ""
+        },
+        {
+            "id": 1427251299179917315,
+            "text": "Extreme Testing Rog",
+            "created_at": "2021-08-16 12:50:01",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4602272727272729,
+                "negativity": 0.5397727272727273
+            },
+            "user_id": 1394407218,
+            "text_translation": ""
+        }
+    ]
+}

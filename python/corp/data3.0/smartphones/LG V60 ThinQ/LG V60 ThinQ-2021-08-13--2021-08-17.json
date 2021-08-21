@@ -1,0 +1,68 @@
+{
+    "query": "LG V60 ThinQ",
+    "start": "2021-08-13 01:49:27",
+    "end": "2021-08-17 09:32:27",
+    "total": 81,
+    "positive": 46,
+    "nutral": 29,
+    "negative": 6,
+    "tweets": [
+        {
+            "id": 1425997898571997186,
+            "text": "Hello . do you even have a case for the V60 Dual Screen .... we ' see if you can handle that ,…",
+            "created_at": "2021-08-13 01:49:27",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.45032206896388804,
+                "negativity": 0.5496779310361118
+            },
+            "user_id": 1140719131014160387,
+            "text_translation": ""
+        },
+        {
+            "id": 1427628063420993540,
+            "text": "Best in 2021 : Latest and New list - V60 5G 128GB Android - V600TM ( Renew …",
+            "created_at": "2021-08-17 13:47:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classisication": "pos",
+                "positivity": 0.6879847036157809,
+                "negativity": 0.3120152963842181
+            },
+            "user_id": 1427386329445421059,
+            "text_translation": ""
+        },
+        {
+            "id": 1427563968315510788,
+            "text": "Thinking about coming back to when it comes to ( just picked up the 512GB Ga …",
+            "created_at": "2021-08-17 09:32:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "nutral",
+            "note": {
+                "classisication": "neg",
+                "positivity": 0.4784658673983712,
+                "negativity": 0.5215341326016288
+            },
+            "user_id": 4840025494,
+            "text_translation": ""
+        }
+    ]
+}
