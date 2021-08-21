@@ -8,7 +8,7 @@ class Laptop(mongoengine.Document):
     date_of_release = mongoengine.DateField()
     
     discription = mongoengine.EmbeddedDocumentField()
-
+    extracted_data_ids = mongoengine.ListField()
     mete = {
         'db_alias': 'core',
         'collection': 'laptops'
@@ -16,4 +16,12 @@ class Laptop(mongoengine.Document):
 
 
 class Discription(mongoengine.EmbeddedDocument):
-    pass
+    network = mongoengine.StringField()
+    body = mongoengine.StringField()
+    display = mongoengine.StringField()
+    os = mongoengine.StringField()
+    cpu = mongoengine.StringField()
+    gpu = mongoengine.StringField()
+    memory = mongoengine.StringField()
+    main_camera = mongoengine.StringField()
+    battery = mongoengine.StringField()

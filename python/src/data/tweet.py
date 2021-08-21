@@ -3,7 +3,7 @@ class Tweet(mongoengine.EmbeddedDocument):
 
     t_id = mongoengine.IntField()
     t_text = mongoengine.StringField()
-    post_time = mongoengine.DateField()
+    post_time = mongoengine.DateTimeField()
     lang = mongoengine.StringField()
     retweet_count = mongoengine.IntField()
     fav_count = mongoengine.IntField()
@@ -15,6 +15,6 @@ class Tweet(mongoengine.EmbeddedDocument):
 
 
 class Score(mongoengine.EmbeddedDocument):
-    classification = mongoengine.StringFiled()
+    classification = mongoengine.StringField()
     positivity = mongoengine.FloatField()
     negativity = mongoengine.FloatField()

@@ -35,7 +35,7 @@ def clean(tweet):
     return tweet
 
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
@@ -381,6 +381,7 @@ def Semantico(files,n):
     
     chunk_list = []
     month_j = {
+        "query":"",
         "start":"",
         "end":"",
         "total":0,
@@ -411,6 +412,8 @@ def Semantico(files,n):
                 alltweets.append(tempo)
                 cpt +=1
         
+        
+        chunk_m['query'] = os.path.basename(chunk[0]).split('-')[0]
         chunk_m['start'] = alltweets[0].created_at
         chunk_m['end'] = alltweets[len(alltweets)-1].created_at
         chunk_m['tweets'] = [t.dumps() for t in alltweets]
@@ -428,6 +431,7 @@ def chunkyboy(path):
     try:
         for folder in chinks:
             towrite = Semantico(folder['files'],30)
+            
             for w in towrite:
                 fname = "{0}-{1}--{2}.json".format(folder['name'],str(w['start'])[0:10],str(w['end'])[0:10])
                 writer = open(alterpath+folder['name']+"/"+fname,"wb")
@@ -443,14 +447,14 @@ if __name__ == '__main__':
     #filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
     #filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
     #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
-##
-    #filter(os.getcwd()+"/python/corp/assets/smartphones.txt","smartphones")
-    filterPhones()
-    filterLaptops()
+
+ 
+    #filterPhones()
+    #filterLaptops()
     #
-    filterCompanies()
+    #filterCompanies()
     chunkyboy(laptops)
     chunkyboy(companies)
     chunkyboy(phones)
     #sortfunc("infinx note7-data_2021-01-21.json")
-    
+    #exploreCorp(phones)

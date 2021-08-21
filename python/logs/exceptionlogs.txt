@@ -410,3 +410,5 @@ Failed to send request: ('Connection aborted.', ConnectionResetError(10054, 'An 
 Failed to send request: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)):::2021-08-19 16:53:35.996573
 Failed to send request: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)):::2021-08-19 17:08:40.444719
 Failed to send request: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)):::2021-08-19 17:23:45.683456
+[WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Boe\\Documents\\projects\\repos\\tweet-extractor/python/corp/data3.0/laptops\\Acer Spin 5':::2021-08-21 14:58:25.842618
+[WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Boe\\Documents\\projects\\repos\\tweet-extractor/python/corp/data2.0/laptops\\Acer Spin 5':::2021-08-21 14:59:15.670496
