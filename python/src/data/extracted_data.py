@@ -2,7 +2,7 @@ import mongoengine
 import datetime
 
 class EData(mongoengine.Document):
-    product = mongoengine.ObjectIdField()
+    
     query = mongoengine.StringField()
     begin_date = mongoengine.DateTimeField()
     end_date = mongoengine.DateTimeField()
