@@ -19,7 +19,7 @@ class Tweet(mongoengine.Document):
     mentions = mongoengine.ListField()
     label = mongoengine.StringField()
 
-    score = mongoengine.EmbeddedDocument()
+    score = mongoengine.EmbeddedDocumentField(Score)
     user_id = mongoengine.IntField()
 
     meta = {

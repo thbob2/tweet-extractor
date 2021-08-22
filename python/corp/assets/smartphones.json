@@ -360,6 +360,7 @@
                 },
                 "rating":0
             },
+
             {
                 "model-name":"OnePlus Nord",
                 "manifactor":"",
@@ -434,6 +435,42 @@
             },
             {
                 "model-name":"SAMSUNG GALAXY Note 20",
+                "manifactor":"",
+                "date-of-release":"",
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
+                "rating":0
+            },
+            {
+                "model-name":"SAMSUNG GALAXY Note 20 ultra",
+                "manifactor":"",
+                "date-of-release":"",
+                "discription":{
+                    "network":"",
+                    "body":"",
+                    "display":"",
+                    "os":"",
+                    "cpu":"",
+                    "gpu":"",
+                    "memory":"",
+                    "main-camera":"",
+                    "selfie-camera":"",
+                    "battery":""
+                },
+                "rating":0
+            },
+            {
+                "model-name":"SAMSUNG GALAXY Note",
                 "manifactor":"",
                 "date-of-release":"",
                 "discription":{
