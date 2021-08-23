@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7732733455781587,
                 "negativity": 0.226726654421843
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4186704844324758,
                 "negativity": 0.5813295155675222
             },
@@ -50,9 +50,9 @@
             "mention": [
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.444191640403598,
                 "negativity": 0.5558083595964022
             },

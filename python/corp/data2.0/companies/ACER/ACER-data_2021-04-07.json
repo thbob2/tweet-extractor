@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7752047027883924,
                 "negativity": 0.22479529721160785
             },
@@ -29,9 +29,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8709034921389418,
                 "negativity": 0.1290965078610587
             },
@@ -48,9 +48,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5756992058318356,
                 "negativity": 0.42430079416816363
             },
@@ -69,7 +69,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5783030395592343,
                 "negativity": 0.4216969604407659
             },
@@ -88,7 +88,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.15311735941320284,
                 "negativity": 0.8468826405867954
             },
@@ -110,7 +110,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.0689554383271235,
                 "negativity": 0.9310445616728766
             },
@@ -131,9 +131,9 @@
                 "32GB",
                 "Screen"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5000860686470272,
                 "negativity": 0.4999139313529741
             },
@@ -152,9 +152,9 @@
             "mention": [
                 "wireless"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3886948796100632,
                 "negativity": 0.6113051203899387
             },
@@ -171,9 +171,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4220888232300385,
                 "negativity": 0.577911176769961
             },
@@ -192,7 +192,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6617001947751191,
                 "negativity": 0.3382998052248805
             },
@@ -209,9 +209,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.22773635581474486,
                 "negativity": 0.7722636441852548
             },

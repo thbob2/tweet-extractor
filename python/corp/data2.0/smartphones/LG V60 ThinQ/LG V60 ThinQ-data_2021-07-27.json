@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8125715790716762,
                 "negativity": 0.187428420928325
             },
@@ -33,7 +33,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6706420291560027,
                 "negativity": 0.329357970843997
             },
@@ -53,9 +53,9 @@
                 "Memory",
                 "Screen"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.06409732003911969,
                 "negativity": 0.9359026799608785
             },

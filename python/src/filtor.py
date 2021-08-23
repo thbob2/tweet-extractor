@@ -35,7 +35,7 @@ def clean(tweet):
     return tweet
 
 def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data2.0/" + parent
+    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
     try:
         os.mkdir(rpath)
     except OSError as e:
@@ -351,7 +351,7 @@ def exploreCorp(path):
         }    
         for j in os.scandir(i):
             folder['files'].append(j.path)
-        #folder['files'].sort(key=sortfunc,reverse=False)
+        folder['files'].sort(key=sortfunc,reverse=False)
         folders.append(folder)      
     
     return folders
@@ -386,7 +386,7 @@ def Semantico(files,n):
         "end":"",
         "total":0,
         "positive": 0,
-        "nutral":0,
+        "neutral":0,
         "negative":0,
         "tweets" : []
 
@@ -450,8 +450,8 @@ if __name__ == '__main__':
 
  
     #filterPhones()
-    #filterLaptops()
-    #
+    ##filterLaptops()
+    ###
     #filterCompanies()
     chunkyboy(laptops)
     chunkyboy(companies)

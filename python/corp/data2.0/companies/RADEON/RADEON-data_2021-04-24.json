@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.643334280841387,
                 "negativity": 0.3566657191586126
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9255930500734123,
                 "negativity": 0.07440694992658772
             },
@@ -50,11 +50,11 @@
             "mention": [
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.1134541836911749,
-                "negativity": 0.8865458163088262
+                "negativity": 0.8865458163088263
             },
             "user_id": 847785560462823428,
             "text_translation": ""
@@ -71,7 +71,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7142619367149641,
                 "negativity": 0.28573806328503537
             },

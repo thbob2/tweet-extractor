@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6845458860625654,
                 "negativity": 0.3154541139374345
             },
@@ -32,9 +32,9 @@
                 "i5",
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.890469085144082,
                 "negativity": 0.10953091485591729
             },
@@ -51,9 +51,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7051031301802749,
                 "negativity": 0.2948968698197242
             },
@@ -70,9 +70,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.34444444444444433,
                 "negativity": 0.6555555555555552
             },
@@ -91,7 +91,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6524187318412028,
                 "negativity": 0.34758126815879853
             },
@@ -108,9 +108,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.575,
                 "negativity": 0.4250000000000001
             },

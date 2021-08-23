@@ -10,9 +10,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5421926030541089,
                 "negativity": 0.4578073969458909
             },
@@ -33,7 +33,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.46823671220098567,
                 "negativity": 0.5317632877990144
             },
@@ -52,7 +52,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.22338550372952384,
                 "negativity": 0.7766144962704772
             },
@@ -71,7 +71,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.16521225507303844,
                 "negativity": 0.8347877449269627
             },
@@ -90,7 +90,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.654188476236095,
                 "negativity": 0.345811523763905
             },
@@ -109,7 +109,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6111224600326248,
                 "negativity": 0.3888775399673736
             },
@@ -126,9 +126,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6232092026765209,
                 "negativity": 0.376790797323477
             },
@@ -147,9 +147,9 @@
             "mention": [
                 "Battery"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.29110797459421284,
                 "negativity": 0.7088920254057869
             },

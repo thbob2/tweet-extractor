@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5233821408227894,
                 "negativity": 0.47661785917720995
             },
@@ -31,9 +31,9 @@
             "mention": [
                 "3080"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8373316109983402,
                 "negativity": 0.16266838900166078
             },
@@ -52,9 +52,9 @@
             "mention": [
                 "Memory"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7648276901073623,
                 "negativity": 0.23517230989263663
             },

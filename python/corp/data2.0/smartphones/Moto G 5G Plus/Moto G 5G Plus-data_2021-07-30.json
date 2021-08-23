@@ -12,9 +12,9 @@
             "mention": [
                 "Screen"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6147321698240997,
                 "negativity": 0.3852678301759013
             },
@@ -33,7 +33,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6090997111216644,
                 "negativity": 0.39090028887833467
             },
@@ -52,7 +52,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2855811514111023,
                 "negativity": 0.7144188485888997
             },

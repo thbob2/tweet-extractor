@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9807693053571456,
                 "negativity": 0.01923069464285168
             },
@@ -31,9 +31,9 @@
             "mention": [
                 "i5"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4692307692307691,
                 "negativity": 0.5307692307692309
             },
@@ -52,10 +52,10 @@
             "mention": [
                 "i5"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
-                "positivity": 0.6176920137562091,
+                "classification": "pos",
+                "positivity": 0.6176920137562092,
                 "negativity": 0.38230798624379086
             },
             "user_id": 130445458,

@@ -14,9 +14,9 @@
                 "3070",
                 "16GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5769230769230764,
                 "negativity": 0.42307692307692324
             },
@@ -36,9 +36,9 @@
                 "i7",
                 "3080"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6581936949730192,
                 "negativity": 0.34180630502698106
             },
@@ -55,9 +55,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.38405532725084307,
                 "negativity": 0.6159446727491572
             },
@@ -76,7 +76,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9722139968121415,
                 "negativity": 0.027786003187859787
             },
@@ -95,7 +95,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2334815756035572,
                 "negativity": 0.7665184243964406
             },
@@ -114,7 +114,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8089443309729469,
                 "negativity": 0.19105566902705412
             },

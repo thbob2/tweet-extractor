@@ -12,7 +12,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8989806086765837,
                 "negativity": 0.10101939132341607
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2094322048829716,
                 "negativity": 0.7905677951170289
             },
@@ -50,9 +50,9 @@
             "mention": [
                 "16GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5062310842086523,
                 "negativity": 0.4937689157913468
             },
@@ -72,9 +72,9 @@
                 "RAM",
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.15868548781606598,
                 "negativity": 0.841314512183934
             },
@@ -91,9 +91,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3632009592502711,
                 "negativity": 0.6367990407497282
             },

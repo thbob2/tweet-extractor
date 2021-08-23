@@ -10,9 +10,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.16666666666666646,
                 "negativity": 0.833333333333333
             },
@@ -32,9 +32,9 @@
                 "Camera",
                 "Screen"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.630156437671826,
                 "negativity": 0.3698435623281735
             },
@@ -53,7 +53,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8684555607526904,
                 "negativity": 0.13154443924730935
             },
@@ -72,7 +72,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9223077143787806,
                 "negativity": 0.07769228562121883
             },

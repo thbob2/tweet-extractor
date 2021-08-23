@@ -12,9 +12,9 @@
             "mention": [
                 "Camera"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3790326170395958,
                 "negativity": 0.6209673829604051
             },
@@ -33,7 +33,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5995437296058187,
                 "negativity": 0.4004562703941813
             },
@@ -54,7 +54,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4922109803576665,
                 "negativity": 0.5077890196423339
             },
@@ -73,7 +73,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5995437296058187,
                 "negativity": 0.4004562703941813
             },
@@ -90,9 +90,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5771555007315865,
                 "negativity": 0.4228444992684137
             },

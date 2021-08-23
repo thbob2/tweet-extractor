@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6083333815908432,
                 "negativity": 0.39166661840915595
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5086002782046586,
                 "negativity": 0.4913997217953404
             },
@@ -53,9 +53,9 @@
                 "3080",
                 "3090"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6111111111111108,
                 "negativity": 0.38888888888888884
             },
@@ -77,9 +77,9 @@
                 "Memory",
                 "Screen"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6932587225652718,
                 "negativity": 0.3067412774347278
             },

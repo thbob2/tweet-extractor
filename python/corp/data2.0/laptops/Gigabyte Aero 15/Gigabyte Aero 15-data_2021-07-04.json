@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7533699201775371,
                 "negativity": 0.24663007982246285
             },
@@ -31,9 +31,9 @@
             "mention": [
                 "i7"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4718802583865673,
                 "negativity": 0.5281197416134337
             },

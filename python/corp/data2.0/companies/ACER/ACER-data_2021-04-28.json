@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -35,7 +35,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6270850272666292,
                 "negativity": 0.37291497273337076
             },
@@ -54,7 +54,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -73,9 +73,9 @@
             "mention": [
                 "specs"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.527998466410854,
                 "negativity": 0.4720015335891465
             },
@@ -94,7 +94,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -113,7 +113,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -132,9 +132,9 @@
             "mention": [
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.20828887913579158,
                 "negativity": 0.7917111208642085
             },

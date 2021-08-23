@@ -12,9 +12,9 @@
             "mention": [
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7044221781708192,
                 "negativity": 0.2955778218291828
             },
@@ -35,7 +35,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6169518369392902,
                 "negativity": 0.3830481630607091
             },
@@ -52,9 +52,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.12366398275709654,
                 "negativity": 0.8763360172429033
             },

@@ -14,7 +14,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2871805982443744,
                 "negativity": 0.7128194017556264
             },
@@ -36,7 +36,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2514059009321313,
                 "negativity": 0.7485940990678683
             },
@@ -58,7 +58,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.28244216319993853,
                 "negativity": 0.7175578368000609
             },
@@ -78,9 +78,9 @@
                 "i5",
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5049668874172186,
                 "negativity": 0.4950331125827815
             },
@@ -100,9 +100,9 @@
                 "i5",
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2537437603993343,
                 "negativity": 0.7462562396006659
             },
@@ -121,7 +121,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3244553083512792,
                 "negativity": 0.6755446916487212
             },
@@ -140,7 +140,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.30848095710714707,
                 "negativity": 0.6915190428928533
             },
@@ -157,9 +157,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4186674669867942,
                 "negativity": 0.5813325330132054
             },
@@ -178,7 +178,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4969633785133463,
                 "negativity": 0.5030366214866536
             },
@@ -197,7 +197,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.07355887548406403,
                 "negativity": 0.9264411245159364
             },
@@ -216,7 +216,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2486816334770675,
                 "negativity": 0.7513183665229329
             },
@@ -236,9 +236,9 @@
                 "i5",
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6583656259277185,
                 "negativity": 0.34163437407228187
             },

@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9600196611029669,
                 "negativity": 0.039980338897032154
             },
@@ -31,9 +31,9 @@
             "mention": [
                 "i9"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2866541353383453,
                 "negativity": 0.7133458646616536
             },
@@ -52,7 +52,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6535405387436766,
                 "negativity": 0.3464594612563225
             },

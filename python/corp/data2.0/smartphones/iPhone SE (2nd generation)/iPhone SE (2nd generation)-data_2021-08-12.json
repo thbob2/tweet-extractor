@@ -10,9 +10,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9615281610864994,
                 "negativity": 0.0384718389135013
             },
@@ -32,9 +32,9 @@
                 "Memory",
                 "Screen"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.12106934853167889,
                 "negativity": 0.8789306514683256
             },
@@ -53,9 +53,9 @@
             "mention": [
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6042589802820297,
                 "negativity": 0.3957410197179709
             },

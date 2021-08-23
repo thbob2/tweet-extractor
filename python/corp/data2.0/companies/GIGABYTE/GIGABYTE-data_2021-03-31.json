@@ -14,7 +14,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9349265669683183,
                 "negativity": 0.06507343303168107
             },
@@ -33,9 +33,9 @@
             "mention": [
                 "3080"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4342105263157898,
                 "negativity": 0.56578947368421
             },
@@ -54,7 +54,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6832750629241015,
                 "negativity": 0.316724937075898
             },
@@ -74,9 +74,9 @@
                 "3070",
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5466867469879508,
                 "negativity": 0.4533132530120484
             },

@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7918335994515036,
                 "negativity": 0.2081664005484967
             },
@@ -33,7 +33,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5742292192178011,
                 "negativity": 0.42577078078219954
             },
@@ -55,7 +55,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.06617978251077783,
                 "negativity": 0.9338202174892231
             },
@@ -74,9 +74,9 @@
             "mention": [
                 "Build"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9804833048046405,
                 "negativity": 0.01951669519536075
             },

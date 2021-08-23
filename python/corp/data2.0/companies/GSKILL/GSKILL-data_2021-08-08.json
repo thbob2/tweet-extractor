@@ -12,7 +12,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9058304326205865,
                 "negativity": 0.09416956737941312
             },
@@ -31,9 +31,9 @@
             "mention": [
                 "16GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8717656522322018,
                 "negativity": 0.12823434776779707
             },
@@ -52,7 +52,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4225054768183582,
                 "negativity": 0.5774945231816415
             },
@@ -69,9 +69,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7021510859503757,
                 "negativity": 0.297848914049622
             },
@@ -90,7 +90,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.08065027371408685,
                 "negativity": 0.9193497262859155
             },
@@ -110,9 +110,9 @@
                 "3080",
                 "RAM"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.08252104805164011,
                 "negativity": 0.9174789519483598
             },

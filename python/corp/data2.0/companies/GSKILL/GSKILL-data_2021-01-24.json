@@ -15,9 +15,9 @@
                 "RAM",
                 "16GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.08068793627100787,
                 "negativity": 0.9193120637289929
             },
@@ -39,7 +39,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3710152035311429,
                 "negativity": 0.6289847964688584
             },
@@ -58,9 +58,9 @@
             "mention": [
                 "Build"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6095890410958906,
                 "negativity": 0.3904109589041104
             },
@@ -81,7 +81,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4582576084178418,
                 "negativity": 0.5417423915821586
             },
@@ -100,9 +100,9 @@
             "mention": [
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.314089535176156,
                 "negativity": 0.6859104648238437
             },
@@ -119,9 +119,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5,
                 "negativity": 0.5
             },
@@ -140,7 +140,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.08547466095645959,
                 "negativity": 0.9145253390435397
             },
@@ -161,7 +161,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8864841769201257,
                 "negativity": 0.11351582307987332
             },
@@ -182,7 +182,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8864841769201257,
                 "negativity": 0.11351582307987332
             },
@@ -202,9 +202,9 @@
                 "3080",
                 "RAM"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4939026503125215,
                 "negativity": 0.5060973496874772
             },
@@ -223,7 +223,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5869773126647094,
                 "negativity": 0.413022687335291
             },
@@ -242,7 +242,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.11604728521826115,
                 "negativity": 0.8839527147817391
             },
@@ -261,7 +261,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.11604728521826115,
                 "negativity": 0.8839527147817391
             },
@@ -280,7 +280,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.28256098517781775,
                 "negativity": 0.7174390148221846
             },

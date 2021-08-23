@@ -15,7 +15,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9813924743221282,
                 "negativity": 0.01860752567787297
             },
@@ -37,7 +37,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9813924743221282,
                 "negativity": 0.01860752567787297
             },
@@ -57,9 +57,9 @@
                 "RAM",
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.09014804724341928,
                 "negativity": 0.909851952756581
             },
@@ -80,7 +80,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.48542994018591384,
                 "negativity": 0.5145700598140859
             },
@@ -99,7 +99,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9099785267724739,
                 "negativity": 0.0900214732275255
             },
@@ -118,7 +118,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6078228911524634,
                 "negativity": 0.3921771088475362
             },
@@ -135,9 +135,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5932642487046633,
                 "negativity": 0.40673575129533673
             },
@@ -157,9 +157,9 @@
                 "3070",
                 "specs"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8223111840907947,
                 "negativity": 0.1776888159092062
             },
@@ -179,9 +179,9 @@
                 "32GB",
                 "specs"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9564994882292728,
                 "negativity": 0.043500511770726495
             },

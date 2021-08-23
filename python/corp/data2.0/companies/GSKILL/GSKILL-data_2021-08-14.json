@@ -10,9 +10,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4739583333333331,
                 "negativity": 0.5260416666666666
             },
@@ -32,9 +32,9 @@
                 "RAM",
                 "32GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2009628802567737,
                 "negativity": 0.7990371197432254
             },
@@ -53,7 +53,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.08727045673361764,
                 "negativity": 0.9127295432663826
             },
@@ -72,7 +72,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7563966022715142,
                 "negativity": 0.2436033977284848
             },
@@ -91,9 +91,9 @@
             "mention": [
                 "Build"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.38419137175947565,
                 "negativity": 0.6158086282405235
             },

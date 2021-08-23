@@ -14,7 +14,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.45621455666765315,
                 "negativity": 0.5437854433323476
             },
@@ -35,7 +35,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.45621455666765315,
                 "negativity": 0.5437854433323476
             },
@@ -54,7 +54,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7166666666666666,
                 "negativity": 0.28333333333333344
             },
@@ -71,9 +71,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5113106629707286,
                 "negativity": 0.4886893370292697
             },
@@ -90,9 +90,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4899613994586444,
                 "negativity": 0.5100386005413556
             },
@@ -109,9 +109,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5567654211806325,
                 "negativity": 0.44323457881936745
             },

@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6991450609114209,
                 "negativity": 0.30085493908857835
             },
@@ -29,9 +29,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.41984109881157416,
                 "negativity": 0.5801589011884263
             },
@@ -50,7 +50,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4772507369780591,
                 "negativity": 0.5227492630219404
             },
@@ -69,7 +69,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.45232785533554376,
                 "negativity": 0.547672144664457
             },
@@ -86,9 +86,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.27047604224784233,
                 "negativity": 0.7295239577521592
             },
@@ -105,10 +105,10 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
-                "positivity": 0.4777591271506503,
+                "classification": "neg",
+                "positivity": 0.47775912715065033,
                 "negativity": 0.52224087284935
             },
             "user_id": 151529423,

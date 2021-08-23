@@ -4,7 +4,7 @@
     "end": "2021-07-29 17:49:01",
     "total": 2,
     "positive": 0,
-    "nutral": 2,
+    "neutral": 2,
     "negative": 0,
     "tweets": [
         {
@@ -17,9 +17,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.37113857909422676,
                 "negativity": 0.628861420905773
             },
@@ -36,9 +36,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.37113857909422676,
                 "negativity": 0.628861420905773
             },

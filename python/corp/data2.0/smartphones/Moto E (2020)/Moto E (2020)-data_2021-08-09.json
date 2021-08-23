@@ -15,7 +15,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7660731862070634,
                 "negativity": 0.233926813792934
             },
@@ -32,9 +32,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.08704048392361746,
                 "negativity": 0.9129595160763819
             },

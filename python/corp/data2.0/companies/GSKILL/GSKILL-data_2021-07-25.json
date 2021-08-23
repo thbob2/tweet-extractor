@@ -14,7 +14,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4351596620750108,
                 "negativity": 0.5648403379249888
             },
@@ -34,9 +34,9 @@
                 "RAM",
                 "32GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4017857142857137,
                 "negativity": 0.5982142857142857
             },
@@ -55,7 +55,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7570443051832765,
                 "negativity": 0.24295569481672336
             },
@@ -78,9 +78,9 @@
                 "Storage",
                 "OS"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.42920980660285063,
                 "negativity": 0.570790193397148
             },
@@ -97,9 +97,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6358695652173914,
                 "negativity": 0.36413043478260876
             },
@@ -118,9 +118,9 @@
             "mention": [
                 "RAM"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.35283553355375985,
                 "negativity": 0.6471644664462413
             },
@@ -139,9 +139,9 @@
             "mention": [
                 "RAM"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10975609756097572,
                 "negativity": 0.8902439024390245
             },

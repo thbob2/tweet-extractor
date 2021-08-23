@@ -14,7 +14,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5099631567494096,
                 "negativity": 0.49003684325059066
             },
@@ -34,9 +34,9 @@
                 "3080",
                 "Case"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4281840624776912,
                 "negativity": 0.571815937522309
             },
@@ -53,9 +53,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5231051854096423,
                 "negativity": 0.4768948145903569
             },
@@ -76,7 +76,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3601190476190478,
                 "negativity": 0.6398809523809523
             },

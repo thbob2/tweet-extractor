@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -50,7 +50,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.10430330931590182,
                 "negativity": 0.8956966906840969
             },
@@ -69,7 +69,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8457769705081017,
                 "negativity": 0.15422302949189773
             },
@@ -90,7 +90,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.49014798634737133,
                 "negativity": 0.5098520136526276
             },
@@ -107,11 +107,11 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7194303504165513,
-                "negativity": 0.2805696495834483
+                "negativity": 0.2805696495834484
             },
             "user_id": 959978483555463169,
             "text_translation": ""
@@ -128,7 +128,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6831100058843297,
                 "negativity": 0.3168899941156712
             },

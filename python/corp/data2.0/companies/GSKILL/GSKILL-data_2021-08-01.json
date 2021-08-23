@@ -10,9 +10,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.30348629320619785,
                 "negativity": 0.6965137067938015
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5734739488755413,
                 "negativity": 0.4265260511244589
             },
@@ -51,9 +51,9 @@
                 "RAM",
                 "Build"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7587837000949588,
                 "negativity": 0.2412162999050412
             },
@@ -74,7 +74,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7102241062785888,
                 "negativity": 0.2897758937214116
             },

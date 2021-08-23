@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5350171763420607,
                 "negativity": 0.4649828236579384
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8941150365266266,
                 "negativity": 0.1058849634733724
             },
@@ -50,9 +50,9 @@
             "mention": [
                 "Speed"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.35762250184794003,
                 "negativity": 0.6423774981520596
             },
@@ -71,7 +71,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.1314491989080744,
                 "negativity": 0.8685508010919233
             },

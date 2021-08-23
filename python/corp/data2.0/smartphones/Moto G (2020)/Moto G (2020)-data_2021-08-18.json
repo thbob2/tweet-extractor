@@ -12,7 +12,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.026546431495232243,
                 "negativity": 0.9734535685047669
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9009321823411263,
                 "negativity": 0.09906781765887393
             },
@@ -52,7 +52,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8668259666204695,
                 "negativity": 0.13317403337953188
             },
@@ -71,9 +71,9 @@
             "mention": [
                 "Speaker"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.924057083251515,
                 "negativity": 0.07594291674848581
             },

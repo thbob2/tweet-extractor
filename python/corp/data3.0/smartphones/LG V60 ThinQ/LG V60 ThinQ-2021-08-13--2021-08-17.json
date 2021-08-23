@@ -4,7 +4,7 @@
     "end": "2021-08-17 09:32:27",
     "total": 81,
     "positive": 46,
-    "nutral": 29,
+    "neutral": 29,
     "negative": 6,
     "tweets": [
         {
@@ -17,9 +17,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.45032206896388804,
                 "negativity": 0.5496779310361118
             },
@@ -38,7 +38,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6879847036157809,
                 "negativity": 0.3120152963842181
             },
@@ -55,9 +55,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4784658673983712,
                 "negativity": 0.5215341326016288
             },

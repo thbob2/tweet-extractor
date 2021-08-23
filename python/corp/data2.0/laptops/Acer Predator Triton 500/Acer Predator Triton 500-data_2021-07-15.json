@@ -14,7 +14,7 @@
             ],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9648703694429156,
                 "negativity": 0.03512963055708589
             },
@@ -33,9 +33,9 @@
             "mention": [
                 "i7"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9648703694429156,
                 "negativity": 0.03512963055708589
             },
@@ -52,9 +52,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8476643031374875,
                 "negativity": 0.15233569686251203
             },

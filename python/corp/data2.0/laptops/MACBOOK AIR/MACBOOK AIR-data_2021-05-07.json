@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9476636592863005,
                 "negativity": 0.05233634071369826
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6826399050630328,
                 "negativity": 0.3173600949369685
             },
@@ -50,9 +50,9 @@
             "mention": [
                 "i5"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.11475291505428915,
                 "negativity": 0.8852470849457097
             },
@@ -71,7 +71,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2933954068014756,
                 "negativity": 0.7066045931985239
             },
@@ -93,7 +93,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.03650426469280473,
                 "negativity": 0.9634957353071971
             },
@@ -112,7 +112,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5773524211704831,
                 "negativity": 0.42264757882951665
             },
@@ -131,7 +131,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6291433289939286,
                 "negativity": 0.3708566710060694
             },
@@ -150,7 +150,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.01234847972609561,
                 "negativity": 0.9876515202739067
             },

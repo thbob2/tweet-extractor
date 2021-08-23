@@ -13,9 +13,9 @@
                 "RAM",
                 "32GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2916666666666659,
                 "negativity": 0.7083333333333358
             },
@@ -32,9 +32,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5432053711557008,
                 "negativity": 0.45679462884429917
             },
@@ -57,7 +57,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3123642850347321,
                 "negativity": 0.6876357149652679
             },
@@ -76,7 +76,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8362290035482112,
                 "negativity": 0.16377099645179088
             },
@@ -95,7 +95,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8372702292411978,
                 "negativity": 0.1627297707588023
             },
@@ -116,7 +116,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9689007366762433,
                 "negativity": 0.031099263323756666
             },

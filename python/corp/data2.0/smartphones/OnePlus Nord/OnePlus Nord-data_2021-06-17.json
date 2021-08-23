@@ -15,7 +15,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4002621780340028,
                 "negativity": 0.5997378219659983
             },
@@ -34,7 +34,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.34929488066977615,
                 "negativity": 0.6507051193302236
             },
@@ -53,9 +53,9 @@
             "mention": [
                 "Camera"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4518485033623761,
                 "negativity": 0.5481514966376234
             },
@@ -74,7 +74,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.578433532527469,
                 "negativity": 0.42156646747253185
             },
@@ -93,7 +93,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4279849117765379,
                 "negativity": 0.5720150882234619
             },
@@ -112,7 +112,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6601211620302395,
                 "negativity": 0.3398788379697592
             },
@@ -131,7 +131,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9786429088372965,
                 "negativity": 0.021357091162702384
             },
@@ -153,7 +153,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5603570073945516,
                 "negativity": 0.43964299260544815
             },
@@ -170,9 +170,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3720472295114298,
                 "negativity": 0.6279527704885692
             },
@@ -191,7 +191,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8268005045336448,
                 "negativity": 0.17319949546635402
             },
@@ -210,7 +210,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6186642470496921,
                 "negativity": 0.3813357529503086
             },
@@ -227,9 +227,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5,
                 "negativity": 0.5
             },
@@ -248,7 +248,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5214006579984191,
                 "negativity": 0.47859934200158116
             },

@@ -49,7 +49,7 @@ class Lexor(object):
     def feelingBayes(self,text):
         blob = self.blober(text).sentiment
         return {
-            "classisication" : blob[0],
+            "classification" : blob[0],
             "positivity" :blob[1],
             "negativity" : blob[2]
         }
@@ -59,7 +59,7 @@ class Lexor(object):
         if(result.sentiment[0]>0): 
             return "positive".format(result.sentiment[0])
         elif(result.sentiment[0]==0): 
-            return"nutral".format(result.sentiment[0])
+            return"neutral".format(result.sentiment[0])
         else: 
             return "negative".format(result.sentiment[0])    
 

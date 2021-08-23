@@ -12,9 +12,9 @@
             "mention": [
                 "RAM"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.1447368421052631,
                 "negativity": 0.8552631578947358
             },
@@ -35,7 +35,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7864299337359708,
                 "negativity": 0.21357006626402864
             },
@@ -56,7 +56,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5518958538703098,
                 "negativity": 0.4481041461296894
             },
@@ -78,7 +78,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.13715271413162658,
                 "negativity": 0.862847285868373
             },

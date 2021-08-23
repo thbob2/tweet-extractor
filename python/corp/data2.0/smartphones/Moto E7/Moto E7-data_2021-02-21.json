@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.660259185813329,
                 "negativity": 0.3397408141866713
             },
@@ -31,7 +31,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8002947064895832,
                 "negativity": 0.1997052935104173
             },
@@ -52,9 +52,9 @@
                 "Camera",
                 "Dual Camera"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5239620690753057,
                 "negativity": 0.4760379309246946
             },

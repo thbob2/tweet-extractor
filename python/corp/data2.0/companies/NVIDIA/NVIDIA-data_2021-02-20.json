@@ -12,7 +12,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3712846901358435,
                 "negativity": 0.6287153098641568
             },
@@ -29,9 +29,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4246972736085449,
                 "negativity": 0.5753027263914543
             },
@@ -48,9 +48,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.13531944760657216,
                 "negativity": 0.8646805523934291
             },
@@ -69,7 +69,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7756403890880381,
                 "negativity": 0.22435961091196147
             },
@@ -88,9 +88,9 @@
             "mention": [
                 "3060"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8325805754136452,
                 "negativity": 0.1674194245863547
             },
@@ -109,9 +109,9 @@
             "mention": [
                 "3060"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.26641994446307554,
                 "negativity": 0.733580055536924
             },
@@ -130,9 +130,9 @@
             "mention": [
                 "3080"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.21950820511500943,
                 "negativity": 0.7804917948849915
             },
@@ -151,7 +151,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5728611712411673,
                 "negativity": 0.4271388287588317
             },
@@ -170,7 +170,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2983932785642732,
                 "negativity": 0.7016067214357277
             },
@@ -189,7 +189,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.2783435926016959,
                 "negativity": 0.7216564073983034
             },
@@ -208,7 +208,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.3712846901358435,
                 "negativity": 0.6287153098641568
             },
@@ -227,9 +227,9 @@
             "mention": [
                 "3060"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7470856242547907,
                 "negativity": 0.2529143757452085
             },
@@ -246,9 +246,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.01926760306457496,
                 "negativity": 0.9807323969354247
             },
@@ -267,7 +267,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.4782681524754396,
                 "negativity": 0.5217318475245611
             },
@@ -288,7 +288,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.588421940063706,
                 "negativity": 0.411578059936294
             },
@@ -307,7 +307,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6445816294432211,
                 "negativity": 0.355418370556779
             },
@@ -326,7 +326,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.32813341255115075,
                 "negativity": 0.6718665874488468
             },
@@ -345,7 +345,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8695451529670606,
                 "negativity": 0.13045484703293878
             },
@@ -366,7 +366,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6342596943332287,
                 "negativity": 0.365740305666769
             },
@@ -383,9 +383,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6993384665163456,
                 "negativity": 0.3006615334836552
             },
@@ -406,9 +406,9 @@
                 "RAM",
                 "16GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.12886045819696534,
                 "negativity": 0.8711395418030352
             },
@@ -425,9 +425,9 @@
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6369632001662969,
                 "negativity": 0.3630367998337037
             },
@@ -446,7 +446,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7957701960270303,
                 "negativity": 0.20422980397297044
             },
@@ -465,7 +465,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9142256553987066,
                 "negativity": 0.0857743446012919
             },
@@ -484,7 +484,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.18526726341367483,
                 "negativity": 0.8147327365863251
             },
@@ -505,7 +505,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.9602891950994519,
                 "negativity": 0.03971080490054778
             },
@@ -524,7 +524,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.6655068655255721,
                 "negativity": 0.33449313447442836
             },
@@ -543,7 +543,7 @@
             "mention": [],
             "label": "negative",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.8890672205438058,
                 "negativity": 0.11093277945619316
             },
@@ -564,7 +564,7 @@
             ],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.588421940063706,
                 "negativity": 0.411578059936294
             },
@@ -583,7 +583,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7938835551503582,
                 "negativity": 0.2061164448496409
             },
@@ -602,7 +602,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.685914092313584,
                 "negativity": 0.31408590768641664
             },

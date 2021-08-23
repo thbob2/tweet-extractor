@@ -12,9 +12,9 @@
             "mention": [
                 "3060"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "neg",
+                "classification": "neg",
                 "positivity": 0.055008432488779964,
                 "negativity": 0.9449915675112215
             },
@@ -33,9 +33,9 @@
             "mention": [
                 "8GB"
             ],
-            "label": "nutral",
+            "label": "neutral",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.5999716660370246,
                 "negativity": 0.4000283339629775
             },
@@ -54,7 +54,7 @@
             "mention": [],
             "label": "positive",
             "note": {
-                "classisication": "pos",
+                "classification": "pos",
                 "positivity": 0.7763757203774757,
                 "negativity": 0.22362427962252526
             },
