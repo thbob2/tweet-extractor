@@ -39,7 +39,7 @@ def add_phone_data(name,bdate,edate,total,pos,neg,neut,tweets):
         note = t['note']
         score.positivity = note['positivity']
         score.negativity  = note['negativity']
-        score.classification = note['classisication']
+        score.classification = note['classification']
         tweet.score = score
         tweet.user_id = t['user_id']
         tweet.save()

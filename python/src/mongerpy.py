@@ -43,7 +43,7 @@ def import_phone_data():
                 load = readJson(file)
                 name = load['query']
                 add_phone_data(d['name'],load['start'],load['end'],load['total'],load['positive'],load['negative'],
-                load['nutral'],load['tweets']
+                load['neutral'],load['tweets']
                 )
 
     print('phone data tweets imported successfully')

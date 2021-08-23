@@ -351,7 +351,7 @@ def exploreCorp(path):
         }    
         for j in os.scandir(i):
             folder['files'].append(j.path)
-        folder['files'].sort(key=sortfunc,reverse=False)
+        #folder['files'].sort(key=sortfunc,reverse=False)
         folders.append(folder)      
     
     return folders
