@@ -7,10 +7,10 @@ import datetime as dt
 
 class Company(mongoengine.Document):
 
-    company_name = mongoengine.StringField()
+    name = mongoengine.StringField()
     owner = mongoengine.StringField()
     category = mongoengine.StringField()
-    
+    net_worth = mongoengine.StringField()
     extracted_data_ids = mongoengine.ListField()
 
     meta = {

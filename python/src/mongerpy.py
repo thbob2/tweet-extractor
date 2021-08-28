@@ -26,8 +26,8 @@ def import_phones():
 
     with open(os.getcwd()+"/python/corp/assets/smartphones.json","r") as read:
         phones = json.load(read)
-        for phone in phones['models']:
-            dic = phone['discription']
+        for phone in phones['smartphones']:
+            dic = phone['description']
             desc = SDiscription()
             desc.network = dic['network']
             desc.body = dic['body']
@@ -44,16 +44,14 @@ def import_phones():
 
 
 
-def import_phone_data():
+def import_phones_data():
     data = exploreCorp(smartphones)
     for d in data:
         for file in d['files']:
-            with open(file,"r") as read:
-                load = readJson(file)
-                name = load['query']
-                add_phone_data(d['name'],load['start'],load['end'],load['total'],load['positive'],load['negative'],
-                load['neutral'],load['tweets']
-                )
+            load = readJson(file)
+            add_phone_data(d['name'],load['start'],load['end'],load['total'],load['positive'],load['negative'],
+            load['neutral'],load['tweets']
+            )
 
     success_msg('phone data tweets imported successfully')
 """
@@ -107,10 +105,23 @@ TODO..######...#######..##.....##.##........##.....##.##....##.####.########..##
 
 
 def import_companies():
-    pass
+    with open(os.getcwd()+"/python/corp/assets//companies.json","r") as read:
+        companies = json.load(read)
+        for company in companies['companies']:
+            create_company(company['name'],company["owner"],company['product-category'],company['net-worth'])
+            
 
-def impro_companies_data():
-    pass
+    success_msg('companies imported')
+
+def improt_companies_data():
+    data = exploreCorp(companies)
+    for d in data:
+        for file in d['files']:
+            load = readJson(file)
+            add_companies_data(d['name'],load['start'],load['end'],load['total'],load['positive'],load['negative'],
+            load['neutral'],load['tweets']
+            )
+    success_msg("Companies tweets Data imported successfully")
 
 """
 !.##.....##.########.####.##.......####.########.####.########..######.
@@ -131,6 +142,10 @@ def error_msg(text):
 
 
 if __name__ == '__main__':
-    #init()
-    #import_laptops()
-    #import_laptops_data()
+    init()
+    import_phones()
+    import_phones_data()
+    import_laptops()
+    import_laptops_data()
+    import_companies()
+    improt_companies_data()
