@@ -1,10 +1,10 @@
 {
-    "models":[
+    "smartphones":[
             {
                 "model-name":"Infinix Note 7",
                 "manifactor":"Infinx",
                 "date-of-release":"2020-04-06",
-                "discription":{
+                "description":{
                     "network":"GSM/LTE",
                     "body":"173.4 x 79 x 8.8 mm (6.83 x 3.11 x 0.35 in)",
                     "display":"720 x 1640 pixels (~258 ppi density)",
@@ -22,7 +22,7 @@
                 "model-name":"iPhone 12",
                 "manifactor":"Apple",
                 "date-of-release":"2020-10-13",
-                "discription":{
+                "description":{
                     "network":"GSM / CDMA / HSPA / EVDO / LTE / 5G",
                     "body":"Glass front (Gorilla Glass), glass back (Gorilla Glass), aluminum frame",
                     "display":" 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
@@ -40,7 +40,7 @@
                 "model-name":"iPhone 12 Pro",
                 "manifactor":"Apple",
                 "date-of-release":"2020, October 23",
-                "discription":{
+                "description":{
                     "network":"GSM / CDMA / HSPA / EVDO / LTE / 5G",
                     "body":"Glass front (Gorilla Glass), glass back (Gorilla Glass), stainless steel frame",
                     "display":"1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
@@ -58,7 +58,7 @@
                 "model-name":"iPhone SE (2nd generation)",
                 "manifactor":"Apple",
                 "date-of-release":" 2020, April 24",
-                "discription":{
+                "description":{
                     "network":"GSM / CDMA / HSPA / EVDO / LTE",
                     "body":"Glass front, glass back, aluminum frame",
                     "display":"750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
@@ -76,7 +76,7 @@
                 "model-name":"LEGION DUEL",
                 "manifactor":"Lenovi",
                 "date-of-release":"2020, October 15",
-                "discription":{
+                "description":{
                     "network":" GSM / HSPA / LTE / 5G",
                     "body":"Glass front, glass back, aluminum frame",
                     "display":"1080 x 2340 pixels, 19.5:9 ratio (~388 ppi density)",
@@ -94,7 +94,7 @@
                 "model-name":"LG V60 ThinQ",
                 "manifactor":"LG",
                 "date-of-release":" 2020, March 20",
-                "discription":{
+                "description":{
                     "network":"GSM / CDMA / HSPA / EVDO / LTE / 5G",
                     "body":"Glass front (Gorilla Glass 5), glass back (Gorilla Glass 6), aluminum frame",
                     "display":"1080 x 2460 pixels (~395 ppi density)",
@@ -112,7 +112,7 @@
                 "model-name":"LG Velvet",
                 "manifactor":"LG",
                 "date-of-release":"2020, July 31",
-                "discription":{
+                "description":{
                     "network":" GSM / HSPA / LTE",
                     "body":"Glass front, glass back, aluminum frame",
                     "display":"1080 x 2460 pixels (~395 ppi density)",
@@ -130,7 +130,7 @@
                 "model-name":"LG Wing",
                 "manifactor":"LG",
                 "date-of-release":" 2020, October 15",
-                "discription":{
+                "description":{
                     "network":"GSM / CDMA / HSPA / LTE / 5G",
                     "body":"Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
                     "display":"1080 x 2460 pixels (~395 ppi density)",
@@ -148,7 +148,7 @@
                 "model-name":"Micromax IN Note 1",
                 "manifactor":"Micromax",
                 "date-of-release":"2020, November 24",
-                "discription":{
+                "description":{
                     "network":"GSM / HSPA / LTE",
                     "body":"165.2 x 77 x 9 mm (6.50 x 3.03 x 0.35 in)",
                     "display":"1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
@@ -166,7 +166,7 @@
                 "model-name":"Moto E (2020)",
                 "manifactor":"Motorola",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"GSM / CDMA / HSPA / EVDO / LTE",
                     "body":"Glass front, plastic back, plastic frame",
                     "display":"720 x 1520 pixels, 19:9 ratio (~271 ppi density)",
@@ -184,7 +184,7 @@
                 "model-name":"Moto E7",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -202,7 +202,7 @@
                 "model-name":"Moto G (2020)",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -220,7 +220,7 @@
                 "model-name":"Moto G 5G",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -238,7 +238,7 @@
                 "model-name":"Moto G 5G Plus",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -256,7 +256,7 @@
                 "model-name":"Moto G9",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -274,7 +274,7 @@
                 "model-name":"Motorola Edge",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -292,7 +292,7 @@
                 "model-name":"Motorola Edge+",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -310,7 +310,7 @@
                 "model-name":"Motorola Razr (5G)",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -328,7 +328,7 @@
                 "model-name":"OnePlus 8",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -346,7 +346,7 @@
                 "model-name":"OnePlus 8T",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -365,7 +365,7 @@
                 "model-name":"OnePlus Nord",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -383,7 +383,7 @@
                 "model-name":"OnePlus Nord N10",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -401,7 +401,7 @@
                 "model-name":"OnePlus Nord N100",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -419,7 +419,7 @@
                 "model-name":"SAMSUNG GALAXY S20",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -437,7 +437,7 @@
                 "model-name":"SAMSUNG GALAXY Note 20",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -455,7 +455,7 @@
                 "model-name":"SAMSUNG GALAXY Note 20 ultra",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",
@@ -473,7 +473,7 @@
                 "model-name":"SAMSUNG GALAXY Note",
                 "manifactor":"",
                 "date-of-release":"",
-                "discription":{
+                "description":{
                     "network":"",
                     "body":"",
                     "display":"",

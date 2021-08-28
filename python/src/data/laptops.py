@@ -12,13 +12,15 @@ class LDiscription(mongoengine.EmbeddedDocument):
     os = mongoengine.StringField()
     cpu = mongoengine.StringField()
     gpu = mongoengine.StringField()
-    memory = mongoengine.StringField()
-    main_camera = mongoengine.StringField()
+    ram = mongoengine.StringField()
+    storage =  mongoengine.StringField()
+    webcam = mongoengine.StringField()
     battery = mongoengine.StringField()
+    other_features = mongoengine.StringField()
 class Laptop(mongoengine.Document):
     name = mongoengine.StringField(required=True)
     manifactor = mongoengine.StringField(required=True)
-    date_of_release = mongoengine.DateField()
+    date_of_release = mongoengine.StringField()
     
     discription = mongoengine.EmbeddedDocumentField(LDiscription)
     extracted_data_ids = mongoengine.ListField()
