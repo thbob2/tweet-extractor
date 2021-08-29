@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1430482847618551810,
+            "text": "Electronics : SE 2020 2nd Generation 64Gb Unlock Price : $ 320 Call / : ( 509 ) 36635470 | 35686161",
+            "created_at": "2021-08-25 10:51:02",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08798216942640463,
+                "negativity": 0.9120178305735943
+            },
+            "user_id": 199002693,
+            "text_translation": ""
+        },
+        {
+            "id": 1430396017032183814,
+            "text": "what if they a 2nd generation of the SE",
+            "created_at": "2021-08-25 05:06:00",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8976501006597988,
+                "negativity": 0.10234989934020156
+            },
+            "user_id": 1426989715081809929,
+            "text_translation": ""
+        },
+        {
+            "id": 1430326837905920003,
+            "text": "SE 2020 2nd Generation 64Gb Unlock Price : $ 320 Call / : ( 509 ) 36635470 | 35686161",
+            "created_at": "2021-08-25 00:31:07",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22445111604039183,
+                "negativity": 0.7755488839596071
+            },
+            "user_id": 988990445849141248,
+            "text_translation": ""
+        }
+    ]
+}

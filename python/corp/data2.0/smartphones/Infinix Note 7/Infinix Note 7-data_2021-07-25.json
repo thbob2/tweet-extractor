@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1419321470375796738,
+            "text": "Hey ! when will you give android 11 and latest os update on hot 9 and note 7 . My 3 year old 3G …",
+            "created_at": "2021-07-25 15:39:42",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3G",
+                "OS"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29495456548706833,
+                "negativity": 0.7050454345129336
+            },
+            "user_id": 1296099195003088896,
+            "text_translation": ""
+        }
+    ]
+}

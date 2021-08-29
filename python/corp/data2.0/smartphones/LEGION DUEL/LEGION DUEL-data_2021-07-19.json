@@ -1,0 +1,46 @@
+{
+    "tweets": [
+        {
+            "id": 1417006338035445761,
+            "text": ": Build your dream gaming corner this rainy with Home Credit ! Get the best starting at 364 …",
+            "created_at": "2021-07-19 06:20:12",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9530540171763249,
+                "negativity": 0.04694598282367496
+            },
+            "user_id": 10086082,
+            "text_translation": ""
+        },
+        {
+            "id": 1417004092178591745,
+            "text": "Build your dream gaming corner this rainy with Home Credit ! Get the best starting at 364 pes …",
+            "created_at": "2021-07-19 06:11:16",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9530540171763249,
+                "negativity": 0.04694598282367496
+            },
+            "user_id": 2360512513,
+            "text_translation": ""
+        }
+    ]
+}

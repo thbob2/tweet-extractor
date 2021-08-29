@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1422792681412087813,
+            "text": "7 tha phone tha us ko sale k note 10 pro he battery t …",
+            "created_at": "2021-08-04 05:33:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6091101694915271,
+                "negativity": 0.3908898305084747
+            },
+            "user_id": 908036098043064325,
+            "text_translation": ""
+        }
+    ]
+}

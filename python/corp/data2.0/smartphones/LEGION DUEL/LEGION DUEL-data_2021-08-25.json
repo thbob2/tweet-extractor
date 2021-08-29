@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1430547441510588427,
+            "text": "try this on Legion Phone Duel 2 .",
+            "created_at": "2021-08-25 15:07:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5640382862351879,
+                "negativity": 0.43596171376481285
+            },
+            "user_id": 237218886,
+            "text_translation": ""
+        },
+        {
+            "id": 1430468595641831432,
+            "text": "Big bargain : Legion Phone Duel to 40 % with 12GB of RAM",
+            "created_at": "2021-08-25 09:54:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15387677509505068,
+                "negativity": 0.84612322490495
+            },
+            "user_id": 784640220750684161,
+            "text_translation": ""
+        }
+    ]
+}

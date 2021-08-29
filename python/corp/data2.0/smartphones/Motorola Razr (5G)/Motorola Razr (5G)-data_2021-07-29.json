@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1420833097097138180,
+            "text": "T - Mobile off its very own Android 11 for the 5G",
+            "created_at": "2021-07-29 19:46:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8489612275884714,
+                "negativity": 0.15103877241152824
+            },
+            "user_id": 1334621655130320897,
+            "text_translation": ""
+        },
+        {
+            "id": 1420832442319990787,
+            "text": ": T - Mobile off its very own Android 11 for the 5G",
+            "created_at": "2021-07-29 19:43:46",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8489612275884714,
+                "negativity": 0.15103877241152824
+            },
+            "user_id": 1272487956440219649,
+            "text_translation": ""
+        },
+        {
+            "id": 1420823711901360129,
+            "text": "R US T - Mobile off its very own Android 11 for the 5G …",
+            "created_at": "2021-07-29 19:09:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8489612275884714,
+                "negativity": 0.15103877241152824
+            },
+            "user_id": 965278376809369601,
+            "text_translation": ""
+        },
+        {
+            "id": 1420666037469466626,
+            "text": ": ’ s very late for the 5G keep on coming , later than ever | android | security",
+            "created_at": "2021-07-29 08:42:32",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5973899985455823,
+                "negativity": 0.40261000145441733
+            },
+            "user_id": 1341002620689809409,
+            "text_translation": ""
+        },
+        {
+            "id": 1420664578158039045,
+            "text": "’ s very late for the 5G keep on coming , later than ever | android | security",
+            "created_at": "2021-07-29 08:36:44",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5973899985455823,
+                "negativity": 0.40261000145441733
+            },
+            "user_id": 109082290,
+            "text_translation": ""
+        }
+    ]
+}

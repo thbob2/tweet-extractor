@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1410742251681042434,
+            "text": "G9 play",
+            "created_at": "2021-07-01 23:28:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5044910179640717,
+                "negativity": 0.4955089820359282
+            },
+            "user_id": 1367992090353954817,
+            "text_translation": ""
+        },
+        {
+            "id": 1410620946612957186,
+            "text": "G9 and hopefully soon",
+            "created_at": "2021-07-01 15:26:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5786138246568566,
+                "negativity": 0.4213861753431434
+            },
+            "user_id": 1405874942957260801,
+            "text_translation": ""
+        }
+    ]
+}

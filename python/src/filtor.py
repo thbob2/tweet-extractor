@@ -439,11 +439,13 @@ def chunkyboy(path):
 
 #!main method
 if __name__ == '__main__':
-#    filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
-#    filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
+#    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path2,"laptops")
+#    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path2,"companies")
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path2,"smartphones")
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path3,"smartphones")
 
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path3,"smartphones")
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path3,"laptops")
+    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
  
     filterPhones()
     ##filterLaptops()

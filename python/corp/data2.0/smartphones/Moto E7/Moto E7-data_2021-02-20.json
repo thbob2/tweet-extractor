@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1363177566224273420,
+            "text": "e7 power first on 26th 12mp ,,, 6GB . 64GB rs8299 motoe7power motoe7sale",
+            "created_at": "2021-02-20 17:23:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4929277041188706,
+                "negativity": 0.5070722958811286
+            },
+            "user_id": 1169842248889978881,
+            "text_translation": ""
+        },
+        {
+            "id": 1362980432107642882,
+            "text": "E7 Power First : Big 5000mAh Battery , G25 SoC Under . 10000 -",
+            "created_at": "2021-02-20 04:20:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7839592471085296,
+                "negativity": 0.21604075289147226
+            },
+            "user_id": 188267210,
+            "text_translation": ""
+        }
+    ]
+}

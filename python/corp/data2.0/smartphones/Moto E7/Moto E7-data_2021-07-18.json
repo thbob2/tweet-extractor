@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1416751248624078849,
+            "text": "Hi , My e7 plus charger stopped working it worked fine for just over 6 . I did not expect …",
+            "created_at": "2021-07-18 13:26:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "charger"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3402784012762736,
+                "negativity": 0.6597215987237263
+            },
+            "user_id": 4908440832,
+            "text_translation": ""
+        }
+    ]
+}

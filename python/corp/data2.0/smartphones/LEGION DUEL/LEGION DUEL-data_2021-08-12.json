@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1425697409984876544,
+            "text": "Originally I ' m from south shore . Accent does not fade . We live outside new and in la …",
+            "created_at": "2021-08-12 05:55:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7755059376492134,
+                "negativity": 0.22449406235078873
+            },
+            "user_id": 211480383,
+            "text_translation": ""
+        },
+        {
+            "id": 1425626758670393345,
+            "text": ": Legion Phone Duel enlisted , launch soon !",
+            "created_at": "2021-08-12 01:14:40",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7802214183097318,
+                "negativity": 0.21977858169027037
+            },
+            "user_id": 1356552822859444225,
+            "text_translation": ""
+        },
+        {
+            "id": 1425626735987593217,
+            "text": "Legion Phone Duel enlisted , launch soon !",
+            "created_at": "2021-08-12 01:14:35",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7802214183097318,
+                "negativity": 0.21977858169027037
+            },
+            "user_id": 1247379455523213313,
+            "text_translation": ""
+        }
+    ]
+}

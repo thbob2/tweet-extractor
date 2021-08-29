@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1416532761075138564,
+            "text": "Edge Price and For 👉 hashtag2",
+            "created_at": "2021-07-17 22:58:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7386200476133133,
+                "negativity": 0.2613799523866864
+            },
+            "user_id": 1273858157081657344,
+            "text_translation": ""
+        },
+        {
+            "id": 1416361063646367745,
+            "text": "Check out the Edge ( not the plus ) everything you . With killer stereo …",
+            "created_at": "2021-07-17 11:36:06",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7205669379455851,
+                "negativity": 0.2794330620544142
+            },
+            "user_id": 1357443066873937920,
+            "text_translation": ""
+        },
+        {
+            "id": 1416234330838339584,
+            "text": "So , I have 5G Edge XT2063 - 2 . When will you allow me to access 5G service with my 5G phone ?",
+            "created_at": "2021-07-17 03:12:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7333002650681473,
+                "negativity": 0.2666997349318535
+            },
+            "user_id": 14434741,
+            "text_translation": ""
+        },
+        {
+            "id": 1416229890991534080,
+            "text": "Only seven into this edge , I ' m already gone Upgrade again . This next phone be a status symbol …",
+            "created_at": "2021-07-17 02:54:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "EDGE"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9537152745508516,
+                "negativity": 0.04628472544915028
+            },
+            "user_id": 858877379397038080,
+            "text_translation": ""
+        }
+    ]
+}

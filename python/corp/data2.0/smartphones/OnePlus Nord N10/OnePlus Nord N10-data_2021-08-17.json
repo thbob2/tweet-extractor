@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1427724551081938950,
+            "text": ": Anybody need a cell phone ? I ' m looking to get a 6 and go ahead and sell my N10 5G to someone so I …",
+            "created_at": "2021-08-17 20:10:33",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.28992005920159036,
+                "negativity": 0.7100799407984117
+            },
+            "user_id": 1347564836385918976,
+            "text_translation": ""
+        },
+        {
+            "id": 1427681225100177409,
+            "text": "Anybody need a cell phone ? I ' m looking to get a 6 and go ahead and sell my N10 5G to some …",
+            "created_at": "2021-08-17 17:18:23",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33405491039091684,
+                "negativity": 0.6659450896090819
+            },
+            "user_id": 1347564836385918976,
+            "text_translation": ""
+        }
+    ]
+}

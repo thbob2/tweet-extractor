@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1424607523114389508,
+            "text": "Does IN note 1 have call recording option ? No clarity on this .",
+            "created_at": "2021-08-09 05:44:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9071067354675972,
+                "negativity": 0.09289326453240107
+            },
+            "user_id": 751291650,
+            "text_translation": ""
+        },
+        {
+            "id": 1424606446004568066,
+            "text": ": In Note 1 and In 1b now available in : ai",
+            "created_at": "2021-08-09 05:40:19",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6498953104109386,
+                "negativity": 0.3501046895890616
+            },
+            "user_id": 737142202481016832,
+            "text_translation": ""
+        },
+        {
+            "id": 1424575936113094660,
+            "text": "In Note 1 and In 1b now available in : ai …",
+            "created_at": "2021-08-09 03:39:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6498953104109386,
+                "negativity": 0.3501046895890616
+            },
+            "user_id": 1097258235680227329,
+            "text_translation": ""
+        }
+    ]
+}

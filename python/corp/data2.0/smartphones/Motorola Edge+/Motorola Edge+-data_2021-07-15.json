@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1415648038853435396,
+            "text": "Edge 2 : why we want to see a follow - up to the phone : …",
+            "created_at": "2021-07-15 12:22:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.688075224488277,
+                "negativity": 0.311924775511722
+            },
+            "user_id": 1097258235680227329,
+            "text_translation": ""
+        },
+        {
+            "id": 1415618753874866177,
+            "text": ": Edge 20 Pro ..",
+            "created_at": "2021-07-15 10:26:26",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7350765979926048,
+                "negativity": 0.2649234020073958
+            },
+            "user_id": 1340404918071533569,
+            "text_translation": ""
+        },
+        {
+            "id": 1415575692935372800,
+            "text": ": Edge 20 ..",
+            "created_at": "2021-07-15 07:35:19",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6722222222222223,
+                "negativity": 0.3277777777777776
+            },
+            "user_id": 1340404918071533569,
+            "text_translation": ""
+        }
+    ]
+}

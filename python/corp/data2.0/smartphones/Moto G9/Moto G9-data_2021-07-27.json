@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1419941149167345665,
+            "text": ": [ / ] : 183 , , G9 Power 4gb / 128GB Sage DUAL , NEW , 130 W …",
+            "created_at": "2021-07-27 08:42:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9425535185300101,
+                "negativity": 0.05744648146998978
+            },
+            "user_id": 92962780,
+            "text_translation": ""
+        },
+        {
+            "id": 1419940885643497472,
+            "text": "[ / ] : 183 , , G9 Power 4gb / 128GB Sage DUAL , NEW , 130 …",
+            "created_at": "2021-07-27 08:41:03",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9425535185300101,
+                "negativity": 0.05744648146998978
+            },
+            "user_id": 103403981,
+            "text_translation": ""
+        },
+        {
+            "id": 1419863016636510214,
+            "text": "G9 After Update are facing huge hanging problem",
+            "created_at": "2021-07-27 03:31:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.23618323820166356,
+                "negativity": 0.7638167617983358
+            },
+            "user_id": 789819196842635264,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1431025443268960260,
+            "text": "N100 an update with August 2021 security patch –",
+            "created_at": "2021-08-26 22:47:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11777935823423318,
+                "negativity": 0.8822206417657664
+            },
+            "user_id": 844839127329587200,
+            "text_translation": ""
+        },
+        {
+            "id": 1430935499770798085,
+            "text": "N100 - 11 . 0 . 1 with August 2021 Security Patch know more & ;& ;& ;& ;",
+            "created_at": "2021-08-26 16:49:43",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20968665805976494,
+                "negativity": 0.7903133419402354
+            },
+            "user_id": 1340703914107146247,
+            "text_translation": ""
+        },
+        {
+            "id": 1430744999029874688,
+            "text": "N100 is getting a new update that bug , stability and August 202 …",
+            "created_at": "2021-08-26 04:12:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5403510779477023,
+                "negativity": 0.4596489220522981
+            },
+            "user_id": 127674014,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1422250310395904000,
+            "text": "My n100 all that , 8GB RAM and 128GB internal storage .",
+            "created_at": "2021-08-02 17:37:52",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3244502688632133,
+                "negativity": 0.6755497311367856
+            },
+            "user_id": 3014960753,
+            "text_translation": ""
+        },
+        {
+            "id": 1422128207847989248,
+            "text": "N100 Midnight Frost Unlocked Latest Mobile Shorts via",
+            "created_at": "2021-08-02 09:32:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8941245896363936,
+                "negativity": 0.10587541036360612
+            },
+            "user_id": 1416277269803270148,
+            "text_translation": ""
+        }
+    ]
+}

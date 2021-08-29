@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1426970244476723201,
+            "text": "why N100 Oxygen OS 11 only now ( 14 August 2021 )?",
+            "created_at": "2021-08-15 18:13:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "OS"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18088067598457105,
+                "negativity": 0.8191193240154293
+            },
+            "user_id": 1388920461246009346,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1427868729396719624,
+            "text": "i need support regarding my stolen mobile . ( E7 plus ) sir , i already ask you many times ,…",
+            "created_at": "2021-08-18 05:43:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9570157605540156,
+                "negativity": 0.042984239445982626
+            },
+            "user_id": 1427311979937603593,
+            "text_translation": ""
+        },
+        {
+            "id": 1427856785906442241,
+            "text": "Hi , thank you for posting ! Your E7 Plus will remain on Android 10 . It is not …",
+            "created_at": "2021-08-18 04:56:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.423203182510707,
+                "negativity": 0.5767968174892921
+            },
+            "user_id": 2460859956,
+            "text_translation": ""
+        },
+        {
+            "id": 1427855146034204674,
+            "text": "will e⁷ plus get android 11 update Please tell",
+            "created_at": "2021-08-18 04:49:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.28501353767706405,
+                "negativity": 0.7149864623229347
+            },
+            "user_id": 724540217051492352,
+            "text_translation": ""
+        },
+        {
+            "id": 1427826858259750913,
+            "text": "Why I need to enjoy this color where I ' m unable to enjoy content in E7 Plus ?",
+            "created_at": "2021-08-18 02:57:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Color"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.739327526175513,
+                "negativity": 0.2606724738244879
+            },
+            "user_id": 175381569,
+            "text_translation": ""
+        }
+    ]
+}

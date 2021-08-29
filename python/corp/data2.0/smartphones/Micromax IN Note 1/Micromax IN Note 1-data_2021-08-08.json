@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1424379314632544257,
+            "text": "How to unlock the of IN Note 1 ( E7746 )? A complete guide MicromaxInNote1 …",
+            "created_at": "2021-08-08 14:37:46",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08680537931418099,
+                "negativity": 0.9131946206858198
+            },
+            "user_id": 1320267696743665664,
+            "text_translation": ""
+        },
+        {
+            "id": 1424272828782764034,
+            "text": "IN Note 1 E7746 :",
+            "created_at": "2021-08-08 07:34:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5232558139534884,
+                "negativity": 0.4767441860465117
+            },
+            "user_id": 1019977320,
+            "text_translation": ""
+        },
+        {
+            "id": 1424247276285820936,
+            "text": "Hi ! Hope you ' re safe . In 2 / In Note 2 were spotted on BIS certificate list today …",
+            "created_at": "2021-08-08 05:53:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7512650284586201,
+                "negativity": 0.24873497154137958
+            },
+            "user_id": 1107329121858666497,
+            "text_translation": ""
+        }
+    ]
+}

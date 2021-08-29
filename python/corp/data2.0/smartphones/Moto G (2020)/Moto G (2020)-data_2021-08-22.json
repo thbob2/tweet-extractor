@@ -1,0 +1,45 @@
+{
+    "tweets": [
+        {
+            "id": 1429568514419945475,
+            "text": "For G Stylus 2021 Case With Screen Protector , Clear Cover + 2 X Tempered Glass , Soft Silicone …",
+            "created_at": "2021-08-22 22:17:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40847471554673653,
+                "negativity": 0.5915252844532646
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        },
+        {
+            "id": 1429504404919656449,
+            "text": "So I just made it over 6 days on a single charge with my G power 2020 . Now I only had about 6 1 / 2 …",
+            "created_at": "2021-08-22 18:03:03",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1257080240036431,
+                "negativity": 0.8742919759963574
+            },
+            "user_id": 1003971645680291840,
+            "text_translation": ""
+        }
+    ]
+}

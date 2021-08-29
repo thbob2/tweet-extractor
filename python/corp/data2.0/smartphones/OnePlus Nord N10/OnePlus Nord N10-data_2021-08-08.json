@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1424441109233684483,
+            "text": "The n10 is a budget phone . Came in under $ 300 . I had to get something quickly and ' t know what I w …",
+            "created_at": "2021-08-08 18:43:19",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5221469760045312,
+                "negativity": 0.47785302399546753
+            },
+            "user_id": 756040,
+            "text_translation": ""
+        },
+        {
+            "id": 1424440468071460864,
+            "text": "I still need to get some glue to put the case back together , but my external case is holding it on their for now .…",
+            "created_at": "2021-08-08 18:40:47",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8232819753063948,
+                "negativity": 0.17671802469360312
+            },
+            "user_id": 756040,
+            "text_translation": ""
+        },
+        {
+            "id": 1424257372478971906,
+            "text": "another phone user I have the N10",
+            "created_at": "2021-08-08 06:33:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5121172139624993,
+                "negativity": 0.4878827860375008
+            },
+            "user_id": 1158945502504898561,
+            "text_translation": ""
+        }
+    ]
+}

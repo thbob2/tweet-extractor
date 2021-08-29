@@ -1,0 +1,118 @@
+{
+    "tweets": [
+        {
+            "id": 1428014635102314500,
+            "text": "in note 1 phone update is not coming .",
+            "created_at": "2021-08-18 15:23:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34681196620842397,
+                "negativity": 0.6531880337915762
+            },
+            "user_id": 1368191436349337602,
+            "text_translation": ""
+        },
+        {
+            "id": 1427966672334249989,
+            "text": "IN note 1 on Pure Android and an ad - free experience . Such may be a part of third -…",
+            "created_at": "2021-08-18 12:12:39",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8942885140328691,
+                "negativity": 0.10571148596713081
+            },
+            "user_id": 95869405,
+            "text_translation": ""
+        },
+        {
+            "id": 1427950999893774337,
+            "text": "Hey ! IN note 1 on Pure Android and an - free experience . Please connect with our …",
+            "created_at": "2021-08-18 11:10:23",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6907473232980016,
+                "negativity": 0.3092526767019968
+            },
+            "user_id": 95869405,
+            "text_translation": ""
+        },
+        {
+            "id": 1427867186924703748,
+            "text": ": IN 1b Good News : The early access of Android 11 for IN 1b been rolling out . N …",
+            "created_at": "2021-08-18 05:37:20",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5208700533165846,
+                "negativity": 0.47912994668341474
+            },
+            "user_id": 1286279753033424897,
+            "text_translation": ""
+        },
+        {
+            "id": 1427866242828836867,
+            "text": "IN 1b Good News : The early access of Android 11 for IN 1b been rolling …",
+            "created_at": "2021-08-18 05:33:35",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5380232247755438,
+                "negativity": 0.46197677522445607
+            },
+            "user_id": 1425639598667964416,
+            "text_translation": ""
+        },
+        {
+            "id": 1427857898751729666,
+            "text": "tech When …",
+            "created_at": "2021-08-18 05:00:26",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5484527185303906,
+                "negativity": 0.4515472814696092
+            },
+            "user_id": 1147745842838720513,
+            "text_translation": ""
+        }
+    ]
+}

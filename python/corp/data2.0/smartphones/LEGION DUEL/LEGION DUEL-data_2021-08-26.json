@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1431020497358127104,
+            "text": ": Sir please announce winner for legion duel 2 pho …",
+            "created_at": "2021-08-26 22:27:28",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7666032045262683,
+                "negativity": 0.23339679547373302
+            },
+            "user_id": 1405629090913165313,
+            "text_translation": ""
+        },
+        {
+            "id": 1430966005765873667,
+            "text": "Sir please announce winner for legion duel 2 phone",
+            "created_at": "2021-08-26 18:50:56",
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7525517511544604,
+                "negativity": 0.24744824884554117
+            },
+            "user_id": 1427623046437814278,
+            "text_translation": ""
+        },
+        {
+            "id": 1430906320241061892,
+            "text": "Join me for Battle of semi - final action tonight ! Come see what competitive team . team D …",
+            "created_at": "2021-08-26 14:53:46",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6984814333235146,
+                "negativity": 0.30151856667648735
+            },
+            "user_id": 1343932391270707203,
+            "text_translation": ""
+        },
+        {
+            "id": 1430722282754818049,
+            "text": "Will there be a US version of Legion Duel 2 ? It would be nice to get one for review on my channel",
+            "created_at": "2021-08-26 02:42:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5444166296151168,
+                "negativity": 0.45558337038488506
+            },
+            "user_id": 810923260816793600,
+            "text_translation": ""
+        }
+    ]
+}

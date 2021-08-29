@@ -1,0 +1,45 @@
+{
+    "tweets": [
+        {
+            "id": 1421436370363555842,
+            "text": "N10 5G - Screen : 6 . 49 - Memory : 128 - RAM 6 - Processor : Snapdragon 690 - Capacity : Li - Po …",
+            "created_at": "2021-07-31 11:43:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory",
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.06409732003911969,
+                "negativity": 0.9359026799608785
+            },
+            "user_id": 1407938542777651201,
+            "text_translation": ""
+        },
+        {
+            "id": 1421379619412922369,
+            "text": "Support I ran the new update and now my N10 every 2 or so . A full sh …",
+            "created_at": "2021-07-31 07:58:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41245415618245723,
+                "negativity": 0.5875458438175417
+            },
+            "user_id": 43075047,
+            "text_translation": ""
+        }
+    ]
+}

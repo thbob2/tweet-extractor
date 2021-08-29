@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1423905985559613442,
+            "text": "First update g 5g to android 11",
+            "created_at": "2021-08-07 07:16:56",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4265188875385438,
+                "negativity": 0.5734811124614569
+            },
+            "user_id": 846982964244353026,
+            "text_translation": ""
+        },
+        {
+            "id": 1423809576810471432,
+            "text": "G stylus 5G ? Camera will at least be better than what you have ?",
+            "created_at": "2021-08-07 00:53:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33327697895537434,
+                "negativity": 0.6667230210446252
+            },
+            "user_id": 1045036629394632704,
+            "text_translation": ""
+        }
+    ]
+}

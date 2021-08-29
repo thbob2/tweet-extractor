@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1427771243168677901,
+            "text": "🖤➰🕊 !! Vintage Luxe Black Velvet Enchanting Gown , Bag & ; Wrap w / !💞 glamour 1950s …",
+            "created_at": "2021-08-17 23:16:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Bag"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9243507404434621,
+                "negativity": 0.07564925955653856
+            },
+            "user_id": 3408257386,
+            "text_translation": ""
+        },
+        {
+            "id": 1427592472746594309,
+            "text": "No I actually have a VELVET It ' s fairly new !",
+            "created_at": "2021-08-17 11:25:43",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5171084410126836,
+                "negativity": 0.4828915589873167
+            },
+            "user_id": 19301813,
+            "text_translation": ""
+        }
+    ]
+}

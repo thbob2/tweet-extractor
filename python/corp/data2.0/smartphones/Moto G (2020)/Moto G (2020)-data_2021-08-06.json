@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1423772635012374529,
+            "text": "2020 7m Kite , Excellent Condition , Blue , Never .",
+            "created_at": "2021-08-06 22:27:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8128584614007408,
+                "negativity": 0.1871415385992608
+            },
+            "user_id": 1391878867976015877,
+            "text_translation": ""
+        },
+        {
+            "id": 1423540401743568899,
+            "text": "Android News : \" Protect your G Stylus ( 2020 ) in style with the best \"",
+            "created_at": "2021-08-06 07:04:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1829063512184506,
+                "negativity": 0.8170936487815474
+            },
+            "user_id": 302524261,
+            "text_translation": ""
+        }
+    ]
+}

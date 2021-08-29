@@ -1,0 +1,46 @@
+{
+    "tweets": [
+        {
+            "id": 1422643799734558730,
+            "text": "Along with my phone ' s camera not working , I just the aluminum back while working on the roof . I guess I n …",
+            "created_at": "2021-08-03 19:41:27",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3790326170395958,
+                "negativity": 0.6209673829604051
+            },
+            "user_id": 724563029673680896,
+            "text_translation": ""
+        },
+        {
+            "id": 1422506076180783129,
+            "text": "So I go to pick up my N10 and it ’ s showing me this . Screen unresponsive . it it right b …",
+            "created_at": "2021-08-03 10:34:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4922109803576665,
+                "negativity": 0.5077890196423339
+            },
+            "user_id": 12992972,
+            "text_translation": ""
+        }
+    ]
+}

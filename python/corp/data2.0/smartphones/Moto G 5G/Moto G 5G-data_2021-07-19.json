@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1417141951057600514,
+            "text": "are here for the Steam Deck , Red Magic 6R , G Stylus 5G , and more !",
+            "created_at": "2021-07-19 15:19:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6540293917576718,
+                "negativity": 0.34597060824232856
+            },
+            "user_id": 113582711,
+            "text_translation": ""
+        },
+        {
+            "id": 1417129601004883972,
+            "text": ": are here for the Steam Deck , Red Magic 6R , G Stylus 5G , and more !",
+            "created_at": "2021-07-19 14:30:00",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6540293917576718,
+                "negativity": 0.34597060824232856
+            },
+            "user_id": 4132821965,
+            "text_translation": ""
+        },
+        {
+            "id": 1416964858470273026,
+            "text": "“ Built - in stylus + AT & ; T 5G for me !”",
+            "created_at": "2021-07-19 03:35:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.585859023207482,
+                "negativity": 0.4141409767925182
+            },
+            "user_id": 87796216,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1412729070358564868,
+            "text": "Just bought a N100 , feeling bad",
+            "created_at": "2021-07-07 11:03:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5115951358018838,
+                "negativity": 0.4884048641981163
+            },
+            "user_id": 1073256288010858496,
+            "text_translation": ""
+        }
+    ]
+}

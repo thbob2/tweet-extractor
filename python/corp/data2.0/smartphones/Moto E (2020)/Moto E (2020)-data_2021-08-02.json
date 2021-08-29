@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1422148860449787908,
+            "text": "E | Unlocked | Made for US by | 2 / 32GB | 13MP Camera | 2020 | Blue",
+            "created_at": "2021-08-02 10:54:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13739348365350035,
+                "negativity": 0.8626065163465
+            },
+            "user_id": 1257312744061075460,
+            "text_translation": ""
+        }
+    ]
+}

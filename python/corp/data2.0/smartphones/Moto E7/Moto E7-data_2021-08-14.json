@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1426438236696686593,
+            "text": "Support .. e7 plus with micro 2 ???? Who forgot - c ?",
+            "created_at": "2021-08-14 06:59:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48867401176331937,
+                "negativity": 0.5113259882366797
+            },
+            "user_id": 996741,
+            "text_translation": ""
+        },
+        {
+            "id": 1426363062248898560,
+            "text": "But still I ' m worried for E7 Plus . U not and u not able to fix small …",
+            "created_at": "2021-08-14 02:00:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.593352448840101,
+                "negativity": 0.4066475511598979
+            },
+            "user_id": 175381569,
+            "text_translation": ""
+        }
+    ]
+}

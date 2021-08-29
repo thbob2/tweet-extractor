@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1427242938245910537,
+            "text": "my note 7",
+            "created_at": "2021-08-16 12:16:48",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5232558139534884,
+                "negativity": 0.4767441860465117
+            },
+            "user_id": 1316380037566791681,
+            "text_translation": ""
+        }
+    ]
+}

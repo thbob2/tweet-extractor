@@ -1,0 +1,84 @@
+{
+    "tweets": [
+        {
+            "id": 1415681602810642440,
+            "text": ": This , gift the speed of 5G ! Order any device from the g5G family and get the for free …",
+            "created_at": "2021-07-15 14:36:10",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speed"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6355372782629632,
+                "negativity": 0.3644627217370378
+            },
+            "user_id": 3346211595,
+            "text_translation": ""
+        },
+        {
+            "id": 1415647361339117573,
+            "text": "This , gift the speed of 5G ! Order any device from the g5G family and get the for …",
+            "created_at": "2021-07-15 12:20:07",
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speed"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.607210177592034,
+                "negativity": 0.3927898224079652
+            },
+            "user_id": 697786567788797952,
+            "text_translation": ""
+        },
+        {
+            "id": 1415507624817303552,
+            "text": ": Nylon Cell Phone Belt Pouch for 12 Pro Holster Galaxy A72 A52 A32 A12 A02s K92 G Pow …",
+            "created_at": "2021-07-15 03:04:51",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.564613016269198,
+                "negativity": 0.4353869837308026
+            },
+            "user_id": 1269506728439304194,
+            "text_translation": ""
+        },
+        {
+            "id": 1415506929321906176,
+            "text": "Nylon Cell Phone Belt Pouch for 12 Pro Holster Galaxy A72 A52 A32 A12 A02s K92 G …",
+            "created_at": "2021-07-15 03:02:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.437596993016461,
+                "negativity": 0.5624030069835392
+            },
+            "user_id": 801900606910844928,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "query": "LG V60 ThinQ",
+    "start": "2021-08-23 23:41:10",
+    "end": "2021-08-27 17:14:13",
+    "total": 66,
+    "positive": 30,
+    "neutral": 30,
+    "negative": 6,
+    "tweets": [
+        {
+            "id": 1429951882605248512,
+            "text": "My ecosystem : Phone : V60 5G Tablet : Kindle 7 ( 2017 ) Watch : 2 : Pavilion - …",
+            "created_at": "2021-08-23 23:41:10",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.06125827814569528,
+                "negativity": 0.9387417218543044
+            },
+            "user_id": 1271073696074076160,
+            "text_translation": ""
+        },
+        {
+            "id": 1430618713292611584,
+            "text": "climate Shockproof Armor Magnetic Ring Holder Stand Phone Case For G8X V60 V50S 5G Back Cover …",
+            "created_at": "2021-08-25 19:50:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5533601212355279,
+                "negativity": 0.44663987876447214
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1431304053590568960,
+            "text": "v60 with dual screen case",
+            "created_at": "2021-08-27 17:14:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6997233135862705,
+                "negativity": 0.30027668641372957
+            },
+            "user_id": 1156001527447863296,
+            "text_translation": ""
+        }
+    ]
+}

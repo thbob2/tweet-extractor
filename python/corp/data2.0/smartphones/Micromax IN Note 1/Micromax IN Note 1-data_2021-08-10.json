@@ -1,0 +1,141 @@
+{
+    "tweets": [
+        {
+            "id": 1425128162766188544,
+            "text": "My current is around 11k , and your base is 70k , my one of friend but …",
+            "created_at": "2021-08-10 16:13:26",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.643023738158946,
+                "negativity": 0.3569762618410537
+            },
+            "user_id": 479684616,
+            "text_translation": ""
+        },
+        {
+            "id": 1425103294272348179,
+            "text": "All the best for your upcoming mobile 🇮🇳🇮🇳. Please whenever you give update to …",
+            "created_at": "2021-08-10 14:34:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30877334418460034,
+                "negativity": 0.6912266558153985
+            },
+            "user_id": 1285796470038294531,
+            "text_translation": ""
+        },
+        {
+            "id": 1425067925359054852,
+            "text": ", I am in note 1 from 5 . Recently due to battery issue given it to …",
+            "created_at": "2021-08-10 12:14:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.32413768593841724,
+                "negativity": 0.6758623140615834
+            },
+            "user_id": 867955782851186688,
+            "text_translation": ""
+        },
+        {
+            "id": 1425015837409255424,
+            "text": "I wan ' t my IN NOTE 1 sell back to because this is the worst mobile i have ever used . 1 . No Android 11 yet …",
+            "created_at": "2021-08-10 08:47:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6854166773910724,
+                "negativity": 0.3145833226089292
+            },
+            "user_id": 3299337152,
+            "text_translation": ""
+        },
+        {
+            "id": 1424994491753062401,
+            "text": "Where is in note 1 R update already you have for regular update",
+            "created_at": "2021-08-10 07:22:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.28051649922752897,
+                "negativity": 0.7194835007724717
+            },
+            "user_id": 1356695583126392833,
+            "text_translation": ""
+        },
+        {
+            "id": 1424921534573907970,
+            "text": "Good morning Waise in note 1 ka price",
+            "created_at": "2021-08-10 02:32:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5666867837820108,
+                "negativity": 0.4333132162179892
+            },
+            "user_id": 1284863323167526912,
+            "text_translation": ""
+        },
+        {
+            "id": 1424905803484393475,
+            "text": "please add some like \" double tap to wake screen \" in in1 , in note 1 , in 1b , throu …",
+            "created_at": "2021-08-10 01:29:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4222898114571654,
+                "negativity": 0.5777101885428328
+            },
+            "user_id": 1147745842838720513,
+            "text_translation": ""
+        }
+    ]
+}

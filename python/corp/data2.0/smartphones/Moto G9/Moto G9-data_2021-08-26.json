@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1431015858399170564,
+            "text": "G9 Play Unlocked 64GB Android Phone , Blue - $ 159 . 04",
+            "created_at": "2021-08-26 22:09:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6059101050859106,
+                "negativity": 0.39408989491408936
+            },
+            "user_id": 19513703,
+            "text_translation": ""
+        },
+        {
+            "id": 1430919495367884804,
+            "text": "G9 Plus - Android 11 Stable update Know more & ;& ;& ;& ; motog9plus …",
+            "created_at": "2021-08-26 15:46:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4907167533249003,
+                "negativity": 0.5092832466751006
+            },
+            "user_id": 1340703914107146247,
+            "text_translation": ""
+        },
+        {
+            "id": 1430826578741657607,
+            "text": "I am g9 . After doing the latest update while display to misbehave an …",
+            "created_at": "2021-08-26 09:36:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29609220159062577,
+                "negativity": 0.7039077984093749
+            },
+            "user_id": 76871232,
+            "text_translation": ""
+        },
+        {
+            "id": 1430788157256077312,
+            "text": "Hello , last year on 10 ( 2020 ). I bought the G9 new mobile from . It …",
+            "created_at": "2021-08-26 07:04:14",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33093911431029754,
+                "negativity": 0.6690608856897037
+            },
+            "user_id": 1347881911121637382,
+            "text_translation": ""
+        }
+    ]
+}

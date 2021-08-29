@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1423015289512468490,
+            "text": "Hey ! Does the G9 Play have calling on ? !",
+            "created_at": "2021-08-04 20:17:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4171011576166471,
+                "negativity": 0.5828988423833527
+            },
+            "user_id": 1151574204338364417,
+            "text_translation": ""
+        },
+        {
+            "id": 1422880205488771073,
+            "text": "Hello , ! We understand that you ' d like to have the latest on your phone . While we neve …",
+            "created_at": "2021-08-04 11:20:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5139755732306563,
+                "negativity": 0.48602442676934343
+            },
+            "user_id": 4851295378,
+            "text_translation": ""
+        },
+        {
+            "id": 1422834965671186434,
+            "text": "hi can you tell me how to lock the screen layout on g9 power as I am fed up of moving around .",
+            "created_at": "2021-08-04 08:21:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6348116479438625,
+                "negativity": 0.36518835205613914
+            },
+            "user_id": 874596671291891712,
+            "text_translation": ""
+        },
+        {
+            "id": 1422762811000827904,
+            "text": "why ' t the G9 plus gotten android 11 yet ? ' t it it ' s being sold in .",
+            "created_at": "2021-08-04 03:34:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7807481598976795,
+                "negativity": 0.21925184010231932
+            },
+            "user_id": 1285300303160586241,
+            "text_translation": ""
+        },
+        {
+            "id": 1422721099549356035,
+            "text": "G9 Plus XT2087 - 1 Android 10 Q Brazil QPAS30 . 19 - Q3 - 32 - 50 - 7",
+            "created_at": "2021-08-04 00:48:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45641424131110436,
+                "negativity": 0.5435857586888944
+            },
+            "user_id": 2210329521,
+            "text_translation": ""
+        }
+    ]
+}

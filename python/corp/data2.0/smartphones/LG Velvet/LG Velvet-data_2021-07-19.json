@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1417151828253454338,
+            "text": "I ' m currently the Velvet , is in the drawer .",
+            "created_at": "2021-07-19 15:58:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.43491269806305743,
+                "negativity": 0.5650873019369436
+            },
+            "user_id": 36511807,
+            "text_translation": ""
+        },
+        {
+            "id": 1416994221152735232,
+            "text": "woof my flip phone and my velvet back",
+            "created_at": "2021-07-19 05:32:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1384263498589517,
+                "negativity": 0.8615736501410488
+            },
+            "user_id": 1383767670105853955,
+            "text_translation": ""
+        }
+    ]
+}

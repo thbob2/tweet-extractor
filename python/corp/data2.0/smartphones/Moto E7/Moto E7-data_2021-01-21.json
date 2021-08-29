@@ -1,0 +1,118 @@
+{
+    "tweets": [
+        {
+            "id": 1352301527919169538,
+            "text": "- The “ Hello ” - A baseball being caught - Anything being pan fried - an E7 chord on acoustic guitar",
+            "created_at": "2021-01-21 17:06:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7115792458654832,
+                "negativity": 0.28842075413451523
+            },
+            "user_id": 325104693,
+            "text_translation": ""
+        },
+        {
+            "id": 1352278841167929346,
+            "text": "invalid for E7 plus phone on during exchange , same is …",
+            "created_at": "2021-01-21 15:36:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49415876793997765,
+                "negativity": 0.5058412320600225
+            },
+            "user_id": 2252369528,
+            "text_translation": ""
+        },
+        {
+            "id": 1352251643736150020,
+            "text": ": Support please add new update in e7 + Please 🙏🙏",
+            "created_at": "2021-01-21 13:48:10",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27577219617033527,
+                "negativity": 0.7242278038296658
+            },
+            "user_id": 1341405832559407106,
+            "text_translation": ""
+        },
+        {
+            "id": 1352251585015910400,
+            "text": "Support please add new update in e7 + Please 🙏🙏",
+            "created_at": "2021-01-21 13:47:56",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27577219617033527,
+                "negativity": 0.7242278038296658
+            },
+            "user_id": 1341405832559407106,
+            "text_translation": ""
+        },
+        {
+            "id": 1352174260823973888,
+            "text": ": New smart phone from biometrics by . E7 with FPC1520 . 499 …",
+            "created_at": "2021-01-21 08:40:40",
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5904995280356998,
+                "negativity": 0.40950047196430006
+            },
+            "user_id": 3571468399,
+            "text_translation": ""
+        },
+        {
+            "id": 1352154064482660352,
+            "text": "New smart phone from biometrics by . E7 with FPC1520 . 49 …",
+            "created_at": "2021-01-21 07:20:25",
+            "retweet_count": 13,
+            "favorite_count": 121,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5904995280356998,
+                "negativity": 0.40950047196430006
+            },
+            "user_id": 2976499155,
+            "text_translation": ""
+        }
+    ]
+}

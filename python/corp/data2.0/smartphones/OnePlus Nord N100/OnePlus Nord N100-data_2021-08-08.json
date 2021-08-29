@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1424427808000860162,
+            "text": "📱 N200 and much better than the N100 . At US $ 239 is good , but with clear //…",
+            "created_at": "2021-08-08 17:50:28",
+            "retweet_count": 0,
+            "favorite_count": 8,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5472244550910143,
+                "negativity": 0.4527755449089854
+            },
+            "user_id": 1880105874,
+            "text_translation": ""
+        },
+        {
+            "id": 1424273924972371969,
+            "text": "171 This does not prove the fact that my friend got for which already lost its …",
+            "created_at": "2021-08-08 07:39:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5820031841789279,
+                "negativity": 0.4179968158210726
+            },
+            "user_id": 1253217508531646464,
+            "text_translation": ""
+        }
+    ]
+}

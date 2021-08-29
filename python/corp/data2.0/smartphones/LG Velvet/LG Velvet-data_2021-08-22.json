@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1429557947588399107,
+            "text": "hello . I am trying to get a hold of a dual screen for the velvet . Can you help me please it would mean a lot",
+            "created_at": "2021-08-22 21:35:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30562125802191165,
+                "negativity": 0.6943787419780869
+            },
+            "user_id": 84905337,
+            "text_translation": ""
+        },
+        {
+            "id": 1429544569926942722,
+            "text": "make to give android 11 & ; 12 and13 and to velvet ??",
+            "created_at": "2021-08-22 20:42:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4643871350772741,
+                "negativity": 0.5356128649227255
+            },
+            "user_id": 1868156858,
+            "text_translation": ""
+        },
+        {
+            "id": 1429406047173812226,
+            "text": "The unlocked 8 5g , e6 , G play ( 2021 ), Fossil Gen 5 , and velvet 5g …",
+            "created_at": "2021-08-22 11:32:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5344613379553151,
+                "negativity": 0.4655386620446853
+            },
+            "user_id": 1108175739659026432,
+            "text_translation": ""
+        }
+    ]
+}

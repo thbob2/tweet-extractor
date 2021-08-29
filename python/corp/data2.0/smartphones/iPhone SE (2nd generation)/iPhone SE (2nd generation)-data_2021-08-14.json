@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1426691385663631365,
+            "text": "Apple SE ( 2nd Generation ), 64GB , White – Unlocked ( Premium )",
+            "created_at": "2021-08-14 23:45:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9887064867325411,
+                "negativity": 0.01129351326746089
+            },
+            "user_id": 2720881970,
+            "text_translation": ""
+        },
+        {
+            "id": 1426347947025858560,
+            "text": ": NEW STALKER / SE 2nd GENERATION HACKER WITH A 2000 - 2004 SILVER DOUBLE CAB OFF ROAD TRUCK …",
+            "created_at": "2021-08-14 01:00:25",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.889462161057029,
+                "negativity": 0.11053783894296765
+            },
+            "user_id": 163217911,
+            "text_translation": ""
+        },
+        {
+            "id": 1426347709959610369,
+            "text": "NEW STALKER / SE 2nd GENERATION HACKER WITH A 2000 - 2004 SILVER DOUBLE CAB OFF ROAD …",
+            "created_at": "2021-08-14 00:59:28",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8687001634870282,
+                "negativity": 0.13129983651296973
+            },
+            "user_id": 163217911,
+            "text_translation": ""
+        }
+    ]
+}

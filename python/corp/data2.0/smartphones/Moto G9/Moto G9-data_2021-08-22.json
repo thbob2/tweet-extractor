@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1429546608560152585,
+            "text": "I vote for ( ) as the via g9",
+            "created_at": "2021-08-22 20:50:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5336549138810818,
+                "negativity": 0.46634508611891873
+            },
+            "user_id": 1392173189883650048,
+            "text_translation": ""
+        },
+        {
+            "id": 1429468821388095488,
+            "text": "Will G9 remain on Android 11 or will it get another Android update ? Because G8 Plus was el …",
+            "created_at": "2021-08-22 15:41:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5689915594241008,
+                "negativity": 0.43100844057589777
+            },
+            "user_id": 1428373438373064707,
+            "text_translation": ""
+        },
+        {
+            "id": 1429454546225360896,
+            "text": "I tried to order G9 power , G10 power , G30 and other too via . Not a si …",
+            "created_at": "2021-08-22 14:44:56",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7174363617358981,
+                "negativity": 0.2825636382641008
+            },
+            "user_id": 1220417220389400576,
+            "text_translation": ""
+        },
+        {
+            "id": 1429275992791658496,
+            "text": "g9 play : p",
+            "created_at": "2021-08-22 02:55:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5044910179640717,
+                "negativity": 0.4955089820359282
+            },
+            "user_id": 1077762875664551943,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1425470892612546567,
+            "text": "the much battery in G 5G is a dud . It ' s become a bad buy .",
+            "created_at": "2021-08-11 14:55:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05626277817352581,
+                "negativity": 0.9437372218264746
+            },
+            "user_id": 31351724,
+            "text_translation": ""
+        }
+    ]
+}

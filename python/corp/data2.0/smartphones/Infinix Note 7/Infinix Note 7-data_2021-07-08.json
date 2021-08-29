@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1413091010658197513,
+            "text": "Hey I saw your post on , ' s name is not in that list . So I worried . My n …",
+            "created_at": "2021-07-08 11:02:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2653804737007897,
+                "negativity": 0.73461952629921
+            },
+            "user_id": 796998497337769984,
+            "text_translation": ""
+        },
+        {
+            "id": 1413074150399299592,
+            "text": "Note 7",
+            "created_at": "2021-07-08 09:55:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5232558139534884,
+                "negativity": 0.4767441860465117
+            },
+            "user_id": 1378240872366673923,
+            "text_translation": ""
+        }
+    ]
+}

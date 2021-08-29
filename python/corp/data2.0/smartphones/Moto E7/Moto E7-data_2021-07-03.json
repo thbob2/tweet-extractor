@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1411251851459170307,
+            "text": "the e7 plus",
+            "created_at": "2021-07-03 09:13:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4673541892825424,
+                "negativity": 0.5326458107174579
+            },
+            "user_id": 1239607089087070210,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1429222753211756545,
+            "text": "I just got G Stylus 5G and love it !",
+            "created_at": "2021-08-21 23:23:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.43375999789742087,
+                "negativity": 0.5662400021025792
+            },
+            "user_id": 2698890516,
+            "text_translation": ""
+        },
+        {
+            "id": 1429220399431266307,
+            "text": ": G 5G key to come with new snapdragon 750G SoC",
+            "created_at": "2021-08-21 23:14:31",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8598752013229485,
+                "negativity": 0.14012479867705152
+            },
+            "user_id": 1356552822859444225,
+            "text_translation": ""
+        },
+        {
+            "id": 1429141956559609861,
+            "text": "Why did this tech savvy 40 year old customer choose the G Stylus 5g over the One 5g ? Because the …",
+            "created_at": "2021-08-21 18:02:49",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8055081141540935,
+                "negativity": 0.19449188584590715
+            },
+            "user_id": 1080231824062926848,
+            "text_translation": ""
+        },
+        {
+            "id": 1429019434627174401,
+            "text": "This is just a trap don ' t believe i just fell for g 5g and and i am n …",
+            "created_at": "2021-08-21 09:55:57",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18185512110203814,
+                "negativity": 0.8181448788979627
+            },
+            "user_id": 846982964244353026,
+            "text_translation": ""
+        }
+    ]
+}

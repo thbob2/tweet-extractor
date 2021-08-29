@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1423386988216999938,
+            "text": "The best G Stylus ( 2020 ) offer a perfect combination of protection without the subtle beauty of t …",
+            "created_at": "2021-08-05 20:54:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9059264120487908,
+                "negativity": 0.09407358795121099
+            },
+            "user_id": 20660763,
+            "text_translation": ""
+        },
+        {
+            "id": 1423381476104712195,
+            "text": "Protect your G Stylus ( 2020 ) in style with the best",
+            "created_at": "2021-08-05 20:32:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15699180448068822,
+                "negativity": 0.8430081955193125
+            },
+            "user_id": 58554518,
+            "text_translation": ""
+        },
+        {
+            "id": 1423334621660336131,
+            "text": "Helmet Signet - X Diamond Black M Snell 2020 FAST FREE SHIPPING !",
+            "created_at": "2021-08-05 17:26:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.011359700180737238,
+                "negativity": 0.9886402998192628
+            },
+            "user_id": 1332457216750854144,
+            "text_translation": ""
+        },
+        {
+            "id": 1423099870546513920,
+            "text": "Hey , my phone to Android 11 . I ' t that for the G Power 2020 . It a native screen …",
+            "created_at": "2021-08-05 01:53:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22018839564901205,
+                "negativity": 0.7798116043509886
+            },
+            "user_id": 276881823,
+            "text_translation": ""
+        }
+    ]
+}

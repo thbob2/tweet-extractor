@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1425903930991599627,
+            "text": "My phone ' t . It ' s an Velvet 5G , so a pretty new phone WITH Android 11 .",
+            "created_at": "2021-08-12 19:36:03",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47602084123528066,
+                "negativity": 0.5239791587647182
+            },
+            "user_id": 1374892292822216709,
+            "text_translation": ""
+        },
+        {
+            "id": 1425884637717573639,
+            "text": "For twas supa easy w / my Velvet ... Smooth as suede . . . 😏 who else can dig some suede ???",
+            "created_at": "2021-08-12 18:19:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.39958851515856486,
+                "negativity": 0.6004114848414359
+            },
+            "user_id": 1117601083633950720,
+            "text_translation": ""
+        }
+    ]
+}

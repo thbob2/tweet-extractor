@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1426268314335055876,
+            "text": "I ' m velvet 5g a expensive phone",
+            "created_at": "2021-08-13 19:43:59",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3784164726069366,
+                "negativity": 0.6215835273930626
+            },
+            "user_id": 1400066703330103303,
+            "text_translation": ""
+        },
+        {
+            "id": 1426120151334785031,
+            "text": ": husband ' s Velvet is not to 5G . Network only works on .... need help . Any …",
+            "created_at": "2021-08-13 09:55:14",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5768351490959919,
+                "negativity": 0.4231648509040083
+            },
+            "user_id": 1137383922843770881,
+            "text_translation": ""
+        },
+        {
+            "id": 1426065257730953218,
+            "text": "Velvet 5G Full , , Price In 😎😎😎 LG2020 LG5G …",
+            "created_at": "2021-08-13 06:17:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5266536180991308,
+                "negativity": 0.4733463819008691
+            },
+            "user_id": 1259461748,
+            "text_translation": ""
+        },
+        {
+            "id": 1426064331117051907,
+            "text": "husband ' s Velvet is not to 5G . Network only works on .... need help . Any ??",
+            "created_at": "2021-08-13 06:13:26",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5768351490959919,
+                "negativity": 0.4231648509040083
+            },
+            "user_id": 424021613,
+            "text_translation": ""
+        }
+    ]
+}

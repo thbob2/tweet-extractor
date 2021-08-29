@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1424243115829784578,
+            "text": "View on US $ 174 . 99 | G9 Power XT2091 - 3 64GB 4GB RAM ( FACTORY UNLOCKED ) 6000mAh 6 . 8 ″ | …",
+            "created_at": "2021-08-08 05:36:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.451870295697457,
+                "negativity": 0.5481297043025432
+            },
+            "user_id": 1291725632573931520,
+            "text_translation": ""
+        },
+        {
+            "id": 1424230909390114821,
+            "text": "US $ 174 . 99 | G9 Power XT2091 - 3 64GB 4GB RAM ( FACTORY UNLOCKED ) 6000mAh 6 . 8 \" | …",
+            "created_at": "2021-08-08 04:48:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3080812766747082,
+                "negativity": 0.6919187233252923
+            },
+            "user_id": 1349702570739183618,
+            "text_translation": ""
+        }
+    ]
+}

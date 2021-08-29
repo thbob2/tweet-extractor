@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1402906537069363205,
+            "text": "super affordable 5G - compatible G Stylus 5G",
+            "created_at": "2021-06-10 08:32:37",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17346938775510168,
+                "negativity": 0.8265306122448981
+            },
+            "user_id": 23740339,
+            "text_translation": ""
+        },
+        {
+            "id": 1402877105726132224,
+            "text": "MotoGStylus5G comes with a stylus that support for 5G",
+            "created_at": "2021-06-10 06:35:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.672021538730421,
+                "negativity": 0.32797846126957886
+            },
+            "user_id": 78565395,
+            "text_translation": ""
+        }
+    ]
+}

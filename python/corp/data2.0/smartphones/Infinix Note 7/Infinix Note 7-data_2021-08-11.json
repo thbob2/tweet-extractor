@@ -1,0 +1,64 @@
+{
+    "tweets": [
+        {
+            "id": 1425469235325587461,
+            "text": "when android 11 comes in note 7",
+            "created_at": "2021-08-11 14:48:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6228640209284197,
+                "negativity": 0.3771359790715798
+            },
+            "user_id": 1393440576553558016,
+            "text_translation": ""
+        },
+        {
+            "id": 1425380858249187328,
+            "text": "5 . 7 '' Screen For Note 4 X572 Display Touch Screen Digitizer Assembly For …",
+            "created_at": "2021-08-11 08:57:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen",
+                "Touch Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3793374890793713,
+                "negativity": 0.6206625109206294
+            },
+            "user_id": 1339458818799853568,
+            "text_translation": ""
+        },
+        {
+            "id": 1425329083081052162,
+            "text": "Name : Age : 21 Gender : Male Location : San , Civil Status : Single Nat …",
+            "created_at": "2021-08-11 05:31:49",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8020703151649973,
+                "negativity": 0.19792968483500514
+            },
+            "user_id": 1419523834068176898,
+            "text_translation": ""
+        }
+    ]
+}

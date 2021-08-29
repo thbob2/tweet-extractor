@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1425333596743630855,
+            "text": "We Only see like camera ? What the hell is Galaxy Fold ? Z Flip ? Legion Due …",
+            "created_at": "2021-08-11 05:49:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6572747198589269,
+                "negativity": 0.3427252801410713
+            },
+            "user_id": 1073039479336853505,
+            "text_translation": ""
+        }
+    ]
+}

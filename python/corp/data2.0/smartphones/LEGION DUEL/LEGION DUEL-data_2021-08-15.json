@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1426895646913536003,
+            "text": ": Bring chat with you !",
+            "created_at": "2021-08-15 13:16:47",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6440138104186388,
+                "negativity": 0.35598618958136136
+            },
+            "user_id": 575162569,
+            "text_translation": ""
+        },
+        {
+            "id": 1426895199343575045,
+            "text": "Bring chat with you !",
+            "created_at": "2021-08-15 13:15:00",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6440138104186388,
+                "negativity": 0.35598618958136136
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        }
+    ]
+}

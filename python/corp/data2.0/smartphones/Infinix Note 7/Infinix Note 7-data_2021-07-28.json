@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1420310695900422149,
+            "text": "Sir , is there any update about Note 7 or not .",
+            "created_at": "2021-07-28 09:10:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4682693683653134,
+                "negativity": 0.5317306316346869
+            },
+            "user_id": 796998497337769984,
+            "text_translation": ""
+        },
+        {
+            "id": 1420308342224814080,
+            "text": "You are the of , so i want to tell you something . I bought note 7 mobile . …",
+            "created_at": "2021-07-28 09:01:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.844018743928579,
+                "negativity": 0.1559812560714213
+            },
+            "user_id": 796998497337769984,
+            "text_translation": ""
+        }
+    ]
+}

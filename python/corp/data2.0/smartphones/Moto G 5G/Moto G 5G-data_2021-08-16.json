@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1427291792144179207,
+            "text": "Sir will you be posting the in - depth review of G 5g with and ?. I want to buy it and I …",
+            "created_at": "2021-08-16 15:30:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45529832149477567,
+                "negativity": 0.5447016785052238
+            },
+            "user_id": 2455057178,
+            "text_translation": ""
+        },
+        {
+            "id": 1427243662040240130,
+            "text": "Hello , ! While we never share timing information , the G 5G is to receive the …",
+            "created_at": "2021-08-16 12:19:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7886864145840032,
+                "negativity": 0.21131358541599632
+            },
+            "user_id": 49753110,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "tweets": [
+        {
+            "id": 1411022729336135683,
+            "text": "when we get android 11 update in our In note 1",
+            "created_at": "2021-07-02 18:03:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4227306049516784,
+                "negativity": 0.5772693950483223
+            },
+            "user_id": 1354362941039140864,
+            "text_translation": ""
+        },
+        {
+            "id": 1410948908897869831,
+            "text": "fire 1 y13 y15 galaxy s5 note 3 One more phone I forgot it ’ s name .…",
+            "created_at": "2021-07-02 13:10:08",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24405795400783895,
+                "negativity": 0.755942045992161
+            },
+            "user_id": 1248266447551258625,
+            "text_translation": ""
+        },
+        {
+            "id": 1410945561570660355,
+            "text": "A phone that does all | Here ' s my Long Term Review Of the In Note 1 INNote1 Review …",
+            "created_at": "2021-07-02 12:56:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5071509067127868,
+                "negativity": 0.49284909328721327
+            },
+            "user_id": 1320267696743665664,
+            "text_translation": ""
+        },
+        {
+            "id": 1410907485557256196,
+            "text": "android 11 in in note 1 ? when ?",
+            "created_at": "2021-07-02 10:25:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6008174386920982,
+                "negativity": 0.3991825613079019
+            },
+            "user_id": 769252628903653376,
+            "text_translation": ""
+        },
+        {
+            "id": 1410901209347547136,
+            "text": "Please fix in 3rd party launcher for in note 1",
+            "created_at": "2021-07-02 10:00:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5316054422617108,
+                "negativity": 0.46839455773829064
+            },
+            "user_id": 1356695583126392833,
+            "text_translation": ""
+        },
+        {
+            "id": 1410806941987885058,
+            "text": "💥 in Note 1 ( White , 4GB RAM , 64GB Storage ) at . 10212 ( 15499 ) 👉",
+            "created_at": "2021-07-02 03:46:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.32948696662792604,
+                "negativity": 0.6705130333720735
+            },
+            "user_id": 4834300185,
+            "text_translation": ""
+        }
+    ]
+}

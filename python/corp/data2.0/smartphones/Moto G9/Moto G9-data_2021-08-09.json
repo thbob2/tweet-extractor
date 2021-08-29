@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1424578241386385413,
+            "text": "The G9 some really annoying design at the user , not so much as …",
+            "created_at": "2021-08-09 03:48:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5414641407389621,
+                "negativity": 0.45853585926103674
+            },
+            "user_id": 363983134,
+            "text_translation": ""
+        }
+    ]
+}

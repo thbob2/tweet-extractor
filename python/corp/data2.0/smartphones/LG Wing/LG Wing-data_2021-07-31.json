@@ -1,0 +1,141 @@
+{
+    "tweets": [
+        {
+            "id": 1421494618143744006,
+            "text": "fresh I can see that being useful . I used the Wing for only a few , literally , so never tried it …",
+            "created_at": "2021-07-31 15:35:01",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24235373807212207,
+                "negativity": 0.75764626192788
+            },
+            "user_id": 175161386,
+            "text_translation": ""
+        },
+        {
+            "id": 1421493519990984711,
+            "text": "JCVP11 Used it on the Wing when I had it .",
+            "created_at": "2021-07-31 15:30:39",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3434447110414137,
+                "negativity": 0.6565552889585858
+            },
+            "user_id": 1366579292780384263,
+            "text_translation": ""
+        },
+        {
+            "id": 1421478600990023691,
+            "text": ": I had ordered Wing which was to me on 26th . The phone ' s camera was not wo …",
+            "created_at": "2021-07-31 14:31:22",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5853127487329054,
+                "negativity": 0.41468725126709366
+            },
+            "user_id": 979536310942748675,
+            "text_translation": ""
+        },
+        {
+            "id": 1421477130463072270,
+            "text": "WING Fully UNLOCKED READY FOR CARRIER AVAILABLE 9644 BEECHNUT ST 77036 CONTACT 713 - 773 - 2021",
+            "created_at": "2021-07-31 14:25:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7771214481130921,
+                "negativity": 0.22287855188690925
+            },
+            "user_id": 956660022938951680,
+            "text_translation": ""
+        },
+        {
+            "id": 1421476065562697731,
+            "text": "I had ordered Wing which was to me on 26th . The phone ' s camera was no …",
+            "created_at": "2021-07-31 14:21:18",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5801051482891081,
+                "negativity": 0.4198948517108929
+            },
+            "user_id": 1056547375160877056,
+            "text_translation": ""
+        },
+        {
+            "id": 1421444431933153287,
+            "text": "- the result of written test on 25th for the post of Electrician / Technician in Chief …",
+            "created_at": "2021-07-31 12:15:36",
+            "retweet_count": 0,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13161450021392662,
+                "negativity": 0.8683854997860726
+            },
+            "user_id": 1196297083478663171,
+            "text_translation": ""
+        },
+        {
+            "id": 1421410520087687169,
+            "text": "help sold defective wing mobile , Invoice SINMUMAKD21004 …",
+            "created_at": "2021-07-31 10:00:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7929443383091015,
+                "negativity": 0.20705566169089779
+            },
+            "user_id": 30195600,
+            "text_translation": ""
+        }
+    ]
+}

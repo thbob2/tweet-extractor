@@ -1,0 +1,543 @@
+{
+    "query": "Motorola Razr (5G)",
+    "start": "2021-08-12 20:10:30",
+    "end": "2021-08-27 18:57:28",
+    "total": 211,
+    "positive": 95,
+    "neutral": 106,
+    "negative": 10,
+    "tweets": [
+        {
+            "id": 1425912600638930952,
+            "text": "there ' s a new with 5G",
+            "created_at": "2021-08-12 20:10:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5174595262576163,
+                "negativity": 0.48254047374238374
+            },
+            "user_id": 2199716367,
+            "text_translation": ""
+        },
+        {
+            "id": 1425638543615873032,
+            "text": "Big question is will finally drop the price of the 5G ? If they do , maybe that ' s the o …",
+            "created_at": "2021-08-12 02:01:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4351844324865112,
+                "negativity": 0.5648155675134898
+            },
+            "user_id": 1398718723649798148,
+            "text_translation": ""
+        },
+        {
+            "id": 1426264760958525441,
+            "text": "Yes , if you 5G you can see my phone",
+            "created_at": "2021-08-13 19:29:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4346082464171188,
+                "negativity": 0.5653917535828816
+            },
+            "user_id": 190335157,
+            "text_translation": ""
+        },
+        {
+            "id": 1426250575667245061,
+            "text": "Just a , there ' s a sale on the this weekend . Their , the …",
+            "created_at": "2021-08-13 18:33:30",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.712567479431576,
+                "negativity": 0.2874325205684241
+            },
+            "user_id": 2472746014,
+            "text_translation": ""
+        },
+        {
+            "id": 1426248217260220426,
+            "text": ": Latest Nest Hub to $ 80 , 5G $ 400 off , more …",
+            "created_at": "2021-08-13 18:24:08",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21068120163081253,
+                "negativity": 0.7893187983691868
+            },
+            "user_id": 19159076,
+            "text_translation": ""
+        },
+        {
+            "id": 1426228032407232520,
+            "text": ": : Latest Nest Hub to $ 80 , 5G $ 400 off , more by :…",
+            "created_at": "2021-08-13 17:03:55",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21068120163081253,
+                "negativity": 0.7893187983691868
+            },
+            "user_id": 280982230,
+            "text_translation": ""
+        },
+        {
+            "id": 1426213465874702341,
+            "text": ": Latest Nest Hub to $ 80 , 5G $ 400 off , more by",
+            "created_at": "2021-08-13 16:06:02",
+            "retweet_count": 2,
+            "favorite_count": 27,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21068120163081253,
+                "negativity": 0.7893187983691868
+            },
+            "user_id": 177087369,
+            "text_translation": ""
+        },
+        {
+            "id": 1426145693782188033,
+            "text": ": Skip ' s new folding and save $ 400 on ' s 5G instead by",
+            "created_at": "2021-08-13 11:36:44",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20920247189701177,
+                "negativity": 0.7907975281029886
+            },
+            "user_id": 169365414,
+            "text_translation": ""
+        },
+        {
+            "id": 1426142997058572293,
+            "text": "Skip ' s new folding and save $ 400 on ' s 5G instead by",
+            "created_at": "2021-08-13 11:26:01",
+            "retweet_count": 3,
+            "favorite_count": 21,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20920247189701177,
+                "negativity": 0.7907975281029886
+            },
+            "user_id": 42980370,
+            "text_translation": ""
+        },
+        {
+            "id": 1426135795421925379,
+            "text": "like v3 and 5g",
+            "created_at": "2021-08-13 10:57:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.483644859813084,
+                "negativity": 0.5163551401869159
+            },
+            "user_id": 2285157993,
+            "text_translation": ""
+        },
+        {
+            "id": 1426099879017861122,
+            "text": "recently the Galaxy Z Flip 3 , but how does it compare to ’ s 2020 flip phone , the 5G ?…",
+            "created_at": "2021-08-13 08:34:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15615999921133908,
+                "negativity": 0.8438400007886616
+            },
+            "user_id": 1216031696790999040,
+            "text_translation": ""
+        },
+        {
+            "id": 1425989277280780290,
+            "text": "flip 3 = bad design good specs 5G = good design bad specs",
+            "created_at": "2021-08-13 01:15:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3234992987625098,
+                "negativity": 0.6765007012374908
+            },
+            "user_id": 1341408523956174852,
+            "text_translation": ""
+        },
+        {
+            "id": 1426663182475698178,
+            "text": "is its first - gen foldable — with Android 11 - The Verge 5G Security :",
+            "created_at": "2021-08-14 21:53:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.706432455466138,
+                "negativity": 0.2935675445338627
+            },
+            "user_id": 1049585267772968960,
+            "text_translation": ""
+        },
+        {
+            "id": 1426440612182728704,
+            "text": ": Latest Nest Hub to $ 80 , 5G $ 400 off , more | 🔗",
+            "created_at": "2021-08-14 07:08:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21068120163081253,
+                "negativity": 0.7893187983691868
+            },
+            "user_id": 3438095788,
+            "text_translation": ""
+        },
+        {
+            "id": 1426362463382016006,
+            "text": "Save $ 400 on the 5G Unlocked Cell Phone . Only $ 999 . 99 $ 1 , 399 . 99 .",
+            "created_at": "2021-08-14 01:58:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.015493692773254946,
+                "negativity": 0.9845063072267456
+            },
+            "user_id": 1409620894947938304,
+            "text_translation": ""
+        },
+        {
+            "id": 1426962698214969362,
+            "text": ", it like she would love the 5G ...",
+            "created_at": "2021-08-15 17:43:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4999525595233931,
+                "negativity": 0.5000474404766068
+            },
+            "user_id": 225110641,
+            "text_translation": ""
+        },
+        {
+            "id": 1426884571593809924,
+            "text": ": ’ s first - generation foldable phone ( 2019 ) 5g is getting the Android 11 update along with the …",
+            "created_at": "2021-08-15 12:32:46",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4389423480649105,
+                "negativity": 0.5610576519350899
+            },
+            "user_id": 1332251973446340608,
+            "text_translation": ""
+        },
+        {
+            "id": 1426883923204706307,
+            "text": "is getting Android 11 update Snapdragon765 5G 5gDevices Android11 …",
+            "created_at": "2021-08-15 12:30:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3939556893955691,
+                "negativity": 0.6060443106044311
+            },
+            "user_id": 60838339,
+            "text_translation": ""
+        },
+        {
+            "id": 1426877184447336457,
+            "text": "’ s first - generation foldable phone ( 2019 ) 5g is getting the Android 11 update along with …",
+            "created_at": "2021-08-15 12:03:25",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4389423480649105,
+                "negativity": 0.5610576519350899
+            },
+            "user_id": 1108175739659026432,
+            "text_translation": ""
+        },
+        {
+            "id": 1427245981075189771,
+            "text": "It that both the 2019 and 5G - 2020 are getting the update .",
+            "created_at": "2021-08-16 12:28:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09423911013484919,
+                "negativity": 0.9057608898651506
+            },
+            "user_id": 3304631828,
+            "text_translation": ""
+        },
+        {
+            "id": 1429142333141004297,
+            "text": "us it foldable , too , with release of Android 11 for the 5g",
+            "created_at": "2021-08-21 18:04:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6561015000402688,
+                "negativity": 0.3438984999597314
+            },
+            "user_id": 80394238,
+            "text_translation": ""
+        },
+        {
+            "id": 1428924303228108803,
+            "text": "It was a matter and time and price for me . Watch , next year I ' be ranting and raving about the …",
+            "created_at": "2021-08-21 03:37:56",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8748961056729854,
+                "negativity": 0.12510389432701574
+            },
+            "user_id": 986590286464692224,
+            "text_translation": ""
+        },
+        {
+            "id": 1429490810823745541,
+            "text": "5G Unlocked 8GB / 256GB Phone with 48MP Camera - $ 999 . 99",
+            "created_at": "2021-08-22 17:09:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09075709474952122,
+                "negativity": 0.9092429052504779
+            },
+            "user_id": 19513703,
+            "text_translation": ""
+        },
+        {
+            "id": 1429245281346805765,
+            "text": ": 20 ago , most US were flip . 10 ago those were by . 2 ago , Mo …",
+            "created_at": "2021-08-22 00:53:23",
+            "retweet_count": 230,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41718716699804353,
+                "negativity": 0.5828128330019562
+            },
+            "user_id": 1356862441351573505,
+            "text_translation": ""
+        },
+        {
+            "id": 1429934064430206980,
+            "text": "5G | Unlocked | Made for US by | 8 / 256GB | 48MP Camera | 2020 | Blush Gold",
+            "created_at": "2021-08-23 22:30:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5591574711318829,
+                "negativity": 0.44084252886811703
+            },
+            "user_id": 1257312744061075460,
+            "text_translation": ""
+        },
+        {
+            "id": 1430946339337166850,
+            "text": "Do I want the Z flip 3 that on all specs is superior or the 5G that a better front screen and cooler ?",
+            "created_at": "2021-08-26 17:32:47",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20019105330416612,
+                "negativity": 0.7998089466958338
+            },
+            "user_id": 866342578714583040,
+            "text_translation": ""
+        },
+        {
+            "id": 1430873117753286657,
+            "text": "5G | Unlocked | Made for US by | 8 / 256GB | 48MP Camera | 2020 | Liquid by …",
+            "created_at": "2021-08-26 12:41:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.04358833703409954,
+                "negativity": 0.9564116629659009
+            },
+            "user_id": 722533029713944576,
+            "text_translation": ""
+        },
+        {
+            "id": 1431330037622525955,
+            "text": "This is also where I think got it right on the 5G to the Flip series . Better overall user e …",
+            "created_at": "2021-08-27 18:57:28",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5455841774906539,
+                "negativity": 0.45441582250934504
+            },
+            "user_id": 1411355764330008577,
+            "text_translation": ""
+        }
+    ]
+}

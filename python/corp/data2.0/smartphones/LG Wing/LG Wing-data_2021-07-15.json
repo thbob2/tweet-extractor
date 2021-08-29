@@ -1,0 +1,121 @@
+{
+    "tweets": [
+        {
+            "id": 1415750057274449920,
+            "text": "Outside it 29K inside its 58k ? Are doubled ? …",
+            "created_at": "2021-07-15 19:08:11",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6596540814773718,
+                "negativity": 0.3403459185226287
+            },
+            "user_id": 101378423,
+            "text_translation": ""
+        },
+        {
+            "id": 1415699551382429697,
+            "text": "Priced at $ 55 . 00 CAD for these Hot 2021 , Light Blue Shy Guy , Wild Wing Lot Of 5 !",
+            "created_at": "2021-07-15 15:47:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.688909840139404,
+                "negativity": 0.31109015986059607
+            },
+            "user_id": 320965291,
+            "text_translation": ""
+        },
+        {
+            "id": 1415666200680427533,
+            "text": ".. The phone case included in the Wing Retail Box .. ' t have the Camera bump , which the C …",
+            "created_at": "2021-07-15 13:34:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09967692754024284,
+                "negativity": 0.9003230724597563
+            },
+            "user_id": 121513916,
+            "text_translation": ""
+        },
+        {
+            "id": 1415646040095481857,
+            "text": "Order ID - OD222184106117522000 Wing ( Illusion Sky , 128 ) I received a defective product …",
+            "created_at": "2021-07-15 12:14:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.0890012669627874,
+                "negativity": 0.9109987330372131
+            },
+            "user_id": 1415645133773578244,
+            "text_translation": ""
+        },
+        {
+            "id": 1415554839828828161,
+            "text": "6 series is the copy of wing",
+            "created_at": "2021-07-15 06:12:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4015042607596884,
+                "negativity": 0.5984957392403117
+            },
+            "user_id": 1315532267880497153,
+            "text_translation": ""
+        },
+        {
+            "id": 1415541016363421698,
+            "text": "This is awesome news . both and great competition which all . This should …",
+            "created_at": "2021-07-15 05:17:32",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8969712956591545,
+                "negativity": 0.10302870434084509
+            },
+            "user_id": 2728728949,
+            "text_translation": ""
+        }
+    ]
+}

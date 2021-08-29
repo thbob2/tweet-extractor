@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1429490810823745541,
+            "text": "5G Unlocked 8GB / 256GB Phone with 48MP Camera - $ 999 . 99",
+            "created_at": "2021-08-22 17:09:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09075709474952122,
+                "negativity": 0.9092429052504779
+            },
+            "user_id": 19513703,
+            "text_translation": ""
+        },
+        {
+            "id": 1429245281346805765,
+            "text": ": 20 ago , most US were flip . 10 ago those were by . 2 ago , Mo …",
+            "created_at": "2021-08-22 00:53:23",
+            "retweet_count": 230,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41718716699804353,
+                "negativity": 0.5828128330019562
+            },
+            "user_id": 1356862441351573505,
+            "text_translation": ""
+        }
+    ]
+}

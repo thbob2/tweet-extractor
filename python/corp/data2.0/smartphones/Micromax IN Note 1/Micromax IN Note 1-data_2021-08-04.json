@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1422945687881191424,
+            "text": "10veer : 2 REVIEW and disclose some hidden or comparison with in note 1",
+            "created_at": "2021-08-04 15:41:03",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8632742487893457,
+                "negativity": 0.13672575121065406
+            },
+            "user_id": 1396020137073938433,
+            "text_translation": ""
+        },
+        {
+            "id": 1422904737163223045,
+            "text": "The next phone I will buy will be from or some brand . How is ' s in note 1",
+            "created_at": "2021-08-04 12:58:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6122044393740886,
+                "negativity": 0.3877955606259118
+            },
+            "user_id": 2262141,
+            "text_translation": ""
+        },
+        {
+            "id": 1422874092772872196,
+            "text": "2 REVIEW and disclose some hidden or comparison with in note 1 …",
+            "created_at": "2021-08-04 10:56:34",
+            "retweet_count": 3,
+            "favorite_count": 10,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8632742487893457,
+                "negativity": 0.13672575121065406
+            },
+            "user_id": 282725335,
+            "text_translation": ""
+        },
+        {
+            "id": 1422810259169501187,
+            "text": "Hey ! Please stay tuned for information about upcoming of IN note 1 .",
+            "created_at": "2021-08-04 06:42:54",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.125715733869391,
+                "negativity": 0.8742842661306075
+            },
+            "user_id": 95869405,
+            "text_translation": ""
+        }
+    ]
+}

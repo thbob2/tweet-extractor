@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1416736494283284481,
+            "text": "I don ’ t like the N10 . It ’ s than my 2017 2XL , the screen is mediocre at best , the button e …",
+            "created_at": "2021-07-18 12:27:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05249896843899373,
+                "negativity": 0.9475010315610055
+            },
+            "user_id": 12992972,
+            "text_translation": ""
+        },
+        {
+            "id": 1416720205955444738,
+            "text": "... Throw away my N10 5G away",
+            "created_at": "2021-07-18 11:23:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40243582167946934,
+                "negativity": 0.5975641783205304
+            },
+            "user_id": 95397672,
+            "text_translation": ""
+        },
+        {
+            "id": 1416657554961309697,
+            "text": ": \" settled on one major Android update for the N10 5G , and it to be rolling …",
+            "created_at": "2021-07-18 07:14:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7130762735629709,
+                "negativity": 0.2869237264370298
+            },
+            "user_id": 1005029681102454786,
+            "text_translation": ""
+        },
+        {
+            "id": 1416558577473527817,
+            "text": "✅ N10 5G - 128GB , 6GB RAM , Dual , Midnight Ice solo 232 . 18 € 📣 ➡…",
+            "created_at": "2021-07-18 00:40:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5167876588021781,
+                "negativity": 0.48321234119782214
+            },
+            "user_id": 1115604336661295105,
+            "text_translation": ""
+        }
+    ]
+}

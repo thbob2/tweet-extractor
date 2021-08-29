@@ -1,0 +1,120 @@
+{
+    "tweets": [
+        {
+            "id": 1430557414827298818,
+            "text": "Sir in note 1 me next update date problem solution",
+            "created_at": "2021-08-25 15:47:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6891401315925111,
+                "negativity": 0.3108598684074885
+            },
+            "user_id": 1366396883250384897,
+            "text_translation": ""
+        },
+        {
+            "id": 1430534302337433602,
+            "text": "note 9 with 11 also with 12 . 5 and in note 1 under 10k",
+            "created_at": "2021-08-25 14:15:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5499864456174739,
+                "negativity": 0.45001355438252627
+            },
+            "user_id": 1356695583126392833,
+            "text_translation": ""
+        },
+        {
+            "id": 1430523759182573568,
+            "text": "are you making fun of your trust firstly not providing R …",
+            "created_at": "2021-08-25 13:33:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7307016950353504,
+                "negativity": 0.26929830496464996
+            },
+            "user_id": 1356695583126392833,
+            "text_translation": ""
+        },
+        {
+            "id": 1430503474370781186,
+            "text": "What about in note 1 update ...??",
+            "created_at": "2021-08-25 12:13:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3304883593504086,
+                "negativity": 0.6695116406495913
+            },
+            "user_id": 167573874,
+            "text_translation": ""
+        },
+        {
+            "id": 1430497714173669379,
+            "text": "When will you launch In Note 1 pro ?",
+            "created_at": "2021-08-25 11:50:07",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7109919247614357,
+                "negativity": 0.2890080752385644
+            },
+            "user_id": 722777492550000642,
+            "text_translation": ""
+        },
+        {
+            "id": 1430482263397978116,
+            "text": "how can i remove search bar from my home screen device in note 1",
+            "created_at": "2021-08-25 10:48:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5919206244107039,
+                "negativity": 0.40807937558929736
+            },
+            "user_id": 1399298680755159044,
+            "text_translation": ""
+        }
+    ]
+}

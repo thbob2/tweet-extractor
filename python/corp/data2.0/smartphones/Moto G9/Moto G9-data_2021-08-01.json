@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1421912052214403074,
+            "text": "Unlocked G9 Play 64GB Android - $ 159 . 99 ( 20 % OFF )",
+            "created_at": "2021-08-01 19:13:45",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5655570320109193,
+                "negativity": 0.43444296798908005
+            },
+            "user_id": 1191910347562770432,
+            "text_translation": ""
+        },
+        {
+            "id": 1421862392288489480,
+            "text": "Unlocked G9 Play 64GB Android $ 160 at",
+            "created_at": "2021-08-01 15:56:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8769516728624543,
+                "negativity": 0.12304832713754688
+            },
+            "user_id": 27473141,
+            "text_translation": ""
+        },
+        {
+            "id": 1421784183555469313,
+            "text": "Where is the \" none of the above \" option ??? My vote would go to G9 + It is c …",
+            "created_at": "2021-08-01 10:45:39",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34536852814957775,
+                "negativity": 0.6546314718504218
+            },
+            "user_id": 2494320284,
+            "text_translation": ""
+        }
+    ]
+}

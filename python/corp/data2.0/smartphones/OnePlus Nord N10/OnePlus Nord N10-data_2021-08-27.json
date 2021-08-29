@@ -1,0 +1,158 @@
+{
+    "tweets": [
+        {
+            "id": 1431367939710664706,
+            "text": ": I just ordered a - N10 for my husband who only his phone as a ... phone . Anyone know if this was a go …",
+            "created_at": "2021-08-27 21:28:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7845890511814132,
+                "negativity": 0.21541094881858647
+            },
+            "user_id": 377738485,
+            "text_translation": ""
+        },
+        {
+            "id": 1431366808943071232,
+            "text": "I just ordered a - N10 for my husband who only his phone as a ... phone . Anyone know if this was a good choice ?",
+            "created_at": "2021-08-27 21:23:35",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8572177013743955,
+                "negativity": 0.14278229862560535
+            },
+            "user_id": 448891258,
+            "text_translation": ""
+        },
+        {
+            "id": 1431243086986760200,
+            "text": ": 9to5Toys Last Call : Spin 713 $ 429 , XM4 $ 216 , more",
+            "created_at": "2021-08-27 13:11:57",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7655532138243005,
+                "negativity": 0.23444678617569947
+            },
+            "user_id": 2425177933,
+            "text_translation": ""
+        },
+        {
+            "id": 1431163779392458758,
+            "text": ": N10 5G Unlocked . Click Here To Buy ...",
+            "created_at": "2021-08-27 07:56:49",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.686419512993992,
+                "negativity": 0.3135804870060075
+            },
+            "user_id": 1429015340927930374,
+            "text_translation": ""
+        },
+        {
+            "id": 1431156870169911299,
+            "text": "N10 5G Unlocked , Midnight Ice ​, 90Hz Refresh Rate , 6GB RAM + 128GB storage , US Version , M …",
+            "created_at": "2021-08-27 07:29:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4311361305169792,
+                "negativity": 0.5688638694830201
+            },
+            "user_id": 801900606910844928,
+            "text_translation": ""
+        },
+        {
+            "id": 1431152511239471106,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more | 🔗",
+            "created_at": "2021-08-27 07:12:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 3438095788,
+            "text_translation": ""
+        },
+        {
+            "id": 1431142854357889024,
+            "text": "Anyone know much about the N10 ? had a phone before and am thinking of",
+            "created_at": "2021-08-27 06:33:40",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33104381132057614,
+                "negativity": 0.6689561886794241
+            },
+            "user_id": 1163548359795314688,
+            "text_translation": ""
+        },
+        {
+            "id": 1431043784859652096,
+            "text": "9to5Toys Last Call : Spin 713 $ 429 , XM4 $ 216 , more",
+            "created_at": "2021-08-27 00:00:00",
+            "retweet_count": 2,
+            "favorite_count": 15,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7655532138243005,
+                "negativity": 0.23444678617569947
+            },
+            "user_id": 177087369,
+            "text_translation": ""
+        }
+    ]
+}

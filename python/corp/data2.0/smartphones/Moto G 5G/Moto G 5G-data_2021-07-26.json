@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1419783336222806017,
+            "text": "This one better specs 🤗",
+            "created_at": "2021-07-26 22:15:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4544415236031851,
+                "negativity": 0.5455584763968148
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        },
+        {
+            "id": 1419549208403611649,
+            "text": "g 5g or a22 5g",
+            "created_at": "2021-07-26 06:44:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 147955654,
+            "text_translation": ""
+        },
+        {
+            "id": 1419544040345784324,
+            "text": "Did you know there phone warren …",
+            "created_at": "2021-07-26 06:24:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.26291721905639576,
+                "negativity": 0.7370827809436045
+            },
+            "user_id": 1233844602144055296,
+            "text_translation": ""
+        },
+        {
+            "id": 1419503540100288516,
+            "text": "Hi , thank you for writing back ! While we never share timing information , yes , G 5G …",
+            "created_at": "2021-07-26 03:43:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7815231500693021,
+                "negativity": 0.21847684993069771
+            },
+            "user_id": 2460859956,
+            "text_translation": ""
+        },
+        {
+            "id": 1419496133911474181,
+            "text": "for but I hope G 5G is eligible for the update .",
+            "created_at": "2021-07-26 03:13:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.771827876503235,
+                "negativity": 0.22817212349676438
+            },
+            "user_id": 1610605692,
+            "text_translation": ""
+        }
+    ]
+}

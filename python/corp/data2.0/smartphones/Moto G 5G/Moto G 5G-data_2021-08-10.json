@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1425112325158223873,
+            "text": ", 9 ago g 5G , and it is still running on Android 10 , why the company take so mu …",
+            "created_at": "2021-08-10 15:10:30",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5664732469274926,
+                "negativity": 0.43352675307250793
+            },
+            "user_id": 807191289095536641,
+            "text_translation": ""
+        },
+        {
+            "id": 1424958622149185538,
+            "text": "When will we get the android update for g 5g ??",
+            "created_at": "2021-08-10 04:59:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4123116234559927,
+                "negativity": 0.587688376544008
+            },
+            "user_id": 159019635,
+            "text_translation": ""
+        },
+        {
+            "id": 1424934922326667264,
+            "text": "Yep G 5G 11 5G & ; is powered by 750G",
+            "created_at": "2021-08-10 03:25:34",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3347826086956522,
+                "negativity": 0.6652173913043474
+            },
+            "user_id": 1181037844426579969,
+            "text_translation": ""
+        },
+        {
+            "id": 1424932462124146689,
+            "text": "Even G 5g had 11 with 750G",
+            "created_at": "2021-08-10 03:15:47",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4671491863480954,
+                "negativity": 0.5328508136519047
+            },
+            "user_id": 1358646195137093638,
+            "text_translation": ""
+        }
+    ]
+}

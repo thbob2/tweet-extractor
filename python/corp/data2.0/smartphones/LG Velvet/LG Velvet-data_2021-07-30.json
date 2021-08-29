@@ -1,0 +1,56 @@
+{
+    "tweets": [
+        {
+            "id": 1421250028186767367,
+            "text": "Upland Champagne Velvet on tap now .",
+            "created_at": "2021-07-30 23:23:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    41.812471,
+                    -87.86978
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -87.86978,
+                    41.812471
+                ]
+            },
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7531700629891114,
+                "negativity": 0.24682993701089
+            },
+            "user_id": 75592545,
+            "text_translation": ""
+        },
+        {
+            "id": 1421024629380980739,
+            "text": "ram I don ' t think someone can be as innovative as The flexibility to use dual screen and detachable sin …",
+            "created_at": "2021-07-30 08:27:27",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8387967654184254,
+                "negativity": 0.16120323458157237
+            },
+            "user_id": 4762621873,
+            "text_translation": ""
+        }
+    ]
+}

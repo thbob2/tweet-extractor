@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1424074398718480384,
+            "text": "Android : Testing N10 on and use my to get $ 20 off your first bill C13XWU",
+            "created_at": "2021-08-07 18:26:09",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6283940019267265,
+                "negativity": 0.3716059980732731
+            },
+            "user_id": 1140337346442878978,
+            "text_translation": ""
+        },
+        {
+            "id": 1424064211194286084,
+            "text": "Testing N10 on and use my to get $ 20 off your first bill C13XWU",
+            "created_at": "2021-08-07 17:45:40",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5470754016640454,
+                "negativity": 0.45292459833595494
+            },
+            "user_id": 4822109100,
+            "text_translation": ""
+        },
+        {
+            "id": 1423970736381759490,
+            "text": "Dummy Phone Display – N200 5G , N10 5G , N100 Display",
+            "created_at": "2021-08-07 11:34:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.422297297297298,
+                "negativity": 0.5777027027027027
+            },
+            "user_id": 1224349999841984512,
+            "text_translation": ""
+        },
+        {
+            "id": 1423851649794199553,
+            "text": "Good deal N10 : 26 % drop for the excellent 5G",
+            "created_at": "2021-08-07 03:41:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8107325623522381,
+                "negativity": 0.1892674376477618
+            },
+            "user_id": 1002556645669462017,
+            "text_translation": ""
+        }
+    ]
+}

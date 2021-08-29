@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1353025622654779392,
+            "text": "➡️🇩🇪 more than the CO2 fleet for in 2020 🔸 Average CO2 of new are 1 …",
+            "created_at": "2021-01-23 17:03:41",
+            "retweet_count": 1,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6273127866276653,
+                "negativity": 0.37268721337233435
+            },
+            "user_id": 1106158169942880256,
+            "text_translation": ""
+        },
+        {
+            "id": 1352937647040208896,
+            "text": "G Power 2021 ( Not for G Power 2020 ) – Tempered Glass Screen Protector with Easy Installation Frame",
+            "created_at": "2021-01-23 11:14:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.540092135551312,
+                "negativity": 0.4599078644486885
+            },
+            "user_id": 58869520,
+            "text_translation": ""
+        },
+        {
+            "id": 1352786399922184192,
+            "text": "G Power ( 2021 ) G Power ( 2020 ) - Who Will Win ? via",
+            "created_at": "2021-01-23 01:13:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3626863855690346,
+                "negativity": 0.637313614430965
+            },
+            "user_id": 2702352786,
+            "text_translation": ""
+        },
+        {
+            "id": 1352781436114362368,
+            "text": "G Power - Review ! ( New for 2020 ) via",
+            "created_at": "2021-01-23 00:53:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2744946240711825,
+                "negativity": 0.7255053759288175
+            },
+            "user_id": 2702352786,
+            "text_translation": ""
+        }
+    ]
+}

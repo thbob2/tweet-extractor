@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1414611061114822660,
+            "text": "a N100 , what a pain in da but . But hey ho it ' s finally finished .",
+            "created_at": "2021-07-12 15:42:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48848493639763946,
+                "negativity": 0.5115150636023608
+            },
+            "user_id": 1411287720790462467,
+            "text_translation": ""
+        },
+        {
+            "id": 1414545338921279491,
+            "text": "💵 : R $ 612 , 61 🛒 Link : N100",
+            "created_at": "2021-07-12 11:21:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5370370370370368,
+                "negativity": 0.46296296296296297
+            },
+            "user_id": 90957927,
+            "text_translation": ""
+        },
+        {
+            "id": 1414509933983379459,
+            "text": "LIMITED OFFER !!!! 49 . 9 ONLY N100 Dual 4GB RAM 64GB 4G , Midnight Frost Buy :…",
+            "created_at": "2021-07-12 09:00:23",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "4G"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7035146970384513,
+                "negativity": 0.296485302961551
+            },
+            "user_id": 1054680220417118208,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "tweets": [
+        {
+            "id": 1429152935594889217,
+            "text": "any for wing ? 🤔",
+            "created_at": "2021-08-21 18:46:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3715836291707424,
+                "negativity": 0.6284163708292573
+            },
+            "user_id": 295975323,
+            "text_translation": ""
+        },
+        {
+            "id": 1429126757098172431,
+            "text": "would it be a bad idea to buy an wing",
+            "created_at": "2021-08-21 17:02:25",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2559705089725934,
+                "negativity": 0.7440294910274068
+            },
+            "user_id": 1269288131234324481,
+            "text_translation": ""
+        },
+        {
+            "id": 1429097896129875969,
+            "text": ": I have a Wing . I have a GLASSES . oh ... (？？？？？？？？？？？)",
+            "created_at": "2021-08-21 15:07:44",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18764470383947496,
+                "negativity": 0.8123552961605244
+            },
+            "user_id": 585789795,
+            "text_translation": ""
+        },
+        {
+            "id": 1429097284210503685,
+            "text": ": So this is true , but crucially it is * all * , not just from the “ left - wing echo chamber ” of the .…",
+            "created_at": "2021-08-21 15:05:18",
+            "retweet_count": 95,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7696646060857618,
+                "negativity": 0.23033539391423805
+            },
+            "user_id": 835781853000925184,
+            "text_translation": ""
+        },
+        {
+            "id": 1429095186479550468,
+            "text": "I have a Wing . I have a GLASSES . oh ... (？？？？？？？？？？？)",
+            "created_at": "2021-08-21 14:56:58",
+            "retweet_count": 9,
+            "favorite_count": 27,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18764470383947496,
+                "negativity": 0.8123552961605244
+            },
+            "user_id": 764462551258177536,
+            "text_translation": ""
+        },
+        {
+            "id": 1429086816309755911,
+            "text": "on the wing might be it",
+            "created_at": "2021-08-21 14:23:42",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3628025500648323,
+                "negativity": 0.6371974499351679
+            },
+            "user_id": 711144123454132224,
+            "text_translation": ""
+        }
+    ]
+}

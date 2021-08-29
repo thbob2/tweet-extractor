@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1422193467317387268,
+            "text": "No . G9 Play .",
+            "created_at": "2021-08-02 13:52:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5044910179640717,
+                "negativity": 0.4955089820359282
+            },
+            "user_id": 1177431769378885639,
+            "text_translation": ""
+        },
+        {
+            "id": 1422175136308936704,
+            "text": "Here ' s a list of the top 5 big battery under 15 , 000 currently available in",
+            "created_at": "2021-08-02 12:39:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3357606745305608,
+                "negativity": 0.6642393254694415
+            },
+            "user_id": 218393576,
+            "text_translation": ""
+        },
+        {
+            "id": 1422147197777367042,
+            "text": "AD : G9 Play 6 . 5 ″ 64GB Android for $ 159 . 99 ( Was $ 199 ) + Free Shipping",
+            "created_at": "2021-08-02 10:48:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6107685247548417,
+                "negativity": 0.3892314752451592
+            },
+            "user_id": 883436749044809728,
+            "text_translation": ""
+        },
+        {
+            "id": 1421994571433656322,
+            "text": ": Buy Unlocked G9 Play 64GB Android for $ 159 . 99 Sale C …",
+            "created_at": "2021-08-02 00:41:39",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8844704800739944,
+                "negativity": 0.11552951992600428
+            },
+            "user_id": 1279351734,
+            "text_translation": ""
+        },
+        {
+            "id": 1421984538855723011,
+            "text": "Buy Unlocked G9 Play 64GB Android for $ 159 . 99 Sale …",
+            "created_at": "2021-08-02 00:01:47",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8844704800739944,
+                "negativity": 0.11552951992600428
+            },
+            "user_id": 1279351734,
+            "text_translation": ""
+        }
+    ]
+}

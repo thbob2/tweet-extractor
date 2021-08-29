@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1429142333141004297,
+            "text": "us it foldable , too , with release of Android 11 for the 5g",
+            "created_at": "2021-08-21 18:04:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6561015000402688,
+                "negativity": 0.3438984999597314
+            },
+            "user_id": 80394238,
+            "text_translation": ""
+        },
+        {
+            "id": 1428924303228108803,
+            "text": "It was a matter and time and price for me . Watch , next year I ' be ranting and raving about the …",
+            "created_at": "2021-08-21 03:37:56",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8748961056729854,
+                "negativity": 0.12510389432701574
+            },
+            "user_id": 986590286464692224,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1413221588405739523,
+            "text": "For Q70 K51 K92 V60 V50 G8 G7 fit G6 + Wall & ; Car Charger Type - C Cable",
+            "created_at": "2021-07-08 19:40:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.329387689100896,
+                "negativity": 0.6706123108991034
+            },
+            "user_id": 1224349999841984512,
+            "text_translation": ""
+        },
+        {
+            "id": 1412964682793512963,
+            "text": ". V60 . . 5G . Dual Screen .",
+            "created_at": "2021-07-08 02:40:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7112099644128117,
+                "negativity": 0.28879003558718874
+            },
+            "user_id": 777338394477076480,
+            "text_translation": ""
+        }
+    ]
+}

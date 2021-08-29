@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1411036217286746122,
+            "text": "You need a Legion Duel 2 , tell them I sent you !",
+            "created_at": "2021-07-02 18:57:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.628861747766536,
+                "negativity": 0.37113825223346353
+            },
+            "user_id": 153519312,
+            "text_translation": ""
+        },
+        {
+            "id": 1410935032160657411,
+            "text": "Might be something to consider 🤷🏼‍♂️",
+            "created_at": "2021-07-02 12:15:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5090186513808901,
+                "negativity": 0.49098134861910997
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        },
+        {
+            "id": 1410885923647090689,
+            "text": "The LegionPhoneDuel2 is now available for - order !",
+            "created_at": "2021-07-02 08:59:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6692169300073698,
+                "negativity": 0.33078306999263013
+            },
+            "user_id": 3157689782,
+            "text_translation": ""
+        }
+    ]
+}

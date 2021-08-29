@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1428065715978870785,
+            "text": "When will g 5g will get A11 update it ' s been so long we ' re waiting",
+            "created_at": "2021-08-18 18:46:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2762285975862938,
+                "negativity": 0.7237714024137064
+            },
+            "user_id": 766715856868904962,
+            "text_translation": ""
+        },
+        {
+            "id": 1427988254607896579,
+            "text": "about G 5G ?",
+            "created_at": "2021-08-18 13:38:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49213406292749656,
+                "negativity": 0.5078659370725034
+            },
+            "user_id": 1369199614390202369,
+            "text_translation": ""
+        }
+    ]
+}

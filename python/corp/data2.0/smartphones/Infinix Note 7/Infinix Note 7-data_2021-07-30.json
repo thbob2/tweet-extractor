@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1421075390601351168,
+            "text": "0962532270 note 7 Garden House .",
+            "created_at": "2021-07-30 11:49:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5565443592552028,
+                "negativity": 0.4434556407447972
+            },
+            "user_id": 1235135424802279424,
+            "text_translation": ""
+        },
+        {
+            "id": 1421052877565571072,
+            "text": "The InfinixNote10pro as its tops a total of 8 of RAM . The Note 10 Pro is powered by a 5000mAh …",
+            "created_at": "2021-07-30 10:19:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08296971611448026,
+                "negativity": 0.9170302838855195
+            },
+            "user_id": 1350568681345069057,
+            "text_translation": ""
+        },
+        {
+            "id": 1421013463950835713,
+            "text": "don ' t forget the note 7",
+            "created_at": "2021-07-30 07:43:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5192506131383244,
+                "negativity": 0.48074938686167573
+            },
+            "user_id": 1394431660968525824,
+            "text_translation": ""
+        }
+    ]
+}

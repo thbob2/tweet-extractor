@@ -1,0 +1,118 @@
+{
+    "tweets": [
+        {
+            "id": 1422625101896458240,
+            "text": "E7 power",
+            "created_at": "2021-08-03 18:27:10",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5932642487046633,
+                "negativity": 0.40673575129533673
+            },
+            "user_id": 2596210244,
+            "text_translation": ""
+        },
+        {
+            "id": 1422604190912630787,
+            "text": ": I to and ask them to refund my money not replacement regarding my refund of e7 …",
+            "created_at": "2021-08-03 17:04:04",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18237942308727462,
+                "negativity": 0.8176205769127246
+            },
+            "user_id": 1183064170377252864,
+            "text_translation": ""
+        },
+        {
+            "id": 1422604125443739649,
+            "text": ": i bought e7 power & ; on 28 from , the smart phone have huge network i …",
+            "created_at": "2021-08-03 17:03:48",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6727660784656727,
+                "negativity": 0.3272339215343269
+            },
+            "user_id": 1183064170377252864,
+            "text_translation": ""
+        },
+        {
+            "id": 1422590574524252162,
+            "text": "Like e7 👀👀",
+            "created_at": "2021-08-03 16:09:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.483644859813084,
+                "negativity": 0.5163551401869159
+            },
+            "user_id": 1292550683141591041,
+            "text_translation": ""
+        },
+        {
+            "id": 1422530834943283206,
+            "text": ": I ordered e7 Power mobile on its not working for network . I raise the return they only option for …",
+            "created_at": "2021-08-03 12:12:35",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9561380276209938,
+                "negativity": 0.04386197237900687
+            },
+            "user_id": 1242329566711971840,
+            "text_translation": ""
+        },
+        {
+            "id": 1422470571737042951,
+            "text": "I ordered e7 Power mobile on its not working for network . I raise the return they only option for re …",
+            "created_at": "2021-08-03 08:13:07",
+            "retweet_count": 3,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9561380276209938,
+                "negativity": 0.04386197237900687
+            },
+            "user_id": 719484058875506690,
+            "text_translation": ""
+        }
+    ]
+}

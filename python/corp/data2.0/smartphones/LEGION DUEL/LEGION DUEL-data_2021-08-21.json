@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1429130710489698306,
+            "text": ": Let ' s see just how much of a boost gave its Legion Phone Duel 2 over the original Legion Phone Duel . ad",
+            "created_at": "2021-08-21 17:18:08",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6640768799218972,
+                "negativity": 0.33592312007810315
+            },
+            "user_id": 729454276146237440,
+            "text_translation": ""
+        },
+        {
+            "id": 1428915094059065349,
+            "text": "Legion Phone Duel 2 More power , more gaming , active cooling , new design . A r …",
+            "created_at": "2021-08-21 03:01:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9608298526316623,
+                "negativity": 0.039170147368336995
+            },
+            "user_id": 170611341,
+            "text_translation": ""
+        }
+    ]
+}
