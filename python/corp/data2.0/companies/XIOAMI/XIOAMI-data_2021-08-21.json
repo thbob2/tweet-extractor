@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1429158872128709126,
+            "text": "are toxic ? Really ? Ever met ?",
+            "created_at": "2021-08-21 19:10:02",
+            "retweet_count": 0,
+            "favorite_count": 13,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5857751707016763,
+                "negativity": 0.41422482929832277
+            },
+            "user_id": 1409377981949124610,
+            "text_translation": ""
+        },
+        {
+            "id": 1429144704638144513,
+            "text": "Brand Name : Null Battery Type : Not Detachable …",
+            "created_at": "2021-08-21 18:13:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45948868019942923,
+                "negativity": 0.5405113198005722
+            },
+            "user_id": 1213887735565451264,
+            "text_translation": ""
+        },
+        {
+            "id": 1429092108070268935,
+            "text": "Looking at this ; Focal are code . Wonder if you could obtain it from ?",
+            "created_at": "2021-08-21 14:44:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8148134348039379,
+                "negativity": 0.18518656519606314
+            },
+            "user_id": 968149956434554880,
+            "text_translation": ""
+        },
+        {
+            "id": 1428990003581898764,
+            "text": "Hi , when will launch Mi 6 In Thank you",
+            "created_at": "2021-08-21 07:59:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6365462439751902,
+                "negativity": 0.3634537560248091
+            },
+            "user_id": 792326639447314433,
+            "text_translation": ""
+        }
+    ]
+}

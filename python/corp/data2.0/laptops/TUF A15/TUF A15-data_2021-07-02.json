@@ -1,0 +1,64 @@
+{
+    "tweets": [
+        {
+            "id": 1410893779285032960,
+            "text": ": Gaming A15 ‼️‼️ ✅ 7 4800H 2 . 9Ghz ✅ 16GB RAM DDR4 ✅ 512GB ✅ 6GB 1660Ti ✅ 15 . 6 144Hz Full ✅…",
+            "created_at": "2021-07-02 09:31:04",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4969040247678025,
+                "negativity": 0.5030959752321987
+            },
+            "user_id": 736815561972289536,
+            "text_translation": ""
+        },
+        {
+            "id": 1410857138033856514,
+            "text": "I am the 7 4800H with A15 last year model ... Its amazing , very powerful processor ..",
+            "created_at": "2021-07-02 07:05:28",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8107960514183563,
+                "negativity": 0.1892039485816444
+            },
+            "user_id": 980453736161058817,
+            "text_translation": ""
+        },
+        {
+            "id": 1410842904369668097,
+            "text": "Gaming A15 2021 review : A Tough Act To Follow AsusTUFGamingA15",
+            "created_at": "2021-07-02 06:08:55",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8997251004766649,
+                "negativity": 0.10027489952333406
+            },
+            "user_id": 303322319,
+            "text_translation": ""
+        }
+    ]
+}

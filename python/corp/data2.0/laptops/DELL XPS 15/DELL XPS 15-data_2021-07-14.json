@@ -1,0 +1,178 @@
+{
+    "tweets": [
+        {
+            "id": 1415393550028603392,
+            "text": "Dell ’ s new and gaming are finally available to buy - Digital",
+            "created_at": "2021-07-14 19:31:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    43.66279559,
+                    -79.39813134
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39813134,
+                    43.66279559
+                ]
+            },
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.985482408963773,
+                "negativity": 0.014517591036226934
+            },
+            "user_id": 437618020,
+            "text_translation": ""
+        },
+        {
+            "id": 1415386999402340353,
+            "text": "Check out this great \" Power Jack Cable Replacement for Dell 15 9550 9560 P56F …",
+            "created_at": "2021-07-14 19:05:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75594907505448,
+                "negativity": 0.2440509249455188
+            },
+            "user_id": 1090498878938406913,
+            "text_translation": ""
+        },
+        {
+            "id": 1415309828713598977,
+            "text": "harmony : Foreign use DELL 9570 15 32gb ram , 1TB , Core I9 9th gen 4gb 1050 Ti Q , 4k display …",
+            "created_at": "2021-07-14 13:58:53",
+            "retweet_count": 52,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "RAM",
+                "32GB"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6127269207735732,
+                "negativity": 0.38727307922642723
+            },
+            "user_id": 89142525,
+            "text_translation": ""
+        },
+        {
+            "id": 1415308900077875207,
+            "text": "Dell 15 9570 - 8th Generation Core i7 - 8750H Processor , 4k display , 16GB DDR4 2666MHz RAM , 512GB …",
+            "created_at": "2021-07-14 13:55:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13774926022956432,
+                "negativity": 0.8622507397704349
+            },
+            "user_id": 1255612231598911494,
+            "text_translation": ""
+        },
+        {
+            "id": 1415289555633180675,
+            "text": "- Dell 15 9500 . Best for dev and content creation e . g . .",
+            "created_at": "2021-07-14 12:38:19",
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9149904469683283,
+                "negativity": 0.08500955303167251
+            },
+            "user_id": 12467372,
+            "text_translation": ""
+        },
+        {
+            "id": 1415275227295096832,
+            "text": "Is the 15 9510 Good for Content Creation ? Review Laten ... via dell adobe",
+            "created_at": "2021-07-14 11:41:23",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9275839035952449,
+                "negativity": 0.07241609640475462
+            },
+            "user_id": 4328383235,
+            "text_translation": ""
+        },
+        {
+            "id": 1415216759657967619,
+            "text": ": Dell 15 9570 core i9 8th generation 32gbram 1TB 4gb 1050 Ti 4k Price : 70Ok Send a …",
+            "created_at": "2021-07-14 07:49:03",
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7254799255517164,
+                "negativity": 0.27452007444828547
+            },
+            "user_id": 433865932,
+            "text_translation": ""
+        },
+        {
+            "id": 1415193843121618944,
+            "text": "Dell 15 with 11th Gen $ 250 discount in huge sale",
+            "created_at": "2021-07-14 06:17:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9093453696671876,
+                "negativity": 0.09065463033281103
+            },
+            "user_id": 66162566,
+            "text_translation": ""
+        }
+    ]
+}

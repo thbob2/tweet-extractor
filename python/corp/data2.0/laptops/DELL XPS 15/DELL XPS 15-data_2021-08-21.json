@@ -1,0 +1,148 @@
+{
+    "tweets": [
+        {
+            "id": 1429223567963590660,
+            "text": "looking for a back to school : don ’ t get a 15 9570 I had my for about a year and wa …",
+            "created_at": "2021-08-21 23:27:06",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5030509081186045,
+                "negativity": 0.49694909188139547
+            },
+            "user_id": 1542406549,
+            "text_translation": ""
+        },
+        {
+            "id": 1429211559147053056,
+            "text": "Sup Chairman Ur Dell 15 still dey ?",
+            "created_at": "2021-08-21 22:39:23",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8834171628002458,
+                "negativity": 0.11658283719975389
+            },
+            "user_id": 1197640072738283523,
+            "text_translation": ""
+        },
+        {
+            "id": 1429185053435875328,
+            "text": "like the one from my Dell 15 9530 . See , I was something on the way …",
+            "created_at": "2021-08-21 20:54:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7865032727186173,
+                "negativity": 0.21349672728138197
+            },
+            "user_id": 1376192797196361729,
+            "text_translation": ""
+        },
+        {
+            "id": 1429135908574429187,
+            "text": "for literally everything - R7 3800x , 32gb ram , 2x 500gb , 2x 2tb and 1x 12tb , …",
+            "created_at": "2021-08-21 17:38:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1722037539314479,
+                "negativity": 0.8277962460685532
+            },
+            "user_id": 1376589151038894080,
+            "text_translation": ""
+        },
+        {
+            "id": 1429107701708038152,
+            "text": "One Dell 15 9560 for dev , ethical hacking , gaming and for general purpose !",
+            "created_at": "2021-08-21 15:46:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9856272327855632,
+                "negativity": 0.014372767214435169
+            },
+            "user_id": 3019535342,
+            "text_translation": ""
+        },
+        {
+            "id": 1429056246120804357,
+            "text": ": Dell 15 9560 15 , 6 \" Display Core i7 512 16GB RAM Auction Gaming …",
+            "created_at": "2021-08-21 12:22:14",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47294968986905517,
+                "negativity": 0.5270503101309457
+            },
+            "user_id": 1356284048818126851,
+            "text_translation": ""
+        },
+        {
+            "id": 1429016620458930194,
+            "text": ": Dell 15 . 6 \" i7 32GB RAM , 1TB , 1650 with 2 Year ProSupport ! Auction Ga …",
+            "created_at": "2021-08-21 09:44:46",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22577794267682935,
+                "negativity": 0.7742220573231703
+            },
+            "user_id": 1236243385171603456,
+            "text_translation": ""
+        }
+    ]
+}

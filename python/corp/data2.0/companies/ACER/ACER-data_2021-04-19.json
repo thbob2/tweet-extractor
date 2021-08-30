@@ -1,0 +1,160 @@
+{
+    "tweets": [
+        {
+            "id": 1384285452174127106,
+            "text": "cupcake is that an",
+            "created_at": "2021-04-19 23:19:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.25095590109609967,
+                "negativity": 0.7490440989039
+            },
+            "user_id": 889264972370333697,
+            "text_translation": ""
+        },
+        {
+            "id": 1384163056603721734,
+            "text": "the PredatorHelios300 gaming in with 10th - gen Core i7 and 30 …",
+            "created_at": "2021-04-19 15:12:43",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5488805191280561,
+                "negativity": 0.4511194808719433
+            },
+            "user_id": 896740409346371584,
+            "text_translation": ""
+        },
+        {
+            "id": 1384115331405271046,
+            "text": "Back - to - school deal : Ace remote learning with $ 250 off this Aspire 5 - : ai …",
+            "created_at": "2021-04-19 12:03:05",
+            "retweet_count": 3,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.921468734951115,
+                "negativity": 0.07853126504888343
+            },
+            "user_id": 2297381593,
+            "text_translation": ""
+        },
+        {
+            "id": 1384077480336654340,
+            "text": "when will the Halo smart speaker be available for purchase in the US",
+            "created_at": "2021-04-19 09:32:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6933631637825133,
+                "negativity": 0.30663683621748644
+            },
+            "user_id": 6581752,
+            "text_translation": ""
+        },
+        {
+            "id": 1384059710119112708,
+            "text": "Swift 3 Thin & ; Light , 14 \" Full , 7 4700U - Core with …",
+            "created_at": "2021-04-19 08:22:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2486816334770675,
+                "negativity": 0.7513183665229329
+            },
+            "user_id": 1197364662,
+            "text_translation": ""
+        },
+        {
+            "id": 1384021057430900736,
+            "text": ": ‘ Donate ’ yourself the time to become mindful of what can when in Adobe Premiere an …",
+            "created_at": "2021-04-19 05:48:28",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7686281743526376,
+                "negativity": 0.23137182564735978
+            },
+            "user_id": 1348156924475428865,
+            "text_translation": ""
+        },
+        {
+            "id": 1383996266888105986,
+            "text": "THIS ONE IS MINE I LOVE IT IT WORKS SO WELL ITS REALLY NICE I GOT IT ON SALE FOR 150",
+            "created_at": "2021-04-19 04:09:58",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.917968009549038,
+                "negativity": 0.08203199045096365
+            },
+            "user_id": 2999294177,
+            "text_translation": ""
+        },
+        {
+            "id": 1383962188566589440,
+            "text": "Win Nitro 5 with processor",
+            "created_at": "2021-04-19 01:54:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.06634746046438321,
+                "negativity": 0.9336525395356157
+            },
+            "user_id": 313546932,
+            "text_translation": ""
+        }
+    ]
+}

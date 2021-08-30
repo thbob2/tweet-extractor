@@ -1,0 +1,87 @@
+{
+    "tweets": [
+        {
+            "id": 1423008150513491968,
+            "text": "Get a 2021 Razer Book 13 for £ 670 off",
+            "created_at": "2021-08-04 19:49:15",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47042610681673197,
+                "negativity": 0.5295738931832683
+            },
+            "user_id": 16220934,
+            "text_translation": ""
+        },
+        {
+            "id": 1422863240703483904,
+            "text": ": 🥇 GOLD MEDAL ! 🥇 Race to the finish line with this unmissable deal ! Core i7 11th gen processor + 16GB RAM + 512GB .…",
+            "created_at": "2021-08-04 10:13:26",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1008272717384149,
+                "negativity": 0.899172728261589
+            },
+            "user_id": 3256055745,
+            "text_translation": ""
+        },
+        {
+            "id": 1422860463344390145,
+            "text": "🥇 GOLD MEDAL ! 🥇 Race to the finish line with this unmissable deal ! Core i7 11th gen processor + 16GB R …",
+            "created_at": "2021-08-04 10:02:24",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.35924826781138275,
+                "negativity": 0.6407517321886188
+            },
+            "user_id": 20662765,
+            "text_translation": ""
+        },
+        {
+            "id": 1422728559777439747,
+            "text": "Save 13 % - Razer Book 13 - Ultra Light for on the Go with 1",
+            "created_at": "2021-08-04 01:18:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4861790920325713,
+                "negativity": 0.5138209079674287
+            },
+            "user_id": 858636167184560129,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "tweets": [
+        {
+            "id": 1431030286180044807,
+            "text": "This would depend a basic one 30 a fully water - one well mine took week of painting …",
+            "created_at": "2021-08-26 23:06:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7626799337785611,
+                "negativity": 0.23732006622143803
+            },
+            "user_id": 75644532,
+            "text_translation": ""
+        },
+        {
+            "id": 1431017070074896385,
+            "text": ": Need some inspiration / on your next build ? 📸 | | r …",
+            "created_at": "2021-08-26 22:13:51",
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6875305663231495,
+                "negativity": 0.31246943367685154
+            },
+            "user_id": 1080032071551074304,
+            "text_translation": ""
+        },
+        {
+            "id": 1430847499808423950,
+            "text": "Need some inspiration / on your next build ? 📸 | | …",
+            "created_at": "2021-08-26 11:00:02",
+            "retweet_count": 8,
+            "favorite_count": 74,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6875305663231495,
+                "negativity": 0.31246943367685154
+            },
+            "user_id": 237631420,
+            "text_translation": ""
+        },
+        {
+            "id": 1430733636047880193,
+            "text": "With whichever or package included with ( normally …",
+            "created_at": "2021-08-26 03:27:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.39196735395189003,
+                "negativity": 0.6080326460481111
+            },
+            "user_id": 1411766042968350729,
+            "text_translation": ""
+        }
+    ]
+}

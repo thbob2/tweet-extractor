@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1383896559012651012,
+            "text": "good for",
+            "created_at": "2021-04-18 21:33:45",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5068263466210462,
+                "negativity": 0.4931736533789536
+            },
+            "user_id": 1174032516233289731,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1422879358763487234,
+            "text": "swift 3 is 👋",
+            "created_at": "2021-08-04 11:17:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27777777777777785,
+                "negativity": 0.7222222222222221
+            },
+            "user_id": 1327497264399482880,
+            "text_translation": ""
+        },
+        {
+            "id": 1422825195996270602,
+            "text": "Which is better Air M1 or Swift 3 ? Can ’ t decide !!",
+            "created_at": "2021-08-04 07:42:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.23957200836953663,
+                "negativity": 0.760427991630463
+            },
+            "user_id": 732781854374432768,
+            "text_translation": ""
+        },
+        {
+            "id": 1422785863738662916,
+            "text": "Swift 1 SF114 - 34 - P8Q7 Portable 14 '' , Portable ( Silver N6000 , RAM …",
+            "created_at": "2021-08-04 05:05:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1760563380281694,
+                "negativity": 0.8239436619718306
+            },
+            "user_id": 746998436126461952,
+            "text_translation": ""
+        },
+        {
+            "id": 1422760849870000139,
+            "text": "‼️ Swift 3 SF314 - 42 - R6Y1 With Free Mouse and BAG ‼️ 🛒 SHOP NOW !➡ ₱ 34 , 499 🚚 Cash on …",
+            "created_at": "2021-08-04 03:26:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5109725800417226,
+                "negativity": 0.4890274199582776
+            },
+            "user_id": 153777767,
+            "text_translation": ""
+        }
+    ]
+}

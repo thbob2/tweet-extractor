@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1392630078643834888,
+            "text": "Steal !! Gaming VG27VH1B Gaming Monitor – 27 inch Full ( for only £ 209 . 99",
+            "created_at": "2021-05-12 23:57:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9898523109424876,
+                "negativity": 0.010147689057514344
+            },
+            "user_id": 858636167184560129,
+            "text_translation": ""
+        },
+        {
+            "id": 1392482978891280390,
+            "text": "gaming F15",
+            "created_at": "2021-05-12 14:13:07",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.833333333333333,
+                "negativity": 0.16666666666666646
+            },
+            "user_id": 1293030854243938305,
+            "text_translation": ""
+        },
+        {
+            "id": 1392281085971681285,
+            "text": ": Here is my streaming / gaming / content creation setup : 3900x : x570 Ram : 32gb ddr4 3200mhz : 2070 supe …",
+            "created_at": "2021-05-12 00:50:52",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7856016959292346,
+                "negativity": 0.2143983040707661
+            },
+            "user_id": 3400523799,
+            "text_translation": ""
+        }
+    ]
+}

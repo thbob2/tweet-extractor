@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1426924766900985856,
+            "text": "ROG Zephyrus G14 , 14 \" ( 35 . 56 ) 120Hz , 5 4600HS , 1650Ti 4GB Graphics , Gaming ( 8GB / 512GB …",
+            "created_at": "2021-08-15 15:12:30",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7857142857142865,
+                "negativity": 0.21428571428571433
+            },
+            "user_id": 900617420938674176,
+            "text_translation": ""
+        },
+        {
+            "id": 1426777175424970752,
+            "text": "ROG Zephyrus G14 , 14 \" ( 35 . 56 ) F 🔹 Offer price -₹ 81 , 990 . 00 🔹 -₹ 1 , 28 , 990 . 00 🔹 You Save : ₹ 47 , 000 . 00 ( 36 %…",
+            "created_at": "2021-08-15 05:26:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5068219274441305,
+                "negativity": 0.49317807255587004
+            },
+            "user_id": 1297213254758850562,
+            "text_translation": ""
+        }
+    ]
+}

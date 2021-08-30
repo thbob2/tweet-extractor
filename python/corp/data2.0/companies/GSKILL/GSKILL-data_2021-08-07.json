@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1424128693081985024,
+            "text": "Memory with a crown jewel design is the latest addition to the Trident Z flagship . t …",
+            "created_at": "2021-08-07 22:01:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design",
+                "Memory"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30962910238198277,
+                "negativity": 0.6903708976180164
+            },
+            "user_id": 39983645,
+            "text_translation": ""
+        }
+    ]
+}

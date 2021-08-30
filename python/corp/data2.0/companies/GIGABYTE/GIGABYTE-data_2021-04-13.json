@@ -1,0 +1,103 @@
+{
+    "tweets": [
+        {
+            "id": 1382116138918813697,
+            "text": ": is three gaming with 2 . 1 and sizes",
+            "created_at": "2021-04-13 23:39:00",
+            "retweet_count": 21,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8800009299367882,
+                "negativity": 0.11999907006321131
+            },
+            "user_id": 47874331,
+            "text_translation": ""
+        },
+        {
+            "id": 1382043709785702403,
+            "text": "Join the ** Shuffle ** , 13th , 2021 Eagle 3060 …",
+            "created_at": "2021-04-13 18:51:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21352995578474,
+                "negativity": 0.7864700442152613
+            },
+            "user_id": 875823497200775168,
+            "text_translation": ""
+        },
+        {
+            "id": 1382017036558213120,
+            "text": ": Great new report from SA Mobile Data Revenue per Below US $ 1 as 5G Up",
+            "created_at": "2021-04-13 17:05:12",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.941334001395413,
+                "negativity": 0.058665998604585004
+            },
+            "user_id": 26766604,
+            "text_translation": ""
+        },
+        {
+            "id": 1381915663711801345,
+            "text": ": NEXT GAMING POWER :) Inspiration to build ! Thanks to @ Unknown …",
+            "created_at": "2021-04-13 10:22:23",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9610967729444205,
+                "negativity": 0.038903227055577944
+            },
+            "user_id": 984915961357721600,
+            "text_translation": ""
+        },
+        {
+            "id": 1381876505001795587,
+            "text": "and New 12 , 2021 at 09 : 52PM",
+            "created_at": "2021-04-13 07:46:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5344155844155843,
+                "negativity": 0.4655844155844155
+            },
+            "user_id": 1625110476,
+            "text_translation": ""
+        }
+    ]
+}

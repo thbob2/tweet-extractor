@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1405656266861473793,
+            "text": "Apple + for M1 Air , Pro $",
+            "created_at": "2021-06-17 22:39:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6431638407992806,
+                "negativity": 0.3568361592007188
+            },
+            "user_id": 461768237,
+            "text_translation": ""
+        },
+        {
+            "id": 1405627924909277195,
+            "text": "cant wait to drop some bread in this Air 😤",
+            "created_at": "2021-06-17 20:46:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49654332100149673,
+                "negativity": 0.5034566789985039
+            },
+            "user_id": 608892124,
+            "text_translation": ""
+        },
+        {
+            "id": 1405536879374520325,
+            "text": "Yes that ’ s why I bought the M1 Air",
+            "created_at": "2021-06-17 14:44:40",
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.44345466357906127,
+                "negativity": 0.5565453364209383
+            },
+            "user_id": 4900768191,
+            "text_translation": ""
+        },
+        {
+            "id": 1405457711332954121,
+            "text": "how do you feel after messing up M1 air :)",
+            "created_at": "2021-06-17 09:30:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2682491122850608,
+                "negativity": 0.7317508877149402
+            },
+            "user_id": 1237952014455373824,
+            "text_translation": ""
+        },
+        {
+            "id": 1405395688985300993,
+            "text": "cook 🤔🤔 Why 14 inch ? air is around 13 . 3 .. Do 0 . 7 inch make that much of a difference",
+            "created_at": "2021-06-17 05:23:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3774820968234325,
+                "negativity": 0.6225179031765665
+            },
+            "user_id": 939824888419827714,
+            "text_translation": ""
+        }
+    ]
+}

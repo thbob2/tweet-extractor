@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1374423969625874441,
+            "text": "The that good for raster performance , it pure compute power",
+            "created_at": "2021-03-23 18:13:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8141667940070225,
+                "negativity": 0.1858332059929768
+            },
+            "user_id": 1067209122477735937,
+            "text_translation": ""
+        },
+        {
+            "id": 1374344125823205378,
+            "text": "in of 2019 i got an 580 brand new for $ 180 on . i ’ m pretty sure the i ’ seen th …",
+            "created_at": "2021-03-23 12:55:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6619516437377968,
+                "negativity": 0.3380483562622042
+            },
+            "user_id": 1252022323,
+            "text_translation": ""
+        },
+        {
+            "id": 1374253090828783621,
+            "text": "Mt4com - rtx3060 reportedly confirmed that it would not be blocking an …",
+            "created_at": "2021-03-23 06:54:03",
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8396439556920591,
+                "negativity": 0.16035604430794134
+            },
+            "user_id": 1300861335509458944,
+            "text_translation": ""
+        },
+        {
+            "id": 1374217419858710528,
+            "text": "I ’ also been digging a bit into this as well",
+            "created_at": "2021-03-23 04:32:19",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.37823053890667263,
+                "negativity": 0.621769461093327
+            },
+            "user_id": 2833995674,
+            "text_translation": ""
+        }
+    ]
+}

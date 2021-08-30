@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1427363490503790592,
+            "text": "Check this giveaway of a AERO 15 notebook ! 👉 👉",
+            "created_at": "2021-08-16 20:15:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08608681827962848,
+                "negativity": 0.9139131817203712
+            },
+            "user_id": 43075997,
+            "text_translation": ""
+        },
+        {
+            "id": 1427312537964527619,
+            "text": "Open Box : AERO 15 - 15 . 6 & ; quot ; 4K / - rtx3070 Source : Search Reason : …",
+            "created_at": "2021-08-16 16:53:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4005455135105932,
+                "negativity": 0.599454486489406
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        },
+        {
+            "id": 1427111652080590854,
+            "text": ": Win a AERO 15 ( 3060 Series ) Worth $ 2699 from",
+            "created_at": "2021-08-16 03:35:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5750498139522255,
+                "negativity": 0.42495018604777374
+            },
+            "user_id": 2529146688,
+            "text_translation": ""
+        }
+    ]
+}

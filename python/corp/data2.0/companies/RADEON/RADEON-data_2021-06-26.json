@@ -1,0 +1,121 @@
+{
+    "tweets": [
+        {
+            "id": 1408887073164214279,
+            "text": "[$ 939 . 99 ]: Hellhound 6700 🛒 ⏰ 15 : 37 : 08",
+            "created_at": "2021-06-26 20:37:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 1306463816226660352,
+            "text_translation": ""
+        },
+        {
+            "id": 1408846729261236232,
+            "text": "🔥 : 6700 Speedster MERC319 Link : | | rx6700xt",
+            "created_at": "2021-06-26 17:56:50",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5370370370370368,
+                "negativity": 0.46296296296296297
+            },
+            "user_id": 1312929373343952896,
+            "text_translation": ""
+        },
+        {
+            "id": 1408792180647337984,
+            "text": "Make smaller .. Like .. ? What was it , R9 ?",
+            "created_at": "2021-06-26 14:20:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6727614185444792,
+                "negativity": 0.32723858145552065
+            },
+            "user_id": 1147390152907476992,
+            "text_translation": ""
+        },
+        {
+            "id": 1408674971841437699,
+            "text": ": Buy D 14 5 3500U | 2 . 10Ghz Speed ( 4 , 8 ) | 8GB DDR4 | 256GB | 14 . 0 inch E …",
+            "created_at": "2021-06-26 06:34:19",
+            "retweet_count": 12,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB",
+                "Speed"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5564553447478013,
+                "negativity": 0.4435446552521975
+            },
+            "user_id": 1212779599093854208,
+            "text_translation": ""
+        },
+        {
+            "id": 1408595248423571460,
+            "text": "( CAN ) In Stock : 6700 Gaming - Other Seller - $ 1 , 225 . 69 Product link : :…",
+            "created_at": "2021-06-26 01:17:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.800938363988037,
+                "negativity": 0.199061636011961
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
+            "id": 1408576343802064896,
+            "text": "[$ 939 . 99 ]: Hellhound 6700 🛒 ⏰ 19 : 02 : 24",
+            "created_at": "2021-06-26 00:02:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 1306463816226660352,
+            "text_translation": ""
+        }
+    ]
+}

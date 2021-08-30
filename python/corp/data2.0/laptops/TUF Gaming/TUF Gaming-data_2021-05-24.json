@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1396886497031118848,
+            "text": "Gaming 3060 Edition Graphics rtx3060 geforce3060 Source : Checker v3Z …",
+            "created_at": "2021-05-24 17:51:08",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9557766059443913,
+                "negativity": 0.044223394055608815
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        },
+        {
+            "id": 1396753057229193216,
+            "text": "Gaming VG24VQ – Monitor gaming de 23 . 6 ″ ( 1920 × 1080 , 144 , 1 , Adaptive - Sync / , …",
+            "created_at": "2021-05-24 09:00:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9934497816593872,
+                "negativity": 0.0065502183406113065
+            },
+            "user_id": 1260342406265921536,
+            "text_translation": ""
+        }
+    ]
+}

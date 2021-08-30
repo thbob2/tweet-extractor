@@ -1,0 +1,107 @@
+{
+    "tweets": [
+        {
+            "id": 1356689766226477060,
+            "text": "6800 Graphics , 16 , 16GB , GDDR6 , Express 4 . 0 , Hardware - RX6800 16GO …",
+            "created_at": "2021-02-02 19:43:41",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4529411764705887,
+                "negativity": 0.5470588235294119
+            },
+            "user_id": 1285199873890045953,
+            "text_translation": ""
+        },
+        {
+            "id": 1356652620077813763,
+            "text": "6800 ROG Strix 16GB GDDR6 Ray - Tracing Graphics Card , RDNA2 , 3840 , 1980MHz , 2190MHz Bo …",
+            "created_at": "2021-02-02 17:16:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13816141101015494,
+                "negativity": 0.8618385889898453
+            },
+            "user_id": 1322565033180733440,
+            "text_translation": ""
+        },
+        {
+            "id": 1356628711508910080,
+            "text": ": in are down from ~ 100k a day in to 8 . 6k : 1 , 250 to 94 Case positivity / test : 10 % to 1 % …",
+            "created_at": "2021-02-02 15:41:04",
+            "retweet_count": 1717,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8349394123047017,
+                "negativity": 0.16506058769529758
+            },
+            "user_id": 153060287,
+            "text_translation": ""
+        },
+        {
+            "id": 1356609849497370627,
+            "text": ": PERFORMANCE TO RULE YOUR GAME For all the . Every game . Every frame . Built on revolutionary ™ 2 architect …",
+            "created_at": "2021-02-02 14:26:07",
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8696202400337502,
+                "negativity": 0.13037975996624887
+            },
+            "user_id": 90652918,
+            "text_translation": ""
+        },
+        {
+            "id": 1356397316232650758,
+            "text": "I have returned your graph for this . Mu i a 9 3900 with 32 ram 1050w /…",
+            "created_at": "2021-02-02 00:21:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08742809486884576,
+                "negativity": 0.9125719051311545
+            },
+            "user_id": 1395564835,
+            "text_translation": ""
+        }
+    ]
+}

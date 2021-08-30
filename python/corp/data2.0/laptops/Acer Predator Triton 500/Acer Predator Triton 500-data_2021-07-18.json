@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1416826426406457346,
+            "text": "💵 18 % OFF 💵 Predator Triton 500 Gaming , i7 - 10750H , 2070 SUPER , 15 . 6 \" …",
+            "created_at": "2021-07-18 18:25:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7670852803738318,
+                "negativity": 0.23291471962616817
+            },
+            "user_id": 2395705902,
+            "text_translation": ""
+        },
+        {
+            "id": 1416809573470642178,
+            "text": ": Are you ready to experience - caliber in a thin and light gaming ? Mess around with the brand - new …",
+            "created_at": "2021-07-18 17:18:20",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5953380044661581,
+                "negativity": 0.4046619955338409
+            },
+            "user_id": 1090606410898067456,
+            "text_translation": ""
+        }
+    ]
+}

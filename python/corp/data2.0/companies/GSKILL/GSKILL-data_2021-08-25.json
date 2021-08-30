@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1430616613124980741,
+            "text": ": I would like to present to you , in pure Bliss : “ Borealis ” Corsair , …",
+            "created_at": "2021-08-25 19:42:34",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9009950422277232,
+                "negativity": 0.09900495777227589
+            },
+            "user_id": 1104593742504312832,
+            "text_translation": ""
+        },
+        {
+            "id": 1430616502382866435,
+            "text": ": Our dog is not a fan of the sound cloud lamp we made ... corsair ROG the experience o …",
+            "created_at": "2021-08-25 19:42:08",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5893570445318786,
+                "negativity": 0.4106429554681217
+            },
+            "user_id": 1104593742504312832,
+            "text_translation": ""
+        },
+        {
+            "id": 1430482832766296071,
+            "text": "only ram i ever use ...",
+            "created_at": "2021-08-25 10:50:59",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20599258994872807,
+                "negativity": 0.794007410051272
+            },
+            "user_id": 1348561707568820224,
+            "text_translation": ""
+        }
+    ]
+}

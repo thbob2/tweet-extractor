@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1421854552207216653,
+            "text": "official I have an Spin 5 , how do I know if it can be by a power bank ?",
+            "created_at": "2021-08-01 15:25:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36370139586326966,
+                "negativity": 0.6362986041367312
+            },
+            "user_id": 14147118,
+            "text_translation": ""
+        },
+        {
+            "id": 1421723899620823040,
+            "text": "None of the 2 in 1 spin 3 , spin 5 are in stock . Waiting since past m …",
+            "created_at": "2021-08-01 06:46:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24199848184338407,
+                "negativity": 0.7580015181566169
+            },
+            "user_id": 111941546,
+            "text_translation": ""
+        },
+        {
+            "id": 1421698189858545665,
+            "text": "It ’ s to have an Spin 5 that spend more time getting supposedly fixed and not being able to use it .",
+            "created_at": "2021-08-01 05:03:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5986223821985397,
+                "negativity": 0.40137761780146225
+            },
+            "user_id": 1214358623423303680,
+            "text_translation": ""
+        }
+    ]
+}

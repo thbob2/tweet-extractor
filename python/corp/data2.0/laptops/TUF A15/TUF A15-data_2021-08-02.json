@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1422178271236526088,
+            "text": "code 43 on 2060 for a15 . ' t work on or . Customer support is useless and they don ' t help",
+            "created_at": "2021-08-02 12:51:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5844692233199582,
+                "negativity": 0.41553077668004124
+            },
+            "user_id": 1120692344167079936,
+            "text_translation": ""
+        },
+        {
+            "id": 1422061319750963200,
+            "text": "gaming A15",
+            "created_at": "2021-08-02 05:06:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.833333333333333,
+                "negativity": 0.16666666666666646
+            },
+            "user_id": 1226360944659316736,
+            "text_translation": ""
+        }
+    ]
+}

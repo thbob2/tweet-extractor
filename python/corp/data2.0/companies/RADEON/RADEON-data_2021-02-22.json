@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1363997830671708167,
+            "text": "\" Does it have RDNA2 or Ampere ? No ? Shock horror , who ' d have thought you ' t wast …",
+            "created_at": "2021-02-22 23:43:19",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47308957373571997,
+                "negativity": 0.5269104262642796
+            },
+            "user_id": 20985392,
+            "text_translation": ""
+        },
+        {
+            "id": 1363667595187003392,
+            "text": "HD5450",
+            "created_at": "2021-02-22 01:51:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1276815706344968194,
+            "text_translation": ""
+        }
+    ]
+}

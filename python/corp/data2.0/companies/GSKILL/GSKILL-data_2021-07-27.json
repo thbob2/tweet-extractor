@@ -1,0 +1,156 @@
+{
+    "tweets": [
+        {
+            "id": 1420086990159159300,
+            "text": ": 9 5950x , 3090 , 32GB 4000MHz , 3TB . This thing is about to breathe 300 + 😍",
+            "created_at": "2021-07-27 18:21:37",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8287205082359475,
+                "negativity": 0.17127949176405222
+            },
+            "user_id": 892240205838766084,
+            "text_translation": ""
+        },
+        {
+            "id": 1420065716649218050,
+            "text": "34 inch monitor Corsair k65 60 percent keyboard Glorious Model O The 3700x 32gb …",
+            "created_at": "2021-07-27 16:57:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8584752044396483,
+                "negativity": 0.14152479556035366
+            },
+            "user_id": 962696716318380033,
+            "text_translation": ""
+        },
+        {
+            "id": 1420061655703097353,
+            "text": "9 5950x , 3090 , 32GB 4000MHz , 3TB . This thing is about to breathe 300 + 😍",
+            "created_at": "2021-07-27 16:40:56",
+            "retweet_count": 4,
+            "favorite_count": 155,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8287205082359475,
+                "negativity": 0.17127949176405222
+            },
+            "user_id": 560483688,
+            "text_translation": ""
+        },
+        {
+            "id": 1419988309992955907,
+            "text": "This is mine . is not finished jet . It was a cheap ( and ugly ) build . So far it got a new case , re …",
+            "created_at": "2021-07-27 11:49:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Build"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09330542558242642,
+                "negativity": 0.9066945744175713
+            },
+            "user_id": 1399607289494093825,
+            "text_translation": ""
+        },
+        {
+            "id": 1419930957138829328,
+            "text": "My computer specs are : 5 3600 , B550 Phantom Gaming 4 , 5700 8GB , …",
+            "created_at": "2021-07-27 08:01:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB",
+                "specs"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9119024372063746,
+                "negativity": 0.08809756279362636
+            },
+            "user_id": 92580564,
+            "text_translation": ""
+        },
+        {
+            "id": 1419832345339826176,
+            "text": "I want to build a new gaming as I had to sell my old one : specs GAMING X570 - PLUS ( WI - FI )…",
+            "created_at": "2021-07-27 01:29:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs",
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8729263215508354,
+                "negativity": 0.1270736784491649
+            },
+            "user_id": 21549033,
+            "text_translation": ""
+        },
+        {
+            "id": 1419820996039569408,
+            "text": "5 3600x b450 pro 1030TI 1080p flat - screen and a …",
+            "created_at": "2021-07-27 00:44:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42089711047868106,
+                "negativity": 0.579102889521319
+            },
+            "user_id": 1396219545178710016,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1365027899397570565,
+            "text": "No :(",
+            "created_at": "2021-02-25 19:56:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 606519940,
+            "text_translation": ""
+        },
+        {
+            "id": 1364967322633588748,
+            "text": "To bad they will all get up by and maybe in like 3 - 4 I can buy one off e …",
+            "created_at": "2021-02-25 15:55:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.26301779437637096,
+                "negativity": 0.7369822056236294
+            },
+            "user_id": 357767447,
+            "text_translation": ""
+        },
+        {
+            "id": 1364789886927126530,
+            "text": "but the demand will be dramatically higher the are also lower , so …",
+            "created_at": "2021-02-25 04:10:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5311918009352709,
+                "negativity": 0.4688081990647284
+            },
+            "user_id": 1078496605,
+            "text_translation": ""
+        },
+        {
+            "id": 1364748584457965571,
+            "text": "with could come in a first",
+            "created_at": "2021-02-25 01:26:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4923890066899852,
+                "negativity": 0.5076109933100149
+            },
+            "user_id": 308141457,
+            "text_translation": ""
+        }
+    ]
+}

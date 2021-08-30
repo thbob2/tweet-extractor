@@ -1,0 +1,105 @@
+{
+    "tweets": [
+        {
+            "id": 1413608723285626887,
+            "text": "Got a membership and looking for a capable ? The Swift 3 is $ 110 off , down to only $ 489 . My son …",
+            "created_at": "2021-07-09 21:19:17",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38005591161089153,
+                "negativity": 0.6199440883891092
+            },
+            "user_id": 14365108,
+            "text_translation": ""
+        },
+        {
+            "id": 1413538953483915269,
+            "text": "View on US $ 629 . 99 | Swift 3 – 14 ″ Core i5 - 1135G7 2 . 4GHz 8GB RAM 512GB Win10H | …",
+            "created_at": "2021-07-09 16:42:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11182894788439665,
+                "negativity": 0.8881710521156027
+            },
+            "user_id": 1291725632573931520,
+            "text_translation": ""
+        },
+        {
+            "id": 1413471360970489861,
+            "text": "Notebook Swift 3 Fast , small , reliable . Get yours now !!! @ 885 . 00 See all A …",
+            "created_at": "2021-07-09 12:13:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2101491319129286,
+                "negativity": 0.7898508680870724
+            },
+            "user_id": 102082744,
+            "text_translation": ""
+        },
+        {
+            "id": 1413460236019503104,
+            "text": "Just saw this on : Swift 3 Thin & ; Light , 14 \" Full , 7 4700U - Core with …",
+            "created_at": "2021-07-09 11:29:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19497696974736778,
+                "negativity": 0.8050230302526319
+            },
+            "user_id": 522652314,
+            "text_translation": ""
+        },
+        {
+            "id": 1413415205418291204,
+            "text": "Discover the powerful performance and portability with up to 11th Gen ® Core ™ i7 processor , this light and …",
+            "created_at": "2021-07-09 08:30:19",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4424052638745689,
+                "negativity": 0.5575947361254321
+            },
+            "user_id": 99878596,
+            "text_translation": ""
+        }
+    ]
+}

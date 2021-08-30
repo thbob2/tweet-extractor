@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1406358617662668804,
+            "text": ": We just had an AMAZING conversation with about , you can check it out below ! How do you celebrate the …",
+            "created_at": "2021-06-19 21:09:57",
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6989829416197504,
+                "negativity": 0.3010170583802492
+            },
+            "user_id": 3003288801,
+            "text_translation": ""
+        },
+        {
+            "id": 1406108795198218240,
+            "text": "Right click on it and it ' s an option there .",
+            "created_at": "2021-06-19 04:37:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6909779538157256,
+                "negativity": 0.3090220461842737
+            },
+            "user_id": 4373398517,
+            "text_translation": ""
+        }
+    ]
+}

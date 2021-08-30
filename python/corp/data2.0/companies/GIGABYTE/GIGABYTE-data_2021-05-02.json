@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1388981351362093058,
+            "text": "Talon : Clear , Fast , Precise are we use to describe Maple ' s Mid Lane ... sorry we mean the M27Q ... not Maple …",
+            "created_at": "2021-05-02 22:18:54",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3779563157366346,
+                "negativity": 0.6220436842633649
+            },
+            "user_id": 1315830981031419904,
+            "text_translation": ""
+        },
+        {
+            "id": 1388883440037150727,
+            "text": "You know and grace is like . Some have it more than and how about the usage ?",
+            "created_at": "2021-05-02 15:49:50",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30788395782187566,
+                "negativity": 0.6921160421781245
+            },
+            "user_id": 2319747577,
+            "text_translation": ""
+        },
+        {
+            "id": 1388692082806697988,
+            "text": "3090 GAMING 24G Video Card - N3090G Source : Search Reason : Available …",
+            "created_at": "2021-05-02 03:09:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8866663947916945,
+                "negativity": 0.11333360520830434
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        }
+    ]
+}

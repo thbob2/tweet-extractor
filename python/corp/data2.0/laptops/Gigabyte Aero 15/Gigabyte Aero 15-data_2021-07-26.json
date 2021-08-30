@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1419729118791290892,
+            "text": "Best gaming : Save $ 357 on ROG Zephyrus G15 , $ 500 on Aero 15 and more - …",
+            "created_at": "2021-07-26 18:39:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9600196611029669,
+                "negativity": 0.039980338897032154
+            },
+            "user_id": 871957639877603328,
+            "text_translation": ""
+        },
+        {
+            "id": 1419670842263343108,
+            "text": "Price ( 4185 , 54 £ =& ; 3999 , 95 £) : AERO 15 - 15 . 6 & ; quot ; , , , Core i9 - 1098 ... !…",
+            "created_at": "2021-07-26 14:47:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2866541353383453,
+                "negativity": 0.7133458646616536
+            },
+            "user_id": 875035866003116032,
+            "text_translation": ""
+        },
+        {
+            "id": 1419557527096750085,
+            "text": "And also the battery on a aero 15 is not good battery you consistently have to have it plugged in",
+            "created_at": "2021-07-26 07:17:43",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6535405387436766,
+                "negativity": 0.3464594612563225
+            },
+            "user_id": 1092987717107965952,
+            "text_translation": ""
+        }
+    ]
+}

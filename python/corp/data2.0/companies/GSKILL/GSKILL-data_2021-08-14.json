@@ -1,0 +1,83 @@
+{
+    "tweets": [
+        {
+            "id": 1426663396171190273,
+            "text": "16 I have a kit of 4X16 3200 16 V F4 - 32 …",
+            "created_at": "2021-08-14 21:53:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4739583333333331,
+                "negativity": 0.5260416666666666
+            },
+            "user_id": 569488926,
+            "text_translation": ""
+        },
+        {
+            "id": 1426648337961394181,
+            "text": "Finally have all the for computer , 7 3700x , 980 1tb , 32gb pc3200 ram 14c …",
+            "created_at": "2021-08-14 20:54:04",
+            "retweet_count": 2,
+            "favorite_count": 17,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2009628802567737,
+                "negativity": 0.7990371197432254
+            },
+            "user_id": 157539254,
+            "text_translation": ""
+        },
+        {
+            "id": 1426613180831342600,
+            "text": "16 I ' been super lucky in this department . First time building 2 3000 and had absolute …",
+            "created_at": "2021-08-14 18:34:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08727045673361764,
+                "negativity": 0.9127295432663826
+            },
+            "user_id": 35671638,
+            "text_translation": ""
+        },
+        {
+            "id": 1426588443824386049,
+            "text": "I have a km700 and it is massive . But I use pretty much all the buttons . You can also buy a …",
+            "created_at": "2021-08-14 16:56:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7563966022715142,
+                "negativity": 0.2436033977284848
+            },
+            "user_id": 152471353,
+            "text_translation": ""
+        }
+    ]
+}

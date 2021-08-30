@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1429561323650621440,
+            "text": "Sir waiting for gaming A15 2021 for so long on , but still out of stock after 1 month . make it available on .",
+            "created_at": "2021-08-22 21:49:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9118664953700459,
+                "negativity": 0.08813350462995202
+            },
+            "user_id": 1172367733318508544,
+            "text_translation": ""
+        },
+        {
+            "id": 1429400235072053255,
+            "text": ", gaming 3 / 3i , a15 , nitro 5 11300h , pavilion gaming 15 (?)",
+            "created_at": "2021-08-22 11:09:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3124999999999999,
+                "negativity": 0.6874999999999996
+            },
+            "user_id": 1117409928694517760,
+            "text_translation": ""
+        },
+        {
+            "id": 1429371178729185280,
+            "text": "Got home with this ROG . A15 😌😍",
+            "created_at": "2021-08-22 09:13:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.43580696651250156,
+                "negativity": 0.5641930334874986
+            },
+            "user_id": 1413795736924221443,
+            "text_translation": ""
+        }
+    ]
+}

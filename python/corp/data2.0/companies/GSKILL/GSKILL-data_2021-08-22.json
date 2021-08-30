@@ -1,0 +1,27 @@
+{
+    "tweets": [
+        {
+            "id": 1429282180434472962,
+            "text": "specs are : 7 3700x , ROG STRIX B450F Gaming , 32gb of ram , and a …",
+            "created_at": "2021-08-22 03:20:01",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "32GB",
+                "specs"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5014029180695846,
+                "negativity": 0.4985970819304151
+            },
+            "user_id": 2952558804,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "tweets": [
+        {
+            "id": 1419729678022193160,
+            "text": ": 14 x360 Gem Cut Core i7 11th Gen 16GB RAM 1TB 13 . 5 ” . 159 , 999 0727460167 Amber Ray …",
+            "created_at": "2021-07-26 18:41:47",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.03813954409506259,
+                "negativity": 0.9618604559049365
+            },
+            "user_id": 238112234,
+            "text_translation": ""
+        },
+        {
+            "id": 1419688876260700161,
+            "text": "14 x360 Gem Cut Core i7 11th Gen 16GB RAM 1TB 13 . 5 ” . 159 , 999 0727460167 Amber Ray …",
+            "created_at": "2021-07-26 15:59:39",
+            "retweet_count": 3,
+            "favorite_count": 13,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.03813954409506259,
+                "negativity": 0.9618604559049365
+            },
+            "user_id": 1178258033689931776,
+            "text_translation": ""
+        },
+        {
+            "id": 1419605543883350017,
+            "text": "14 x360 Gem Cut Core i7 11th Gen 16GB RAM 1TB Storage 13 . 5 inch Stylus - pen Convert …",
+            "created_at": "2021-07-26 10:28:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB",
+                "Storage"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.054540147882579944,
+                "negativity": 0.9454598521174148
+            },
+            "user_id": 1178258033689931776,
+            "text_translation": ""
+        }
+    ]
+}

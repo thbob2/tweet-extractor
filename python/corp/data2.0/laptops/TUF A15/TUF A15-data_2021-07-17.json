@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1416396554517110787,
+            "text": "Day 1 : , Nitro good ... Day 2 : Nope , that A15 more reasonable .. Day 3 : Man , add …",
+            "created_at": "2021-07-17 13:57:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.025968677897049642,
+                "negativity": 0.9740313221029497
+            },
+            "user_id": 57561314,
+            "text_translation": ""
+        },
+        {
+            "id": 1416212324386590723,
+            "text": "Gaming A15 with 7 in review : Entry - level gaming with review tech",
+            "created_at": "2021-07-17 01:45:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7610130387661925,
+                "negativity": 0.23898696123380603
+            },
+            "user_id": 334213174,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "tweets": [
+        {
+            "id": 1385216958275022854,
+            "text": "Check out the new Link 4 . 0 !",
+            "created_at": "2021-04-22 13:00:33",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45483395819338784,
+                "negativity": 0.5451660418066122
+            },
+            "user_id": 20137674,
+            "text_translation": ""
+        },
+        {
+            "id": 1385170379174555649,
+            "text": ": Just saw this on : Flex 5 14 \" 2 - in - 1 , 14 . 0 \" ( 1920 x 1080 ) Touch Display , 5 4500U …",
+            "created_at": "2021-04-22 09:55:28",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27644683415300686,
+                "negativity": 0.7235531658469928
+            },
+            "user_id": 1341697210111672320,
+            "text_translation": ""
+        },
+        {
+            "id": 1385103154371571713,
+            "text": "US \" \" Someone h …",
+            "created_at": "2021-04-22 05:28:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4317507418397627,
+                "negativity": 0.5682492581602374
+            },
+            "user_id": 741208055061307392,
+            "text_translation": ""
+        },
+        {
+            "id": 1385048852500078594,
+            "text": ": Saving Big is Easy Saving Big is Easy Saving Big is Easy Z50 - 75 15 . 6 ″ Quad Core A10 - 7300 R6 8GB RAM … h …",
+            "created_at": "2021-04-22 01:52:34",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16310748126866234,
+                "negativity": 0.8368925187313371
+            },
+            "user_id": 14403416,
+            "text_translation": ""
+        },
+        {
+            "id": 1385028142126059521,
+            "text": "Like this ( pardon the clutter )? I ' m mostly happy with it ( 49 \" dual curved ). if you have …",
+            "created_at": "2021-04-22 00:30:16",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27313910589868323,
+                "negativity": 0.7268608941013186
+            },
+            "user_id": 14101371,
+            "text_translation": ""
+        }
+    ]
+}

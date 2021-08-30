@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1430313906266804228,
+            "text": "X360 14",
+            "created_at": "2021-08-24 23:39:43",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1311160388734525441,
+            "text_translation": ""
+        },
+        {
+            "id": 1430243972975321088,
+            "text": "I was thinking about it , but ultimately went with this",
+            "created_at": "2021-08-24 19:01:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41736546219367765,
+                "negativity": 0.5826345378063221
+            },
+            "user_id": 467844200,
+            "text_translation": ""
+        }
+    ]
+}

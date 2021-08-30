@@ -1,0 +1,121 @@
+{
+    "tweets": [
+        {
+            "id": 1374099046646870017,
+            "text": "The chill option was turned on limiting my",
+            "created_at": "2021-03-22 20:41:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7704337360029239,
+                "negativity": 0.22956626399707683
+            },
+            "user_id": 1340556072952721408,
+            "text_translation": ""
+        },
+        {
+            "id": 1374088493694021633,
+            "text": "6700 Graphics Card With 6 GDDR6 Memory , Fighter Custom Design Pictured …",
+            "created_at": "2021-03-22 20:00:00",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design",
+                "Memory"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8216445482927206,
+                "negativity": 0.17835545170728115
+            },
+            "user_id": 5889072,
+            "text_translation": ""
+        },
+        {
+            "id": 1374052660152766469,
+            "text": "( aka ) 🎮🙏🏻🤞🏻",
+            "created_at": "2021-03-22 17:37:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5416666666666665,
+                "negativity": 0.45833333333333337
+            },
+            "user_id": 1299269413481467904,
+            "text_translation": ""
+        },
+        {
+            "id": 1373978663188840450,
+            "text": "I love my but your at least a year or two behind . I ’ m after ray tracing a …",
+            "created_at": "2021-03-22 12:43:35",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.26839426343289524,
+                "negativity": 0.7316057365671047
+            },
+            "user_id": 9300842,
+            "text_translation": ""
+        },
+        {
+            "id": 1373934878257864704,
+            "text": "6700 Hellhound , Fighter , and Red Devil “ ”",
+            "created_at": "2021-03-22 09:49:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.253545560101736,
+                "negativity": 0.7464544398982643
+            },
+            "user_id": 588732180,
+            "text_translation": ""
+        },
+        {
+            "id": 1373857597237850120,
+            "text": "what does that make me then",
+            "created_at": "2021-03-22 04:42:30",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49071686434831063,
+                "negativity": 0.5092831356516894
+            },
+            "user_id": 1015507870014509056,
+            "text_translation": ""
+        }
+    ]
+}

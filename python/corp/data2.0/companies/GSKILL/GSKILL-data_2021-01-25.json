@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1353782521738059776,
+            "text": "I recently built a budget gaming ! Come and check it out ! All are listed in the video description .…",
+            "created_at": "2021-01-25 19:11:19",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4560259776478099,
+                "negativity": 0.5439740223521907
+            },
+            "user_id": 29267750,
+            "text_translation": ""
+        },
+        {
+            "id": 1353617358506455042,
+            "text": "Ah agree , are CL16 slow for your task ? i ' seen some and Team Group ( ) sticks going for …",
+            "created_at": "2021-01-25 08:15:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6104088921575366,
+                "negativity": 0.38959110784246265
+            },
+            "user_id": 91493946,
+            "text_translation": ""
+        },
+        {
+            "id": 1353532561847431168,
+            "text": ", corsair , e",
+            "created_at": "2021-01-25 02:38:04",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1217255953122373634,
+            "text_translation": ""
+        }
+    ]
+}

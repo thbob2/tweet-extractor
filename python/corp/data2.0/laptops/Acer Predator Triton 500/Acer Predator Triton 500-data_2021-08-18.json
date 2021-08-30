@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1427965157414735880,
+            "text": ": When I get my new I ' probably be selling my Predator Triton 500 . know if anyone ' s keen on it .",
+            "created_at": "2021-08-18 12:06:38",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8073633590820016,
+                "negativity": 0.19263664091799632
+            },
+            "user_id": 1342173285744857088,
+            "text_translation": ""
+        },
+        {
+            "id": 1427799765102833666,
+            "text": "When I get my new I ' probably be selling my Predator Triton 500 . know if anyone ' s keen on it .",
+            "created_at": "2021-08-18 01:09:25",
+            "retweet_count": 3,
+            "favorite_count": 56,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8073633590820016,
+                "negativity": 0.19263664091799632
+            },
+            "user_id": 849921745415016452,
+            "text_translation": ""
+        }
+    ]
+}

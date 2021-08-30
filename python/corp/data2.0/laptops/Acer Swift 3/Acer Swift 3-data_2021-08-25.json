@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1430367687583039490,
+            "text": "include the Aspire 5 , Swift 3 , Touch ' n Go credit , and more !",
+            "created_at": "2021-08-25 03:13:26",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34441608652674793,
+                "negativity": 0.6555839134732517
+            },
+            "user_id": 16039793,
+            "text_translation": ""
+        },
+        {
+            "id": 1430359277705719814,
+            "text": "I bought an swift 3 recently and I am pretty happy with it . I ’ always been an user due to good …",
+            "created_at": "2021-08-25 02:40:01",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6021278053281542,
+                "negativity": 0.39787219467184654
+            },
+            "user_id": 751215342660096000,
+            "text_translation": ""
+        }
+    ]
+}

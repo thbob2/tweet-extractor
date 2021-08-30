@@ -1,0 +1,163 @@
+{
+    "tweets": [
+        {
+            "id": 1426322199644884998,
+            "text": "I ' likely get a Framework next . I don ' t mind no since it ' s an , b …",
+            "created_at": "2021-08-13 23:18:06",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5538552988208737,
+                "negativity": 0.4461447011791253
+            },
+            "user_id": 1114373905681137665,
+            "text_translation": ""
+        },
+        {
+            "id": 1426281705812418560,
+            "text": "your price range but I know the Dell is really good for engineering / STEM …",
+            "created_at": "2021-08-13 20:37:12",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8125557406863756,
+                "negativity": 0.18744425931362377
+            },
+            "user_id": 1306201428160139265,
+            "text_translation": ""
+        },
+        {
+            "id": 1426269893775794178,
+            "text": "Dell 15 9570 , i7 8750H , 4k , 16GB RAM , 512 , 1050Ti electronics ad",
+            "created_at": "2021-08-13 19:50:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16666666666666688,
+                "negativity": 0.833333333333334
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1426247529449013255,
+            "text": "Can somebody who is good with help me understand why premiere pro is running so slow on my Dell 15",
+            "created_at": "2021-08-13 18:21:24",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7558904930380634,
+                "negativity": 0.24410950696193412
+            },
+            "user_id": 1062306942637522944,
+            "text_translation": ""
+        },
+        {
+            "id": 1426118171262603267,
+            "text": "Have you tried the type of Dell you can get ? My 15 is still going …",
+            "created_at": "2021-08-13 09:47:22",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6540028530743577,
+                "negativity": 0.3459971469256418
+            },
+            "user_id": 1268125411,
+            "text_translation": ""
+        },
+        {
+            "id": 1426114652765925383,
+            "text": "Dell 15 Touch 9510 i7 11th ( 2021 ) 16GB 512GB $ 1 , 549",
+            "created_at": "2021-08-13 09:33:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4807692307692308,
+                "negativity": 0.5192307692307689
+            },
+            "user_id": 47986740,
+            "text_translation": ""
+        },
+        {
+            "id": 1426049448749113346,
+            "text": "Have my order . Even while my order for an was saying another 5 delivery t …",
+            "created_at": "2021-08-13 05:14:17",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5269352640566544,
+                "negativity": 0.4730647359433448
+            },
+            "user_id": 47073873,
+            "text_translation": ""
+        },
+        {
+            "id": 1425985747090350080,
+            "text": "Tactical Any of you got for , and Rush Delivery …",
+            "created_at": "2021-08-13 01:01:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1544721213176838,
+                "negativity": 0.8455278786823176
+            },
+            "user_id": 14339355,
+            "text_translation": ""
+        }
+    ]
+}

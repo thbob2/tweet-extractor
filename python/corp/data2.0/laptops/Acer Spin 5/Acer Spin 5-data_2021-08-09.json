@@ -1,0 +1,84 @@
+{
+    "tweets": [
+        {
+            "id": 1424847823586029584,
+            "text": "San920 ( 2 / 2 ) Currently , it ' s $ 1099 , but it would be $ 990 after 10 % off 💚 Take a look here , and let …",
+            "created_at": "2021-08-09 21:39:28",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4246591496411069,
+                "negativity": 0.5753408503588928
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1424840654799179779,
+            "text": "Our Spin5 can be both for you , and is great for leisure ! 😉 It ' s a 2 - in - 1 with a …",
+            "created_at": "2021-08-09 21:10:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6962704370415275,
+                "negativity": 0.3037295629584719
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1424831280219295749,
+            "text": "Hi ! Our Spin5 is a full but also a 2 - in - 1 tablet . It an i7 processor , 1 …",
+            "created_at": "2021-08-09 20:33:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21698919825626528,
+                "negativity": 0.783010801743734
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1424830736901738500,
+            "text": "Hey , you ' re right ! 😉 Our Spin5 is a full but also a 2 - in - 1 tablet . It an i7 …",
+            "created_at": "2021-08-09 20:31:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.23269935987681664,
+                "negativity": 0.7673006401231821
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        }
+    ]
+}

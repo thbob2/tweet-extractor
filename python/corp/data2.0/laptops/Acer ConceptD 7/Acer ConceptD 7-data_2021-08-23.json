@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1429870611770249228,
+            "text": "On I posted a tutorial showing how to use the Lab . Here is a little sneak peek of what is in the v …",
+            "created_at": "2021-08-23 18:18:14",
+            "retweet_count": 0,
+            "favorite_count": 19,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2442829553117763,
+                "negativity": 0.7557170446882251
+            },
+            "user_id": 2982222845,
+            "text_translation": ""
+        },
+        {
+            "id": 1429778889325285384,
+            "text": ": I this animation the Lab and it on the ConceptD7pro from . Check out the tut …",
+            "created_at": "2021-08-23 12:13:45",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1402683189978174,
+                "negativity": 0.8597316810021814
+            },
+            "user_id": 52812696,
+            "text_translation": ""
+        }
+    ]
+}

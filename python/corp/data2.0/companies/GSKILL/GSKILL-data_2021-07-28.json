@@ -1,0 +1,84 @@
+{
+    "tweets": [
+        {
+            "id": 1420368784263684097,
+            "text": "Trying to reach the .",
+            "created_at": "2021-07-28 13:01:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5432053711557008,
+                "negativity": 0.45679462884429917
+            },
+            "user_id": 4234615635,
+            "text_translation": ""
+        },
+        {
+            "id": 1420340065327276035,
+            "text": "whats a realistic goal for 5600x / 3080 / 32gb RAM 3600 CL16 ( so can be tuned to cl14 …",
+            "created_at": "2021-07-28 11:07:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080",
+                "RAM",
+                "32GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3123642850347321,
+                "negativity": 0.6876357149652679
+            },
+            "user_id": 2787059991,
+            "text_translation": ""
+        },
+        {
+            "id": 1420304889159159810,
+            "text": "G . Skill trident Z neo on my new setup for better apex gaming . Need 2 more though 👌 ••• tech …",
+            "created_at": "2021-07-28 08:47:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8362290035482112,
+                "negativity": 0.16377099645179088
+            },
+            "user_id": 2938554684,
+            "text_translation": ""
+        },
+        {
+            "id": 1420300275428982784,
+            "text": "on 180 - 240FPS while ( ) is Active . Courtesy of 10850K 5 . 16G …",
+            "created_at": "2021-07-28 08:29:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8372702292411978,
+                "negativity": 0.1627297707588023
+            },
+            "user_id": 1240002241,
+            "text_translation": ""
+        }
+    ]
+}

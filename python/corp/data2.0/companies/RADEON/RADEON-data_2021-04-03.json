@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1378407193461002242,
+            "text": "Phantom Gaming D 570 Source : RestockBotV1 Reason : Available on 🛒: 01 : 00 : 58 Ad",
+            "created_at": "2021-04-03 18:00:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9437073457907234,
+                "negativity": 0.05629265420927519
+            },
+            "user_id": 1347298785853059078,
+            "text_translation": ""
+        },
+        {
+            "id": 1378268259275923459,
+            "text": "de Wo sind all die 6000er hin , ? Where d …",
+            "created_at": "2021-04-03 08:48:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4854222050574202,
+                "negativity": 0.5145777949425799
+            },
+            "user_id": 1301421758931759104,
+            "text_translation": ""
+        }
+    ]
+}

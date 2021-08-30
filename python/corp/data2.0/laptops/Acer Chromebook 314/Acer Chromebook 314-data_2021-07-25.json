@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1419301038176223240,
+            "text": ": ' s Spin 314 , 8GB RAM , and a 14 - inch display . the review …",
+            "created_at": "2021-07-25 14:18:31",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13209477829058913,
+                "negativity": 0.867905221709412
+            },
+            "user_id": 3385651828,
+            "text_translation": ""
+        }
+    ]
+}

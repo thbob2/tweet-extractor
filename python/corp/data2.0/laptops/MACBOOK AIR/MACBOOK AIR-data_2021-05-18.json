@@ -1,0 +1,140 @@
+{
+    "tweets": [
+        {
+            "id": 1394777276068335622,
+            "text": ": Hardware I own that can output to dual 4k : Raspberry Pi 4 ($ 35 ) Hardware I own that cannot output to dual 4k …",
+            "created_at": "2021-05-18 22:09:50",
+            "retweet_count": 149,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9549222730486595,
+                "negativity": 0.045077726951341573
+            },
+            "user_id": 54722668,
+            "text_translation": ""
+        },
+        {
+            "id": 1394748845800689671,
+            "text": ": New story : Apple with 10 Core ( 8 performance , 2 efficient ) and up to 32 core , Mac Pro wi …",
+            "created_at": "2021-05-18 20:16:52",
+            "retweet_count": 283,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7410475907675449,
+                "negativity": 0.2589524092324541
+            },
+            "user_id": 14410689,
+            "text_translation": ""
+        },
+        {
+            "id": 1394681784001089542,
+            "text": ": Next Air Will Feature Faster Apple Silicon Chip With Up to 10 Graphics by …",
+            "created_at": "2021-05-18 15:50:23",
+            "retweet_count": 38,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.884071084683806,
+                "negativity": 0.11592891531619509
+            },
+            "user_id": 745139276,
+            "text_translation": ""
+        },
+        {
+            "id": 1394675814780780547,
+            "text": "I sold my old air covered in stickers as a \" hacking .\" The person that bought it …",
+            "created_at": "2021-05-18 15:26:40",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8903763159641951,
+                "negativity": 0.10962368403580511
+            },
+            "user_id": 266512198,
+            "text_translation": ""
+        },
+        {
+            "id": 1394650200765911044,
+            "text": "Next Air Will Feature Faster Apple Silicon Chip With Up to 10 Graphics by …",
+            "created_at": "2021-05-18 13:44:53",
+            "retweet_count": 38,
+            "favorite_count": 426,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.884071084683806,
+                "negativity": 0.11592891531619509
+            },
+            "user_id": 14861285,
+            "text_translation": ""
+        },
+        {
+            "id": 1394640654823694345,
+            "text": "This is what the day after I buy a Air …",
+            "created_at": "2021-05-18 13:06:57",
+            "retweet_count": 0,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6255997849184591,
+                "negativity": 0.3744002150815408
+            },
+            "user_id": 2915038903,
+            "text_translation": ""
+        },
+        {
+            "id": 1394567680657612801,
+            "text": "Need a new Mac ? Grab the M1 2020 13 \" Air with 8GB RAM and 256GB for £ 869 . 97 from .…",
+            "created_at": "2021-05-18 08:16:59",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.01110345736376529,
+                "negativity": 0.9888965426362336
+            },
+            "user_id": 727906922968526849,
+            "text_translation": ""
+        }
+    ]
+}

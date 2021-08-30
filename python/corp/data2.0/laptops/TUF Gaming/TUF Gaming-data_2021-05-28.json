@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1398276206571753476,
+            "text": "I ' m now looking at this bad boy :",
+            "created_at": "2021-05-28 13:53:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3457473245044639,
+                "negativity": 0.6542526754955362
+            },
+            "user_id": 22776113,
+            "text_translation": ""
+        }
+    ]
+}

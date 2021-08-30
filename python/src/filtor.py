@@ -18,6 +18,7 @@ data_path =  os.getcwd()+"/python/corp/data/"
 data_path2 = os.getcwd()+"/python/corp/data2.0/"
 data_path3 = os.getcwd()+"/python/corp/data3.0/"
 smartphone_ontology = os.getcwd()+"/python/corp/assets/ontologies/smartphone-ontology.json"
+laptop_ontology = os.getcwd()+"/python/corp/assets/ontologies/laptop-ontology.json"
 
 #*..#######..##....##.########..#######..##........#######...######...##....##
 #*.##.....##.###...##....##....##.....##.##.......##.....##.##....##...##..##.
@@ -230,26 +231,27 @@ def filterPhones():
         file.write(string)
     
 def filterLaptops():
-    rpath = os.getcwd()+"/python/corp/data/"
-    path = os.getcwd()+"/python/corp/data2.0/laptops/"
-    corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
-    laptops = [f for f in listdir(path)]
-    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/laptop-ontology.json")
+    
+    corp = [f for f in os.listdir(data_path)]
+    models = [f for f in os.listdir(laptops)]
+    classNames = ontologieClasses(laptop_ontology)
     stats = {}
     emptyfile = 0
     lex = Lexor()
+    seen = set()
+    cpt = 0
     for c in corp :
         try:
             tweetArray = []
             entity = c.split("-")[0]
-            if entity in laptops:
-                with open(rpath+c,"r",encoding="utf-8") as read:
+            if entity in models:
+                with open(data_path+c,"r",encoding="utf-8") as read:
                     try:
                         data = json.load(read)
                     except JSONDecodeError as e:
                         print(c +" is the one causing error")
                     if data["tweets"] != []:
-                        cpt = 0
+                        
                         for tweet in data["tweets"]:                            
                             try:
                                 stats[tweet["lang"]]+=1
@@ -258,26 +260,33 @@ def filterLaptops():
                             try:
                                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 if tempo.lang=="en":
-                                    #cleaning
-                                    print(tempo.text)
+                                    #cleaning                                    
                                     tempo.text= clean(tempo.text)
-                                    for name in classNames:
-                                        #eticting + elaguing
-                                        if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
-                                            tempo.mention.append(name)
-                                            
-                                        else:
-                                            continue
-                                    tempo.label= lex.feeling(tempo.text)
-                                    print("nb on {}".format(cpt))
-                                    cpt+=1
-                                    tempo.note = lex.feelingBayes(tempo.text)
-                                    tweetArray.append(tempo)
+                                    if tempo.text not in seen:
+                                        seen.add(tempo.text)
+                                        for name in classNames:
+                                            #eticting + elaguing
+                                            if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
+                                                tempo.mention.append(name)
+                                                
+                                            else:
+                                                continue
+                                        tempo.label= lex.feeling(tempo.text)
+                                        if cpt.__mod__(1000) == 0:
+                                            lex.blobberRefresh()
+                                            print("lexor refreshed")
+                                        
+                                        
+                                        
+                                        tempo.note = lex.feelingBayes(tempo.text)
+                                        cpt+=1
+                                        tweetArray.append(tempo)
+                                        print("lucky number  {}".format(cpt))
 
                             except KeyError as e :
                                 continue
                             if len(tweetArray) > 0:
-                                with open(path+entity+"/"+c,"wb") as w: 
+                                with open(laptops+entity+"/"+c,"wb") as w: 
                                     w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                         
@@ -298,27 +307,28 @@ def filterLaptops():
         file.write(string)
 
 def filterCompanies():
-    rpath = os.getcwd()+"/python/corp/data/"
-    path = os.getcwd()+"/python/corp/data2.0/companies/"
-    corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
-    companies = [f for f in listdir(path)]
-    laptopsonto = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/laptop-ontology.json")
-    phonesonto = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/smartphone-ontology.json")
+    
+    
+    corp = [f for f in os.listdir(data_path)]
+    comp = [f for f in os.listdir(companies)]
+    laptopsonto = ontologieClasses(laptop_ontology)
+    phonesonto = ontologieClasses(smartphone_ontology)
     stats = {}
     emptyfile=0
     lex = Lexor()
+    seen = set()
+    cpt = 0
     for c in corp :
         try:
             tweetArray = []
             entity = c.split("-")[0]
-            if entity in companies:
-                with open(rpath+c,"r",encoding="utf-8") as read:
+            if entity in comp:
+                with open(data_path+c,"r",encoding="utf-8") as read:
                     try:
                         data = json.load(read)
                     except JSONDecodeError as e:
                         print(c +" is the one causing error")
                     if data["tweets"] != []:
-                        cpt = 0
                         for tweet in data["tweets"]:                            
                             try:
                                 stats[tweet["lang"]]+=1
@@ -331,28 +341,34 @@ def filterCompanies():
                                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 if tempo.lang=="en":
                                     #cleaning
-                                    print(tempo.text)
+                                    
                                     tempo.text= clean(tempo.text)
-                                    for name in laptopsonto :
-                                        #eticting + elaguing
-                                        if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
-                                            tempo.mention.append(name)
-                                    for name in phonesonto :
-                                        #eticting + elaguing
-                                        if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
-                                            tempo.mention.append(name)
+                                    if tempo.text not in seen:
+                                        seen.add(tempo.text)
+                                        for name in laptopsonto :
+                                            #eticting + elaguing
+                                            if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
+                                                tempo.mention.append(name)
+                                        for name in phonesonto :
+                                            #eticting + elaguing
+                                            if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
+                                                tempo.mention.append(name)
 
-                                    tempo.label= lex.feeling(tempo.text)
-                                    print("nb on {}".format(cpt))
-                                    cpt+=1
-                                    tempo.note = lex.feelingBayes(tempo.text)
-                                    tweetArray.append(tempo)
+                                        tempo.label= lex.feeling(tempo.text)
+                                        if cpt.__mod__(1000) == 0:
+                                            lex.blobberRefresh()
+                                            print("lexor refreshed")
+
+                                        tempo.note = lex.feelingBayes(tempo.text)
+                                        print("lucky number  {}".format(cpt))
+                                        cpt+=1
+                                        tweetArray.append(tempo)
                                 
                             except KeyError as e :
                                 continue
                             
                         if len(tweetArray) > 0:
-                            with open(path+entity+"/"+c,"wb") as w: 
+                            with open(companies+entity+"/"+c,"wb") as w: 
                                 w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                     
@@ -448,11 +464,10 @@ if __name__ == '__main__':
     filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
  
     filterPhones()
-    ##filterLaptops()
-    ###
-    #filterCompanies()
-    #chunkyboy(laptops)
-    #chunkyboy(companies)
+    filterLaptops()
+    filterCompanies()
+    chunkyboy(laptops)
+    chunkyboy(companies)
     chunkyboy(phones)
     #sortfunc("infinx note7-data_2021-01-21.json")
     #exploreCorp(phones)

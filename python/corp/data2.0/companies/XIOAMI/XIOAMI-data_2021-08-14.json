@@ -1,0 +1,120 @@
+{
+    "tweets": [
+        {
+            "id": 1426687980849172484,
+            "text": "Tried doing front cam self shoot . Camera : Redmi9T front cam Editor : Location : , City …",
+            "created_at": "2021-08-14 23:31:35",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2807411654563986,
+                "negativity": 0.7192588345436003
+            },
+            "user_id": 928071027409563649,
+            "text_translation": ""
+        },
+        {
+            "id": 1426638627988254726,
+            "text": "do you think is stopping from taking top spot in the mobile market ?",
+            "created_at": "2021-08-14 20:15:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8181797775087281,
+                "negativity": 0.1818202224912722
+            },
+            "user_id": 774330380,
+            "text_translation": ""
+        },
+        {
+            "id": 1426509347576684554,
+            "text": "It ' s not to use the same tech on a foldable display .. see what do with there next foldable display",
+            "created_at": "2021-08-14 11:41:46",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5811988970614027,
+                "negativity": 0.4188011029385966
+            },
+            "user_id": 76044441,
+            "text_translation": ""
+        },
+        {
+            "id": 1426415927634001924,
+            "text": ": You , , , , , Apple",
+            "created_at": "2021-08-14 05:30:33",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5886178649009395,
+                "negativity": 0.4113821350990605
+            },
+            "user_id": 1263890315779416065,
+            "text_translation": ""
+        },
+        {
+            "id": 1426413367472889858,
+            "text": "A at half price is way better",
+            "created_at": "2021-08-14 05:20:22",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4851235918426125,
+                "negativity": 0.5148764081573878
+            },
+            "user_id": 1193282421795545088,
+            "text_translation": ""
+        },
+        {
+            "id": 1426358673958313987,
+            "text": "You , , , , , Apple",
+            "created_at": "2021-08-14 01:43:02",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5886178649009395,
+                "negativity": 0.4113821350990605
+            },
+            "user_id": 810356262252576768,
+            "text_translation": ""
+        }
+    ]
+}

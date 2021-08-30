@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1411386928856023041,
+            "text": ": From a heritage of high - performance hardware comes the Razer Book 13 — an ultra - lightweight certified that …",
+            "created_at": "2021-07-03 18:10:40",
+            "retweet_count": 45,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22564393855167908,
+                "negativity": 0.774356061448319
+            },
+            "user_id": 1090606410898067456,
+            "text_translation": ""
+        },
+        {
+            "id": 1411313304354557961,
+            "text": "Check out this - Razer Book 13 - Ultra Light for on the Go with 1 for £ 925 . 24 …",
+            "created_at": "2021-07-03 13:18:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.493127903481972,
+                "negativity": 0.506872096518027
+            },
+            "user_id": 858636167184560129,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1401313249619021828,
+            "text": "Gaming 6900 Source : RestockBotV1 Reason : Available on 🛒: June 5 , 2021 at 06 : 01PM Ad",
+            "created_at": "2021-06-05 23:01:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9356251732565618,
+                "negativity": 0.06437482674343788
+            },
+            "user_id": 1347298785853059078,
+            "text_translation": ""
+        },
+        {
+            "id": 1401207744569528324,
+            "text": "Gaming 6900 Source : RestockBotV1 Reason : Available on 🛒: June 5 , 2021 at 11 : 02AM Ad",
+            "created_at": "2021-06-05 16:02:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9356251732565618,
+                "negativity": 0.06437482674343788
+            },
+            "user_id": 1347298785853059078,
+            "text_translation": ""
+        },
+        {
+            "id": 1401109699135672323,
+            "text": "Gaming 6900 Edition Graphics Card ( 4 . 0 is now in stock . Product Page :…",
+            "created_at": "2021-06-05 09:32:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5183011655149138,
+                "negativity": 0.4816988344850881
+            },
+            "user_id": 1377519267143376898,
+            "text_translation": ""
+        },
+        {
+            "id": 1400991197427081216,
+            "text": "Gaming 3080 10GB GDDR6X Graphics Card Auction Gaming …",
+            "created_at": "2021-06-05 01:41:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5466867469879508,
+                "negativity": 0.4533132530120484
+            },
+            "user_id": 307605293,
+            "text_translation": ""
+        }
+    ]
+}

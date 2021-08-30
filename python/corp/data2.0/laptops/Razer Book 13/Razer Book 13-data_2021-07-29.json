@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1420874587089244160,
+            "text": "Hi there , ! This is totally not the experience we want you to have with Razer . Allow us to check your …",
+            "created_at": "2021-07-29 22:31:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.35745410071244765,
+                "negativity": 0.6425458992875532
+            },
+            "user_id": 2550527917,
+            "text_translation": ""
+        },
+        {
+            "id": 1420871988029976576,
+            "text": "I returned my Razer Book 13 on because the key sticks Anna awful noise . I got it back a …",
+            "created_at": "2021-07-29 22:20:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5992783802113001,
+                "negativity": 0.40072161978869936
+            },
+            "user_id": 444165364,
+            "text_translation": ""
+        }
+    ]
+}

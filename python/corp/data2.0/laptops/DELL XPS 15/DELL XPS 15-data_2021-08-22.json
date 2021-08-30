@@ -1,0 +1,129 @@
+{
+    "tweets": [
+        {
+            "id": 1429537846206115848,
+            "text": "Have you seen Dell ' s line ? I ' m rocking 2020 17 \" ( in a body of a 15 \" because of super - …",
+            "created_at": "2021-08-22 20:15:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45224185369488074,
+                "negativity": 0.5477581463051208
+            },
+            "user_id": 55803093,
+            "text_translation": ""
+        },
+        {
+            "id": 1429516315199422471,
+            "text": "Dell 15 9570 I7 - 8750H 16GbB RAM 512GB 10 Home - Silver electronics ad",
+            "created_at": "2021-08-22 18:50:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27499999999999997,
+                "negativity": 0.7250000000000024
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1429503661193973762,
+            "text": "Get access to Dell ' s premium and save extra on top technology . Additional 15 % off all , and …",
+            "created_at": "2021-08-22 18:00:06",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.988368386429481,
+                "negativity": 0.011631613570519716
+            },
+            "user_id": 21756999,
+            "text_translation": ""
+        },
+        {
+            "id": 1429425712516194318,
+            "text": "DELL 15 9560 4K i7 - 7700HQ , 32GB RAM , 1TB , 6 electronics ad",
+            "created_at": "2021-08-22 12:50:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16666666666666688,
+                "negativity": 0.833333333333334
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1429425580781588481,
+            "text": ": ✅ 100k ✅ Per Month ( x12 ) Dell 15 - 9500 BRAND NEW SEALED 🔥 10th Gen Core i7 - 10750H ( up to 5 . 0 , 6 ) 1TB 🔥…",
+            "created_at": "2021-08-22 12:49:50",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3671150719563038,
+                "negativity": 0.6328849280436968
+            },
+            "user_id": 1326306889525817350,
+            "text_translation": ""
+        },
+        {
+            "id": 1429424251728191493,
+            "text": "✅ 100k ✅ Per Month ( x12 ) Dell 15 - 9500 BRAND NEW SEALED 🔥 10th Gen Core i7 - 10750H ( up to 5 . 0 , 6 ) 1TB …",
+            "created_at": "2021-08-22 12:44:33",
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3671150719563038,
+                "negativity": 0.6328849280436968
+            },
+            "user_id": 1079283939997634560,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1426938878846402571,
+            "text": "Sir bring more stocks of a15 2021 model on . Its out of stock .",
+            "created_at": "2021-08-15 16:08:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.77420152844872,
+                "negativity": 0.2257984715512787
+            },
+            "user_id": 2938351051,
+            "text_translation": ""
+        },
+        {
+            "id": 1426742682328522756,
+            "text": "In stock A15 ( 512 )",
+            "created_at": "2021-08-15 03:08:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38135593220338976,
+                "negativity": 0.6186440677966099
+            },
+            "user_id": 1307849715145347073,
+            "text_translation": ""
+        }
+    ]
+}

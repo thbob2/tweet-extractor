@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1415344525313183746,
+            "text": "Ad : Spin 311 CP311 - 3H - K3WL Convertible for $ 175 . 40",
+            "created_at": "2021-07-14 16:16:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6156714589519692,
+                "negativity": 0.3843285410480306
+            },
+            "user_id": 883436749044809728,
+            "text_translation": ""
+        },
+        {
+            "id": 1415183023499272194,
+            "text": "Spin Convertible for $ 175 . 40 via =& ;",
+            "created_at": "2021-07-14 05:35:00",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7453970575823654,
+                "negativity": 0.2546029424176336
+            },
+            "user_id": 906389124348653568,
+            "text_translation": ""
+        }
+    ]
+}

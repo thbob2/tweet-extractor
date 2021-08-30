@@ -1,0 +1,46 @@
+{
+    "tweets": [
+        {
+            "id": 1420719813001768967,
+            "text": "Nope , a15 I have also ram to 16gb and added extra 500 storage .",
+            "created_at": "2021-07-29 12:16:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB",
+                "Storage"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4281866574870504,
+                "negativity": 0.5718133425129519
+            },
+            "user_id": 1048807630473330688,
+            "text_translation": ""
+        },
+        {
+            "id": 1420638852855648256,
+            "text": "restock A15 ( 2021 ) on . Its been out of stock since . Require on urgent basis .",
+            "created_at": "2021-07-29 06:54:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3416714858112648,
+                "negativity": 0.658328514188736
+            },
+            "user_id": 1172367733318508544,
+            "text_translation": ""
+        }
+    ]
+}

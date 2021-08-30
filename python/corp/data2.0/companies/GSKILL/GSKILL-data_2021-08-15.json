@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1427055885629722626,
+            "text": "4k capture card and another set of 32 neo ram",
+            "created_at": "2021-08-15 23:53:31",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29198384685926404,
+                "negativity": 0.7080161531407361
+            },
+            "user_id": 1191049444877361153,
+            "text_translation": ""
+        },
+        {
+            "id": 1427028125620211715,
+            "text": "3600 cl16 16 16 16 36 trident neo and px850 , always for power supply . My ca …",
+            "created_at": "2021-08-15 22:03:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8423543759157367,
+                "negativity": 0.15764562408426358
+            },
+            "user_id": 380884525,
+            "text_translation": ""
+        }
+    ]
+}

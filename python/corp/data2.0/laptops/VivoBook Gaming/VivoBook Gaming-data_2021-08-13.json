@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1426317511600099340,
+            "text": "Bronze 2 gaming ?",
+            "created_at": "2021-08-13 22:59:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.416666666666667,
+                "negativity": 0.5833333333333333
+            },
+            "user_id": 1283427323614822400,
+            "text_translation": ""
+        },
+        {
+            "id": 1426301741440536576,
+            "text": "People who Just Say \" Justification \" yet did they know it was Their possible Purchase ? When I Was Find …",
+            "created_at": "2021-08-13 21:56:49",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42580119858099613,
+                "negativity": 0.5741988014190015
+            },
+            "user_id": 1294206681312714754,
+            "text_translation": ""
+        },
+        {
+            "id": 1426045774366789634,
+            "text": "So here is 14 Core i3 11th Gen 😁🤩 Gaming & ; Video will live on Shiv Tech Sma …",
+            "created_at": "2021-08-13 04:59:41",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48969607957801103,
+                "negativity": 0.5103039204219884
+            },
+            "user_id": 1420717955298467843,
+            "text_translation": ""
+        }
+    ]
+}

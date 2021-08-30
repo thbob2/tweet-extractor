@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1419942394565255169,
+            "text": "spin 311",
+            "created_at": "2021-07-27 08:47:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4874999999999997,
+                "negativity": 0.5125
+            },
+            "user_id": 4164014172,
+            "text_translation": ""
+        }
+    ]
+}

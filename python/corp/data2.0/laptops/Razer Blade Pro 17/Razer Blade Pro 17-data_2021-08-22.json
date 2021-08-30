@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1429546506927935501,
+            "text": "Razer Blade Pro 17 Core i7 16GB 512GB 2070 electronics ad",
+            "created_at": "2021-08-22 20:50:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29534718941898797,
+                "negativity": 0.7046528105810111
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        }
+    ]
+}

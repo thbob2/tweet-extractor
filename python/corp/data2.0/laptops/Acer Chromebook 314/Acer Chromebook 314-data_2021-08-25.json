@@ -1,0 +1,27 @@
+{
+    "tweets": [
+        {
+            "id": 1430569385689849865,
+            "text": "Check out 314 CB314 - H - ( N4000 , 4GB RAM , 32GB , 14 inch display , Chrome OS , Si …",
+            "created_at": "2021-08-25 16:34:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "OS",
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10459026327464736,
+                "negativity": 0.8954097367253536
+            },
+            "user_id": 2763850618,
+            "text_translation": ""
+        }
+    ]
+}

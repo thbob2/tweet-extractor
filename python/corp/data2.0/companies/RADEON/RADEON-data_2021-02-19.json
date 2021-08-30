@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1362797487308742656,
+            "text": "& ; Tech : 15s - eq0142AU 7 VEGA10 - A look inside the belly of the beast !",
+            "created_at": "2021-02-19 16:13:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3226058623556999,
+                "negativity": 0.6773941376442996
+            },
+            "user_id": 227197346,
+            "text_translation": ""
+        },
+        {
+            "id": 1362601452741525510,
+            "text": ": Experience the ultimate gaming advantage of Smart Access Memory when you combine an 5000 Series processor with …",
+            "created_at": "2021-02-19 03:14:36",
+            "retweet_count": 31,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9256524826361389,
+                "negativity": 0.07434751736386268
+            },
+            "user_id": 1342900586933608448,
+            "text_translation": ""
+        }
+    ]
+}

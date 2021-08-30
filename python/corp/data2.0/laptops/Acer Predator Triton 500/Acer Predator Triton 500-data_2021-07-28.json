@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1420467105699270659,
+            "text": "Prime Day include nearly $ 600 off the Predator Triton 500 -",
+            "created_at": "2021-07-28 19:32:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6652185581140319,
+                "negativity": 0.33478144188596803
+            },
+            "user_id": 437618020,
+            "text_translation": ""
+        },
+        {
+            "id": 1420355444241965062,
+            "text": "Hey , are we going to get a review on the predator triton 500 se ?",
+            "created_at": "2021-07-28 12:08:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3114235270561571,
+                "negativity": 0.6885764729438443
+            },
+            "user_id": 1249492363111587841,
+            "text_translation": ""
+        }
+    ]
+}

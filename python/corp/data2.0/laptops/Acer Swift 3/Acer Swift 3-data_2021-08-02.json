@@ -1,0 +1,165 @@
+{
+    "tweets": [
+        {
+            "id": 1422342546894823425,
+            "text": "Save $ 300 on the Swift 3 . . . 👉👉 Price subject to change Ad",
+            "created_at": "2021-08-02 23:44:23",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6863904687990218,
+                "negativity": 0.3136095312009789
+            },
+            "user_id": 21418209,
+            "text_translation": ""
+        },
+        {
+            "id": 1422318367168503809,
+            "text": "Hi ! It like our Swift3 would be perfect for you ! 💚 It ' s great for school , and fast …",
+            "created_at": "2021-08-02 22:08:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7606473851610289,
+                "negativity": 0.23935261483897105
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1422317180117340161,
+            "text": "If this pinkish - purple is in her range , the Swift 3 very solid specs ( 8 , 16GB RAM ) unde …",
+            "created_at": "2021-08-02 22:03:35",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB",
+                "specs"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7115101729476243,
+                "negativity": 0.28848982705237564
+            },
+            "user_id": 7866922,
+            "text_translation": ""
+        },
+        {
+            "id": 1422286269413920786,
+            "text": "Swift SF315 - 41 ( Grey Steel ) 15 . 6 \" - 11 with 1TB & ; RAM 8GB electronics ad",
+            "created_at": "2021-08-02 20:00:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.04297270374178379,
+                "negativity": 0.9570272962582174
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1422127136148639745,
+            "text": "Swift 3 Thin & ; Light Add to Cart : acerswift3 swift3 acerswift3ryzen5 …",
+            "created_at": "2021-08-02 09:28:25",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16401290118635314,
+                "negativity": 0.8359870988136465
+            },
+            "user_id": 1355132064056504327,
+            "text_translation": ""
+        },
+        {
+            "id": 1422061067316826113,
+            "text": "Swift 3 cutie",
+            "created_at": "2021-08-02 05:05:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11363636363636366,
+                "negativity": 0.8863636363636349
+            },
+            "user_id": 1005469919012507648,
+            "text_translation": ""
+        },
+        {
+            "id": 1422003674801340418,
+            "text": "Swift 3 SF314 - 57G - 728X Blue Ci7 - 1065G7 via",
+            "created_at": "2021-08-02 01:17:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45020597167513576,
+                "negativity": 0.549794028324864
+            },
+            "user_id": 1270284778680401920,
+            "text_translation": ""
+        },
+        {
+            "id": 1421993636258975744,
+            "text": "Swift 3 Thin & ; Light , 14 \" Full , 7 4700U - Core with Graphics , 8GB LPDDR4 , 51 …",
+            "created_at": "2021-08-02 00:37:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19531913995615152,
+                "negativity": 0.8046808600438492
+            },
+            "user_id": 1184143921,
+            "text_translation": ""
+        }
+    ]
+}

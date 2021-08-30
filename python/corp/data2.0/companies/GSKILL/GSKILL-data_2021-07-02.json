@@ -1,0 +1,160 @@
+{
+    "tweets": [
+        {
+            "id": 1411080256514146308,
+            "text": ": Extreme thermal test . | : u /",
+            "created_at": "2021-07-02 21:52:04",
+            "retweet_count": 49,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2966498559077807,
+                "negativity": 0.703350144092219
+            },
+            "user_id": 1954703899,
+            "text_translation": ""
+        },
+        {
+            "id": 1411061010438496256,
+            "text": "It ’ s my Corsair k65 with the crown",
+            "created_at": "2021-07-02 20:35:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3950599578794924,
+                "negativity": 0.6049400421205077
+            },
+            "user_id": 1368990543771009027,
+            "text_translation": ""
+        },
+        {
+            "id": 1411057755260084226,
+            "text": "I see that ….",
+            "created_at": "2021-07-02 20:22:39",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5381888098743773,
+                "negativity": 0.4618111901256226
+            },
+            "user_id": 1028809194328215552,
+            "text_translation": ""
+        },
+        {
+            "id": 1411009443245010944,
+            "text": "What of RAM do you all like these days ? Corsair ? Crucial ? ?",
+            "created_at": "2021-07-02 17:10:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24334557989157812,
+                "negativity": 0.7566544201084223
+            },
+            "user_id": 794996410894708736,
+            "text_translation": ""
+        },
+        {
+            "id": 1410985400642977794,
+            "text": "b550m bazooka R5 3600 16gb 3200mhz 240r 512gb 650w 80 plus …",
+            "created_at": "2021-07-02 15:35:09",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.14915966386554622,
+                "negativity": 0.8508403361344535
+            },
+            "user_id": 1378550168501559297,
+            "text_translation": ""
+        },
+        {
+            "id": 1410951114090901507,
+            "text": ": for both performance and aesthetics 🌟 76 - facet mirrored 🌟 full - length crystalline light bar 🌟…",
+            "created_at": "2021-07-02 13:18:54",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9585994234342645,
+                "negativity": 0.041400576565737354
+            },
+            "user_id": 1192790763739860992,
+            "text_translation": ""
+        },
+        {
+            "id": 1410908470350520328,
+            "text": "Extreme thermal test . | : u /",
+            "created_at": "2021-07-02 10:29:27",
+            "retweet_count": 49,
+            "favorite_count": 458,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2966498559077807,
+                "negativity": 0.703350144092219
+            },
+            "user_id": 237631420,
+            "text_translation": ""
+        },
+        {
+            "id": 1410866258447327234,
+            "text": "Clavier G . Skill KM570 Red - Cherry Red",
+            "created_at": "2021-07-02 07:41:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7026543263773692,
+                "negativity": 0.2973456736226318
+            },
+            "user_id": 786512340464263168,
+            "text_translation": ""
+        }
+    ]
+}

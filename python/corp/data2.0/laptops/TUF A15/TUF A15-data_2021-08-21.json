@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1429096690951364618,
+            "text": "A15 is mess . It , a bad keyboard alongside a bad and the screen is …",
+            "created_at": "2021-08-21 15:02:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18078196497064353,
+                "negativity": 0.8192180350293553
+            },
+            "user_id": 971128072287281155,
+            "text_translation": ""
+        },
+        {
+            "id": 1429071707688488960,
+            "text": "READ FULL ARTICLE (",
+            "created_at": "2021-08-21 13:23:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5820457955553928,
+                "negativity": 0.4179542044446066
+            },
+            "user_id": 1231597126053875712,
+            "text_translation": ""
+        },
+        {
+            "id": 1428932773172051974,
+            "text": "READ FULL ARTICLE ( …",
+            "created_at": "2021-08-21 04:11:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5820457955553928,
+                "negativity": 0.4179542044446066
+            },
+            "user_id": 1231597126053875712,
+            "text_translation": ""
+        }
+    ]
+}

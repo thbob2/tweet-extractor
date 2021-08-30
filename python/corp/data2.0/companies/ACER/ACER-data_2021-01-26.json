@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1354053409423446016,
+            "text": ": ? A . B . Yolk sac tumor C . Goiter D . Answer : Yolk sac …",
+            "created_at": "2021-01-26 13:07:44",
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.14262820512820498,
+                "negativity": 0.857371794871794
+            },
+            "user_id": 1241757256506642434,
+            "text_translation": ""
+        },
+        {
+            "id": 1354024456901943297,
+            "text": ": Selling my for only RM1xxx . Please me if you ' re interested .",
+            "created_at": "2021-01-26 11:12:41",
+            "retweet_count": 113,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24111370660032028,
+                "negativity": 0.758886293399679
+            },
+            "user_id": 602899461,
+            "text_translation": ""
+        },
+        {
+            "id": 1353990492774490112,
+            "text": "The service center told me that should do the replacement but told me …",
+            "created_at": "2021-01-26 08:57:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6688747489866321,
+                "negativity": 0.33112525101336715
+            },
+            "user_id": 425829752,
+            "text_translation": ""
+        },
+        {
+            "id": 1353943134439407616,
+            "text": "Pair of New 11 - inch for Education",
+            "created_at": "2021-01-26 05:49:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5596711147651787,
+                "negativity": 0.4403288852348216
+            },
+            "user_id": 257819049,
+            "text_translation": ""
+        },
+        {
+            "id": 1353865079389908995,
+            "text": "…",
+            "created_at": "2021-01-26 00:39:23",
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 274629513,
+            "text_translation": ""
+        }
+    ]
+}

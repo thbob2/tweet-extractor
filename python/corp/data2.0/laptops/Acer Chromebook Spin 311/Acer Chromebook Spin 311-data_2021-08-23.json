@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1429841783127638020,
+            "text": "It ' s a ! It ' s a tablet ! It ' s the Spin 311 ! Get it for a low price at …",
+            "created_at": "2021-08-23 16:23:40",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24980073646191764,
+                "negativity": 0.750199263538083
+            },
+            "user_id": 2497648944,
+            "text_translation": ""
+        },
+        {
+            "id": 1429790578716200963,
+            "text": "Spin 311 11 . 6 ″ MT8183C 4GB / 32GB – Silver – CP311 - 3H - K3WL SALE PRICE :$ 168 . 00 L …",
+            "created_at": "2021-08-23 13:00:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8802442910249595,
+                "negativity": 0.11975570897503958
+            },
+            "user_id": 1332839399705415684,
+            "text_translation": ""
+        }
+    ]
+}

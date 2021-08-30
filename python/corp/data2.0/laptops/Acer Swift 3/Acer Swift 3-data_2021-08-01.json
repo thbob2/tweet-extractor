@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1421968353971814402,
+            "text": "It ’ s a great don ’ t get me wrong but you can accomplish similar or better performance with a …",
+            "created_at": "2021-08-01 22:57:29",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4681460459346737,
+                "negativity": 0.5318539540653276
+            },
+            "user_id": 1543462508,
+            "text_translation": ""
+        },
+        {
+            "id": 1421967105977589762,
+            "text": "Swift 3 with 16 . 1 - Inch Display Coming To This August : At RM3699",
+            "created_at": "2021-08-01 22:52:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29006684505903113,
+                "negativity": 0.7099331549409682
+            },
+            "user_id": 521749341,
+            "text_translation": ""
+        },
+        {
+            "id": 1421772796976373763,
+            "text": "SWIFT 3",
+            "created_at": "2021-08-01 10:00:24",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27777777777777785,
+                "negativity": 0.7222222222222221
+            },
+            "user_id": 749740800469299203,
+            "text_translation": ""
+        },
+        {
+            "id": 1421772540293246979,
+            "text": "I am truly disappointed after I swift 3 . I have used it less than two the …",
+            "created_at": "2021-08-01 09:59:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.46118568248146397,
+                "negativity": 0.5388143175185364
+            },
+            "user_id": 1097353586202365952,
+            "text_translation": ""
+        }
+    ]
+}

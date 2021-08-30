@@ -1,0 +1,65 @@
+{
+    "tweets": [
+        {
+            "id": 1370513078434078725,
+            "text": ": 3090 GAMING 24G for 2329 . 94 € is available at …",
+            "created_at": "2021-03-12 23:12:35",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8938480319621188,
+                "negativity": 0.10615196803788084
+            },
+            "user_id": 984915961357721600,
+            "text_translation": ""
+        },
+        {
+            "id": 1370384749642936320,
+            "text": ": Want to WIN 1 of 2 M27Q ? Thanks to , you can ! Lift your game with their tasty 170Hz 0 . 5m …",
+            "created_at": "2021-03-12 14:42:39",
+            "retweet_count": 865,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8596655045757663,
+                "negativity": 0.1403344954242337
+            },
+            "user_id": 1289553251281416197,
+            "text_translation": ""
+        },
+        {
+            "id": 1370292271053160448,
+            "text": "3080 GAMING for 1179 . 99 € is available at rtx3080",
+            "created_at": "2021-03-12 08:35:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8938480319621188,
+                "negativity": 0.10615196803788084
+            },
+            "user_id": 1332955480306675713,
+            "text_translation": ""
+        }
+    ]
+}

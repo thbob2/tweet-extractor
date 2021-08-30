@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1379063209345302530,
+            "text": "So finally instead if the simple keyboard and mouse .. I have put that in the rubbish .. as no …",
+            "created_at": "2021-04-05 13:27:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5483422029720418,
+                "negativity": 0.4516577970279591
+            },
+            "user_id": 1248052533869895685,
+            "text_translation": ""
+        },
+        {
+            "id": 1378962162517897216,
+            "text": "bitch * Besides ?",
+            "created_at": "2021-04-05 06:46:14",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40524475524475506,
+                "negativity": 0.5947552447552448
+            },
+            "user_id": 869727487852388352,
+            "text_translation": ""
+        },
+        {
+            "id": 1378911302391894019,
+            "text": "We apologize for the trouble it you , . May we know where did you your dev …",
+            "created_at": "2021-04-05 03:24:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3793678049623222,
+                "negativity": 0.6206321950376773
+            },
+            "user_id": 11511,
+            "text_translation": ""
+        },
+        {
+            "id": 1378879136651997185,
+            "text": "I ' m also up for a ghost town , if that works with you as well .",
+            "created_at": "2021-04-05 01:16:19",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7957044791875997,
+                "negativity": 0.20429552081240002
+            },
+            "user_id": 978690650303619073,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1417177985237532679,
+            "text": "This is mine and I love it .",
+            "created_at": "2021-07-19 17:42:16",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3814499560648377,
+                "negativity": 0.6185500439351624
+            },
+            "user_id": 631701049,
+            "text_translation": ""
+        },
+        {
+            "id": 1417011081935949825,
+            "text": "ROG ROG IN My ROG Zephyrus G14 GA401II keyboard is within of …",
+            "created_at": "2021-07-19 06:39:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3954918032786887,
+                "negativity": 0.6045081967213115
+            },
+            "user_id": 3943331419,
+            "text_translation": ""
+        },
+        {
+            "id": 1416977770941456394,
+            "text": "ROG Zephyrus G14 , 14 ″ 120Hz , 5 4600HS , 1650Ti 4GB GDDR6 Graphics , Gaming ( 8GB / 512GB / M …",
+            "created_at": "2021-07-19 04:26:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7857142857142865,
+                "negativity": 0.21428571428571433
+            },
+            "user_id": 995883804257480704,
+            "text_translation": ""
+        }
+    ]
+}

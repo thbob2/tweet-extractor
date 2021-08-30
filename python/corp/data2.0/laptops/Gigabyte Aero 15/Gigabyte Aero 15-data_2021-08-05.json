@@ -1,0 +1,128 @@
+{
+    "tweets": [
+        {
+            "id": 1423429796785053699,
+            "text": "11th Gen processor ✔ 3080 ✔ Gorgeous 4K display ✔ See what else we thought of the impressive …",
+            "created_at": "2021-08-05 23:44:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18938511242822773,
+                "negativity": 0.8106148875717744
+            },
+            "user_id": 1091282516340662273,
+            "text_translation": ""
+        },
+        {
+            "id": 1423340144938074115,
+            "text": "AERO 15 15 . 6 \" Gaming , i9 - 11980HK , 32GB , 512G Source : Search Reason : Add to Cart button 01 : 4 …",
+            "created_at": "2021-08-05 17:48:29",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6765538239138975,
+                "negativity": 0.32344617608610365
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        },
+        {
+            "id": 1423179344520822791,
+            "text": ": It ' s Back to School Season , so we ' THE WORLD ' s EASIEST TEST to help you pick a ! 💻🎓 🔁 + reply w …",
+            "created_at": "2021-08-05 07:09:31",
+            "retweet_count": 1491,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7643428423458689,
+                "negativity": 0.23565715765413106
+            },
+            "user_id": 4892814101,
+            "text_translation": ""
+        },
+        {
+            "id": 1423144327962714118,
+            "text": ": I ' been the AERO 15 for X and what a great little beast it ' s been . ( in the second half ) …",
+            "created_at": "2021-08-05 04:50:23",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4232889611467673,
+                "negativity": 0.5767110388532328
+            },
+            "user_id": 1402996860428558360,
+            "text_translation": ""
+        },
+        {
+            "id": 1423112747579961345,
+            "text": "I ' been the AERO 15 for X and what a great little beast it ' s been . ( in the second h …",
+            "created_at": "2021-08-05 02:44:53",
+            "retweet_count": 3,
+            "favorite_count": 40,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48810250122831295,
+                "negativity": 0.5118974987716872
+            },
+            "user_id": 65537597,
+            "text_translation": ""
+        },
+        {
+            "id": 1423071336054681600,
+            "text": "AERO 15 : i7 - 11800H , 15 . 6 \" 4K , 3060 , 16GB RAM , 512GB is $ 1249 ( Previous : $ 1 , 799 . 00 )…",
+            "created_at": "2021-08-05 00:00:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3060",
+                "RAM",
+                "16GB"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20774647887323947,
+                "negativity": 0.7922535211267612
+            },
+            "user_id": 1279541961528012800,
+            "text_translation": ""
+        }
+    ]
+}

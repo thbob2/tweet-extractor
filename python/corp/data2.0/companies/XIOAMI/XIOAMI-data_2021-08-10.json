@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1425148645477806080,
+            "text": "is leap ahead in technology 🔥",
+            "created_at": "2021-08-10 17:34:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5985915492957745,
+                "negativity": 0.40140845070422493
+            },
+            "user_id": 928262695677181958,
+            "text_translation": ""
+        },
+        {
+            "id": 1425082049803735042,
+            "text": ": - Somehow launch Mi Mix 4 with CUP . MiMix4",
+            "created_at": "2021-08-10 13:10:12",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6205177627204513,
+                "negativity": 0.3794822372795494
+            },
+            "user_id": 364750418,
+            "text_translation": ""
+        },
+        {
+            "id": 1425074138742407184,
+            "text": "- Somehow launch Mi Mix 4 with CUP . MiMix4",
+            "created_at": "2021-08-10 12:38:45",
+            "retweet_count": 1,
+            "favorite_count": 12,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6205177627204513,
+                "negativity": 0.3794822372795494
+            },
+            "user_id": 802798423673946112,
+            "text_translation": ""
+        },
+        {
+            "id": 1425052357176528898,
+            "text": "That from 2016 . I remember making a review of it",
+            "created_at": "2021-08-10 11:12:12",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5167948723957976,
+                "negativity": 0.48320512760420237
+            },
+            "user_id": 999941302895726592,
+            "text_translation": ""
+        },
+        {
+            "id": 1424887355337449496,
+            "text": "10 Specs and : 50MP Camera Confirmed",
+            "created_at": "2021-08-10 00:16:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5675074183976255,
+                "negativity": 0.43249258160237397
+            },
+            "user_id": 867663122387042305,
+            "text_translation": ""
+        }
+    ]
+}

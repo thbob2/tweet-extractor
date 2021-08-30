@@ -1,0 +1,86 @@
+{
+    "tweets": [
+        {
+            "id": 1384220114527031299,
+            "text": "What do you think ??? Rig : 5900X 6900XT Master X570 Corsair RM1000 …",
+            "created_at": "2021-04-19 18:59:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5457757006608702,
+                "negativity": 0.45422429933912917
+            },
+            "user_id": 1050161966566715393,
+            "text_translation": ""
+        },
+        {
+            "id": 1384164664758595597,
+            "text": "jaywhatdoyouthink8 9 3950x 4 . 4 all core * 3060 ( from shuffle ) Strix x570 - e mo …",
+            "created_at": "2021-04-19 15:19:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4760898800823307,
+                "negativity": 0.5239101199176694
+            },
+            "user_id": 1375269567392518145,
+            "text_translation": ""
+        },
+        {
+            "id": 1384029794854084610,
+            "text": ": 🔥 Gaming Monitor 🔥 Model : G32QC Size : 32 \" Resolution : 1440p Curved Buy Here 👉 …",
+            "created_at": "2021-04-19 06:23:11",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Size"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9939376462160439,
+                "negativity": 0.006062353783956961
+            },
+            "user_id": 1182396132523151362,
+            "text_translation": ""
+        },
+        {
+            "id": 1383987007026647044,
+            "text": "The most budget friendly able to run v without lag The specs are : 3 …",
+            "created_at": "2021-04-19 03:33:10",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9402496258481959,
+                "negativity": 0.059750374151802794
+            },
+            "user_id": 1376417713002672128,
+            "text_translation": ""
+        }
+    ]
+}

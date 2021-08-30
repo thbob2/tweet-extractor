@@ -1,0 +1,46 @@
+{
+    "tweets": [
+        {
+            "id": 1430241097767337988,
+            "text": "Predator Triton 500 , 15 . 6 '', 2060 i5 Gaming electronics ad",
+            "created_at": "2021-08-24 18:50:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6562499999999998,
+                "negativity": 0.3437499999999998
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1430059296222588928,
+            "text": "SAVE $ 200 . 00 !!! Predator Triton 500 PT515 - 52 - 77P9 Gaming , Core i7 - 10750H , 2 …",
+            "created_at": "2021-08-24 06:48:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6787118706357972,
+                "negativity": 0.32128812936420437
+            },
+            "user_id": 1205537101,
+            "text_translation": ""
+        }
+    ]
+}

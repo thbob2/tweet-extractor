@@ -1,0 +1,125 @@
+{
+    "tweets": [
+        {
+            "id": 1429123283387969539,
+            "text": "SF313 - 53 Swift 3 ( 11th Gen Core i5 - 1135G7 / 8GB / 512GB / Iris X Graphics / 10 / …",
+            "created_at": "2021-08-21 16:48:37",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3225075528700907,
+                "negativity": 0.677492447129911
+            },
+            "user_id": 1423236352007499778,
+            "text_translation": ""
+        },
+        {
+            "id": 1429052684854693896,
+            "text": "Swift 3 Thin & ; Light …",
+            "created_at": "2021-08-21 12:08:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2732360709344739,
+                "negativity": 0.7267639290655262
+            },
+            "user_id": 1425904388007108609,
+            "text_translation": ""
+        },
+        {
+            "id": 1429005659580813317,
+            "text": "A thin , tough and light notebook that ’ s perfect for on the go . Get a look at the awesome Swift 3 on …",
+            "created_at": "2021-08-21 09:01:13",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7153948797326891,
+                "negativity": 0.2846051202673129
+            },
+            "user_id": 31654109,
+            "text_translation": ""
+        },
+        {
+            "id": 1428983845739802629,
+            "text": "Portable Swift 3 SF314 - 511 - 51KS GRIS Core i5 - 1135G7 8Go 256Go Iris Graphics 14 . 0 - M …",
+            "created_at": "2021-08-21 07:34:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7441853095886923,
+                "negativity": 0.2558146904113058
+            },
+            "user_id": 935088086941396992,
+            "text_translation": ""
+        },
+        {
+            "id": 1428983833278439426,
+            "text": "Portable Swift 3 SF314 - 511 - 37VF GRIS Core i3 - 1115G4 8Go 256Go ® Graphics 14 . 0 - Mate …",
+            "created_at": "2021-08-21 07:34:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2750708613460148,
+                "negativity": 0.7249291386539867
+            },
+            "user_id": 935088086941396992,
+            "text_translation": ""
+        },
+        {
+            "id": 1428880834942095365,
+            "text": "For Swift 3 SF314 - 57 14 - inch",
+            "created_at": "2021-08-21 00:45:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3147388302722418,
+                "negativity": 0.6852611697277582
+            },
+            "user_id": 1370301651245019143,
+            "text_translation": ""
+        }
+    ]
+}

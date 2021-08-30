@@ -1,0 +1,533 @@
+{
+    "tweets": [
+        {
+            "id": 1429934711384641554,
+            "text": "Great partner !",
+            "created_at": "2021-08-23 22:32:56",
+            "retweet_count": 0,
+            "favorite_count": 14,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48366243535496023,
+                "negativity": 0.5163375646450397
+            },
+            "user_id": 1210369402723389440,
+            "text_translation": ""
+        },
+        {
+            "id": 1429921974986420230,
+            "text": "Thanks for making this video . The more people see this , the better their wi …",
+            "created_at": "2021-08-23 21:42:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.580930819342801,
+                "negativity": 0.4190691806571982
+            },
+            "user_id": 732236977819504641,
+            "text_translation": ""
+        },
+        {
+            "id": 1429918902272802820,
+            "text": "black at So why …",
+            "created_at": "2021-08-23 21:30:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4225102766934956,
+                "negativity": 0.5774897233065046
+            },
+            "user_id": 901113633027084289,
+            "text_translation": ""
+        },
+        {
+            "id": 1429915241916284929,
+            "text": "all the right now in 1440p on my new 3070",
+            "created_at": "2021-08-23 21:15:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5903294134238216,
+                "negativity": 0.40967058657617833
+            },
+            "user_id": 292554848,
+            "text_translation": ""
+        },
+        {
+            "id": 1429914047214989322,
+            "text": "Sandbox",
+            "created_at": "2021-08-23 21:10:50",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 2581893817,
+            "text_translation": ""
+        },
+        {
+            "id": 1429901473475858432,
+            "text": "strategy",
+            "created_at": "2021-08-23 20:20:52",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5312500000000006,
+                "negativity": 0.4687499999999998
+            },
+            "user_id": 2646380065,
+            "text_translation": ""
+        },
+        {
+            "id": 1429898638516527104,
+            "text": "Soul for the fighter",
+            "created_at": "2021-08-23 20:09:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4947451536260204,
+                "negativity": 0.5052548463739799
+            },
+            "user_id": 4804100615,
+            "text_translation": ""
+        },
+        {
+            "id": 1429894826355478528,
+            "text": "Fighting for the eternal ?",
+            "created_at": "2021-08-23 19:54:27",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5276064536584704,
+                "negativity": 0.47239354634153014
+            },
+            "user_id": 146509573,
+            "text_translation": ""
+        },
+        {
+            "id": 1429893057009360899,
+            "text": "Fighting /",
+            "created_at": "2021-08-23 19:47:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48901098901098894,
+                "negativity": 0.5109890109890108
+            },
+            "user_id": 4804100615,
+            "text_translation": ""
+        },
+        {
+            "id": 1429886444248584195,
+            "text": "Which one are you ?",
+            "created_at": "2021-08-23 19:21:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5103890372708003,
+                "negativity": 0.48961096272919963
+            },
+            "user_id": 25425464,
+            "text_translation": ""
+        },
+        {
+            "id": 1429886219828277249,
+            "text": "3rd person action adventure",
+            "created_at": "2021-08-23 19:20:15",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9319190492871499,
+                "negativity": 0.06808095071285014
+            },
+            "user_id": 292554848,
+            "text_translation": ""
+        },
+        {
+            "id": 1429885123986706435,
+            "text": "Open world !",
+            "created_at": "2021-08-23 19:15:54",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6292624771361381,
+                "negativity": 0.3707375228638621
+            },
+            "user_id": 768851052967948289,
+            "text_translation": ""
+        },
+        {
+            "id": 1429881123799248896,
+            "text": "' s a genre ' t it ?",
+            "created_at": "2021-08-23 19:00:00",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5595238095238096,
+                "negativity": 0.4404761904761903
+            },
+            "user_id": 1419693182590373895,
+            "text_translation": ""
+        },
+        {
+            "id": 1429880091501219843,
+            "text": "What gaming genre have you been most in ? Gaming",
+            "created_at": "2021-08-23 18:55:54",
+            "retweet_count": 3,
+            "favorite_count": 8,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8590185757433397,
+                "negativity": 0.14098142425666021
+            },
+            "user_id": 25425464,
+            "text_translation": ""
+        },
+        {
+            "id": 1429791940342603789,
+            "text": "Here we flash and configure the BIOS then Install 10 and all the on the X570 Ace …",
+            "created_at": "2021-08-23 13:05:37",
+            "retweet_count": 2,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11352109480927271,
+                "negativity": 0.8864789051907279
+            },
+            "user_id": 942122024851464192,
+            "text_translation": ""
+        },
+        {
+            "id": 1429791659177299968,
+            "text": "have a C & ; D department instead of an R & ; D department .",
+            "created_at": "2021-08-23 13:04:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4639712857440899,
+                "negativity": 0.5360287142559098
+            },
+            "user_id": 1155664405440299010,
+            "text_translation": ""
+        },
+        {
+            "id": 1429782979103141896,
+            "text": "Your next cooler ... maybe ? 😉 :",
+            "created_at": "2021-08-23 12:30:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3661331211802717,
+                "negativity": 0.6338668788197281
+            },
+            "user_id": 1252981059647651841,
+            "text_translation": ""
+        },
+        {
+            "id": 1429776521518993414,
+            "text": "🔺 Our computer ' s needs proper cooling for better performance and durability . Here are the most purchase - w …",
+            "created_at": "2021-08-23 12:04:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Durability"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7922692210207989,
+                "negativity": 0.20773077897920295
+            },
+            "user_id": 747288355,
+            "text_translation": ""
+        },
+        {
+            "id": 1429766199236202498,
+            "text": "Gold G6400 B460M Pro4 TEAM DDR4 2666Mhz 8GB Crucial 500GB M . 2 Smart 350W H17",
+            "created_at": "2021-08-23 11:23:20",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6487201512368229,
+                "negativity": 0.3512798487631782
+            },
+            "user_id": 1198557632673415168,
+            "text_translation": ""
+        },
+        {
+            "id": 1429760156791828488,
+            "text": ": We ’ re to announce that ’ s Hardware really our brand new TF1 1550W Titanium built to tar …",
+            "created_at": "2021-08-23 10:59:19",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8699391969330031,
+                "negativity": 0.1300608030669958
+            },
+            "user_id": 1236243385171603456,
+            "text_translation": ""
+        },
+        {
+            "id": 1429759824141590532,
+            "text": ": Check out this awesome gaming station setup with our brand new mid - tower case – Divider 500 Snow . Learn more :…",
+            "created_at": "2021-08-23 10:58:00",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9939337860358618,
+                "negativity": 0.006066213964137606
+            },
+            "user_id": 1236243385171603456,
+            "text_translation": ""
+        },
+        {
+            "id": 1429736693620477954,
+            "text": "I am a bit behind with customs and the case a few days before my holiday last week . Now time to catch up g …",
+            "created_at": "2021-08-23 09:26:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8279343017731617,
+                "negativity": 0.1720656982268374
+            },
+            "user_id": 42432141,
+            "text_translation": ""
+        },
+        {
+            "id": 1429722580429144068,
+            "text": "Check out this awesome gaming station setup with our brand new mid - tower case – Divider 500 Snow . Learn mo …",
+            "created_at": "2021-08-23 08:30:00",
+            "retweet_count": 1,
+            "favorite_count": 8,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9936569380545467,
+                "negativity": 0.006343061945453117
+            },
+            "user_id": 270426164,
+            "text_translation": ""
+        },
+        {
+            "id": 1429670933283889153,
+            "text": "Plus 14 Premium Edition 140mm Circular 12 Controllable LED Ring Case / …",
+            "created_at": "2021-08-23 05:04:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9688098486167468,
+                "negativity": 0.031190151383253487
+            },
+            "user_id": 173961531,
+            "text_translation": ""
+        },
+        {
+            "id": 1429665169181925377,
+            "text": "Z - One memory up to 4600",
+            "created_at": "2021-08-23 04:41:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6244686213160119,
+                "negativity": 0.3755313786839878
+            },
+            "user_id": 864176836011581441,
+            "text_translation": ""
+        },
+        {
+            "id": 1429639534288031744,
+            "text": "We ’ re to announce that ’ s Hardware really our brand new TF1 1550W Titanium built to …",
+            "created_at": "2021-08-23 03:00:01",
+            "retweet_count": 3,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8699391969330031,
+                "negativity": 0.1300608030669958
+            },
+            "user_id": 270426164,
+            "text_translation": ""
+        },
+        {
+            "id": 1429617306620112901,
+            "text": "K6 - 2 450 was my first . to 500 and a Golden Orb .",
+            "created_at": "2021-08-23 01:31:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8013615047708809,
+                "negativity": 0.19863849522911922
+            },
+            "user_id": 786389921611194369,
+            "text_translation": ""
+        }
+    ]
+}

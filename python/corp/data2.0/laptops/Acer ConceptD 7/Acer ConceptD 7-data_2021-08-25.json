@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1430620435088031750,
+            "text": "Just bought this bad boy ! 7 by & ; can ' t wait to create with it ! :) Bought with N …",
+            "created_at": "2021-08-25 19:57:46",
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4335238248076812,
+                "negativity": 0.5664761751923193
+            },
+            "user_id": 1192662766194180101,
+            "text_translation": ""
+        },
+        {
+            "id": 1430586508663312390,
+            "text": "Working with can be very difficult . I really the power that the ConceptD7pro from …",
+            "created_at": "2021-08-25 17:42:57",
+            "retweet_count": 1,
+            "favorite_count": 12,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.711379368846832,
+                "negativity": 0.2886206311531679
+            },
+            "user_id": 2982222845,
+            "text_translation": ""
+        },
+        {
+            "id": 1430409984530124800,
+            "text": "may launch multiple and 4K smart in 7 Pro -",
+            "created_at": "2021-08-25 06:01:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8227750394492788,
+                "negativity": 0.17722496055072173
+            },
+            "user_id": 939619788694966272,
+            "text_translation": ""
+        }
+    ]
+}

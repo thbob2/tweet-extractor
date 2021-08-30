@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1415722786623041536,
+            "text": "Ad : Spin 311 CP311 - 3H - K3WL Convertible for $ 173 . 92",
+            "created_at": "2021-07-15 17:19:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49009881679885575,
+                "negativity": 0.5099011832011443
+            },
+            "user_id": 883436749044809728,
+            "text_translation": ""
+        },
+        {
+            "id": 1415547429970227202,
+            "text": "Spin 311 , CP311 - 2H - C7QD 4GB , 64GB , Silver All New : : 193199965349 : 70 Price :$ 3 …",
+            "created_at": "2021-07-15 05:43:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7145484977745925,
+                "negativity": 0.28545150222540844
+            },
+            "user_id": 1127439008596840448,
+            "text_translation": ""
+        },
+        {
+            "id": 1415547272683737093,
+            "text": "Spin 311 , CP311 - 2H - C008 N4000 , 4GB , 64GB , with mouse All New : : 193199743992 : 75 Price …",
+            "created_at": "2021-07-15 05:42:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.708973344432025,
+                "negativity": 0.2910266555679748
+            },
+            "user_id": 1127439008596840448,
+            "text_translation": ""
+        },
+        {
+            "id": 1415545987809021952,
+            "text": "Spin 311 , CP311 - 2H - C008 N4000 , 4GB , 64GB , with mouse All New : : 193199743992 Q …",
+            "created_at": "2021-07-15 05:37:17",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6411245010359593,
+                "negativity": 0.35887549896404114
+            },
+            "user_id": 1127439008596840448,
+            "text_translation": ""
+        }
+    ]
+}

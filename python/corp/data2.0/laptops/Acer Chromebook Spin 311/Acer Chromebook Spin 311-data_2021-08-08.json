@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1424504480314191873,
+            "text": "Our Latest Segment from Fox 11 , We Share the Spin 311 and 18 . 5 …",
+            "created_at": "2021-08-08 22:55:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7841760239805867,
+                "negativity": 0.21582397601941455
+            },
+            "user_id": 7330692,
+            "text_translation": ""
+        },
+        {
+            "id": 1424489014187511812,
+            "text": "News8Plus Recommendation – Spin 311 Convertible , N4020 , 11 . 6 ″ Touch , 4GB …",
+            "created_at": "2021-08-08 21:53:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5010911333554717,
+                "negativity": 0.4989088666445273
+            },
+            "user_id": 1216824204013654016,
+            "text_translation": ""
+        }
+    ]
+}

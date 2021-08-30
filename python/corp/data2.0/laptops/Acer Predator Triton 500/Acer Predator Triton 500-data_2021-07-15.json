@@ -1,0 +1,46 @@
+{
+    "tweets": [
+        {
+            "id": 1415691834899189760,
+            "text": ": [ United Kingdom ] for Predator Triton 500 Pt515 - 52 - 73L3 Gaming , i7 - 10750 …",
+            "created_at": "2021-07-15 15:16:50",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9648703694429156,
+                "negativity": 0.03512963055708589
+            },
+            "user_id": 954367858808680448,
+            "text_translation": ""
+        },
+        {
+            "id": 1415691652254117895,
+            "text": "[ United Kingdom ] for Predator Triton 500 Pt515 - 52 - 73L3 Gaming , i7 -…",
+            "created_at": "2021-07-15 15:16:06",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9648703694429156,
+                "negativity": 0.03512963055708589
+            },
+            "user_id": 913709582526111744,
+            "text_translation": ""
+        }
+    ]
+}

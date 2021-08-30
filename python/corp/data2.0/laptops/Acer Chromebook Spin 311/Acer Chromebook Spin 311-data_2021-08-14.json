@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1426589493616852994,
+            "text": "Win an Spin 311",
+            "created_at": "2021-08-14 17:00:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5513892303909512,
+                "negativity": 0.44861076960904817
+            },
+            "user_id": 82451412,
+            "text_translation": ""
+        },
+        {
+            "id": 1426528259425062914,
+            "text": "Contest : & ; ;& ; ; Spin 311 Giveaway & ; ;& ; ;",
+            "created_at": "2021-08-14 12:56:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.14125984251968499,
+                "negativity": 0.8587401574803145
+            },
+            "user_id": 393458107,
+            "text_translation": ""
+        }
+    ]
+}

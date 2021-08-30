@@ -1,0 +1,105 @@
+{
+    "tweets": [
+        {
+            "id": 1421934472656834561,
+            "text": "Gta5 NERVOUS Mission Rog gaming A15 on",
+            "created_at": "2021-08-01 20:42:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8894613097296176,
+                "negativity": 0.11053869027038234
+            },
+            "user_id": 46431871,
+            "text_translation": ""
+        },
+        {
+            "id": 1421824083445043200,
+            "text": "A15 Gaming and Entertainment ( 7 4800H 8 - Core , 16GB RAM , 512GB , 1650 Ti , 15 . 6 …",
+            "created_at": "2021-08-01 13:24:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5585800301053686,
+                "negativity": 0.44141996989463045
+            },
+            "user_id": 2355175141,
+            "text_translation": ""
+        },
+        {
+            "id": 1421766361391386627,
+            "text": "13 + A15 4800H + Clip Studio Paint Ex",
+            "created_at": "2021-08-01 09:34:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2780127582859521,
+                "negativity": 0.7219872417140478
+            },
+            "user_id": 1161459793665466368,
+            "text_translation": ""
+        },
+        {
+            "id": 1421675627795517440,
+            "text": "Then how i can build my a15 ?",
+            "created_at": "2021-08-01 03:34:17",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5468310416120051,
+                "negativity": 0.45316895838799476
+            },
+            "user_id": 1048807630473330688,
+            "text_translation": ""
+        },
+        {
+            "id": 1421660682332762116,
+            "text": "Can i build or buy a or a15 without mac os and 10 with it",
+            "created_at": "2021-08-01 02:34:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "OS",
+                "Mac OS"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6263529994644701,
+                "negativity": 0.37364700053552924
+            },
+            "user_id": 1048807630473330688,
+            "text_translation": ""
+        }
+    ]
+}

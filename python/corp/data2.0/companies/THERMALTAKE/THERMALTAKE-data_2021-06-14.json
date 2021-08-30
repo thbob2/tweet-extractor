@@ -1,0 +1,23 @@
+{
+    "tweets": [
+        {
+            "id": 1404292539180486657,
+            "text": "Core p8",
+            "created_at": "2021-06-14 04:20:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4692307692307691,
+                "negativity": 0.5307692307692309
+            },
+            "user_id": 1335743314650308610,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tweets": [
+        {
+            "id": 1414353442999521285,
+            "text": "Ad : Spin 5 SP513 - 54N - 74V2 – Flip design – Core i7 1065G7 $ 779 . 99 + free shipping .",
+            "created_at": "2021-07-11 22:38:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22765263706156783,
+                "negativity": 0.7723473629384333
+            },
+            "user_id": 883436749044809728,
+            "text_translation": ""
+        },
+        {
+            "id": 1414230173982072833,
+            "text": "Spin 713 13 . 5 \" 2K Touch Screen | 10th Generation Core i5 - 10210U | 8GB RAM | 128GB S …",
+            "created_at": "2021-07-11 14:28:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05487303998347629,
+                "negativity": 0.9451269600165211
+            },
+            "user_id": 4345829474,
+            "text_translation": ""
+        }
+    ]
+}

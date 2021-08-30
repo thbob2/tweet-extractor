@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1357116612063752199,
+            "text": ": That from so nice i love it 🐉😍 💧 Follow us for more content 💧 in …",
+            "created_at": "2021-02-03 23:59:48",
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7266275794044109,
+                "negativity": 0.2733724205955882
+            },
+            "user_id": 633176964,
+            "text_translation": ""
+        },
+        {
+            "id": 1357075665464381442,
+            "text": ": Ask the : Can I install three 3090 on ' s X570 Extreme / Master ?",
+            "created_at": "2021-02-03 21:17:06",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7984850939769083,
+                "negativity": 0.20151490602309202
+            },
+            "user_id": 1109602069,
+            "text_translation": ""
+        },
+        {
+            "id": 1356757402515886084,
+            "text": "really robbing me with this ' ' package 😡",
+            "created_at": "2021-02-03 00:12:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29749296649149104,
+                "negativity": 0.7025070335085086
+            },
+            "user_id": 266754383,
+            "text_translation": ""
+        }
+    ]
+}

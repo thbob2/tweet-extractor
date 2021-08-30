@@ -1,0 +1,48 @@
+{
+    "tweets": [
+        {
+            "id": 1427769340665925634,
+            "text": "Razer Book 13 : Core i7 - 1165G7 4 Core , Iris , 13 . 4 ″ + Touch ( 3840 x 2100 ), 16GB RAM , 512GB P …",
+            "created_at": "2021-08-17 23:08:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6624829058663549,
+                "negativity": 0.33751709413364406
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        },
+        {
+            "id": 1427442337966350339,
+            "text": "Razer Book 13 13 . 4 - inch 4K Touch w / Core i7 , 512GB for $ 1699 . 00 ⭐ …",
+            "created_at": "2021-08-17 01:29:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6260623640615463,
+                "negativity": 0.37393763593845436
+            },
+            "user_id": 1355547360085073921,
+            "text_translation": ""
+        }
+    ]
+}

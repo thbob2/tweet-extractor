@@ -1,0 +1,84 @@
+{
+    "tweets": [
+        {
+            "id": 1424835466092818438,
+            "text": "is fine when being idle but as soon as I start to do work it ’ s being a pain in the medulla 😴 …",
+            "created_at": "2021-08-09 20:50:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8318918620312856,
+                "negativity": 0.16810813796871532
+            },
+            "user_id": 386079159,
+            "text_translation": ""
+        },
+        {
+            "id": 1424706258830036997,
+            "text": "Razer Blade Pro 17 : Core i7 - 10875H 8 - Core , 2080 SUPER - Q , 17 . 3 ″ 300Hz , 16GB RAM , 512GB …",
+            "created_at": "2021-08-09 12:16:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13669654569304746,
+                "negativity": 0.8633034543069524
+            },
+            "user_id": 1391085080299376641,
+            "text_translation": ""
+        },
+        {
+            "id": 1424600912824307716,
+            "text": "Price : ( as of - ) Brace yourself for the Razer Blade Pro 17 — the ultimate mobile that …",
+            "created_at": "2021-08-09 05:18:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7469750579231328,
+                "negativity": 0.2530249420768651
+            },
+            "user_id": 805418410435756033,
+            "text_translation": ""
+        },
+        {
+            "id": 1424565990642180101,
+            "text": "Also , * HUGE * to for the beast Razer Blade Pro 17 ” that carried the live stream for the last …",
+            "created_at": "2021-08-09 02:59:33",
+            "retweet_count": 0,
+            "favorite_count": 34,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4949020057681442,
+                "negativity": 0.5050979942318575
+            },
+            "user_id": 762522504,
+            "text_translation": ""
+        }
+    ]
+}

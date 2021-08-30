@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1374810336847491073,
+            "text": "burp",
+            "created_at": "2021-03-24 19:48:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 60829268,
+            "text_translation": ""
+        },
+        {
+            "id": 1374709497248296963,
+            "text": "This system amazing ! That said , if I win , the will go directly to Tech …",
+            "created_at": "2021-03-24 13:07:39",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7664075493252941,
+                "negativity": 0.2335924506747054
+            },
+            "user_id": 216087215,
+            "text_translation": ""
+        },
+        {
+            "id": 1374642409649364992,
+            "text": ": stock : la 6700 EAGLE en stock",
+            "created_at": "2021-03-24 08:41:04",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2700000000000002,
+                "negativity": 0.7299999999999999
+            },
+            "user_id": 2593265233,
+            "text_translation": ""
+        },
+        {
+            "id": 1374555969317928960,
+            "text": ": Turn on Boost and get significantly higher during combat and intense , now available in even more game …",
+            "created_at": "2021-03-24 02:57:35",
+            "retweet_count": 24,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9771494191879605,
+                "negativity": 0.022850580812039018
+            },
+            "user_id": 935145682129764352,
+            "text_translation": ""
+        }
+    ]
+}

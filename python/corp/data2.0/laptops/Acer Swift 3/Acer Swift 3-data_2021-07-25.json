@@ -1,0 +1,123 @@
+{
+    "tweets": [
+        {
+            "id": 1419329602493763586,
+            "text": ": Spin e Swift chips Tiger Lake e 5000",
+            "created_at": "2021-07-25 16:12:01",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42564053693467935,
+                "negativity": 0.5743594630653204
+            },
+            "user_id": 174725344,
+            "text_translation": ""
+        },
+        {
+            "id": 1419326838577324036,
+            "text": "Spin e Swift chips Tiger Lake e 5000",
+            "created_at": "2021-07-25 16:01:02",
+            "retweet_count": 1,
+            "favorite_count": 21,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42564053693467935,
+                "negativity": 0.5743594630653204
+            },
+            "user_id": 554182536,
+            "text_translation": ""
+        },
+        {
+            "id": 1419284303402336270,
+            "text": "I am in a dilemma to choose swift 3 r7 5700u 14 \" ( 16gb ram + 1tb ) or pavilion aero 3 r5 5500u 13 \" ( 16gb …",
+            "created_at": "2021-07-25 13:12:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.0941057656995964,
+                "negativity": 0.905894234300404
+            },
+            "user_id": 1229055107783806977,
+            "text_translation": ""
+        },
+        {
+            "id": 1419197016702439427,
+            "text": "I finally got my decent Swift 3 Core i5 today for acting school and still the batter …",
+            "created_at": "2021-07-25 07:25:10",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2040862025578476,
+                "negativity": 0.7959137974421523
+            },
+            "user_id": 1157502812617658368,
+            "text_translation": ""
+        },
+        {
+            "id": 1419169446384574465,
+            "text": "My swift 3 a 180 - degree hinge but no touch input . My wife ' s a but no 180 - degree hinge .",
+            "created_at": "2021-07-25 05:35:37",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9194187220626918,
+                "negativity": 0.08058127793730811
+            },
+            "user_id": 451238618,
+            "text_translation": ""
+        },
+        {
+            "id": 1419129682411151372,
+            "text": "See amazing ' Swift 3 Thin & ; Light , 14 \" Full , 7 4700U - Core with Rad …",
+            "created_at": "2021-07-25 02:57:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3918467565027913,
+                "negativity": 0.6081532434972087
+            },
+            "user_id": 1090498878938406913,
+            "text_translation": ""
+        }
+    ]
+}

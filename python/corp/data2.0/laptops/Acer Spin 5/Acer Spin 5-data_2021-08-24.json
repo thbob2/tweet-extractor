@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1430220128134778882,
+            "text": "Why not have both !? Our Spin5 is a but also a 2 - in - 1 tablet . It an i7 …",
+            "created_at": "2021-08-24 17:27:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3119935038307292,
+                "negativity": 0.6880064961692706
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1430078766877790217,
+            "text": "have u ever had to sell ur of 3 away 😭😭😭 3 !!! been with u all the blood sweat …",
+            "created_at": "2021-08-24 08:05:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2041908649405927,
+                "negativity": 0.7958091350594074
+            },
+            "user_id": 1370995792484331523,
+            "text_translation": ""
+        }
+    ]
+}

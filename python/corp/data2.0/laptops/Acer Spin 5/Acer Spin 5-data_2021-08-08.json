@@ -1,0 +1,47 @@
+{
+    "tweets": [
+        {
+            "id": 1424236865889050632,
+            "text": "Buy \" Spin 713 13 . 5 - inch 2K | 10th Gen Cor …",
+            "created_at": "2021-08-08 05:11:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3240132652160398,
+                "negativity": 0.6759867347839598
+            },
+            "user_id": 1090498878938406913,
+            "text_translation": ""
+        },
+        {
+            "id": 1424225813440856072,
+            "text": "i5 , 8GB RAM , 512GB Storage , with graphics and Office 2019 . Plus , ! Not bad for the price !…",
+            "created_at": "2021-08-08 04:27:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB",
+                "Storage"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13512819750815205,
+                "negativity": 0.8648718024918463
+            },
+            "user_id": 2911018602,
+            "text_translation": ""
+        }
+    ]
+}

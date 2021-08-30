@@ -1,0 +1,120 @@
+{
+    "tweets": [
+        {
+            "id": 1419681198637391872,
+            "text": "Time we will show whose economy is bleak to china , now bran …",
+            "created_at": "2021-07-26 15:29:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3279084768746943,
+                "negativity": 0.6720915231253057
+            },
+            "user_id": 881604271,
+            "text_translation": ""
+        },
+        {
+            "id": 1419674696715575301,
+            "text": "every phone is better value than yours",
+            "created_at": "2021-07-26 15:03:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1924496820369951,
+                "negativity": 0.8075503179630048
+            },
+            "user_id": 1272136529104850944,
+            "text_translation": ""
+        },
+        {
+            "id": 1419673787675643904,
+            "text": ": are the only which are by for them . I think is the biggest …",
+            "created_at": "2021-07-26 14:59:41",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.44212704154847793,
+                "negativity": 0.557872958451522
+            },
+            "user_id": 1152236218563923969,
+            "text_translation": ""
+        },
+        {
+            "id": 1419656330952990725,
+            "text": "Only about 30 % speed on with my new phone . Have checked multiple as well",
+            "created_at": "2021-07-26 13:50:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speed"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.31925172732733675,
+                "negativity": 0.6807482726726638
+            },
+            "user_id": 1311777013523525632,
+            "text_translation": ""
+        },
+        {
+            "id": 1419650346108944386,
+            "text": "Best Upcoming in August 2021 ( ) | , Poco , , , , , …",
+            "created_at": "2021-07-26 13:26:32",
+            "retweet_count": 0,
+            "favorite_count": 14,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4864637949350602,
+                "negativity": 0.5135362050649396
+            },
+            "user_id": 1212992301795950592,
+            "text_translation": ""
+        },
+        {
+            "id": 1419533248862978050,
+            "text": "are the only which are by for them . I think is the …",
+            "created_at": "2021-07-26 05:41:14",
+            "retweet_count": 1,
+            "favorite_count": 38,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4638415586896497,
+                "negativity": 0.5361584413103506
+            },
+            "user_id": 1397026277974974466,
+            "text_translation": ""
+        }
+    ]
+}

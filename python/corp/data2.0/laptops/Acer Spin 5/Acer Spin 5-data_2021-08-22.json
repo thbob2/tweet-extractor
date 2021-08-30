@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1429565805033771011,
+            "text": "Spin 13 . 5 \" with 8GB RAM , 128GB ( Ref ) - $ 408 . 49",
+            "created_at": "2021-08-22 22:07:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1609438523239202,
+                "negativity": 0.8390561476760809
+            },
+            "user_id": 19513703,
+            "text_translation": ""
+        }
+    ]
+}

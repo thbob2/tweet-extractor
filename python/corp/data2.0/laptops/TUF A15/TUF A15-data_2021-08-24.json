@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1430189332279611392,
+            "text": "My Ecosystem Phone : S21plus Watch : 2 Titanium Tablet : Nope Earphone : Pro : A15",
+            "created_at": "2021-08-24 15:24:43",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.32791307028360167,
+                "negativity": 0.6720869297163982
+            },
+            "user_id": 991285057049444353,
+            "text_translation": ""
+        },
+        {
+            "id": 1430101065668567041,
+            "text": "Call of Duty WW2 , I know it ' s just late to discuss but the Game is epically even at …",
+            "created_at": "2021-08-24 09:33:58",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8675878311006752,
+                "negativity": 0.1324121688993227
+            },
+            "user_id": 524503119,
+            "text_translation": ""
+        },
+        {
+            "id": 1430007482265395203,
+            "text": "4a Black shark 2 20000Mah A15 Shadow blade keyboard . Master 3 Two 16w …",
+            "created_at": "2021-08-24 03:22:06",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42760109916540084,
+                "negativity": 0.5723989008346009
+            },
+            "user_id": 787123592668581889,
+            "text_translation": ""
+        }
+    ]
+}

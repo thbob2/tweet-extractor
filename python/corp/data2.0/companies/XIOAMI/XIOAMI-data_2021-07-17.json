@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1416386192027774977,
+            "text": "I can also cast my phone ' s screen to the monitor . I can do voice . I can and install …",
+            "created_at": "2021-07-17 13:15:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9559611138060635,
+                "negativity": 0.04403888619393605
+            },
+            "user_id": 59401233,
+            "text_translation": ""
+        },
+        {
+            "id": 1416331402606428160,
+            "text": "It ' s a present for my default gallery",
+            "created_at": "2021-07-17 09:38:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.32180206881322687,
+                "negativity": 0.6781979311867719
+            },
+            "user_id": 1408138916855750658,
+            "text_translation": ""
+        },
+        {
+            "id": 1416321032659603456,
+            "text": "Thanks , you just me make my Was thinking of A …",
+            "created_at": "2021-07-17 08:57:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4725555475122485,
+                "negativity": 0.5274444524877514
+            },
+            "user_id": 485042711,
+            "text_translation": ""
+        }
+    ]
+}

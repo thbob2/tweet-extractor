@@ -1,0 +1,139 @@
+{
+    "tweets": [
+        {
+            "id": 1382841548275126276,
+            "text": "Trying to find something better to boot my new build with than my 11 year old 5850 toxic !",
+            "created_at": "2021-04-15 23:41:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6311370878774784,
+                "negativity": 0.36886291212252265
+            },
+            "user_id": 393571614,
+            "text_translation": ""
+        },
+        {
+            "id": 1382774345760575488,
+            "text": "This is advertisement to …",
+            "created_at": "2021-04-15 19:14:29",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4957828149710068,
+                "negativity": 0.5042171850289934
+            },
+            "user_id": 1163973944698785792,
+            "text_translation": ""
+        },
+        {
+            "id": 1382748237749051397,
+            "text": "Good to know ! I need for work so I might sit the one out",
+            "created_at": "2021-04-15 17:30:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3267525055207828,
+                "negativity": 0.673247494479217
+            },
+            "user_id": 4153286832,
+            "text_translation": ""
+        },
+        {
+            "id": 1382684527089291267,
+            "text": "New stock alert : 6700 12GB is back at for £ 849 . 99 . Check it out …",
+            "created_at": "2021-04-15 13:17:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2261726898805471,
+                "negativity": 0.7738273101194539
+            },
+            "user_id": 1363266858053472256,
+            "text_translation": ""
+        },
+        {
+            "id": 1382647147783462912,
+            "text": "[ ] 6900 Formula Graphics Card",
+            "created_at": "2021-04-15 10:49:03",
+            "retweet_count": 2,
+            "favorite_count": 8,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.283475219428496,
+                "negativity": 0.7165247805715044
+            },
+            "user_id": 43511839,
+            "text_translation": ""
+        },
+        {
+            "id": 1382614680758272001,
+            "text": "ReLive : An Awesome Alternative ! ReLive is an awesome bit of kit that you to record high …",
+            "created_at": "2021-04-15 08:40:02",
+            "retweet_count": 3,
+            "favorite_count": 29,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9151543916068352,
+                "negativity": 0.08484560839316356
+            },
+            "user_id": 43221280,
+            "text_translation": ""
+        },
+        {
+            "id": 1382514444324855815,
+            "text": "US Same here . My 5700 had a vendetta against my specific . …",
+            "created_at": "2021-04-15 02:01:44",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19832465100079213,
+                "negativity": 0.8016753489992082
+            },
+            "user_id": 4507222221,
+            "text_translation": ""
+        }
+    ]
+}

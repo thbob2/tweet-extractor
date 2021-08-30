@@ -1,0 +1,83 @@
+{
+    "tweets": [
+        {
+            "id": 1413521160151740417,
+            "text": "2021 Spin 3 + Spin 5 : What You Need To Know !",
+            "created_at": "2021-07-09 15:31:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41533598192884863,
+                "negativity": 0.5846640180711509
+            },
+            "user_id": 3468286633,
+            "text_translation": ""
+        },
+        {
+            "id": 1413475846510104577,
+            "text": "( Spin 5 SP513 - 52N - 58WW , 13 . 3 \" Full Touch , 8th Gen Core i5 - 8250U , , 8GB DDR4 , 256G …",
+            "created_at": "2021-07-09 12:31:17",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5118894500737189,
+                "negativity": 0.4881105499262787
+            },
+            "user_id": 78649197,
+            "text_translation": ""
+        },
+        {
+            "id": 1413426120729382915,
+            "text": ": The Nitro 5 Spin Casual Gaming The Nitro 5 Spin sports an impressive 8th generation …",
+            "created_at": "2021-07-09 09:13:42",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15218167649346273,
+                "negativity": 0.8478183235065386
+            },
+            "user_id": 934130281,
+            "text_translation": ""
+        },
+        {
+            "id": 1413399083243483140,
+            "text": "I ' not used the C640 . nice though . I normally go for 2 - in - 1 that support a st …",
+            "created_at": "2021-07-09 07:26:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7372317729353091,
+                "negativity": 0.26276822706469133
+            },
+            "user_id": 1085834728228442112,
+            "text_translation": ""
+        }
+    ]
+}

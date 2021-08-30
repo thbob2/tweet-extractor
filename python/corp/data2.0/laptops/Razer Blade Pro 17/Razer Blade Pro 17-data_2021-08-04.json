@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1422937129366085633,
+            "text": "up my Razer Blade Pro 17 and Pro 12 . 9 with some to avoid .",
+            "created_at": "2021-08-04 15:07:03",
+            "retweet_count": 0,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5443623999418256,
+                "negativity": 0.4556376000581732
+            },
+            "user_id": 254407014,
+            "text_translation": ""
+        },
+        {
+            "id": 1422882160818667521,
+            "text": "Razer Blade Pro 17 2020",
+            "created_at": "2021-08-04 11:28:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16887535816618918,
+                "negativity": 0.8311246418338113
+            },
+            "user_id": 346530368,
+            "text_translation": ""
+        }
+    ]
+}

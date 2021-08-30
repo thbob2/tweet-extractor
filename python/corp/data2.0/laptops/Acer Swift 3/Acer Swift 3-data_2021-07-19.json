@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1417220472006135817,
+            "text": "Hey ! If you ' re looking to save money , but also get exactly what you need for school , Apple ' s 13 \" …",
+            "created_at": "2021-07-19 20:31:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34268780006406624,
+                "negativity": 0.657312199935933
+            },
+            "user_id": 239434259,
+            "text_translation": ""
+        },
+        {
+            "id": 1417192475827982358,
+            "text": "swift 3 cutie",
+            "created_at": "2021-07-19 18:39:51",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11363636363636366,
+                "negativity": 0.8863636363636349
+            },
+            "user_id": 1416041434117931008,
+            "text_translation": ""
+        },
+        {
+            "id": 1417073274819911681,
+            "text": "The best weekend tech on , Wi - Fi , and more - The Verge …",
+            "created_at": "2021-07-19 10:46:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.68735497965066,
+                "negativity": 0.3126450203493396
+            },
+            "user_id": 1219588424388239360,
+            "text_translation": ""
+        }
+    ]
+}

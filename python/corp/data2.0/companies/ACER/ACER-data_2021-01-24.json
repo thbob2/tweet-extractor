@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1353483146340298758,
+            "text": ": HOW BOUT THAT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!…",
+            "created_at": "2021-01-24 23:21:43",
+            "retweet_count": 2433,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48431313341218457,
+                "negativity": 0.515686866587815
+            },
+            "user_id": 3305964621,
+            "text_translation": ""
+        },
+        {
+            "id": 1353327930768842753,
+            "text": "[ of ‘ D ’ 005 : D - Cycle A font you can this – ‘ D - Cycle ’, the typography for …",
+            "created_at": "2021-01-24 13:04:56",
+            "retweet_count": 0,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8698431283029154,
+                "negativity": 0.1301568716970833
+            },
+            "user_id": 494190705,
+            "text_translation": ""
+        },
+        {
+            "id": 1353203364440506368,
+            "text": "And boom , she is now diabetic and out of a coffee maker .",
+            "created_at": "2021-01-24 04:49:58",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07105446543571885,
+                "negativity": 0.9289455345642808
+            },
+            "user_id": 1117130971,
+            "text_translation": ""
+        }
+    ]
+}

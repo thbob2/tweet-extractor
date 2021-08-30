@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1419801976078962694,
+            "text": "Buy amazing ' Battery for Dell , 4GVGH Battery Compatible with Dell 15 9550 15 - 9550 P …",
+            "created_at": "2021-07-26 23:29:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34845836651427803,
+                "negativity": 0.6515416334857241
+            },
+            "user_id": 1090498878938406913,
+            "text_translation": ""
+        },
+        {
+            "id": 1419720757404323866,
+            "text": "Dell charger 130W 6TTY6 15 9530 , 9343 , 9550 , 9560 , 9570 Precision M3800 £ 63 . 99",
+            "created_at": "2021-07-26 18:06:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.833333333333334,
+                "negativity": 0.16666666666666646
+            },
+            "user_id": 95885979,
+            "text_translation": ""
+        }
+    ]
+}

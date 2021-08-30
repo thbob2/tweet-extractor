@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1413077906939682818,
+            "text": "for the Rocket ( Lake ) – G . Skill V DDR4 - 5066 CL20 2x 8 - Kit Test …",
+            "created_at": "2021-07-08 10:10:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.577984678038811,
+                "negativity": 0.4220153219611888
+            },
+            "user_id": 3751794915,
+            "text_translation": ""
+        },
+        {
+            "id": 1413070948992000001,
+            "text": ": Together We twitch streamer gaming valor …",
+            "created_at": "2021-07-08 09:42:22",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9704288219352785,
+                "negativity": 0.02957117806472178
+            },
+            "user_id": 768899024036462593,
+            "text_translation": ""
+        },
+        {
+            "id": 1412985412973338629,
+            "text": "i had a look and out of the two up to 4266 but not sure if the …",
+            "created_at": "2021-07-08 04:02:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4534122258032912,
+                "negativity": 0.5465877741967088
+            },
+            "user_id": 775568829506125824,
+            "text_translation": ""
+        },
+        {
+            "id": 1412966821196619780,
+            "text": "5 2600 2060 super DDR4 3200 RAM Couple and a",
+            "created_at": "2021-07-08 02:48:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11565843794759448,
+                "negativity": 0.8843415620524051
+            },
+            "user_id": 1107458921038602240,
+            "text_translation": ""
+        },
+        {
+            "id": 1412961659799457794,
+            "text": "Together We twitch streamer gaming …",
+            "created_at": "2021-07-08 02:28:05",
+            "retweet_count": 4,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9162402167369063,
+                "negativity": 0.08375978326309454
+            },
+            "user_id": 1277439587040686080,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1417214100011094017,
+            "text": "Camera ( ) 7 . 4 for Mi 11 / Mi 11 Ultra",
+            "created_at": "2021-07-19 20:05:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47632842305337986,
+                "negativity": 0.5236715769466206
+            },
+            "user_id": 232850875,
+            "text_translation": ""
+        },
+        {
+            "id": 1417160860926189579,
+            "text": "its a activity tracker !",
+            "created_at": "2021-07-19 16:34:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7247746851277976,
+                "negativity": 0.2752253148722033
+            },
+            "user_id": 1284178649474838533,
+            "text_translation": ""
+        },
+        {
+            "id": 1417160053266653189,
+            "text": "mi surface 34 , around 1 . 7k",
+            "created_at": "2021-07-19 16:31:00",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5476279113055212,
+                "negativity": 0.45237208869447854
+            },
+            "user_id": 1010774063013171202,
+            "text_translation": ""
+        },
+        {
+            "id": 1417138349668589570,
+            "text": "True . This portal is a well funded scam by like , and One plus to …",
+            "created_at": "2021-07-19 15:04:46",
+            "retweet_count": 0,
+            "favorite_count": 13,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9093726910196736,
+                "negativity": 0.09062730898032446
+            },
+            "user_id": 736189770502574080,
+            "text_translation": ""
+        },
+        {
+            "id": 1416977237077753859,
+            "text": "I bought fully , but the problem when i use Data connection for no …",
+            "created_at": "2021-07-19 04:24:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7353390886203457,
+                "negativity": 0.2646609113796543
+            },
+            "user_id": 1318535331268894721,
+            "text_translation": ""
+        }
+    ]
+}

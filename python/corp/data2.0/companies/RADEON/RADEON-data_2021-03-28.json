@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1376075008955547649,
+            "text": "There are two Ampere that I intend to get : An 3060 and a Low Profile 3050 ; the 3060 will go …",
+            "created_at": "2021-03-28 07:33:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5451921963098816,
+                "negativity": 0.45480780369011936
+            },
+            "user_id": 328758786,
+            "text_translation": ""
+        },
+        {
+            "id": 1376029490263044097,
+            "text": "Double ratio",
+            "created_at": "2021-03-28 04:32:50",
+            "retweet_count": 0,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47502837684449445,
+                "negativity": 0.5249716231555055
+            },
+            "user_id": 2802844304,
+            "text_translation": ""
+        }
+    ]
+}

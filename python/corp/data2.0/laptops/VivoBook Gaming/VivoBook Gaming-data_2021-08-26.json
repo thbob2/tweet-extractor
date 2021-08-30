@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1430776837068804099,
+            "text": "It is powered by an Core i7 and 3080 graphics card for ultimate rendering experience and gam …",
+            "created_at": "2021-08-26 06:19:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.31523425849981346,
+                "negativity": 0.6847657415001892
+            },
+            "user_id": 21177142,
+            "text_translation": ""
+        }
+    ]
+}

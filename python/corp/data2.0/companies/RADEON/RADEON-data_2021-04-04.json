@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1378737803933065219,
+            "text": "ROG : \" The ROG STRIX thermal solution is the best of all the card we ' today …\" High praise from ! for the …",
+            "created_at": "2021-04-04 15:54:42",
+            "retweet_count": 51,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7818239531313017,
+                "negativity": 0.218176046868696
+            },
+            "user_id": 1212184083150721024,
+            "text_translation": ""
+        },
+        {
+            "id": 1378642591206506496,
+            "text": "corporate Apple Pro ( Retina , 15 - , Mid 2015 ), Processor : 2 . 8Ghz , Catalina Core i7 ,…",
+            "created_at": "2021-04-04 09:36:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6505708654530156,
+                "negativity": 0.3494291345469823
+            },
+            "user_id": 1354500789419581446,
+            "text_translation": ""
+        }
+    ]
+}

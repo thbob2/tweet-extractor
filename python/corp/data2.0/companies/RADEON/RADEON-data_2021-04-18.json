@@ -1,0 +1,64 @@
+{
+    "tweets": [
+        {
+            "id": 1383869005723668483,
+            "text": "worked for me . Only way I got my new card . one was a lost cause",
+            "created_at": "2021-04-18 19:44:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3768817980940065,
+                "negativity": 0.6231182019059928
+            },
+            "user_id": 2675320741,
+            "text_translation": ""
+        },
+        {
+            "id": 1383817707879948293,
+            "text": "Review : i5 9400F , 12 RAM , 550 en gaming i5 rx550 …",
+            "created_at": "2021-04-18 16:20:26",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4613821138211391,
+                "negativity": 0.5386178861788621
+            },
+            "user_id": 986829971351064576,
+            "text_translation": ""
+        },
+        {
+            "id": 1383608755972055044,
+            "text": ". I think the are better for gaming but for like streaming and rendering / 3D rendering …",
+            "created_at": "2021-04-18 02:30:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7322417823460483,
+                "negativity": 0.26775821765395214
+            },
+            "user_id": 1195052137119649798,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1384295227393855495,
+            "text": "Still got money",
+            "created_at": "2021-04-19 23:57:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40714420574170324,
+                "negativity": 0.5928557942582969
+            },
+            "user_id": 1341600977250525184,
+            "text_translation": ""
+        },
+        {
+            "id": 1384258681265483777,
+            "text": "Me counting down the until my here",
+            "created_at": "2021-04-19 21:32:42",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33173331876746404,
+                "negativity": 0.6682666812325359
+            },
+            "user_id": 96069016,
+            "text_translation": ""
+        },
+        {
+            "id": 1384237566812037120,
+            "text": "Rocking an old ass gaming , the struggle is too real right now . Build being put on hold until fall 2022",
+            "created_at": "2021-04-19 20:08:48",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.981036762119133,
+                "negativity": 0.018963237880865454
+            },
+            "user_id": 3282697370,
+            "text_translation": ""
+        },
+        {
+            "id": 1384193140295290884,
+            "text": "I just took the vertical mount grill out . Airy back",
+            "created_at": "2021-04-19 17:12:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.936453573377802,
+                "negativity": 0.06354642662219728
+            },
+            "user_id": 146128507,
+            "text_translation": ""
+        }
+    ]
+}

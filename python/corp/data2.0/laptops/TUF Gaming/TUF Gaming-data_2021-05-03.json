@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1389359781442379776,
+            "text": "Gaming 6900 Edition Graphics Ca Source : Checker v3Z Reason : Sold by 🛒:…",
+            "created_at": "2021-05-03 23:22:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9646662156167995,
+                "negativity": 0.035333784383200915
+            },
+            "user_id": 1363974177099816968,
+            "text_translation": ""
+        },
+        {
+            "id": 1389311570044411907,
+            "text": ": Good bye , hello . Gaming Dev Technology Electro …",
+            "created_at": "2021-05-03 20:11:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29974512870196585,
+                "negativity": 0.7002548712980348
+            },
+            "user_id": 1281253609988997120,
+            "text_translation": ""
+        },
+        {
+            "id": 1389211365559181312,
+            "text": ": 2021 Gaming A15 - Outlast the Competition | Tech AI AR technology …",
+            "created_at": "2021-05-03 13:32:54",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.985960594592719,
+                "negativity": 0.014039405407283594
+            },
+            "user_id": 1331037722086158338,
+            "text_translation": ""
+        }
+    ]
+}

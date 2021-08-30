@@ -1,0 +1,145 @@
+{
+    "tweets": [
+        {
+            "id": 1421574617165180931,
+            "text": "just mine to W11 Dell 13",
+            "created_at": "2021-07-31 20:52:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5963501901254527,
+                "negativity": 0.403649809874547
+            },
+            "user_id": 6686442,
+            "text_translation": ""
+        },
+        {
+            "id": 1421572773709709313,
+            "text": "Not ... Order up an i7 13 . Ordered the - C dock as well . up , no d …",
+            "created_at": "2021-07-31 20:45:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.854582925058325,
+                "negativity": 0.14541707494167477
+            },
+            "user_id": 633429782,
+            "text_translation": ""
+        },
+        {
+            "id": 1421498481420681222,
+            "text": "Dell 13 9365 2 - in - 1 i5 7th Gen 8GB 256SSD BATTERY NOT CHARGING electronics ad",
+            "created_at": "2021-07-31 15:50:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24908225138688533,
+                "negativity": 0.7509177486131151
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1421487171358371847,
+            "text": "This is worth a look if your ' re looking for a !",
+            "created_at": "2021-07-31 15:05:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5183956280891561,
+                "negativity": 0.4816043719108442
+            },
+            "user_id": 2499021674,
+            "text_translation": ""
+        },
+        {
+            "id": 1421451842303795200,
+            "text": "Is the new Dell 13 upgrade worth it ? Dell XPS13",
+            "created_at": "2021-07-31 12:45:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.805414175456729,
+                "negativity": 0.1945858245432704
+            },
+            "user_id": 143811241,
+            "text_translation": ""
+        },
+        {
+            "id": 1421438063859884033,
+            "text": "Dell 13 9343 13 . 3 \" ( 256GB , Core i7 5th Gen ., 2 . 4GHz , 8GB ) Notebook / Lap electronics ad",
+            "created_at": "2021-07-31 11:50:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6279411764705887,
+                "negativity": 0.3720588235294116
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1421385268502966272,
+            "text": "Dell 2020 to launch in very soon ! Update ( 3 ): secret the dispatch of 13 and 1 …",
+            "created_at": "2021-07-31 08:20:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3431291684170393,
+                "negativity": 0.6568708315829609
+            },
+            "user_id": 1872029598,
+            "text_translation": ""
+        }
+    ]
+}
