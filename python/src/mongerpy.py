@@ -45,7 +45,7 @@ def import_phones():
 
 
 def import_phones_data():
-    data = exploreCorp(smartphones)
+    data = exploreCorp(smartphones,False)
     for d in data:
         for file in d['files']:
             load = readJson(file)
@@ -83,7 +83,7 @@ def import_laptops():
     success_msg('laptops imported')
 
 def import_laptops_data():
-    data = exploreCorp(laptops)
+    data = exploreCorp(laptops,False)
     for d in data:
         for file in d['files']:
             load = readJson(file)
@@ -114,7 +114,7 @@ def import_companies():
     success_msg('companies imported')
 
 def improt_companies_data():
-    data = exploreCorp(companies)
+    data = exploreCorp(companies,False)
     for d in data:
         for file in d['files']:
             load = readJson(file)
@@ -123,6 +123,10 @@ def improt_companies_data():
             )
     success_msg("Companies tweets Data imported successfully")
 
+
+def export_database(dbname,collection):
+    command = "mongoexport --db {0} -c {1} --out data/{1}.json".format(dbname,collection)
+    os.system(command)
 """
 !.##.....##.########.####.##.......####.########.####.########..######.
 !.##.....##....##.....##..##........##.....##.....##..##.......##....##
@@ -142,10 +146,16 @@ def error_msg(text):
 
 
 if __name__ == '__main__':
-    init()
-    import_phones()
-    import_phones_data()
-    import_laptops()
-    import_laptops_data()
-    import_companies()
-    improt_companies_data()
+    #init()
+    #import_phones()
+    #import_phones_data()
+    #import_laptops()
+    #import_laptops_data()
+    #import_companies()
+    #improt_companies_data()
+
+    export_database("t_punch","companies")
+    export_database("t_punch","laptops")
+    export_database("t_punch","smartphones")
+    export_database("t_punch","extracted_data")
+    export_database("t_punch","tweets")

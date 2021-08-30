@@ -463,12 +463,12 @@ if __name__ == '__main__':
     filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path3,"laptops")
     filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
  
-    filterPhones()
-    filterLaptops()
-    filterCompanies()
-    chunkyboy(laptops)
-    chunkyboy(companies)
-    chunkyboy(phones)
+    #filterPhones()
+    #filterLaptops()
+    #filterCompanies()
+    #chunkyboy(laptops)
+    #chunkyboy(companies)
+    #chunkyboy(phones)
     #sortfunc("infinx note7-data_2021-01-21.json")
     #exploreCorp(phones)
 
