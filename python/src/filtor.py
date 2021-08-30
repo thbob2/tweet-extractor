@@ -1,19 +1,10 @@
 from json.decoder import JSONDecodeError
-from nltk import text
 import regex as re
-import pickle
 import json
-import pandas as pd
 import nltk 
 import emoji
-from textblob import TextBlob
-from textblob.sentiments import NaiveBayesAnalyzer 
-from textblob.classifiers import NaiveBayesClassifier
-from textblob import Blobber
 from twitter_client import *
 from Matweet import Tweet
-from os import error, listdir
-from os.path import isfile, join
 import os 
 import datetime as dt
 import exceptionsaver as Es
@@ -23,6 +14,109 @@ words = set(nltk.corpus.words.words())
 companies = os.getcwd()+"/python/corp/data2.0/companies/"
 phones = os.getcwd()+"/python/corp/data2.0/smartphones/"
 laptops = os.getcwd()+"/python/corp/data2.0/laptops/"
+data_path =  os.getcwd()+"/python/corp/data/"
+data_path2 = os.getcwd()+"/python/corp/data2.0/"
+data_path3 = os.getcwd()+"/python/corp/data3.0/"
+smartphone_ontology = os.getcwd()+"/python/corp/assets/ontologies/smartphone-ontology.json"
+
+#*..#######..##....##.########..#######..##........#######...######...##....##
+#*.##.....##.###...##....##....##.....##.##.......##.....##.##....##...##..##.
+#*.##.....##.####..##....##....##.....##.##.......##.....##.##..........####..
+#*.##.....##.##.##.##....##....##.....##.##.......##.....##.##...####....##...
+#*.##.....##.##..####....##....##.....##.##.......##.....##.##....##.....##...
+#*.##.....##.##...###....##....##.....##.##.......##.....##.##....##.....##...
+#*..#######..##....##....##.....#######..########..#######...######......##...
+#*..######..##..........###.....######...######..########..######.
+#*.##....##.##.........##.##...##....##.##....##.##.......##....##
+#*.##.......##........##...##..##.......##.......##.......##......
+#*.##.......##.......##.....##..######...######..######....######.
+#*.##.......##.......#########.......##.......##.##.............##
+#*.##....##.##.......##.....##.##....##.##....##.##.......##....##
+#*..######..########.##.....##..######...######..########..######.
+
+def getChilds(obj):
+    res = []
+    res.append(obj["name"])
+    for c in obj["childs"]:
+        res.extend(getChilds(c))
+
+    return res
+        
+
+#! methods that returns the ontologies subclasses
+def ontologieClasses(onto):
+    clsList = {}
+    res = []
+    with open(onto,"r") as file:
+        try:
+            clsList = json.load(file)
+            p = clsList['product']
+            res = getChilds(p[0])
+        except JSONDecodeError as e:
+            mySaver = Es.ExceptionSaver()
+            mySaver.save(str(e))
+    return (res)
+    
+#?.########.##.....##.########..##........#######..####.########.####.##....##..######.....
+#?.##........##...##..##.....##.##.......##.....##..##.....##.....##..###...##.##....##....
+#?.##.........##.##...##.....##.##.......##.....##..##.....##.....##..####..##.##..........
+#?.######......###....########..##.......##.....##..##.....##.....##..##.##.##.##...####...
+#?.##.........##.##...##........##.......##.....##..##.....##.....##..##..####.##....##....
+#?.##........##...##..##........##.......##.....##..##.....##.....##..##...###.##....##....
+#?.########.##.....##.##........########..#######..####....##....####.##....##..######.....
+#?.########.....###....########....###.......########.####.##.......########..######.
+#?.##.....##...##.##......##......##.##......##........##..##.......##.......##....##
+#?.##.....##..##...##.....##.....##...##.....##........##..##.......##.......##......
+#?.##.....##.##.....##....##....##.....##....######....##..##.......######....######.
+#?.##.....##.#########....##....#########....##........##..##.......##.............##
+#?.##.....##.##.....##....##....##.....##....##........##..##.......##.......##....##
+#?.########..##.....##....##....##.....##....##.......####.########.########..######.    
+
+def sortfunc(stdate):
+    rdate = stdate.split("_")[1][0:10].split("-")
+    return dt.datetime(int(rdate[0]),int(rdate[1]),int(rdate[2])).date()
+
+def exploreCorp(path,sortit=True):
+    folders = []
+    
+    for i in os.scandir(path):
+        folder = {
+            "name": i.name,
+            "files": []
+        }    
+        for j in os.scandir(i):
+            folder['files'].append(j.path)
+        if sortit :
+            folder['files'].sort(key=sortfunc,reverse=False)
+        folders.append(folder)      
+    
+    return folders
+
+#!.#######..##.....##.##.....##.##....##.##....##.####.########..######.
+#!.##....##.##.....##.##.....##.###...##.##...##...##..##.......##....##
+#!.##.......##.....##.##.....##.####..##.##..##....##..##.......##......
+#!.##.......#########.##.....##.##.##.##.#####.....##..######....######.
+#!.##.......##.....##.##.....##.##..####.##..##....##..##.............##
+#!.##....#.##.....##.##.....##.##...###.##...##...##..##.......##....##
+#!.#######..##.....##..#######..##....##.##....##.####.########..######.
+
+def readJson(path):
+    with open(path,'r',encoding="utf8") as f:
+        return json.loads(f.read())
+
+def chunks(l, n):
+    
+    return [l[i:i + n] for i in range(0, len(l), n)]
+
+
+#!.########.####.##.......########.########.########...######.
+#!.##........##..##..........##....##.......##.....##.##....##
+#!.##........##..##..........##....##.......##.....##.##......
+#!.######....##..##..........##....######...########...######.
+#!.##........##..##..........##....##.......##...##.........##
+#!.##........##..##..........##....##.......##....##..##....##
+#!.##.......####.########....##....########.##.....##..######.
+
 
 def clean(tweet):
     tweet = re.sub("@[A-Za-z0-9]+","",tweet) #Remove @ sign
@@ -34,13 +128,13 @@ def clean(tweet):
         if w.lower() in words or not w.isalpha())
     return tweet
 
-def filter(path,parent):
-    rpath = os.getcwd()+"/python/corp/data3.0/" + parent
+def filter(src,dist,child):
+    rpath = dist + child
     try:
         os.mkdir(rpath)
     except OSError as e:
         print('parent exist')
-    file = open(path,"r")
+    file = open(src,"r")
     dirs = file.read().splitlines()
     file.close()
     for d in dirs:
@@ -54,37 +148,39 @@ def filter(path,parent):
             print("going to the next file")
 
 
-#!.########.####.##.......########.########.########...######.
-#!.##........##..##..........##....##.......##.....##.##....##
-#!.##........##..##..........##....##.......##.....##.##......
-#!.######....##..##..........##....######...########...######.
-#!.##........##..##..........##....##.......##...##.........##
-#!.##........##..##..........##....##.......##....##..##....##
-#!.##.......####.########....##....########.##.....##..######.
+def removeDuplicates(listDict):
+    seen = set()
+    result =  []
+    for element in listDict:
+        tup = tuple(element['text'])
+        if tup not in seen:
+            seen.add(tup)
+            result.append(tup)
+    return result
+
 
 def filterPhones():
-    rpath = os.getcwd()+"/python/corp/data/"
-    path = os.getcwd()+"/python/corp/data2.0/smartphones/"
-    corp = [f for f in listdir(os.getcwd()+'/python/corp/data/')]
-    smartphones = [f for f in listdir(path)]
-    classNames = ontologieClasses(os.getcwd()+"/python/corp/assets/ontologies/smartphone-ontology.json")
+
+    corp = [f for f in os.listdir(data_path)]
+    smartphones = [f for f in os.listdir(phones)]
+    classNames = ontologieClasses(smartphone_ontology)
     stats = {}
     emptyfile=0
     lex = Lexor()
-    
-    for c in corp :
+    seen =set()
+    cpt = 0
+    for c in corp :    
         try:
             tweetArray = []
             entity = c.split("-")[0]
             if entity in smartphones:              
-                with open(rpath+c,"r",encoding="utf-8") as read:
+                with open(data_path+c,"r",encoding="utf-8") as read:
                     try:
                         data = json.load(read)
                     except JSONDecodeError as e:
                         print(c +" is the one causing error")
                     if data["tweets"] != []:                                        
-                        cpt = 0
-                        for tweet in data["tweets"]:                            
+                        for tweet in data["tweets"]:
                             try:
                                 stats[tweet["lang"]]+=1
                             except KeyError as e:
@@ -92,39 +188,29 @@ def filterPhones():
                             try:
                                 tempo = Tweet(tweet["id"],tweet['text'],str(tweet["created_at"]),tweet["retweet_count"],tweet["favorite_count"],tweet["lang"],tweet["user_id"],tweet["coordinates"],tweet["geo"])
                                 if tempo.lang=="en":
-                                    #cleaning
-                                    
+                                    #cleaning                                 
                                     tempo.text= clean(tempo.text)
-                                    print(tempo.text)
-                                    for name in classNames:
-                                        #eticting + elaguing
-                                        if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
-                                            tempo.mention.append(name)
-                                            
-                                        else:
-                                            continue
-                                    tempo.label= lex.feeling(tempo.text)
-                                    print("nb on {}".format(cpt))
-                                    cpt+=1
-                                    tempo.note = lex.feelingBayes(tempo.text)
-                                    tweetArray.append(tempo)
-                                #else:
-                                #    tempo.translation = lex.translate(tempo.text)
-                                #    tempo.translation = clean(tempo.translation)
-                                #    for name in classNames:
-                                #        #eticting + elaguing
-                                #        if (re.search(r'\b{}\b'.format(name.lower()),tempo.translation) or re.search(r'\b{}\b'.format(name.upper()),tempo.translation) or re.search(r'\b{}\b'.format(name),tempo.translation)!=None):
-                                #            tempo.mention.append(name)
-                                #            
-                                #        else:
-                                #            continue
-                                #    tempo.label = lex.feeling(tempo.translation)
-                                #    tempo.note = lex.feelingBayes(tempo.translation)
-                                #    tweetArray.append(tempo)    
+                                    if tempo.text not in seen:
+                                        seen.add(tempo.text)
+                                        for name in classNames:
+                                            #eticting + elaguing
+                                            if (re.search(r'\b{}\b'.format(name.lower()),tempo.text) or re.search(r'\b{}\b'.format(name.upper()),tempo.text) or re.search(r'\b{}\b'.format(name),tempo.text)!=None):
+                                                tempo.mention.append(name)  
+                                            else:
+                                                continue
+                                        tempo.label= lex.feeling(tempo.text)
+                                        
+                                        if cpt.__mod__(1000) == 0:
+                                            lex.blobberRefresh()
+                                            print("lexor refreshed")
+                                        tempo.note = lex.feelingBayes(tempo.text)
+                                        cpt+=1
+                                        print("lucky number  {}".format(cpt))
+                                        tweetArray.append(tempo)
                             except KeyError as e :
                                 continue
                         if len(tweetArray) > 0:
-                            with open(path+entity+"/"+c,"wb") as w: 
+                            with open(phones+entity+"/"+c,"wb") as w: 
                                 w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
                     elif data["tweets"]==[]:
                     
@@ -264,6 +350,7 @@ def filterCompanies():
                                 
                             except KeyError as e :
                                 continue
+                            
                         if len(tweetArray) > 0:
                             with open(path+entity+"/"+c,"wb") as w: 
                                 w.write(json.dumps({'tweets':[o.dumps() for o in tweetArray]},indent=4,ensure_ascii=False).encode("utf8"))
@@ -283,98 +370,6 @@ def filterCompanies():
     with open (os.getcwd()+"/python/corp/stats/companies-stats.json","wb") as file:
         string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
         file.write(string)
-
-#*..#######..##....##.########..#######..##........#######...######...##....##
-#*.##.....##.###...##....##....##.....##.##.......##.....##.##....##...##..##.
-#*.##.....##.####..##....##....##.....##.##.......##.....##.##..........####..
-#*.##.....##.##.##.##....##....##.....##.##.......##.....##.##...####....##...
-#*.##.....##.##..####....##....##.....##.##.......##.....##.##....##.....##...
-#*.##.....##.##...###....##....##.....##.##.......##.....##.##....##.....##...
-#*..#######..##....##....##.....#######..########..#######...######......##...
-#*..######..##..........###.....######...######..########..######.
-#*.##....##.##.........##.##...##....##.##....##.##.......##....##
-#*.##.......##........##...##..##.......##.......##.......##......
-#*.##.......##.......##.....##..######...######..######....######.
-#*.##.......##.......#########.......##.......##.##.............##
-#*.##....##.##.......##.....##.##....##.##....##.##.......##....##
-#*..######..########.##.....##..######...######..########..######.
-
-def getChilds(obj):
-    res = []
-    res.append(obj["name"])
-    for c in obj["childs"]:
-        res.extend(getChilds(c))
-
-    return res
-        
-
-#! methods that returns the ontologies subclasses
-def ontologieClasses(onto):
-    clsList = {}
-    res = []
-    with open(onto,"r") as file:
-        try:
-            clsList = json.load(file)
-            p = clsList['product']
-            res = getChilds(p[0])
-        except JSONDecodeError as e:
-            mySaver = Es.ExceptionSaver()
-            mySaver.save(str(e))
-    return (res)
-    
-#?.########.##.....##.########..##........#######..####.########.####.##....##..######.....
-#?.##........##...##..##.....##.##.......##.....##..##.....##.....##..###...##.##....##....
-#?.##.........##.##...##.....##.##.......##.....##..##.....##.....##..####..##.##..........
-#?.######......###....########..##.......##.....##..##.....##.....##..##.##.##.##...####...
-#?.##.........##.##...##........##.......##.....##..##.....##.....##..##..####.##....##....
-#?.##........##...##..##........##.......##.....##..##.....##.....##..##...###.##....##....
-#?.########.##.....##.##........########..#######..####....##....####.##....##..######.....
-#?.########.....###....########....###.......########.####.##.......########..######.
-#?.##.....##...##.##......##......##.##......##........##..##.......##.......##....##
-#?.##.....##..##...##.....##.....##...##.....##........##..##.......##.......##......
-#?.##.....##.##.....##....##....##.....##....######....##..##.......######....######.
-#?.##.....##.#########....##....#########....##........##..##.......##.............##
-#?.##.....##.##.....##....##....##.....##....##........##..##.......##.......##....##
-#?.########..##.....##....##....##.....##....##.......####.########.########..######.    
-
-def sortfunc(stdate):
-    rdate = stdate.split("_")[1][0:10].split("-")
-    return dt.datetime(int(rdate[0]),int(rdate[1]),int(rdate[2])).date()
-
-def exploreCorp(path):
-    folders = []
-    
-    for i in os.scandir(path):
-        folder = {
-            "name": i.name,
-            "files": []
-        }    
-        for j in os.scandir(i):
-            folder['files'].append(j.path)
-        #folder['files'].sort(key=sortfunc,reverse=False)
-        folders.append(folder)      
-    
-    return folders
-
-#!.#######..##.....##.##.....##.##....##.##....##.####.########..######.
-#!.##....##.##.....##.##.....##.###...##.##...##...##..##.......##....##
-#!.##.......##.....##.##.....##.####..##.##..##....##..##.......##......
-#!.##.......#########.##.....##.##.##.##.#####.....##..######....######.
-#!.##.......##.....##.##.....##.##..####.##..##....##..##.............##
-#!.##....#.##.....##.##.....##.##...###.##...##...##..##.......##....##
-#!.#######..##.....##..#######..##....##.##....##.####.########..######.
-
-
-
-def readJson(path):
-    with open(path,'r',encoding="utf8") as f:
-        return json.loads(f.read())
-
-
-
-def chunks(l, n):
-    
-    return [l[i:i + n] for i in range(0, len(l), n)]
 
 
 def Semantico(files,n):
@@ -444,17 +439,22 @@ def chunkyboy(path):
 
 #!main method
 if __name__ == '__main__':
-    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',"laptops")
-    #filter(os.getcwd()+'/python/corp/assets/companies.txt',"companies")
-    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',"smartphones")
+#    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path2,"laptops")
+#    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path2,"companies")
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path2,"smartphones")
 
+    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path3,"smartphones")
+    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path3,"laptops")
+    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
  
-    #filterPhones()
+    filterPhones()
     ##filterLaptops()
     ###
     #filterCompanies()
-    chunkyboy(laptops)
-    chunkyboy(companies)
+    #chunkyboy(laptops)
+    #chunkyboy(companies)
     chunkyboy(phones)
     #sortfunc("infinx note7-data_2021-01-21.json")
     #exploreCorp(phones)
+
+    

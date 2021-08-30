@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1429132398290219011,
+            "text": "e7 Plus motoe7plus …",
+            "created_at": "2021-08-21 17:24:50",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4671052631578946,
+                "negativity": 0.5328947368421049
+            },
+            "user_id": 983943373445914624,
+            "text_translation": ""
+        },
+        {
+            "id": 1428969358932340743,
+            "text": "Hi team i order the mobile phone E7 Plus 18 of August and next day i raised the return or re …",
+            "created_at": "2021-08-21 06:36:58",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8919267089196747,
+                "negativity": 0.10807329108032336
+            },
+            "user_id": 1023652975418466304,
+            "text_translation": ""
+        }
+    ]
+}

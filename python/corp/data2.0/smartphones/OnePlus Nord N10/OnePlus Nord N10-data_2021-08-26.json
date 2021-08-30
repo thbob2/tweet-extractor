@@ -1,0 +1,330 @@
+{
+    "tweets": [
+        {
+            "id": 1431015359826567168,
+            "text": "Save $ 28 off of this 128GB unlocked N10 5G & ; grab it for only $ 272 . 11 . …",
+            "created_at": "2021-08-26 22:07:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2547840163020123,
+                "negativity": 0.7452159836979877
+            },
+            "user_id": 316282893,
+            "text_translation": ""
+        },
+        {
+            "id": 1431006044952489985,
+            "text": "N10 gains August security patch",
+            "created_at": "2021-08-26 21:30:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4537217857305051,
+                "negativity": 0.5462782142694952
+            },
+            "user_id": 17176837,
+            "text_translation": ""
+        },
+        {
+            "id": 1430983892765487104,
+            "text": "9to5Google : : N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more . via",
+            "created_at": "2021-08-26 20:02:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9265888270589575,
+                "negativity": 0.07341117294104352
+            },
+            "user_id": 209038505,
+            "text_translation": ""
+        },
+        {
+            "id": 1430977790489288704,
+            "text": "We start today ’ s with a selection of Apple Watch SE that are currently getting up to 16 percent saving …",
+            "created_at": "2021-08-26 19:37:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7232317717549528,
+                "negativity": 0.2767682282450472
+            },
+            "user_id": 805418410435756033,
+            "text_translation": ""
+        },
+        {
+            "id": 1430969279583768583,
+            "text": "Apple Watch SE , N10 5G and more are on sale",
+            "created_at": "2021-08-26 19:03:57",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8480421603391353,
+                "negativity": 0.15195783966086435
+            },
+            "user_id": 1334621655130320897,
+            "text_translation": ""
+        },
+        {
+            "id": 1430933082182352900,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more …",
+            "created_at": "2021-08-26 16:40:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 19159076,
+            "text_translation": ""
+        },
+        {
+            "id": 1430930345021513730,
+            "text": ": : N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more by h …",
+            "created_at": "2021-08-26 16:29:14",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 910350192,
+            "text_translation": ""
+        },
+        {
+            "id": 1430925975521464327,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 ...",
+            "created_at": "2021-08-26 16:11:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    41.391,
+                    2.15326
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    2.15326,
+                    41.391
+                ]
+            },
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8684738955823291,
+                "negativity": 0.13152610441767096
+            },
+            "user_id": 1316862031,
+            "text_translation": ""
+        },
+        {
+            "id": 1430925106558246923,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more by …",
+            "created_at": "2021-08-26 16:08:25",
+            "retweet_count": 3,
+            "favorite_count": 31,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 177087369,
+            "text_translation": ""
+        },
+        {
+            "id": 1430888271488327683,
+            "text": "\" N10 6 . 4 \" 128GB 5G Unlocked Android only $ 272 . 25 : \" …",
+            "created_at": "2021-08-26 13:42:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5559907538204699,
+                "negativity": 0.44400924617952925
+            },
+            "user_id": 40173650,
+            "text_translation": ""
+        },
+        {
+            "id": 1430867020233560068,
+            "text": ": N10 5G is now even more affordable following discount to $ 273 by",
+            "created_at": "2021-08-26 12:17:36",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6035690700374944,
+                "negativity": 0.3964309299625045
+            },
+            "user_id": 177087369,
+            "text_translation": ""
+        },
+        {
+            "id": 1430866979108315140,
+            "text": "N10 5G is now even more affordable following discount to $ 273",
+            "created_at": "2021-08-26 12:17:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6035690700374944,
+                "negativity": 0.3964309299625045
+            },
+            "user_id": 14989736,
+            "text_translation": ""
+        },
+        {
+            "id": 1430866564484632576,
+            "text": "N10 5G is now even more affordable following discount to $ 273 by",
+            "created_at": "2021-08-26 12:15:47",
+            "retweet_count": 2,
+            "favorite_count": 17,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6035690700374944,
+                "negativity": 0.3964309299625045
+            },
+            "user_id": 42980370,
+            "text_translation": ""
+        },
+        {
+            "id": 1430798998810550275,
+            "text": "N10 gains August security patch Credit : - Shaw / Android Authority Welcome to the …",
+            "created_at": "2021-08-26 07:47:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7090671270167006,
+                "negativity": 0.29093287298329706
+            },
+            "user_id": 1020055663601430528,
+            "text_translation": ""
+        },
+        {
+            "id": 1430780166171598857,
+            "text": "N10 gains August security patch - Shaw / Android Authority Welcome to the N1 …",
+            "created_at": "2021-08-26 06:32:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6532703370043834,
+                "negativity": 0.3467296629956142
+            },
+            "user_id": 1730155789,
+            "text_translation": ""
+        },
+        {
+            "id": 1430771956303818760,
+            "text": "Oh , if budget and have problem then it ’ s fault . If budget …",
+            "created_at": "2021-08-26 05:59:51",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21305929422152295,
+                "negativity": 0.7869407057784769
+            },
+            "user_id": 1008627581116010496,
+            "text_translation": ""
+        }
+    ]
+}

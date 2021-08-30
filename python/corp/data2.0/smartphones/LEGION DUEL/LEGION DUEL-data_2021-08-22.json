@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1429417728272601090,
+            "text": "Legion Duel 2 is powerful phone",
+            "created_at": "2021-08-22 12:18:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7194987606719909,
+                "negativity": 0.2805012393280089
+            },
+            "user_id": 819120419861045248,
+            "text_translation": ""
+        },
+        {
+            "id": 1429369574525341704,
+            "text": "Legion Duel 2 is now get naked by 10 more people !",
+            "created_at": "2021-08-22 09:07:17",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34913198085467295,
+                "negativity": 0.6508680191453267
+            },
+            "user_id": 1351850309321064453,
+            "text_translation": ""
+        },
+        {
+            "id": 1429361906049974272,
+            "text": "Legion Phone Duel 2 ... via waiting for this from unbox therapy from aug17",
+            "created_at": "2021-08-22 08:36:49",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7157409821004822,
+                "negativity": 0.284259017899517
+            },
+            "user_id": 1352900222981033985,
+            "text_translation": ""
+        },
+        {
+            "id": 1429348259944873984,
+            "text": "Legion Duel 2 Long Term Review - Ultimate Gaming Performance Legion Duel 2 an innovative design …",
+            "created_at": "2021-08-22 07:42:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.980013506933648,
+                "negativity": 0.019986493066351887
+            },
+            "user_id": 1356260988828397574,
+            "text_translation": ""
+        }
+    ]
+}

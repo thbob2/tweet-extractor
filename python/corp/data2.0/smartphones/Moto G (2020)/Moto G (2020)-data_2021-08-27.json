@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1431260905795461123,
+            "text": "G Power | 3 - Day Battery1 | Unlocked | Made for US by | 4 / 64GB | 16MP Camera | 2020 | Black by …",
+            "created_at": "2021-08-27 14:22:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21011259634777504,
+                "negativity": 0.7898874036522242
+            },
+            "user_id": 722533029713944576,
+            "text_translation": ""
+        },
+        {
+            "id": 1431209659646365698,
+            "text": "My latest kit : G fast | 2020",
+            "created_at": "2021-08-27 10:59:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11191072781306431,
+                "negativity": 0.8880892721869358
+            },
+            "user_id": 1260785803204218883,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1415803745020137478,
-            "text": "g9 play",
-            "created_at": "2021-07-15 22:41:31",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5044910179640717,
-                "negativity": 0.4955089820359282
-            },
-            "user_id": 1321651761443123201,
-            "text_translation": ""
-        },
-        {
             "id": 1415756978727493632,
             "text": ": Android 11 update is now available for G9 in , update size is 1 . 17GB .",
             "created_at": "2021-07-15 19:35:41",
@@ -152,48 +133,6 @@
                 "negativity": 0.347109417813865
             },
             "user_id": 124499665,
-            "text_translation": ""
-        },
-        {
-            "id": 1415545049593520132,
-            "text": ": Android 11 update is now available for G9 in , update size is 1 . 17GB .",
-            "created_at": "2021-07-15 05:33:34",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Size"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5439947175698068,
-                "negativity": 0.4560052824301926
-            },
-            "user_id": 1359599210845200384,
-            "text_translation": ""
-        },
-        {
-            "id": 1415508891882954759,
-            "text": ": Android 11 update is now available for G9 in , update size is 1 . 17GB .",
-            "created_at": "2021-07-15 03:09:53",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Size"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5439947175698068,
-                "negativity": 0.4560052824301926
-            },
-            "user_id": 1300763327577165824,
             "text_translation": ""
         }
     ]

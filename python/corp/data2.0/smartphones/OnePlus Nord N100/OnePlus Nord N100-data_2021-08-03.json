@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1422608961409220612,
-            "text": ": , is ’ biggest market . It did not launch the N10 and N100 here . to have a special …",
-            "created_at": "2021-08-03 17:23:01",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5995437296058187,
-                "negativity": 0.4004562703941813
-            },
-            "user_id": 1071784761432072194,
-            "text_translation": ""
-        },
-        {
             "id": 1422524195595071488,
             "text": "N100 - 64GB , 4GB RAM , Dual , Midnight Frost de 189 a 135 €",
             "created_at": "2021-08-03 11:46:12",
@@ -36,44 +17,6 @@
                 "negativity": 0.5357142857142843
             },
             "user_id": 1003911420386439168,
-            "text_translation": ""
-        },
-        {
-            "id": 1422503824464310283,
-            "text": ": , is ’ biggest market . It did not launch the N10 and N100 here . to have a special …",
-            "created_at": "2021-08-03 10:25:15",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5995437296058187,
-                "negativity": 0.4004562703941813
-            },
-            "user_id": 3932992574,
-            "text_translation": ""
-        },
-        {
-            "id": 1422502477304270849,
-            "text": ", is ’ biggest market . It did not launch the N10 and N100 here . to have a …",
-            "created_at": "2021-08-03 10:19:54",
-            "retweet_count": 2,
-            "favorite_count": 48,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5771555007315865,
-                "negativity": 0.4228444992684137
-            },
-            "user_id": 14524389,
             "text_translation": ""
         }
     ]

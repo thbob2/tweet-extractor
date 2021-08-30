@@ -1,0 +1,123 @@
+{
+    "tweets": [
+        {
+            "id": 1429593569740873733,
+            "text": "I use my G Stylus 5G as both a paper planner and a bullet journal",
+            "created_at": "2021-08-22 23:57:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24917416192322694,
+                "negativity": 0.7508258380767747
+            },
+            "user_id": 2698890516,
+            "text_translation": ""
+        },
+        {
+            "id": 1429592613552807947,
+            "text": "I sometimes read and write on my G Stylus 5G and listen to all night long . I cannot shut …",
+            "created_at": "2021-08-22 23:53:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5054227258901299,
+                "negativity": 0.4945772741098702
+            },
+            "user_id": 2698890516,
+            "text_translation": ""
+        },
+        {
+            "id": 1429562737395474438,
+            "text": "tech fired after posting video vaccine mandate to Holocaust [ Should ' been and had …",
+            "created_at": "2021-08-22 21:54:51",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05577588342269484,
+                "negativity": 0.9442241165773064
+            },
+            "user_id": 2987236587,
+            "text_translation": ""
+        },
+        {
+            "id": 1429423156691759111,
+            "text": ": Talk about noteworthy ✍️ g stylus 5G is on sale now ! Creative stylus and ultra - fast speed make this phone tough to …",
+            "created_at": "2021-08-22 12:40:12",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speed"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6642026500803906,
+                "negativity": 0.33579734991960797
+            },
+            "user_id": 938480711136194561,
+            "text_translation": ""
+        },
+        {
+            "id": 1429285889453264901,
+            "text": "[ 2 + 2 Pack ] Compatible with G stylus 5G - Tempered Glass Screen Protector + Camera Lens …",
+            "created_at": "2021-08-22 03:34:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6333900873575563,
+                "negativity": 0.36660991264244525
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        },
+        {
+            "id": 1429260935307345924,
+            "text": "If it ' s any help , I know of a protector that is 72mm by 157mm according to my Harbor Freight Caliper . It ' s …",
+            "created_at": "2021-08-22 01:55:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2888614713998682,
+                "negativity": 0.7111385286001308
+            },
+            "user_id": 389783938,
+            "text_translation": ""
+        }
+    ]
+}

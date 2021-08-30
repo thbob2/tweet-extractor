@@ -54,6 +54,8 @@ class Lexor(object):
             "negativity" : blob[2]
         }
 
+    def blobberRefresh(self):
+        self.blober = Blobber(analyzer=NaiveBayesAnalyzer())
     def feeling(self,text):
         result = TextBlob(text)          
         if(result.sentiment[0]>0): 
@@ -72,5 +74,5 @@ if __name__ == '__main__':
     tb = Blobber(analyzer=NaiveBayesAnalyzer())
     print(lex.feelingBayes("ILOVE PIZZA"))
     print(lex.feeling("ILOVE PIZZA"))
-    test = lex.translate("j'aime la pizza")
+    
      

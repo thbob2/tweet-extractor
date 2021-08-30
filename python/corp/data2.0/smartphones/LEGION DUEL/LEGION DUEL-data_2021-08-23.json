@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1429824499709534208,
+            "text": "You can stream with your phone . Here ’ s how :",
+            "created_at": "2021-08-23 15:15:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24271919768656117,
+                "negativity": 0.7572808023134383
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        },
+        {
+            "id": 1429766080084561926,
+            "text": "Aye , help a lot . As do slows and disengage . Other that …",
+            "created_at": "2021-08-23 11:22:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6998233702658776,
+                "negativity": 0.30017662973412285
+            },
+            "user_id": 1485699492,
+            "text_translation": ""
+        },
+        {
+            "id": 1429718803139727360,
+            "text": "Gaming phone powerhouse ? 😲",
+            "created_at": "2021-08-23 08:15:00",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4807692307692308,
+                "negativity": 0.5192307692307689
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        }
+    ]
+}
