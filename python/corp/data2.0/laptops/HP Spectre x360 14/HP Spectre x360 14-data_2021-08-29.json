@@ -1,0 +1,27 @@
+{
+    "tweets": [
+        {
+            "id": 1431918645895041028,
+            "text": "x360 11th Gen Core i5 13 . 5 - inch ( 34 . 2 ) Convertible ( 16GB RAM / 512GB / 3 : 2 Aspect …",
+            "created_at": "2021-08-29 09:56:23",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07202341861472444,
+                "negativity": 0.9279765813852775
+            },
+            "user_id": 834303577099223041,
+            "text_translation": ""
+        }
+    ]
+}

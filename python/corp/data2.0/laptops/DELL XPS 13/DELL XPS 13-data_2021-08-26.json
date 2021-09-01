@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1430998919991996420,
+            "text": "Dell 13 hit $ 699 this weekend Prime Minister of to restore wit …",
+            "created_at": "2021-08-26 21:01:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9317241537173874,
+                "negativity": 0.0682758462826112
+            },
+            "user_id": 1249194189759406080,
+            "text_translation": ""
+        },
+        {
             "id": 1430997134917124101,
             "text": "Dell 13 ?",
             "created_at": "2021-08-26 20:54:38",

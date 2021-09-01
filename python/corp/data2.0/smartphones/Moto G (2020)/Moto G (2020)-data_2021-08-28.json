@@ -1,0 +1,46 @@
+{
+    "tweets": [
+        {
+            "id": 1431754534108467203,
+            "text": "got a midnight indigo g play 2020 with a 1tb external card . what ' s good ?",
+            "created_at": "2021-08-28 23:04:16",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15369368273809217,
+                "negativity": 0.8463063172619085
+            },
+            "user_id": 2903199950,
+            "text_translation": ""
+        },
+        {
+            "id": 1431574453234851850,
+            "text": "[ 2 + 3 Pack ] Compatible with G Stylus 2021 4G Tempered Glass + Camera Lens Protector Screen …",
+            "created_at": "2021-08-28 11:08:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera",
+                "4G",
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6333900873575563,
+                "negativity": 0.36660991264244347
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        }
+    ]
+}

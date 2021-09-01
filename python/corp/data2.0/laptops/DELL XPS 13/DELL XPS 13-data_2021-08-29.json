@@ -1,0 +1,125 @@
+{
+    "tweets": [
+        {
+            "id": 1432085966328668162,
+            "text": "1996 Dell 13",
+            "created_at": "2021-08-29 21:01:15",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7765957446808511,
+                "negativity": 0.22340425531914881
+            },
+            "user_id": 884872905175289857,
+            "text_translation": ""
+        },
+        {
+            "id": 1432083249426223108,
+            "text": "Dell 13 - 9370 13 . 3 inch 512GB 16GB Core i7 - 4K electronics ad",
+            "created_at": "2021-08-29 20:50:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.510953608247422,
+                "negativity": 0.4890463917525788
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1431991627883565059,
+            "text": "SWEET DEAL ALERT 😎🔥 Dell 9300 Core i7 - 10th gen 8GB RAM 256GB keyboard 13 \" + Display …",
+            "created_at": "2021-08-29 14:46:23",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08974038203574876,
+                "negativity": 0.9102596179642544
+            },
+            "user_id": 859912691670032384,
+            "text_translation": ""
+        },
+        {
+            "id": 1431893919936258048,
+            "text": "C to C Cable 100W 10ft Long Type C 5A Fast Charging Nylon Braided Cord Compatible with Pro …",
+            "created_at": "2021-08-29 08:18:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.0029615361324878257,
+                "negativity": 0.9970384638675146
+            },
+            "user_id": 801900606910844928,
+            "text_translation": ""
+        },
+        {
+            "id": 1431846195182272517,
+            "text": "I ' m so sold on the I have for work , eh . Love that thing , after coming from a Dell 13",
+            "created_at": "2021-08-29 05:08:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.871343460353881,
+                "negativity": 0.12865653964612028
+            },
+            "user_id": 2992583971,
+            "text_translation": ""
+        },
+        {
+            "id": 1431840238436036613,
+            "text": "Original Dell 45w 19 . 5V 2 . 31A Replacement Adapter for Notebook Model Number : 14 ( 7437 ), 11 , 12 ,…",
+            "created_at": "2021-08-29 04:44:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8510069749375498,
+                "negativity": 0.14899302506244863
+            },
+            "user_id": 4345829474,
+            "text_translation": ""
+        }
+    ]
+}

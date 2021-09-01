@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1431654593545613314,
+            "text": "I ' d have gone back four , too much space …",
+            "created_at": "2021-08-28 16:27:08",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5259536929430185,
+                "negativity": 0.474046307056982
+            },
+            "user_id": 1020311509,
+            "text_translation": ""
+        },
+        {
+            "id": 1431624061898137603,
+            "text": "WING FULLY UNLOCKED READY FOR ANY CARRIER AVAILABLE 9644 BEECHNUT ST 77036 CONTACT 713 - 773 - 2021",
+            "created_at": "2021-08-28 14:25:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7569439188061384,
+                "negativity": 0.24305608119385988
+            },
+            "user_id": 956660022938951680,
+            "text_translation": ""
+        }
+    ]
+}

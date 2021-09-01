@@ -1,0 +1,147 @@
+{
+    "tweets": [
+        {
+            "id": 1431685212124053511,
+            "text": "I my in 1 2021 with i9 10gen 10900k , z490 ge , 3070 , 16Gb …",
+            "created_at": "2021-08-28 18:28:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5020565552699229,
+                "negativity": 0.4979434447300772
+            },
+            "user_id": 1104363803133665280,
+            "text_translation": ""
+        },
+        {
+            "id": 1431644593678782467,
+            "text": "My rig of 16Gigs of RAM , a 1TB with i7 8th Gen along with a 1080Ti . Bu …",
+            "created_at": "2021-08-28 15:47:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.12868849922325612,
+                "negativity": 0.8713115007767456
+            },
+            "user_id": 1372426299843637249,
+            "text_translation": ""
+        },
+        {
+            "id": 1431628948660793344,
+            "text": ": G . Skill Z5i Review : Shake Your Memory Maker",
+            "created_at": "2021-08-28 14:45:14",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4723353866424686,
+                "negativity": 0.5276646133575323
+            },
+            "user_id": 21181469,
+            "text_translation": ""
+        },
+        {
+            "id": 1431608931974004737,
+            "text": "G . Skill Z5i Review : Shake Your Memory Maker",
+            "created_at": "2021-08-28 13:25:42",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4723353866424686,
+                "negativity": 0.5276646133575323
+            },
+            "user_id": 289931516,
+            "text_translation": ""
+        },
+        {
+            "id": 1431500140343279616,
+            "text": "R4be here , ~ 8 so far . And a 1080ti , 4 + .…",
+            "created_at": "2021-08-28 06:13:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4686531972740352,
+                "negativity": 0.5313468027259647
+            },
+            "user_id": 902476398576721924,
+            "text_translation": ""
+        },
+        {
+            "id": 1431409045378781186,
+            "text": ": I have worked on here so much now she is a complete monster on a …",
+            "created_at": "2021-08-28 00:11:25",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34310196812365634,
+                "negativity": 0.6568980318763434
+            },
+            "user_id": 1182396132523151362,
+            "text_translation": ""
+        },
+        {
+            "id": 1431406290262237185,
+            "text": "I have worked on here so much now she is a complete monster on a …",
+            "created_at": "2021-08-28 00:00:28",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34310196812365634,
+                "negativity": 0.6568980318763434
+            },
+            "user_id": 903428876130549764,
+            "text_translation": ""
+        }
+    ]
+}

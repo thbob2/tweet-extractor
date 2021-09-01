@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432426303697862657,
+            "text": "I was thinking of either getting a , or velvet , still",
+            "created_at": "2021-08-30 19:33:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33905084481677333,
+                "negativity": 0.6609491551832267
+            },
+            "user_id": 1034241328060747776,
+            "text_translation": ""
+        },
+        {
+            "id": 1432184890678775808,
+            "text": "get , ', lemuroid on ur velvet babe",
+            "created_at": "2021-08-30 03:34:21",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4098253934636258,
+                "negativity": 0.5901746065363742
+            },
+            "user_id": 1012416990558982144,
+            "text_translation": ""
+        }
+    ]
+}

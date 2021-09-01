@@ -1,0 +1,923 @@
+{
+    "query": "VivoBook Gaming",
+    "start": "2021-01-21 20:52:45",
+    "end": "2021-08-29 03:59:34",
+    "total": 48,
+    "positive": 16,
+    "neutral": 27,
+    "negative": 5,
+    "tweets": [
+        {
+            "id": 1352358495702507520,
+            "text": ": on : : : Dell : :…",
+            "created_at": "2021-01-21 20:52:45",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 848623129454940160,
+            "text_translation": ""
+        },
+        {
+            "id": 1352220776544546817,
+            "text": "Hat Gaming : 2019 F510QA 15 . 6 ” Computer , Quad - Core A12 - 9720P up to 3 . 6GHz , 16GB DDR4 RAM , 256G …",
+            "created_at": "2021-01-21 11:45:30",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4082235415513904,
+                "negativity": 0.5917764584486092
+            },
+            "user_id": 1233805036846768128,
+            "text_translation": ""
+        },
+        {
+            "id": 1352217131102834688,
+            "text": ": Blockbuster on : 🔥🔥 🌟 : 🌟 :",
+            "created_at": "2021-01-21 11:31:01",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4818181818181816,
+                "negativity": 0.5181818181818182
+            },
+            "user_id": 1331106595154006021,
+            "text_translation": ""
+        },
+        {
+            "id": 1352195533205454849,
+            "text": ": Blockbuster on 🔥 💻 : 💻 : 💻 De …",
+            "created_at": "2021-01-21 10:05:12",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4818181818181816,
+                "negativity": 0.5181818181818182
+            },
+            "user_id": 3268154280,
+            "text_translation": ""
+        },
+        {
+            "id": 1352189816008425473,
+            "text": "Blockbuster on 🔥 💻 : 💻 :",
+            "created_at": "2021-01-21 09:42:29",
+            "retweet_count": 2,
+            "favorite_count": 34,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4818181818181816,
+                "negativity": 0.5181818181818182
+            },
+            "user_id": 1263076222881239040,
+            "text_translation": ""
+        },
+        {
+            "id": 1352153828552937472,
+            "text": "on : : : Dell …",
+            "created_at": "2021-01-21 07:19:29",
+            "retweet_count": 4,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 848623129454940160,
+            "text_translation": ""
+        },
+        {
+            "id": 1352142487205236736,
+            "text": "Blockbuster on : 🔥🔥 🌟 : 🌟 :…",
+            "created_at": "2021-01-21 06:34:25",
+            "retweet_count": 4,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4818181818181816,
+                "negativity": 0.5181818181818182
+            },
+            "user_id": 1331106595154006021,
+            "text_translation": ""
+        },
+        {
+            "id": 1352086438200946688,
+            "text": "2019 F510QA 15 . 6 ” Computer , Quad - Core A12 - 9720P up to 3 . 6GHz , 16GB DDR4 RAM ,…",
+            "created_at": "2021-01-21 02:51:42",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16956548746777594,
+                "negativity": 0.8304345125322232
+            },
+            "user_id": 877228617461313537,
+            "text_translation": ""
+        },
+        {
+            "id": 1352075635628261377,
+            "text": "Blockbuster on : : :",
+            "created_at": "2021-01-21 02:08:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4818181818181816,
+                "negativity": 0.5181818181818182
+            },
+            "user_id": 2923571768,
+            "text_translation": ""
+        },
+        {
+            "id": 1352710972411047936,
+            "text": ": LAST DAY ..! 🌟 : 🌟 :",
+            "created_at": "2021-01-22 20:13:22",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5541682446917553,
+                "negativity": 0.44583175530824487
+            },
+            "user_id": 802746637433139200,
+            "text_translation": ""
+        },
+        {
+            "id": 1352710052205846528,
+            "text": "LAST DAY ..! 🌟 : 🌟 :…",
+            "created_at": "2021-01-22 20:09:43",
+            "retweet_count": 2,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5541682446917553,
+                "negativity": 0.44583175530824487
+            },
+            "user_id": 1331106595154006021,
+            "text_translation": ""
+        },
+        {
+            "id": 1352629155569913858,
+            "text": "link is long but i think this should work !",
+            "created_at": "2021-01-22 14:48:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4534811494103896,
+                "negativity": 0.5465188505896102
+            },
+            "user_id": 3220242762,
+            "text_translation": ""
+        },
+        {
+            "id": 1352525069398941696,
+            "text": ": Top on 🔥( Sale Soon ) 💻 : 💻 :",
+            "created_at": "2021-01-22 07:54:39",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8140563063778116,
+                "negativity": 0.18594369362218793
+            },
+            "user_id": 1010122787971727361,
+            "text_translation": ""
+        },
+        {
+            "id": 1352495665750757379,
+            "text": "Top on 🔥( Sale Soon ) 💻 : 💻 :…",
+            "created_at": "2021-01-22 05:57:49",
+            "retweet_count": 7,
+            "favorite_count": 124,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8140563063778116,
+                "negativity": 0.18594369362218793
+            },
+            "user_id": 1263076222881239040,
+            "text_translation": ""
+        },
+        {
+            "id": 1352872446811123712,
+            "text": "on : Extra Discount . : :…",
+            "created_at": "2021-01-23 06:55:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5769230769230772,
+                "negativity": 0.4230769230769227
+            },
+            "user_id": 1083736848608899072,
+            "text_translation": ""
+        },
+        {
+            "id": 1352820405996642304,
+            "text": "3 . Gaming Core i7 9th Gen - ( 16 + 32 / 512 / 10 Home / 4 Graphics / …",
+            "created_at": "2021-01-23 03:28:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8341621084037797,
+                "negativity": 0.16583789159622078
+            },
+            "user_id": 1284908157144190977,
+            "text_translation": ""
+        },
+        {
+            "id": 1410542380588093441,
+            "text": ": NEW 🔥🔥✅✅ I ' m Your No 1 Gaming Plug on this Twitter Streets Dell / 17 Legion …",
+            "created_at": "2021-07-01 10:14:44",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9901716325631537,
+                "negativity": 0.009828367436843986
+            },
+            "user_id": 2258027694,
+            "text_translation": ""
+        },
+        {
+            "id": 1410531319076081668,
+            "text": "NEW 🔥🔥✅✅ I ' m Your No 1 Gaming Plug on this Twitter Streets Dell / 17 L …",
+            "created_at": "2021-07-01 09:30:47",
+            "retweet_count": 5,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9901716325631537,
+                "negativity": 0.009828367436843986
+            },
+            "user_id": 1079283939997634560,
+            "text_translation": ""
+        },
+        {
+            "id": 1410530632074203136,
+            "text": "NEW 💯💯💯💯💯💯 I ' m Your No 1 Gaming Plug on this Twitter Streets Dell / 17 …",
+            "created_at": "2021-07-01 09:28:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9901716325631537,
+                "negativity": 0.009828367436843986
+            },
+            "user_id": 1079283939997634560,
+            "text_translation": ""
+        },
+        {
+            "id": 1413478640453443588,
+            "text": "Core i5 9th Gen Gaming ( Star Black ) At just . 54 , 990 [ 76 , 990 ]",
+            "created_at": "2021-07-09 12:42:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8609007591223432,
+                "negativity": 0.1390992408776561
+            },
+            "user_id": 168383672,
+            "text_translation": ""
+        },
+        {
+            "id": 1413351714359496704,
+            "text": ": NEW 💯💯💯💯💯💯 I ' m Your No 1 Gaming Plug on this Twitter Streets Dell / 17 …",
+            "created_at": "2021-07-09 04:18:02",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9901716325631537,
+                "negativity": 0.009828367436843986
+            },
+            "user_id": 246778693,
+            "text_translation": ""
+        },
+        {
+            "id": 1414627191434874885,
+            "text": "1 . One Plus One 2 . Series S 3 . 4 Slim 4 . Gaming edition",
+            "created_at": "2021-07-12 16:46:19",
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9583514714782739,
+                "negativity": 0.04164852852172516
+            },
+            "user_id": 2381963072,
+            "text_translation": ""
+        },
+        {
+            "id": 1416008134716387329,
+            "text": "the gaming series with 9th generation it was b …",
+            "created_at": "2021-07-16 12:13:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8155251563885048,
+                "negativity": 0.18447484361149535
+            },
+            "user_id": 1381526972208087042,
+            "text_translation": ""
+        },
+        {
+            "id": 1416435029962629123,
+            "text": "Aside from that , I would rather get an Flip 14 w / 16GB of RAM and a 5 5500U …",
+            "created_at": "2021-07-17 16:30:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10605666725009658,
+                "negativity": 0.8939433327499022
+            },
+            "user_id": 1402095268976377856,
+            "text_translation": ""
+        },
+        {
+            "id": 1416784609031843840,
+            "text": "' t that good in that range and the one ' s you ' get will be i3 …",
+            "created_at": "2021-07-18 15:39:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6694721015592661,
+                "negativity": 0.3305278984407337
+            },
+            "user_id": 1243032779098451969,
+            "text_translation": ""
+        },
+        {
+            "id": 1419368970243686409,
+            "text": "GAMING CORE I5 | 4GB GRAPHICS | 8GB RAM 512 | on",
+            "created_at": "2021-07-25 18:48:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3933177022274328,
+                "negativity": 0.6066822977725665
+            },
+            "user_id": 46431871,
+            "text_translation": ""
+        },
+        {
+            "id": 1419339273489162240,
+            "text": "Bought an Gaming 9mon ago . Terrible experience so far . Faced the same battery / char …",
+            "created_at": "2021-07-25 16:50:27",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7595558022015435,
+                "negativity": 0.2404441977984552
+            },
+            "user_id": 895989351204573184,
+            "text_translation": ""
+        },
+        {
+            "id": 1419197992805011459,
+            "text": "Gaming Core i5 9th Gen – ( 16 / 512 / 10 Home / 4 Graphics / 1650 / 120 …",
+            "created_at": "2021-07-25 07:29:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8341621084037797,
+                "negativity": 0.16583789159622078
+            },
+            "user_id": 1256200450988277761,
+            "text_translation": ""
+        },
+        {
+            "id": 1419934518010650640,
+            "text": "Now Available at Gaming - 17 S712EA - AU023T notebook DDR4 - 43 . 9 ( 17 . 3 \") 1920 x 10 …",
+            "created_at": "2021-07-27 08:15:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.894251796313652,
+                "negativity": 0.10574820368634787
+            },
+            "user_id": 1373515477469696000,
+            "text_translation": ""
+        },
+        {
+            "id": 1419930438831788032,
+            "text": "Now Available at Gaming - E410MA - BV190TS notebook DDR4 - 35 . 6 ( 14 \") 1366 x 768 pi …",
+            "created_at": "2021-07-27 07:59:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.894251796313652,
+                "negativity": 0.10574820368634787
+            },
+            "user_id": 1373515477469696000,
+            "text_translation": ""
+        },
+        {
+            "id": 1419859609204912131,
+            "text": "Hi Sir , I ' m to buy gaming i5 9th gen at 53K during the Sale . Is it rea …",
+            "created_at": "2021-07-27 03:18:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9914840635981782,
+                "negativity": 0.008515936401824712
+            },
+            "user_id": 923168453732663297,
+            "text_translation": ""
+        },
+        {
+            "id": 1420416437898805250,
+            "text": ": Gaming powered by the latest ®️ Core ™️ & ; ®️ ®️ graphics is perfect for gaming ,…",
+            "created_at": "2021-07-28 16:10:43",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8401029013006965,
+                "negativity": 0.15989709869930518
+            },
+            "user_id": 1296299862762258432,
+            "text_translation": ""
+        },
+        {
+            "id": 1420406192308998144,
+            "text": "Gaming powered by the latest ®️ Core ™️ & ; ®️ ®️ graphics is perfect for …",
+            "created_at": "2021-07-28 15:30:00",
+            "retweet_count": 4,
+            "favorite_count": 36,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8401029013006965,
+                "negativity": 0.15989709869930518
+            },
+            "user_id": 34537386,
+            "text_translation": ""
+        },
+        {
+            "id": 1420386156839981063,
+            "text": "The Ultimate Guide / Gaming / Watch before a / Pro",
+            "created_at": "2021-07-28 14:10:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8805444805373659,
+                "negativity": 0.119455519462635
+            },
+            "user_id": 1393328470466256896,
+            "text_translation": ""
+        },
+        {
+            "id": 1420647266784739329,
+            "text": "Now Available at Gaming Notebook - S712EA 17 . 3 ' i7 - 1165G7 16GB 512GB +…",
+            "created_at": "2021-07-29 07:27:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.894251796313652,
+                "negativity": 0.10574820368634787
+            },
+            "user_id": 1373515477469696000,
+            "text_translation": ""
+        },
+        {
+            "id": 1423659279983153152,
+            "text": "Hello sir i am ur big fan ... Sir ak FLIP 14 ( LATEST 7 VERSION ) w …",
+            "created_at": "2021-08-06 14:56:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4374338266182949,
+                "negativity": 0.5625661733817059
+            },
+            "user_id": 1383657410301108230,
+            "text_translation": ""
+        },
+        {
+            "id": 1423624328319471618,
+            "text": "Just got a 40v thing to finally get some much work done .. OH and an …",
+            "created_at": "2021-08-06 12:37:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4402038339777148,
+                "negativity": 0.5597961660222848
+            },
+            "user_id": 1343324950371971084,
+            "text_translation": ""
+        },
+        {
+            "id": 1424344561057423366,
+            "text": "Just saw this on : 15 Thin and Light , 15 . 6 ” Display , i3 - 1005G1 …",
+            "created_at": "2021-08-08 12:19:41",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36089623712700497,
+                "negativity": 0.6391037628729946
+            },
+            "user_id": 1419391207780798468,
+            "text_translation": ""
+        },
+        {
+            "id": 1424344406866468866,
+            "text": "Just saw this on : 15 Thin and Light , 15 . 6 ” Display ,…",
+            "created_at": "2021-08-08 12:19:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36089623712700497,
+                "negativity": 0.6391037628729946
+            },
+            "user_id": 1419391207780798468,
+            "text_translation": ""
+        },
+        {
+            "id": 1424344279313436677,
+            "text": "Just saw this on : 15 Thin and Light , 15 . 6 ” Display , i3 - 1005G1 C …",
+            "created_at": "2021-08-08 12:18:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36089623712700497,
+                "negativity": 0.6391037628729946
+            },
+            "user_id": 1419391207780798468,
+            "text_translation": ""
+        },
+        {
+            "id": 1426317511600099340,
+            "text": "Bronze 2 gaming ?",
+            "created_at": "2021-08-13 22:59:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.416666666666667,
+                "negativity": 0.5833333333333333
+            },
+            "user_id": 1283427323614822400,
+            "text_translation": ""
+        },
+        {
+            "id": 1426301741440536576,
+            "text": "People who Just Say \" Justification \" yet did they know it was Their possible Purchase ? When I Was Find …",
+            "created_at": "2021-08-13 21:56:49",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42580119858099613,
+                "negativity": 0.5741988014190015
+            },
+            "user_id": 1294206681312714754,
+            "text_translation": ""
+        },
+        {
+            "id": 1426045774366789634,
+            "text": "So here is 14 Core i3 11th Gen 😁🤩 Gaming & ; Video will live on Shiv Tech Sma …",
+            "created_at": "2021-08-13 04:59:41",
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48969607957801103,
+                "negativity": 0.5103039204219884
+            },
+            "user_id": 1420717955298467843,
+            "text_translation": ""
+        },
+        {
+            "id": 1426577538344656905,
+            "text": "Tech Smart : So here is 14 Core i3 11th Gen 😁🤩 Gaming & ; Video will live on Shiv Tech Smart …",
+            "created_at": "2021-08-14 16:12:44",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5589428452375139,
+                "negativity": 0.44105715476248597
+            },
+            "user_id": 1421428986559668230,
+            "text_translation": ""
+        },
+        {
+            "id": 1428083395163267080,
+            "text": "It ' s an Flip 14 on 2 on some random foldable table on an …",
+            "created_at": "2021-08-18 19:56:28",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1297765879003285,
+                "negativity": 0.8702234120996705
+            },
+            "user_id": 1051819085858828290,
+            "text_translation": ""
+        },
+        {
+            "id": 1430776837068804099,
+            "text": "It is powered by an Core i7 and 3080 graphics card for ultimate rendering experience and gam …",
+            "created_at": "2021-08-26 06:19:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.31523425849981346,
+                "negativity": 0.6847657415001892
+            },
+            "user_id": 21177142,
+            "text_translation": ""
+        },
+        {
+            "id": 1431897341401829383,
+            "text": "I thought is Far better than other but sadly i was wrong , After My gaming i seem there …",
+            "created_at": "2021-08-29 08:31:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6054268794716722,
+                "negativity": 0.39457312052832694
+            },
+            "user_id": 1112326373488685056,
+            "text_translation": ""
+        },
+        {
+            "id": 1431828851345084416,
+            "text": "1 . 2 . M513UA - BQ136TS Ryzen7 ( Php38700 ) 3 . M413UA - EB0 …",
+            "created_at": "2021-08-29 03:59:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 38822908,
+            "text_translation": ""
+        }
+    ]
+}

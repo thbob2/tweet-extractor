@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1431737693084520452,
+            "text": "Dear i want to ask if mi 11 lite are cause it is not listed for 12 . 5 Please Answer",
+            "created_at": "2021-08-28 21:57:21",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09629530988078461,
+                "negativity": 0.9037046901192173
+            },
+            "user_id": 1308304576722997248,
+            "text_translation": ""
+        },
+        {
+            "id": 1431732352544395268,
+            "text": "dear , I want to ask that mi 11 lite 4g is not listed for 12 . 5 so i want to ask that is it ' s u …",
+            "created_at": "2021-08-28 21:36:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "4G"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19019557577429375,
+                "negativity": 0.8098044242257054
+            },
+            "user_id": 1308304576722997248,
+            "text_translation": ""
+        },
+        {
+            "id": 1431486077013880836,
+            "text": "Which you are eagerly waiting for , let us know in the . . …",
+            "created_at": "2021-08-28 05:17:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2877800689508708,
+                "negativity": 0.7122199310491288
+            },
+            "user_id": 4494258559,
+            "text_translation": ""
+        },
+        {
+            "id": 1431475538103730183,
+            "text": "till the day these keep making i will keep ...",
+            "created_at": "2021-08-28 04:35:38",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7500964391046283,
+                "negativity": 0.24990356089537205
+            },
+            "user_id": 908332899841314816,
+            "text_translation": ""
+        }
+    ]
+}

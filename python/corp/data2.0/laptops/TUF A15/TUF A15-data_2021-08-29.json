@@ -1,0 +1,50 @@
+{
+    "tweets": [
+        {
+            "id": 1432026256929746948,
+            "text": "32GB ® ™ Memory VivoBook15 - X515EA - BQ562TS - ® Core ™ i5 - 1135G7 ( 8GB RAM / 512GB + 32GB …",
+            "created_at": "2021-08-29 17:04:00",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2228951847031735,
+                "negativity": 0.7771048152968258
+            },
+            "user_id": 1307849715145347073,
+            "text_translation": ""
+        },
+        {
+            "id": 1431879661600980993,
+            "text": "Razer Blade 15 base model , the option ( 11th gen i7 and a 3060 ) A15 Legion 5",
+            "created_at": "2021-08-29 07:21:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3060"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3519683708271602,
+                "negativity": 0.6480316291728377
+            },
+            "user_id": 990538625489158144,
+            "text_translation": ""
+        }
+    ]
+}

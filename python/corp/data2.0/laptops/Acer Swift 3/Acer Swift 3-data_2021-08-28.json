@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1431666226275635202,
+            "text": "swift 3 de",
+            "created_at": "2021-08-28 17:13:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27777777777777785,
+                "negativity": 0.7222222222222221
+            },
+            "user_id": 1387779466881998848,
+            "text_translation": ""
+        },
+        {
+            "id": 1431598711004532737,
+            "text": "Swift 3 14 \" w / i7 , 256GB , 6 - $ 619 . 99 Today",
+            "created_at": "2021-08-28 12:45:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.447799385875128,
+                "negativity": 0.5522006141248714
+            },
+            "user_id": 19513703,
+            "text_translation": ""
+        },
+        {
+            "id": 1431432917557944323,
+            "text": "Swift SF114 - 32 Genuine Battery AP15O5L Network Hardware",
+            "created_at": "2021-08-28 01:46:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13099902056807056,
+                "negativity": 0.8690009794319308
+            },
+            "user_id": 1222096932664774656,
+            "text_translation": ""
+        }
+    ]
+}

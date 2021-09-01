@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1431660406393606151,
+            "text": "Multiple like Velvet 2 Pro also on Play console tho",
+            "created_at": "2021-08-28 16:50:14",
+            "retweet_count": 0,
+            "favorite_count": 9,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.25878358043795596,
+                "negativity": 0.7412164195620454
+            },
+            "user_id": 1010011549132443648,
+            "text_translation": ""
+        },
+        {
+            "id": 1431453148560822273,
+            "text": "I believe that I am my order for the Flip3 I am a hardware person , practical application . I have : …",
+            "created_at": "2021-08-28 03:06:40",
+            "retweet_count": 0,
+            "favorite_count": 8,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8765516651212216,
+                "negativity": 0.12344833487878037
+            },
+            "user_id": 1381251623276531714,
+            "text_translation": ""
+        }
+    ]
+}

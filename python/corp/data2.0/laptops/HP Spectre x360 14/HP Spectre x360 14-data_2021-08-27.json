@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1431203167031595017,
+            "text": "x360 14 is priced in starting at ₹. 1 , 19 , 999 . Follow getter hpspectrex360 …",
+            "created_at": "2021-08-27 10:33:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.06462722852512148,
+                "negativity": 0.9353727714748781
+            },
+            "user_id": 1306620082278207489,
+            "text_translation": ""
+        },
+        {
+            "id": 1431123977888542727,
+            "text": "x360 14 convertible in : Check price and – Times Now",
+            "created_at": "2021-08-27 05:18:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5329753095704355,
+                "negativity": 0.4670246904295641
+            },
+            "user_id": 844839127329587200,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1431844970395103236,
+            "text": "My pick",
+            "created_at": "2021-08-29 05:03:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4325842696629213,
+                "negativity": 0.5674157303370787
+            },
+            "user_id": 1419560295840718850,
+            "text_translation": ""
+        },
+        {
+            "id": 1431799144935354371,
+            "text": "I win the ROG Zephyrus G14 ( 2021 ) in spin and win",
+            "created_at": "2021-08-29 02:01:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5516365768270085,
+                "negativity": 0.4483634231729917
+            },
+            "user_id": 1428989054557720580,
+            "text_translation": ""
+        },
+        {
+            "id": 1431790118428311554,
+            "text": "Picked up an ROG Zephyrus G14 for my wife . Not quite as as a 15 ” but a lot more portable",
+            "created_at": "2021-08-29 01:25:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8033512966506401,
+                "negativity": 0.19664870334935985
+            },
+            "user_id": 754205601836568576,
+            "text_translation": ""
+        }
+    ]
+}

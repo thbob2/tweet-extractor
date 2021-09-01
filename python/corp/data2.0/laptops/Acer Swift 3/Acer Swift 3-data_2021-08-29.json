@@ -1,0 +1,83 @@
+{
+    "tweets": [
+        {
+            "id": 1431976661558312966,
+            "text": "Just saw this on : Swift 3 Thin & ; Light | 14 \" Full 100 % Display | 7 5700U O …",
+            "created_at": "2021-08-29 13:46:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18451897311031373,
+                "negativity": 0.8154810268896875
+            },
+            "user_id": 1377713917,
+            "text_translation": ""
+        },
+        {
+            "id": 1431916983906406400,
+            "text": "Row The Third | ( 1650 Super / 1050 Ti / Swift 3 )",
+            "created_at": "2021-08-29 09:49:47",
+            "retweet_count": 0,
+            "favorite_count": 12,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17647185196799958,
+                "negativity": 0.8235281480320019
+            },
+            "user_id": 1167008779763965952,
+            "text_translation": ""
+        },
+        {
+            "id": 1431884066777964544,
+            "text": "Portable 14 \" Swift 3 SF314 - 59 - , i5 - 1135G7 , RAM 8Go , 512Go , 10",
+            "created_at": "2021-08-29 07:38:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11363636363636366,
+                "negativity": 0.8863636363636349
+            },
+            "user_id": 786512340464263168,
+            "text_translation": ""
+        },
+        {
+            "id": 1431796743381811209,
+            "text": ". I have an Swift 3 . I ' had the same one for 6 . I don ' t need a new …",
+            "created_at": "2021-08-29 01:51:59",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24141221422149747,
+                "negativity": 0.7585877857785022
+            },
+            "user_id": 189406309,
+            "text_translation": ""
+        }
+    ]
+}

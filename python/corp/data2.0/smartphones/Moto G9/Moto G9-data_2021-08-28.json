@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1431594354305548295,
+            "text": "ch0 i Z lYl9 I can recommend you two its mid range you can buy anyone Ga …",
+            "created_at": "2021-08-28 12:27:46",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7814597274593134,
+                "negativity": 0.21854027254068725
+            },
+            "user_id": 1400184493206556679,
+            "text_translation": ""
+        },
+        {
+            "id": 1431592431569494016,
+            "text": "I can recommend you two its mid range you can buy anyone Galaxy M51 8 RAM 7000 Ultra wide c …",
+            "created_at": "2021-08-28 12:20:08",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7862780956935285,
+                "negativity": 0.21372190430647206
+            },
+            "user_id": 1400184493206556679,
+            "text_translation": ""
+        },
+        {
+            "id": 1431466888102649856,
+            "text": "cass G9 play",
+            "created_at": "2021-08-28 04:01:16",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2533834586466162,
+                "negativity": 0.746616541353384
+            },
+            "user_id": 216290493,
+            "text_translation": ""
+        },
+        {
+            "id": 1431464962216669185,
+            "text": "My G9 made 40 without recharge , with 5 of and 5 of paint . 🥲",
+            "created_at": "2021-08-28 03:53:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4751660707538494,
+                "negativity": 0.5248339292461511
+            },
+            "user_id": 1319384285049126913,
+            "text_translation": ""
+        }
+    ]
+}

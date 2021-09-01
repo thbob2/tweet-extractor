@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1430616689024987138,
+            "text": "Discount Up to 51 % = $ 244 - Spin 311 Convertible",
+            "created_at": "2021-08-25 19:42:52",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4376558603491274,
+                "negativity": 0.5623441396508728
+            },
+            "user_id": 742914897558654981,
+            "text_translation": ""
+        },
+        {
             "id": 1430570706794909696,
             "text": "Spin 311 convertible at a 50 % discount ! Tech News …",
             "created_at": "2021-08-25 16:40:09",

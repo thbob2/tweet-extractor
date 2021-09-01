@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1432066834136772611,
+            "text": "C $ 31 . 24 - | Keep Smiling , Its Sale Today Case - Mate - Velvet 5G Case - Tough - Clear CaseMate …",
+            "created_at": "2021-08-29 19:45:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9550540316907428,
+                "negativity": 0.04494596830925616
+            },
+            "user_id": 1187925999389986816,
+            "text_translation": ""
+        },
+        {
+            "id": 1431768822445481987,
+            "text": ": - ( pd101 ) into the new world one - energetic , ( pd101 ) never - solo - um oh ah , yes i am h …",
+            "created_at": "2021-08-29 00:01:02",
+            "retweet_count": 144,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7942843077749143,
+                "negativity": 0.20571569222508607
+            },
+            "user_id": 1004489874374881283,
+            "text_translation": ""
+        }
+    ]
+}

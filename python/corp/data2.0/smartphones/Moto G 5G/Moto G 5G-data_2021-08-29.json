@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432026418775461897,
+            "text": "G Stylus 5G Price and",
+            "created_at": "2021-08-29 17:04:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5769230769230772,
+                "negativity": 0.42307692307692296
+            },
+            "user_id": 1273858157081657344,
+            "text_translation": ""
+        },
+        {
+            "id": 1431895510026055692,
+            "text": "when will g 5g android 11 update in ?",
+            "created_at": "2021-08-29 08:24:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4254598253076652,
+                "negativity": 0.5745401746923345
+            },
+            "user_id": 787971388200120321,
+            "text_translation": ""
+        },
+        {
+            "id": 1431804648516571136,
+            "text": "It ' s been more than 8 since G 5G and it is still running on Android 10 , many ask about t …",
+            "created_at": "2021-08-29 02:23:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6359140750640683,
+                "negativity": 0.3640859249359313
+            },
+            "user_id": 807191289095536641,
+            "text_translation": ""
+        }
+    ]
+}

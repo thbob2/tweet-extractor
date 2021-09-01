@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1431947754045992961,
+            "text": "Quick ! ' s got this blazing - fast , shape - shifting on sale for nearly half off !…",
+            "created_at": "2021-08-29 11:52:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4747420501674284,
+                "negativity": 0.5252579498325727
+            },
+            "user_id": 885401022507515904,
+            "text_translation": ""
+        },
+        {
+            "id": 1431900556734320640,
+            "text": "deal Spin 311 Convertible N4020 , 11 . 6 \" Touch , 4GB LPDDR4 , 32GB e …",
+            "created_at": "2021-08-29 08:44:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6786557045471565,
+                "negativity": 0.3213442954528431
+            },
+            "user_id": 834303577099223041,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1431897341401829383,
+            "text": "I thought is Far better than other but sadly i was wrong , After My gaming i seem there …",
+            "created_at": "2021-08-29 08:31:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6054268794716722,
+                "negativity": 0.39457312052832694
+            },
+            "user_id": 1112326373488685056,
+            "text_translation": ""
+        },
+        {
+            "id": 1431828851345084416,
+            "text": "1 . 2 . M513UA - BQ136TS Ryzen7 ( Php38700 ) 3 . M413UA - EB0 …",
+            "created_at": "2021-08-29 03:59:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 38822908,
+            "text_translation": ""
+        }
+    ]
+}

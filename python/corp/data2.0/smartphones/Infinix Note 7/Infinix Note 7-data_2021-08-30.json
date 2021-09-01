@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432413963161989121,
+            "text": "Please all new series please add & ; Infrared SMART + Helio G25 / G35 6 , 5 inch 3Gb /…",
+            "created_at": "2021-08-30 18:44:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10528260288174623,
+                "negativity": 0.8947173971182543
+            },
+            "user_id": 1407536311993442306,
+            "text_translation": ""
+        },
+        {
+            "id": 1432320724958527491,
+            "text": "Kindly please provide to note 7",
+            "created_at": "2021-08-30 12:34:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6184310070727397,
+                "negativity": 0.38156899292726065
+            },
+            "user_id": 1326851112645787650,
+            "text_translation": ""
+        },
+        {
+            "id": 1432277558536638468,
+            "text": "This guy 5 just my note 7",
+            "created_at": "2021-08-30 09:42:35",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4663494695537027,
+                "negativity": 0.5336505304462974
+            },
+            "user_id": 772931354002657280,
+            "text_translation": ""
+        }
+    ]
+}

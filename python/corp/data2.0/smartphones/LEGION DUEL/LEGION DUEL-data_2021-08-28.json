@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1431685796818350081,
+            "text": ": The Legion ​ Phone Duel 2 in Ultimate Black is priced at P39 , 995 for the 12GB / 256 variant and P49 , 995 for th …",
+            "created_at": "2021-08-28 18:31:08",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6880772982306687,
+                "negativity": 0.3119227017693294
+            },
+            "user_id": 193710937,
+            "text_translation": ""
+        },
+        {
+            "id": 1431665783940153349,
+            "text": "Sir please legion duel 2 phone giveaway",
+            "created_at": "2021-08-28 17:11:36",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15348372358652262,
+                "negativity": 0.8465162764134798
+            },
+            "user_id": 1427623046437814278,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432460947944194048,
+            "text": "* They are . this wing aint it 😂 I do …",
+            "created_at": "2021-08-30 21:51:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38014310383621863,
+                "negativity": 0.6198568961637813
+            },
+            "user_id": 927243556493725696,
+            "text_translation": ""
+        },
+        {
+            "id": 1432410100535373824,
+            "text": "i don ’ t think you can use them with an wing",
+            "created_at": "2021-08-30 18:29:15",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3840946933121125,
+                "negativity": 0.6159053066878872
+            },
+            "user_id": 1328409419344990208,
+            "text_translation": ""
+        },
+        {
+            "id": 1432183916354433027,
+            "text": ": It CANNOT be enough . The radical , right wing recall attempt could put a Trump supporting Republican in power h …",
+            "created_at": "2021-08-30 03:30:29",
+            "retweet_count": 2413,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3136822098128179,
+                "negativity": 0.6863177901871829
+            },
+            "user_id": 581342543,
+            "text_translation": ""
+        }
+    ]
+}

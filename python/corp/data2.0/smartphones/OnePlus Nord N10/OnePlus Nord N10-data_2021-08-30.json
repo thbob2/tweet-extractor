@@ -1,0 +1,65 @@
+{
+    "tweets": [
+        {
+            "id": 1432492708027944971,
+            "text": ": N10 • 6 . 49 inch screen • Android 10 Oxygen Os 10 . 5 • - snapdragon 690 5G • 6GB RAM + 128GB • Ba …",
+            "created_at": "2021-08-30 23:57:30",
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10427947002323963,
+                "negativity": 0.8957205299767595
+            },
+            "user_id": 297315451,
+            "text_translation": ""
+        },
+        {
+            "id": 1432282613918601218,
+            "text": "N10 • 6 . 49 inch screen • Android 10 Oxygen Os 10 . 5 • - snapdragon 690 5G • 6GB RAM + 128GB …",
+            "created_at": "2021-08-30 10:02:40",
+            "retweet_count": 17,
+            "favorite_count": 33,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10427947002323963,
+                "negativity": 0.8957205299767595
+            },
+            "user_id": 1313413672866373635,
+            "text_translation": ""
+        },
+        {
+            "id": 1432280217926705152,
+            "text": "N10 6 + 128 - 30 , 000",
+            "created_at": "2021-08-30 09:53:09",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2499999999999997,
+                "negativity": 0.75
+            },
+            "user_id": 1313413672866373635,
+            "text_translation": ""
+        }
+    ]
+}

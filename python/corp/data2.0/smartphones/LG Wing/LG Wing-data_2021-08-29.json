@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432042447924711430,
+            "text": "It really on the union . Here in / teacher back the , but there ’ s sig …",
+            "created_at": "2021-08-29 18:08:20",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7580428660733953,
+                "negativity": 0.24195713392660487
+            },
+            "user_id": 11144142,
+            "text_translation": ""
+        },
+        {
+            "id": 1431873265018961925,
+            "text": "WING 5g , no call recording feature , no ' s own f …",
+            "created_at": "2021-08-29 06:56:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7078162863694755,
+                "negativity": 0.2921837136305233
+            },
+            "user_id": 3266040751,
+            "text_translation": ""
+        },
+        {
+            "id": 1431773245674557440,
+            "text": "Stonewall to day was - : I don ' t understand why you know , he that four in a bat ' s wing .",
+            "created_at": "2021-08-29 00:18:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38331348781709024,
+                "negativity": 0.6166865121829094
+            },
+            "user_id": 3293729274,
+            "text_translation": ""
+        }
+    ]
+}

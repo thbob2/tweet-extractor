@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432345107446042627,
+            "text": "Why not android 11 upgrade for e7 plus user its unfair with middle class user all other brand …",
+            "created_at": "2021-08-30 14:10:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7405632620725957,
+                "negativity": 0.25943673792740657
+            },
+            "user_id": 1100043969520488451,
+            "text_translation": ""
+        },
+        {
+            "id": 1432339610554679304,
+            "text": "Support Dear team , I had a phone e7 from a w …",
+            "created_at": "2021-08-30 13:49:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5346887469765345,
+                "negativity": 0.4653112530234662
+            },
+            "user_id": 1357359837408067584,
+            "text_translation": ""
+        },
+        {
+            "id": 1432331301957210121,
+            "text": "Support on 21 E7 Power mobile for my Sister to gift on . Yesterday my gift …",
+            "created_at": "2021-08-30 13:16:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9823124032739344,
+                "negativity": 0.01768759672606393
+            },
+            "user_id": 566929270,
+            "text_translation": ""
+        }
+    ]
+}

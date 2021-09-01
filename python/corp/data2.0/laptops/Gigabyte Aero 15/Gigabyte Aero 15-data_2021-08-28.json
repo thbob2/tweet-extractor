@@ -1,0 +1,26 @@
+{
+    "tweets": [
+        {
+            "id": 1431406251880058884,
+            "text": "Aero 15 Gaming : i7 11800H , 4K , 1TB , 3070 is $ 1699 ( Previous : $ 1 , 999 . 00 )…",
+            "created_at": "2021-08-28 00:00:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3070"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42142857142857154,
+                "negativity": 0.5785714285714295
+            },
+            "user_id": 1279541961528012800,
+            "text_translation": ""
+        }
+    ]
+}

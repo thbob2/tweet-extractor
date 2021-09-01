@@ -1,0 +1,105 @@
+{
+    "tweets": [
+        {
+            "id": 1432408400952975361,
+            "text": "G 5G Not available . Note book Biggest mistake MotorolamotoG5g",
+            "created_at": "2021-08-30 18:22:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5805445282239582,
+                "negativity": 0.41945547177604126
+            },
+            "user_id": 1139676353698160640,
+            "text_translation": ""
+        },
+        {
+            "id": 1432407798231543813,
+            "text": "Support G 5G Not available .. Note book Biggest mistake",
+            "created_at": "2021-08-30 18:20:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7162189631681141,
+                "negativity": 0.2837810368318868
+            },
+            "user_id": 1139676353698160640,
+            "text_translation": ""
+        },
+        {
+            "id": 1432346011159207938,
+            "text": "for G Stylus 5G Case : with Front Built in Screen Protector & ; Hard Anti - Scratch Clear Back Case – Full …",
+            "created_at": "2021-08-30 14:14:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.862545307360712,
+                "negativity": 0.13745469263928609
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        },
+        {
+            "id": 1432319069336702977,
+            "text": "G Stylus 5G | 2021 | 2 - Day Battery | Unlocked | Made for US by | 6 / 256GB | 48MP Camera | Cosmic …",
+            "created_at": "2021-08-30 12:27:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery",
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3562192030466284,
+                "negativity": 0.6437807969533723
+            },
+            "user_id": 1083237090572361728,
+            "text_translation": ""
+        },
+        {
+            "id": 1432173949174099973,
+            "text": "G Stylus 5G Price and For 👉 hashtag2",
+            "created_at": "2021-08-30 02:50:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.579459610695871,
+                "negativity": 0.4205403893041285
+            },
+            "user_id": 1273858157081657344,
+            "text_translation": ""
+        }
+    ]
+}

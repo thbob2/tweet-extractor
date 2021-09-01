@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1431575056191209473,
+            "text": ", , Spin 311 CP311 - 3H - K14Q Notebook , MT8183 con - core , Ram 4 , 6 …",
+            "created_at": "2021-08-28 11:11:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09257120862201662,
+                "negativity": 0.9074287913779815
+            },
+            "user_id": 32871274,
+            "text_translation": ""
+        },
+        {
+            "id": 1431406927003545606,
+            "text": "29 % Off - Spin 311 Convertible , N4020 , 11 . 6 \" Touch , 4GB LPDDR4 , 32GB ,…",
+            "created_at": "2021-08-28 00:03:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5727705153651363,
+                "negativity": 0.4272294846348642
+            },
+            "user_id": 856805168524005376,
+            "text_translation": ""
+        }
+    ]
+}
