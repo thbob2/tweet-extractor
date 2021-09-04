@@ -146,13 +146,13 @@ def error_msg(text):
 
 
 if __name__ == '__main__':
-    #init()
-    #import_phones()
-    #import_phones_data()
-    #import_laptops()
-    #import_laptops_data()
-    #import_companies()
-    #improt_companies_data()
+    init()
+    import_phones()
+    import_phones_data()
+    import_laptops()
+    import_laptops_data()
+    import_companies()
+    improt_companies_data()
 
     export_database("t_punch","companies")
     export_database("t_punch","laptops")
