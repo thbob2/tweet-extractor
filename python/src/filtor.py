@@ -387,6 +387,9 @@ def filterCompanies():
         string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
         file.write(string)
 
+def sortTweet(tweet):
+    date = dt.datetime.strptime(tweet.created_at,'%Y-%m-%d %H:%M:%S')
+    return date
 
 def Semantico(files,n):
     
@@ -423,7 +426,7 @@ def Semantico(files,n):
                 alltweets.append(tempo)
                 cpt +=1
         
-        
+        alltweets.sort(key=sortTweet,reverse=False)
         chunk_m['query'] = os.path.basename(chunk[0]).split('-')[0]
         chunk_m['start'] = alltweets[0].created_at
         chunk_m['end'] = alltweets[len(alltweets)-1].created_at
@@ -435,7 +438,7 @@ def Semantico(files,n):
 
 
 def chunkyboy(path):
-    chinks = exploreCorp(path)
+    chinks = exploreCorp(path,sortit=True)
     alterpath = path.replace("data2.0","data3.0")
     
     #! going throught phones
@@ -455,17 +458,17 @@ def chunkyboy(path):
 
 #!main method
 if __name__ == '__main__':
-#    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path2,"laptops")
-    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path2,"companies")
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path2,"smartphones")
-
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path3,"smartphones")
-    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path3,"laptops")
-    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
- 
-    filterPhones()
-    filterLaptops()
-    filterCompanies()
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path2,"laptops")
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path2,"companies")
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path2,"smartphones")
+#
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path3,"smartphones")
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path3,"laptops")
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
+ #
+    #filterPhones()
+    #filterLaptops()
+    #filterCompanies()
     chunkyboy(laptops)
     chunkyboy(companies)
     chunkyboy(phones)

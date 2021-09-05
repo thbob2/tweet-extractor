@@ -193,8 +193,8 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4348837209302324,
-                "negativity": 0.5651162790697675
+                "positivity": 0.43488372093023253,
+                "negativity": 0.5651162790697677
             },
             "user_id": 175438396,
             "text_translation": ""
@@ -426,6 +426,25 @@
                 "classification": "pos",
                 "positivity": 0.9059750744509018,
                 "negativity": 0.0940249255490982
+            },
+            "user_id": 16519133,
+            "text_translation": ""
+        },
+        {
+            "id": 1359112439359561730,
+            "text": "To ensure the security of your information , I ' d suggest that you delete the post any Dell …",
+            "created_at": "2021-02-09 12:10:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8141181916241501,
+                "negativity": 0.18588180837584906
             },
             "user_id": 16519133,
             "text_translation": ""

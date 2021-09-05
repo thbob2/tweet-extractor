@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1433546914767654915,
+            "text": "The latest Air is $ 100 off at Best Buy and",
+            "created_at": "2021-09-02 21:46:33",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6488172587462755,
+                "negativity": 0.35118274125372334
+            },
+            "user_id": 950289285596483584,
+            "text_translation": ""
+        },
+        {
+            "id": 1433227613821079552,
+            "text": "AERO 15 - 15 . 6 & ; quot ; 4K , C rtx3070 Source : Search Reason : …",
+            "created_at": "2021-09-02 00:37:45",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38405532725084307,
+                "negativity": 0.6159446727491572
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        }
+    ]
+}

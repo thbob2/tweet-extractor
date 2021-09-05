@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1433128929968197637,
+            "text": "I legit haven ' t been this excited for a phone since the Wing was .",
+            "created_at": "2021-09-01 18:05:37",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6946895027236197,
+                "negativity": 0.3053104972763794
+            },
+            "user_id": 431959571,
+            "text_translation": ""
+        },
+        {
+            "id": 1433072523797663749,
+            "text": "Chief Justice of and High Court , Justice , who is also the patron chief of Legal …",
+            "created_at": "2021-09-01 14:21:29",
+            "retweet_count": 0,
+            "favorite_count": 12,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9473760458892205,
+                "negativity": 0.05262395411078162
+            },
+            "user_id": 1196297083478663171,
+            "text_translation": ""
+        },
+        {
+            "id": 1433057750548877312,
+            "text": ": You think will ask why he for the ’ Infrastructure bill and voting for ’ s left wing jud …",
+            "created_at": "2021-09-01 13:22:47",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29465504246461954,
+                "negativity": 0.7053449575353801
+            },
+            "user_id": 761958372002455553,
+            "text_translation": ""
+        },
+        {
+            "id": 1432922892904239114,
+            "text": "Unit - Modulus Wireless Learning Via Penalty Alternating Minimization . Wang , Li , Wang , …",
+            "created_at": "2021-09-01 04:26:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9332506109458762,
+                "negativity": 0.06674938905412316
+            },
+            "user_id": 945436477642571776,
+            "text_translation": ""
+        },
+        {
+            "id": 1432873559802646532,
+            "text": "You think will ask why he for the ’ Infrastructure bill and voting for ’ s left w …",
+            "created_at": "2021-09-01 01:10:52",
+            "retweet_count": 1,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38935486744549347,
+                "negativity": 0.6106451325545063
+            },
+            "user_id": 1022597049198542848,
+            "text_translation": ""
+        }
+    ]
+}

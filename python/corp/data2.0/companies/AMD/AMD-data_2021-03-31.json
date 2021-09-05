@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1377410375428214789,
+            "text": ": I made a cover to !😯 PLEASE TAG",
+            "created_at": "2021-03-31 23:59:59",
+            "retweet_count": 6692,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2931223758023408,
+                "negativity": 0.7068776241976584
+            },
+            "user_id": 752302225389674496,
+            "text_translation": ""
+        },
+        {
             "id": 1377403157936963585,
             "text": "Let ’ s get this party . Highly . 6 . 6 million float 👇 ⚓️👇 $ $ $ $ $ $ …",
             "created_at": "2021-03-31 23:31:18",
@@ -390,7 +409,7 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.656692393437327,
+                "positivity": 0.6566923934373269,
                 "negativity": 0.34330760656267306
             },
             "user_id": 27219913,
@@ -413,6 +432,25 @@
                 "negativity": 0.5783947510082778
             },
             "user_id": 975143158093885442,
+            "text_translation": ""
+        },
+        {
+            "id": 1377305255562506240,
+            "text": ": Honest opinion about the 2021 exam : Totally unfair the way exam been , many people already knew …",
+            "created_at": "2021-03-31 17:02:16",
+            "retweet_count": 129,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7667776547991662,
+                "negativity": 0.23322234520083576
+            },
+            "user_id": 1375691925785747456,
             "text_translation": ""
         },
         {

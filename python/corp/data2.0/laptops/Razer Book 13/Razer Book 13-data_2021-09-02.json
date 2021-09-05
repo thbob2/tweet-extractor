@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1433571261947465734,
+            "text": "That is just completely unacceptable on so many . I hope you had stuff backed u …",
+            "created_at": "2021-09-02 23:23:17",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18945283437550517,
+                "negativity": 0.8105471656244947
+            },
+            "user_id": 62767148,
+            "text_translation": ""
+        },
+        {
+            "id": 1433349316257718272,
+            "text": "Razer Book 13 Review The First Razer",
+            "created_at": "2021-09-02 08:41:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4946384466902349,
+                "negativity": 0.5053615533097651
+            },
+            "user_id": 1400064972714020871,
+            "text_translation": ""
+        }
+    ]
+}

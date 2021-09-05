@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432620601143869442,
+            "text": "velvet is their latest flagship ? 🤔",
+            "created_at": "2021-08-31 08:25:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.46875602990834514,
+                "negativity": 0.5312439700916545
+            },
+            "user_id": 295975323,
+            "text_translation": ""
+        },
+        {
+            "id": 1432587478163148802,
+            "text": "Support My phone is an Velvet , it ' s on a hybrid contract on it just switched off and was never on …",
+            "created_at": "2021-08-31 06:14:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9089697116832075,
+                "negativity": 0.09103028831679016
+            },
+            "user_id": 262188649,
+            "text_translation": ""
+        },
+        {
+            "id": 1432533443443769348,
+            "text": "Check out this listing I just added to my closet : Was Blue Velvet Tunic Top .…",
+            "created_at": "2021-08-31 02:39:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07745973865458484,
+                "negativity": 0.9225402613454144
+            },
+            "user_id": 1041685764663197696,
+            "text_translation": ""
+        }
+    ]
+}

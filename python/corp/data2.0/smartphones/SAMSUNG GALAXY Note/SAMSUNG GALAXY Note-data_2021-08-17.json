@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1427776771399700484,
-            "text": "There ’ s still a place for the Note in ’ s Galaxy",
-            "created_at": "2021-08-17 23:38:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7017554788405014,
-                "negativity": 0.29824452115949834
-            },
-            "user_id": 23355756,
-            "text_translation": ""
-        },
-        {
             "id": 1427776057239908353,
             "text": "( ) Galaxy Note 9 , 128GB , Ocean Blue – Fully Unlocked",
             "created_at": "2021-08-17 23:35:13",
@@ -36,25 +17,6 @@
                 "negativity": 0.20408941556172316
             },
             "user_id": 114677434,
-            "text_translation": ""
-        },
-        {
-            "id": 1427768231532457987,
-            "text": ": There ’ s still a place for the Note in ’ s Galaxy",
-            "created_at": "2021-08-17 23:04:07",
-            "retweet_count": 10,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7017554788405014,
-                "negativity": 0.29824452115949834
-            },
-            "user_id": 1351229750312886275,
             "text_translation": ""
         },
         {
@@ -79,9 +41,9 @@
             "text_translation": ""
         },
         {
-            "id": 1427757607348023301,
-            "text": "There ’ s still a place for the Note in ’ s Galaxy -",
-            "created_at": "2021-08-17 22:21:54",
+            "id": 1427761029887500290,
+            "text": "REMOVE ENROLLMENT ( Galaxy S9 S9 PLUS NOTE 9 G960U1 G965U1 N960U1 ) Specialty",
+            "created_at": "2021-08-17 22:35:30",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -91,10 +53,10 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.7017554788405014,
-                "negativity": 0.29824452115949834
+                "positivity": 0.5868081475951809,
+                "negativity": 0.41319185240482037
             },
-            "user_id": 939619788694966272,
+            "user_id": 1342118286821969922,
             "text_translation": ""
         },
         {
@@ -806,6 +768,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427552706894442526,
+            "text": ": Title : Future Phone Model : Galaxy Note 9 Composer : ()",
+            "created_at": "2021-08-17 08:47:42",
+            "retweet_count": 442,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9189185577477106,
+                "negativity": 0.08108144225229
+            },
+            "user_id": 1138521946830856194,
+            "text_translation": ""
+        },
+        {
             "id": 1427549598105567232,
             "text": "Galaxy Note 10 Free ➤ £ 279 . 89 . ➤",
             "created_at": "2021-08-17 08:35:21",
@@ -1014,6 +995,27 @@
                 "negativity": 0.14216712254943523
             },
             "user_id": 1217905783423283203,
+            "text_translation": ""
+        },
+        {
+            "id": 1427427232859971585,
+            "text": "Galaxy S10 Note clear dust cap plug cover anti lint charger port type c via …",
+            "created_at": "2021-08-17 00:29:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "charger"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9203069906985023,
+                "negativity": 0.07969300930149335
+            },
+            "user_id": 1146352927906455555,
             "text_translation": ""
         }
     ]

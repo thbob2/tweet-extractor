@@ -20,25 +20,6 @@
             "text_translation": ""
         },
         {
-            "id": 1419779453408919556,
-            "text": "PF1 1200W 80 + Platinum 16 . 8 Mill 1200W Source : Checker v3R Reason :…",
-            "created_at": "2021-07-26 21:59:34",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6175407362896588,
-                "negativity": 0.3824592637103424
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
             "id": 1419779110818263042,
             "text": "solid , but personally I would swap the for something like an , are very",
             "created_at": "2021-07-26 21:58:12",
@@ -429,6 +410,25 @@
             "text_translation": ""
         },
         {
+            "id": 1419531750900965376,
+            "text": ": Our Floe Snow Edition lighting up our game room , giving off some positive ! Have a great weekend , everyone …",
+            "created_at": "2021-07-26 05:35:17",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9067173201269586,
+                "negativity": 0.09328267987304005
+            },
+            "user_id": 951359370,
+            "text_translation": ""
+        },
+        {
             "id": 1419458146418966537,
             "text": "ROG Video card long for days",
             "created_at": "2021-07-26 00:42:49",
@@ -445,6 +445,29 @@
                 "negativity": 0.6425423960868651
             },
             "user_id": 434714679,
+            "text_translation": ""
+        },
+        {
+            "id": 1419456463584567300,
+            "text": "Here are some of the specs : Case : AH T600 Full Tower : ™ 9 5950X : ™ 3080 10 …",
+            "created_at": "2021-07-26 00:36:07",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080",
+                "specs",
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38806080359136313,
+                "negativity": 0.6119391964086365
+            },
+            "user_id": 1415516243902271490,
             "text_translation": ""
         }
     ]

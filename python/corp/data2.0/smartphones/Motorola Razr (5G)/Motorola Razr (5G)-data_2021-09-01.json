@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1433143506051211271,
+            "text": "I don ' t know how you can stand it , how do you do the Star Trek communicator flip open with the z …",
+            "created_at": "2021-09-01 19:03:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3748090290352455,
+                "negativity": 0.6251909709647538
+            },
+            "user_id": 953820139622842369,
+            "text_translation": ""
+        },
+        {
+            "id": 1433019454049464324,
+            "text": "Is Making a Comeback in Wireless ? Jeff by …",
+            "created_at": "2021-09-01 10:50:36",
+            "retweet_count": 17,
+            "favorite_count": 16,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6170024177637795,
+                "negativity": 0.38299758223622005
+            },
+            "user_id": 16707004,
+            "text_translation": ""
+        },
+        {
+            "id": 1432949860328558596,
+            "text": "Get this : 5G | Unlocked | Made for US by | 8 / 256GB | 48MP Camera | 2 …",
+            "created_at": "2021-09-01 06:14:04",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4685007876790565,
+                "negativity": 0.5314992123209439
+            },
+            "user_id": 755597612837851136,
+            "text_translation": ""
+        }
+    ]
+}

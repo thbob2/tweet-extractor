@@ -1,6 +1,28 @@
 {
     "tweets": [
         {
+            "id": 1423325492309024772,
+            "text": "Dell 15 9570 I7 - 8750H 4K 16GbB RAM 512GB 10 - Silver electronics ad",
+            "created_at": "2021-08-05 16:50:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.25,
+                "negativity": 0.749999999999999
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
             "id": 1423311723281338372,
             "text": "If you ' re a parent or a student looking for a cost - effective , Dell is offering a significant discount on t …",
             "created_at": "2021-08-05 15:55:33",

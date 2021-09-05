@@ -79,6 +79,25 @@
             "text_translation": ""
         },
         {
+            "id": 1428084059108950022,
+            "text": "How to choose between the Dell 13 and the 13",
+            "created_at": "2021-08-18 19:59:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.817203359463696,
+                "negativity": 0.182796640536303
+            },
+            "user_id": 3407543806,
+            "text_translation": ""
+        },
+        {
             "id": 1428069528232153096,
             "text": "I bought a Dell 13 back in 2016 I think it was . It was an extravagant purchase at the time but I …",
             "created_at": "2021-08-18 19:01:22",
@@ -117,22 +136,26 @@
             "text_translation": ""
         },
         {
-            "id": 1428040613539180550,
-            "text": "for longevity I would recommend the M1 . I ' d recommend a dell 13 or 15 over an Envy though if you w …",
-            "created_at": "2021-08-18 17:06:28",
-            "retweet_count": 0,
-            "favorite_count": 1,
+            "id": 1428024636306956293,
+            "text": ": Looking for a 2 in 1 . i7 11th Gen Processor , 16GB RAM , min 512GB , Iris Graphics or Ge …",
+            "created_at": "2021-08-18 16:02:59",
+            "retweet_count": 2,
+            "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
             "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.9969441253136923,
-                "negativity": 0.0030558746863070378
+                "classification": "neg",
+                "positivity": 0.06308870879237752,
+                "negativity": 0.9369112912076241
             },
-            "user_id": 322533300,
+            "user_id": 1184712829145772033,
             "text_translation": ""
         },
         {
@@ -299,25 +322,63 @@
             "text_translation": ""
         },
         {
-            "id": 1427865342303514625,
-            "text": "Dell 13 9310 Processor i5 - 1135G7 13 . 4 \" ( 1920 x 1200 ) 8GB 4267MHz LPDDR4x M . 2 512GB …",
-            "created_at": "2021-08-18 05:30:00",
+            "id": 1427866264278642691,
+            "text": "Dell 13 7390 16GB RAM / 256GB 244 , 999 & ; Free Delivery & ; 0711 516475 Key ; 13 . 3 inch , …",
+            "created_at": "2021-08-18 05:33:40",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [
-                "i5",
-                "8GB"
+                "RAM",
+                "16GB"
             ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15717026374096996,
+                "negativity": 0.8428297362590303
+            },
+            "user_id": 800699811234123777,
+            "text_translation": ""
+        },
+        {
+            "id": 1427812742640152584,
+            "text": "IN : The power to explore your , now for less . Avail 10 % and No Cost on the XPS13 Know more :",
+            "created_at": "2021-08-18 02:00:59",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.32657204715115373,
+                "negativity": 0.6734279528488452
+            },
+            "user_id": 1090606410898067456,
+            "text_translation": ""
+        },
+        {
+            "id": 1427804489755418626,
+            "text": ": How to choose between the Dell 13 and the 13",
+            "created_at": "2021-08-18 01:28:12",
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6428571428571421,
-                "negativity": 0.35714285714285665
+                "positivity": 0.817203359463696,
+                "negativity": 0.182796640536303
             },
-            "user_id": 1380406622040682497,
+            "user_id": 2298786558,
             "text_translation": ""
         },
         {

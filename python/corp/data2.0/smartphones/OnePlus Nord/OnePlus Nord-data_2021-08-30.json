@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1432492708027944971,
+            "text": ": N10 • 6 . 49 inch screen • Android 10 Oxygen Os 10 . 5 • - snapdragon 690 5G • 6GB RAM + 128GB • Ba …",
+            "created_at": "2021-08-30 23:57:30",
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10427947002323963,
+                "negativity": 0.8957205299767595
+            },
+            "user_id": 297315451,
+            "text_translation": ""
+        },
+        {
             "id": 1432491939564331011,
             "text": "2 gaming , 7 series in new",
             "created_at": "2021-08-30 23:54:27",
@@ -76,27 +97,6 @@
                 "negativity": 0.7748426034401814
             },
             "user_id": 1069223323500834816,
-            "text_translation": ""
-        },
-        {
-            "id": 1432456658764976129,
-            "text": "Support : Learn how to get the most out of your 2 by the battery .🔋",
-            "created_at": "2021-08-30 21:34:15",
-            "retweet_count": 5,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Battery"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4712119240767048,
-                "negativity": 0.5287880759232952
-            },
-            "user_id": 1261746509382639617,
             "text_translation": ""
         },
         {
@@ -176,6 +176,27 @@
             "text_translation": ""
         },
         {
+            "id": 1432440817763848196,
+            "text": "Screen android n100 my1 . 1 . 1 . 1 new collection",
+            "created_at": "2021-08-30 20:31:19",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6204082169914824,
+                "negativity": 0.37959178300851687
+            },
+            "user_id": 1428068656177508355,
+            "text_translation": ""
+        },
+        {
             "id": 1432439834514178053,
             "text": "just bought a . God this thing is .",
             "created_at": "2021-08-30 20:27:24",
@@ -218,7 +239,7 @@
             "text": "IN Bank 2 unlock 90 for",
             "created_at": "2021-08-30 20:21:23",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -271,6 +292,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432417240763158536,
+            "text": "Here is my detailed review of my device under 30k : You can buy them f …",
+            "created_at": "2021-08-30 18:57:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7389177507665387,
+                "negativity": 0.2610822492334618
+            },
+            "user_id": 1034424687353200640,
+            "text_translation": ""
+        },
+        {
             "id": 1432416304305111041,
             "text": "💫 a 5G ( Gray Onyx , 12GB RAM , 256GB Storage )💫",
             "created_at": "2021-08-30 18:53:54",
@@ -287,6 +327,25 @@
                 "negativity": 0.8413461538461547
             },
             "user_id": 144026920,
+            "text_translation": ""
+        },
+        {
+            "id": 1432416162206261250,
+            "text": "N100 Midnight Frost Unlocked ​, 4GB 64GB , US Version , Model BE2011",
+            "created_at": "2021-08-30 18:53:20",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7434950665478125,
+                "negativity": 0.25650493345218744
+            },
+            "user_id": 1189805153597173760,
             "text_translation": ""
         },
         {
@@ -309,22 +368,22 @@
             "text_translation": ""
         },
         {
-            "id": 1432404268972085248,
-            "text": ": AC2 in Source :-",
-            "created_at": "2021-08-30 18:06:05",
-            "retweet_count": 2,
+            "id": 1432404518273228804,
+            "text": "My N100 may never see the light if day ( may never get )",
+            "created_at": "2021-08-30 18:07:04",
+            "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "neutral",
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6465517241379309,
-                "negativity": 0.35344827586206884
+                "positivity": 0.7495075151446209,
+                "negativity": 0.2504924848553794
             },
-            "user_id": 1364440460962328578,
+            "user_id": 939839995824803851,
             "text_translation": ""
         },
         {
@@ -344,25 +403,6 @@
                 "negativity": 0.4182481270766686
             },
             "user_id": 1323887180402536448,
-            "text_translation": ""
-        },
-        {
-            "id": 1432403445747621888,
-            "text": "Every time and every time the user some bug . I am new user of .... I got …",
-            "created_at": "2021-08-30 18:02:48",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4803108141570337,
-                "negativity": 0.5196891858429666
-            },
-            "user_id": 3201639221,
             "text_translation": ""
         },
         {
@@ -397,7 +437,7 @@
             "label": "positive",
             "note": {
                 "classification": "neg",
-                "positivity": 0.47573859551198516,
+                "positivity": 0.4757385955119852,
                 "negativity": 0.5242614044880138
             },
             "user_id": 1332251973446340608,
@@ -442,11 +482,30 @@
             "text_translation": ""
         },
         {
+            "id": 1432396837479198725,
+            "text": "2 5G review via",
+            "created_at": "2021-08-30 17:36:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6102150537634407,
+                "negativity": 0.38978494623655924
+            },
+            "user_id": 1248898888737660928,
+            "text_translation": ""
+        },
+        {
             "id": 1432390660342968323,
             "text": "So the AC2 in 🇮🇳 Via raj22 …",
             "created_at": "2021-08-30 17:12:00",
             "retweet_count": 1,
-            "favorite_count": 1,
+            "favorite_count": 3,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -477,6 +536,25 @@
                 "negativity": 0.4525921708885344
             },
             "user_id": 1385100779871035394,
+            "text_translation": ""
+        },
+        {
+            "id": 1432388427169759233,
+            "text": "that out 8T , 9R - S20 FE available @ 46 , 290 ( Snapdragon Variant ) on ( sold …",
+            "created_at": "2021-08-30 17:03:08",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7620110112108545,
+                "negativity": 0.23798898878914568
+            },
+            "user_id": 135394678,
             "text_translation": ""
         },
         {
@@ -522,7 +600,7 @@
             "text": "So Two New phone ' s Listed on . Model number 🔹 NE2215 🔹 NE2115 Via | …",
             "created_at": "2021-08-30 16:55:29",
             "retweet_count": 1,
-            "favorite_count": 1,
+            "favorite_count": 2,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -530,7 +608,7 @@
             "label": "positive",
             "note": {
                 "classification": "neg",
-                "positivity": 0.47573859551198516,
+                "positivity": 0.4757385955119852,
                 "negativity": 0.5242614044880138
             },
             "user_id": 1246721883451449345,
@@ -540,7 +618,7 @@
             "id": 1432380671486398465,
             "text": "AC2 in Source :-",
             "created_at": "2021-08-30 16:32:19",
-            "retweet_count": 2,
+            "retweet_count": 3,
             "favorite_count": 9,
             "lang": "en",
             "geo": null,
@@ -560,7 +638,7 @@
             "text": "AC2 Thanks",
             "created_at": "2021-08-30 16:17:24",
             "retweet_count": 3,
-            "favorite_count": 4,
+            "favorite_count": 6,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -632,52 +710,10 @@
             "text_translation": ""
         },
         {
-            "id": 1432370170853396483,
-            "text": ": 2 : Camera 🔥🔥🔥 Tag IN for this issue 🔥 Share . …",
-            "created_at": "2021-08-30 15:50:35",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Camera"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6620348418326462,
-                "negativity": 0.3379651581673525
-            },
-            "user_id": 1419699802053304323,
-            "text_translation": ""
-        },
-        {
-            "id": 1432369956344111109,
-            "text": ": 2 : Camera pic display , Black Spot on display issue ?? complete video h …",
-            "created_at": "2021-08-30 15:49:44",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Camera"
-            ],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4072151346256253,
-                "negativity": 0.5927848653743736
-            },
-            "user_id": 1036954899194343426,
-            "text_translation": ""
-        },
-        {
             "id": 1432369156519825414,
             "text": ": Few low light from 2 OnePlusNord25G",
             "created_at": "2021-08-30 15:46:33",
-            "retweet_count": 1,
+            "retweet_count": 2,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
@@ -690,25 +726,6 @@
                 "negativity": 0.4163077533964039
             },
             "user_id": 1082658661523177472,
-            "text_translation": ""
-        },
-        {
-            "id": 1432366051002486794,
-            "text": "He also with for the ce 5g .",
-            "created_at": "2021-08-30 15:34:13",
-            "retweet_count": 0,
-            "favorite_count": 6,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5687196095596257,
-                "negativity": 0.4312803904403743
-            },
-            "user_id": 1297062225367060481,
             "text_translation": ""
         },
         {
@@ -774,8 +791,8 @@
             "id": 1432357859627393026,
             "text": "Few low light from 2 OnePlusNord25G",
             "created_at": "2021-08-30 15:01:40",
-            "retweet_count": 1,
-            "favorite_count": 28,
+            "retweet_count": 2,
+            "favorite_count": 41,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -813,7 +830,7 @@
             "text": "2 pro 🤔😂😜",
             "created_at": "2021-08-30 14:54:29",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -844,6 +861,25 @@
                 "negativity": 0.8409837578125351
             },
             "user_id": 1209829564332965889,
+            "text_translation": ""
+        },
+        {
+            "id": 1432343849074974727,
+            "text": "IN Support …",
+            "created_at": "2021-08-30 14:05:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6458333333333333,
+                "negativity": 0.35416666666666663
+            },
+            "user_id": 1271296219587817473,
             "text_translation": ""
         },
         {
@@ -986,8 +1022,8 @@
             "id": 1432332939694522370,
             "text": "2 : Camera 🔥🔥🔥 Tag IN for this issue 🔥 Share .",
             "created_at": "2021-08-30 13:22:38",
-            "retweet_count": 4,
-            "favorite_count": 6,
+            "retweet_count": 8,
+            "favorite_count": 18,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1046,7 +1082,7 @@
             "text": "2 5G ( Blue Haze , 6GB RAM , 128GB Storage ) Price :₹ 27 , 999 . 00 oneplusnord2 OnePlusNord25G",
             "created_at": "2021-08-30 13:06:30",
             "retweet_count": 0,
-            "favorite_count": 1,
+            "favorite_count": 2,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1162,7 +1198,7 @@
             "text": "2 bahut hain ... With proof Look into this IN oneplusnord2",
             "created_at": "2021-08-30 12:29:14",
             "retweet_count": 2,
-            "favorite_count": 9,
+            "favorite_count": 10,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1280,7 +1316,7 @@
             "text": "2 6GB variant is available now 👉🏻",
             "created_at": "2021-08-30 11:59:56",
             "retweet_count": 3,
-            "favorite_count": 3,
+            "favorite_count": 5,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1330,6 +1366,27 @@
                 "negativity": 0.3953993746058073
             },
             "user_id": 2923571768,
+            "text_translation": ""
+        },
+        {
+            "id": 1432306069309591558,
+            "text": "Bought a 2 knowing it no headphone jack . But after loading my it no Music …",
+            "created_at": "2021-08-30 11:35:52",
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Music"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8552331127123731,
+                "negativity": 0.14476688728762602
+            },
+            "user_id": 1196368868123430912,
             "text_translation": ""
         },
         {
@@ -1394,7 +1451,7 @@
             "text": "So this is the 2 from ?",
             "created_at": "2021-08-30 11:17:00",
             "retweet_count": 1,
-            "favorite_count": 8,
+            "favorite_count": 9,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1432,7 +1489,7 @@
             "text": "756 , 13 With Tech , Note Series , …",
             "created_at": "2021-08-30 11:08:46",
             "retweet_count": 3,
-            "favorite_count": 21,
+            "favorite_count": 24,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1468,22 +1525,22 @@
             "text_translation": ""
         },
         {
-            "id": 1432295210134892552,
-            "text": ": New 2 update for and August 2021",
-            "created_at": "2021-08-30 10:52:43",
-            "retweet_count": 3,
-            "favorite_count": 0,
+            "id": 1432295925767188480,
+            "text": "Finally !! oneplusnord2 6GB RAM version is on sale in . Get yours now 👆👆…",
+            "created_at": "2021-08-30 10:55:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "positive",
+            "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.37335298165202113,
-                "negativity": 0.6266470183479789
+                "positivity": 0.39359945124498796,
+                "negativity": 0.6064005487550106
             },
-            "user_id": 2425177933,
+            "user_id": 3694315574,
             "text_translation": ""
         },
         {
@@ -1503,6 +1560,65 @@
                 "negativity": 0.42192669289054596
             },
             "user_id": 1432288632950374404,
+            "text_translation": ""
+        },
+        {
+            "id": 1432284349366370306,
+            "text": ": 2 6 + 128GB variant will go on Sale from Tomorrow .",
+            "created_at": "2021-08-30 10:09:34",
+            "retweet_count": 8,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8633688489129393,
+                "negativity": 0.13663115108705992
+            },
+            "user_id": 1133482123082358784,
+            "text_translation": ""
+        },
+        {
+            "id": 1432282613918601218,
+            "text": "N10 • 6 . 49 inch screen • Android 10 Oxygen Os 10 . 5 • - snapdragon 690 5G • 6GB RAM + 128GB …",
+            "created_at": "2021-08-30 10:02:40",
+            "retweet_count": 17,
+            "favorite_count": 39,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.10427947002323963,
+                "negativity": 0.8957205299767595
+            },
+            "user_id": 1313413672866373635,
+            "text_translation": ""
+        },
+        {
+            "id": 1432280217926705152,
+            "text": "N10 6 + 128 - 30 , 000",
+            "created_at": "2021-08-30 09:53:09",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2499999999999997,
+                "negativity": 0.75
+            },
+            "user_id": 1313413672866373635,
             "text_translation": ""
         },
         {
@@ -1622,25 +1738,6 @@
             "text_translation": ""
         },
         {
-            "id": 1432269513177796608,
-            "text": ": NE2215 the . Lite or something ?",
-            "created_at": "2021-08-30 09:10:36",
-            "retweet_count": 22,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5078466254745304,
-                "negativity": 0.49215337452547014
-            },
-            "user_id": 1147364293509144576,
-            "text_translation": ""
-        },
-        {
             "id": 1432268025680437249,
             "text": "that out S20 FE 5G A52s ( coming ) 2 11 ( after price drop )",
             "created_at": "2021-08-30 09:04:42",
@@ -1673,36 +1770,17 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.6839216351742644,
-                "negativity": 0.31607836482573604
+                "negativity": 0.316078364825736
             },
             "user_id": 1405430507748352000,
-            "text_translation": ""
-        },
-        {
-            "id": 1432266027383934978,
-            "text": ": Finally , Today OnePlusNord25G 6 + 128GB variant sale is live .",
-            "created_at": "2021-08-30 08:56:45",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8978254477302884,
-                "negativity": 0.10217455226971207
-            },
-            "user_id": 1223565984222441472,
             "text_translation": ""
         },
         {
             "id": 1432258125835513857,
             "text": "Learn how to get the most out of your 2 by the battery .🔋",
             "created_at": "2021-08-30 08:25:21",
-            "retweet_count": 5,
-            "favorite_count": 52,
+            "retweet_count": 24,
+            "favorite_count": 268,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1763,7 +1841,7 @@
             "text": "6GB + 128GB Variant 2 is now live ₹ 27 , 999 . oneplusnord2",
             "created_at": "2021-08-30 07:45:48",
             "retweet_count": 0,
-            "favorite_count": 1,
+            "favorite_count": 2,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1816,6 +1894,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432245209388126208,
+            "text": "that out Trust me I hate the 9 and series … but 8T is what does great …. I …",
+            "created_at": "2021-08-30 07:34:02",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5218755434792107,
+                "negativity": 0.47812445652078966
+            },
+            "user_id": 1326031456980795393,
+            "text_translation": ""
+        },
+        {
             "id": 1432244935655186434,
             "text": "Better to go with 2",
             "created_at": "2021-08-30 07:32:57",
@@ -1835,11 +1932,32 @@
             "text_translation": ""
         },
         {
+            "id": 1432242422122168325,
+            "text": ": 2 is a 6 . 43 inch display phone with ~ 85 . 8 % screen to body ratio , this you quality . With …",
+            "created_at": "2021-08-30 07:22:57",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4877109595096623,
+                "negativity": 0.5122890404903392
+            },
+            "user_id": 759250519,
+            "text_translation": ""
+        },
+        {
             "id": 1432242045729447936,
             "text": "2 : Camera pic display , Black Spot on display issue ?? complete video ba …",
             "created_at": "2021-08-30 07:21:28",
-            "retweet_count": 4,
-            "favorite_count": 23,
+            "retweet_count": 6,
+            "favorite_count": 31,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -1853,6 +1971,27 @@
                 "negativity": 0.5927848653743736
             },
             "user_id": 1092802383120384000,
+            "text_translation": ""
+        },
+        {
+            "id": 1432241946421075968,
+            "text": "2 is a 6 . 43 inch display phone with ~ 85 . 8 % screen to body ratio , this you quality . W …",
+            "created_at": "2021-08-30 07:21:04",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4877109595096623,
+                "negativity": 0.5122890404903392
+            },
+            "user_id": 1889450100,
             "text_translation": ""
         },
         {
@@ -1898,7 +2037,7 @@
             "text": "Finally , Today OnePlusNord25G 6 + 128GB variant sale is live .",
             "created_at": "2021-08-30 06:46:13",
             "retweet_count": 2,
-            "favorite_count": 1,
+            "favorite_count": 2,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -2354,7 +2493,7 @@
             "text": "2 ( 6GB + 128GB Variant / Blue Haze ) Sale Is Live 😋 Here ' s How You Can Purchase Yours With Discount 😍…",
             "created_at": "2021-08-30 04:02:36",
             "retweet_count": 2,
-            "favorite_count": 25,
+            "favorite_count": 28,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -2392,7 +2531,7 @@
             "text": "So the sale of 2 6 + 128GB Variant is live now . Buy here : : :…",
             "created_at": "2021-08-30 04:01:30",
             "retweet_count": 1,
-            "favorite_count": 2,
+            "favorite_count": 3,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -2562,8 +2701,8 @@
             "id": 1432168371508842497,
             "text": "NE2215 the . Lite or something ?",
             "created_at": "2021-08-30 02:28:42",
-            "retweet_count": 22,
-            "favorite_count": 199,
+            "retweet_count": 23,
+            "favorite_count": 211,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -2601,7 +2740,7 @@
             "text": "Finally 2 ( 6gb + 128gb ) now available .. IN",
             "created_at": "2021-08-30 02:18:28",
             "retweet_count": 0,
-            "favorite_count": 8,
+            "favorite_count": 9,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -2632,6 +2771,25 @@
                 "negativity": 0.3989403643860882
             },
             "user_id": 1034424687353200640,
+            "text_translation": ""
+        },
+        {
+            "id": 1432133874000097283,
+            "text": ": 2 Charging Test ⚡⚡⚡ 65W Warp Charger ⚡⚡⚡",
+            "created_at": "2021-08-30 00:11:37",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.46212121212121254,
+                "negativity": 0.5378787878787886
+            },
+            "user_id": 1299929800564445184,
             "text_translation": ""
         }
     ]

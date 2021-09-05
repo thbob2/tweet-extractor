@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1415457319253536769,
+            "text": "🚨🚨 at IT 🇮🇹 💥 6900 Gaming 💸 2 . 232 , 41 € 🚛 from 🏷 Sold by P …",
+            "created_at": "2021-07-14 23:44:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
             "id": 1415456542913073159,
             "text": "🚨🚨 at DE 🇩🇪 💥 6900 Gaming 💸 2 . 369 , 65 € 🚛 from 🏷 Sold by P …",
             "created_at": "2021-07-14 23:41:52",
@@ -17,6 +36,82 @@
                 "negativity": 0.08747148232644936
             },
             "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1415454182430150656,
+            "text": "Gaming 6700 Edition Graphics Ca ... is now in stock . Product Page :…",
+            "created_at": "2021-07-14 23:32:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5836875917077058,
+                "negativity": 0.41631240829229216
+            },
+            "user_id": 1377519267143376898,
+            "text_translation": ""
+        },
+        {
+            "id": 1415447227292479489,
+            "text": "🚨🚨 at IT 🇮🇹 💥 6900 Gaming 💸 2 . 349 , 90 € 🚛 from 🏷 Sold by P …",
+            "created_at": "2021-07-14 23:04:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1415442279502843914,
+            "text": ": Good bye , hello . Gaming Dev Technology Electro …",
+            "created_at": "2021-07-14 22:45:11",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.29974512870196585,
+                "negativity": 0.7002548712980348
+            },
+            "user_id": 907998187520217093,
+            "text_translation": ""
+        },
+        {
+            "id": 1415442155414466566,
+            "text": "Good bye , hello . Gaming Dev Technology Electronic IT",
+            "created_at": "2021-07-14 22:44:42",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8693537074117528,
+                "negativity": 0.1306462925882445
+            },
+            "user_id": 1229424723416797184,
             "text_translation": ""
         },
         {
@@ -190,10 +285,31 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9219626449652196,
+                "positivity": 0.9219626449652197,
                 "negativity": 0.07803735503478107
             },
             "user_id": 1342919737358110720,
+            "text_translation": ""
+        },
+        {
+            "id": 1415409952106024961,
+            "text": "🚨🚨 at IT 🇮🇹 💥 3060 Gaming 🚛 from 🏷 Sold by 👉…",
+            "created_at": "2021-07-14 20:36:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -235,6 +351,27 @@
             "text_translation": ""
         },
         {
+            "id": 1415407869902483462,
+            "text": "⚡ : Gaming 3070 Ti Edition - [$ 949 . 99 ] Link : 🛒:…",
+            "created_at": "2021-07-14 20:28:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9492099322799108,
+                "negativity": 0.05079006772009028
+            },
+            "user_id": 1374247110313439236,
+            "text_translation": ""
+        },
+        {
             "id": 1415407569582149635,
             "text": "Gaming ® ™ 3060 12GB GDDR6 rtx3060 geforce3060 Source : Best Buy checker Reason :…",
             "created_at": "2021-07-14 20:27:16",
@@ -249,10 +386,48 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9219626449652196,
+                "positivity": 0.9219626449652197,
                 "negativity": 0.07803735503478107
             },
             "user_id": 1363974177099816968,
+            "text_translation": ""
+        },
+        {
+            "id": 1415405186919587840,
+            "text": "( CANADA ) IN STOCK ALERT - : rx6800xt /",
+            "created_at": "2021-07-14 20:17:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20385906040268517,
+                "negativity": 0.7961409395973156
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
+            "id": 1415403875025264644,
+            "text": "VIDEO CARD RESTOCK : Gaming 6700 Edition Graphics Card 2 , 4 . 0 , 12GB GDDR6 …",
+            "created_at": "2021-07-14 20:12:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8556946444330914,
+                "negativity": 0.1443053555669102
+            },
+            "user_id": 1367863841070186501,
             "text_translation": ""
         },
         {
@@ -355,6 +530,27 @@
             "text_translation": ""
         },
         {
+            "id": 1415400110587105280,
+            "text": "3070 In Stock at ampere Ryzen5000 …",
+            "created_at": "2021-07-14 19:57:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38135593220338976,
+                "negativity": 0.6186440677966099
+            },
+            "user_id": 1328823635793031168,
+            "text_translation": ""
+        },
+        {
             "id": 1415400083949031426,
             "text": "3060 In Stock at ampere Ryzen5000 …",
             "created_at": "2021-07-14 19:57:31",
@@ -373,6 +569,25 @@
                 "negativity": 0.6186440677966099
             },
             "user_id": 1328823635793031168,
+            "text_translation": ""
+        },
+        {
+            "id": 1415399376898469890,
+            "text": "Gaming 6700 Edition Graphics Card 2 , 4 . 0 , 12GB …",
+            "created_at": "2021-07-14 19:54:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9006673511293631,
+                "negativity": 0.09933264887063645
+            },
+            "user_id": 1399248443110006785,
             "text_translation": ""
         },
         {
@@ -418,24 +633,41 @@
             "text_translation": ""
         },
         {
-            "id": 1415386462493810688,
-            "text": "🚨🚨 at ES 🇪🇸 💥 3090 Gaming 💸 2 . 730 , 46 € 🚛 from 🏷 Sold …",
-            "created_at": "2021-07-14 19:03:23",
+            "id": 1415380906316124163,
+            "text": "Gaming 6800 12 Ultimate - RX680 radeon6800 Source : Inventory Reason : =…",
+            "created_at": "2021-07-14 18:41:19",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "3090"
-            ],
+            "mention": [],
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.91252851767355,
-                "negativity": 0.08747148232644936
+                "positivity": 0.6956772195037582,
+                "negativity": 0.30432278049624095
             },
-            "user_id": 1367087236450291717,
+            "user_id": 1363974177099816968,
+            "text_translation": ""
+        },
+        {
+            "id": 1415379625941819402,
+            "text": "Gaming 6800 Video Card - RX6800 - O16G - GA radeon6800 Source : Product Page Reason : …",
+            "created_at": "2021-07-14 18:36:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.349482657072979,
+                "negativity": 0.6505173429270229
+            },
+            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -536,6 +768,27 @@
             "text_translation": ""
         },
         {
+            "id": 1415371634102333443,
+            "text": "🚨🚨 at IT 🇮🇹 💥 3070 Gaming 🚛 from 🏷 Sold by 👉…",
+            "created_at": "2021-07-14 18:04:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
             "id": 1415369620689723397,
             "text": "3060 O12G GAMING for 699 . 95 € is available at rtx3060",
             "created_at": "2021-07-14 17:56:28",
@@ -554,6 +807,46 @@
                 "negativity": 0.10615196803788084
             },
             "user_id": 1332955480306675713,
+            "text_translation": ""
+        },
+        {
+            "id": 1415367403387621380,
+            "text": "🚨🚨 at 🇫🇷 💥 3060 Gaming 🚛 from 🏷 Sold by 👉…",
+            "created_at": "2021-07-14 17:47:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1415364849064980480,
+            "text": "Gaming 1660 SUPER 6GB gtx1660 Source : Search Reason : …",
+            "created_at": "2021-07-14 17:37:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8548373228472231,
+                "negativity": 0.14516267715277745
+            },
+            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -675,6 +968,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415347312767868931,
+            "text": "Gaming A15 FA506II - HN152T Gaming A15 FA506IH - HN139TS Gaming A15 FA506IH - B …",
+            "created_at": "2021-07-14 16:27:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.833333333333333,
+                "negativity": 0.16666666666666646
+            },
+            "user_id": 1009714602198749184,
+            "text_translation": ""
+        },
+        {
             "id": 1415347146342154240,
             "text": "( ): Gaming - RTX3070 - O8G - V2 - GAMING 3070 8 Go GDDR6 P …",
             "created_at": "2021-07-14 16:27:10",
@@ -693,6 +1005,27 @@
                 "negativity": 0.16666666666666646
             },
             "user_id": 1343689985447354369,
+            "text_translation": ""
+        },
+        {
+            "id": 1415342018377756673,
+            "text": "Gaming 3090 Edition Graphics Card RTX3090 ad",
+            "created_at": "2021-07-14 16:06:47",
+            "retweet_count": 3,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9006673511293631,
+                "negativity": 0.09933264887063645
+            },
+            "user_id": 1187131529299935234,
             "text_translation": ""
         },
         {
@@ -735,6 +1068,69 @@
                 "negativity": 0.23406484943281217
             },
             "user_id": 1297213254758850562,
+            "text_translation": ""
+        },
+        {
+            "id": 1415339082402734085,
+            "text": "dot : 🚨🚨 at 🇫🇷 💥 3090 Gaming 🚛 from 🏷 Sold by 👉 …",
+            "created_at": "2021-07-14 15:55:07",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9125285176735511,
+                "negativity": 0.08747148232644947
+            },
+            "user_id": 984915961357721600,
+            "text_translation": ""
+        },
+        {
+            "id": 1415336054979239937,
+            "text": "🚨🚨 at 🇫🇷 💥 3090 Gaming 🚛 from 🏷 Sold by …",
+            "created_at": "2021-07-14 15:43:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1415332826770247692,
+            "text": "​. de : 3090 24 Version Gaming ( Ampere , 4 . 0 , , 🔗…",
+            "created_at": "2021-07-14 15:30:16",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8596096096096095,
+                "negativity": 0.14039039039039017
+            },
+            "user_id": 1329697243524444160,
             "text_translation": ""
         },
         {
@@ -881,6 +1277,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415325911918972930,
+            "text": "🚨🚨 at DE 🇩🇪 💥 6900 Gaming 🚛 from 🏷 Sold by …",
+            "created_at": "2021-07-14 15:02:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
             "id": 1415317812827017222,
             "text": "( ): S - - RTX3070TI - O8G - GAMING Price : £ 771 . 02 as of ( 7 / 14 / 2021 , 2 : 30 : 36 )…",
             "created_at": "2021-07-14 14:30:36",
@@ -918,6 +1333,48 @@
                 "negativity": 0.08747148232644936
             },
             "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1415293764868902915,
+            "text": "dot : 🚨🚨 at IT 🇮🇹 💥 3090 Gaming 🚛 from 🏷 Sold by 👉 …",
+            "created_at": "2021-07-14 12:55:03",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9125285176735511,
+                "negativity": 0.08747148232644947
+            },
+            "user_id": 984915961357721600,
+            "text_translation": ""
+        },
+        {
+            "id": 1415289852254359553,
+            "text": "Gaming 3080 10GB GDDR6X Graphics Card Auction Gaming …",
+            "created_at": "2021-07-14 12:39:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5466867469879508,
+                "negativity": 0.4533132530120484
+            },
+            "user_id": 307605293,
             "text_translation": ""
         },
         {
@@ -1037,6 +1494,49 @@
             "text_translation": ""
         },
         {
+            "id": 1415256676253544449,
+            "text": "GAMING 3060 12GB GDDR6 Graphics Card Auction Gaming …",
+            "created_at": "2021-07-14 10:27:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5466867469879508,
+                "negativity": 0.4533132530120484
+            },
+            "user_id": 307605293,
+            "text_translation": ""
+        },
+        {
+            "id": 1415255349288837121,
+            "text": "Deal of the day : Gaming A15 15 . 6 \" 144Hz 7 4800H , 1660Ti 6GB GDDR6 Graphics ( 16GB RAM /…",
+            "created_at": "2021-07-14 10:22:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5667973364683759,
+                "negativity": 0.4332026635316257
+            },
+            "user_id": 1306622604791357441,
+            "text_translation": ""
+        },
+        {
             "id": 1415251232223076356,
             "text": "3080 Ti 12GB GAMING Ampere Graphics Card 🔗 £ 1 , 599 . 99 as of 11 : 06 : 02",
             "created_at": "2021-07-14 10:06:02",
@@ -1055,6 +1555,44 @@
                 "negativity": 0.26219512195121947
             },
             "user_id": 1399248443110006785,
+            "text_translation": ""
+        },
+        {
+            "id": 1415242949215014912,
+            "text": ": The Flame been reborn 🔥 While stocks last , get the K3 Keyboard and M1 Mouse when you buy the Gladiator …",
+            "created_at": "2021-07-14 09:33:07",
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9193339308873109,
+                "negativity": 0.08066606911268677
+            },
+            "user_id": 38415042,
+            "text_translation": ""
+        },
+        {
+            "id": 1415233457123250177,
+            "text": ": AI Noise - Adapter paring with Gaming H3 headset unmatched crystal - clear voice communication …",
+            "created_at": "2021-07-14 08:55:24",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9706136846757077,
+                "negativity": 0.0293863153242932
+            },
+            "user_id": 3171839059,
             "text_translation": ""
         },
         {
@@ -1095,6 +1633,27 @@
                 "negativity": 0.058283131837770355
             },
             "user_id": 1410988413520691203,
+            "text_translation": ""
+        },
+        {
+            "id": 1415204526454419456,
+            "text": "Check out this product 😍 Gaming 3070 Edition Graphics Card 4 . 0 ... 😍 by …",
+            "created_at": "2021-07-14 07:00:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7807541244774983,
+                "negativity": 0.21924587552250369
+            },
+            "user_id": 1216031696790999040,
             "text_translation": ""
         },
         {
@@ -1220,6 +1779,70 @@
             "text_translation": ""
         },
         {
+            "id": 1415142527225761797,
+            "text": ": 🚀🚨 [ ] [ ( 3060 )] strix :: IN STOCK 🚨🚀 gaming …",
+            "created_at": "2021-07-14 02:54:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7550335570469807,
+                "negativity": 0.2449664429530198
+            },
+            "user_id": 1182396132523151362,
+            "text_translation": ""
+        },
+        {
+            "id": 1415139562809135105,
+            "text": "🚀🚨 [ ] [ ( 3060 )] strix :: IN STOCK 🚨🚀 gaming …",
+            "created_at": "2021-07-14 02:42:18",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7550335570469807,
+                "negativity": 0.2449664429530198
+            },
+            "user_id": 1346887159656144896,
+            "text_translation": ""
+        },
+        {
+            "id": 1415127630211424258,
+            "text": "Gaming 3070 8GB GDDR66 Graphics Card - New In Box Auction …",
+            "created_at": "2021-07-14 01:54:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.568125298256295,
+                "negativity": 0.43187470174370723
+            },
+            "user_id": 307605293,
+            "text_translation": ""
+        },
+        {
             "id": 1415126380438818816,
             "text": "- RTX3080TI - O12G GAMING 12GB GDDR5 DPX3 HDMIX2 is now in stock at for £ 1668 . 07 !",
             "created_at": "2021-07-14 01:49:55",
@@ -1236,6 +1859,27 @@
                 "negativity": 0.24036042857705614
             },
             "user_id": 1322565033180733440,
+            "text_translation": ""
+        },
+        {
+            "id": 1415121378081181699,
+            "text": "[ - ( ): GAMING 3070 V2 EDITION GRAPHICS - £ 6 …",
+            "created_at": "2021-07-14 01:30:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9219653179190744,
+                "negativity": 0.07803468208092469
+            },
+            "user_id": 1381623467771068416,
             "text_translation": ""
         },
         {

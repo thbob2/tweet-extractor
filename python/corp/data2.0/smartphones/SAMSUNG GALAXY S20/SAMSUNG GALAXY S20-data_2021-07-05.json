@@ -15,8 +15,8 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.539526069220403,
-                "negativity": 0.4604739307795957
+                "positivity": 0.5395260692204044,
+                "negativity": 0.4604739307795968
             },
             "user_id": 1224349999841984512,
             "text_translation": ""
@@ -57,6 +57,25 @@
                 "negativity": 0.503029103065429
             },
             "user_id": 1404414109274177539,
+            "text_translation": ""
+        },
+        {
+            "id": 1412182201291010048,
+            "text": ": I just , an Android application to sniff and inject , and Enhanced pac …",
+            "created_at": "2021-07-05 22:50:48",
+            "retweet_count": 142,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05594452194155443,
+                "negativity": 0.9440554780584468
+            },
+            "user_id": 1143208711,
             "text_translation": ""
         },
         {
@@ -155,6 +174,25 @@
             "text_translation": ""
         },
         {
+            "id": 1412173142420754436,
+            "text": ": The S21 Ultra 5G been the best at the 2021 event . He beaten his main in the …",
+            "created_at": "2021-07-05 22:14:48",
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5707528058112161,
+                "negativity": 0.4292471941887834
+            },
+            "user_id": 125735393,
+            "text_translation": ""
+        },
+        {
             "id": 1412171382113259522,
             "text": "Check out this listing I just added to my closet : Galaxy S20 Frosted Case .…",
             "created_at": "2021-07-05 22:07:49",
@@ -234,6 +272,25 @@
                 "negativity": 0.978663678342521
             },
             "user_id": 27053590,
+            "text_translation": ""
+        },
+        {
+            "id": 1412151084773171200,
+            "text": ": Title : Carnival Model : Galaxy S20 Year : 2020",
+            "created_at": "2021-07-05 20:47:09",
+            "retweet_count": 67,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2362286414915896,
+                "negativity": 0.7637713585084118
+            },
+            "user_id": 1106370551025668117,
             "text_translation": ""
         },
         {
@@ -493,6 +550,44 @@
             "text_translation": ""
         },
         {
+            "id": 1412108606493839362,
+            "text": ": Brand New Galaxy Price Update : S20 N315 , 000 S20 + N340 , 000 S20 Ultra N430 , 000 S21 256GB N385 , 000 S21 + 256GB N4 …",
+            "created_at": "2021-07-05 17:58:22",
+            "retweet_count": 56,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5332740483872395,
+                "negativity": 0.4667259516127583
+            },
+            "user_id": 948254647713697794,
+            "text_translation": ""
+        },
+        {
+            "id": 1412098872663552004,
+            "text": "The S21 Ultra 5G been the best at the 2021 event . He beaten his main …",
+            "created_at": "2021-07-05 17:19:41",
+            "retweet_count": 10,
+            "favorite_count": 14,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5707528058112161,
+                "negativity": 0.4292471941887834
+            },
+            "user_id": 1372747562,
+            "text_translation": ""
+        },
+        {
             "id": 1412098200996093962,
             "text": "So I was listening to my favorite boy band ' ( I am …",
             "created_at": "2021-07-05 17:17:01",
@@ -509,27 +604,6 @@
                 "negativity": 0.22539719642445474
             },
             "user_id": 1393041918926495744,
-            "text_translation": ""
-        },
-        {
-            "id": 1412096279358869510,
-            "text": "Check out Galaxy S20 + Symmetry Case Clear 77 - 64384 via",
-            "created_at": "2021-07-05 17:09:23",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8820724218956731,
-                "negativity": 0.11792757810432682
-            },
-            "user_id": 1060296753453379584,
             "text_translation": ""
         },
         {
@@ -551,6 +625,27 @@
                 "negativity": 0.16635617326504404
             },
             "user_id": 1060296753453379584,
+            "text_translation": ""
+        },
+        {
+            "id": 1412086583600287744,
+            "text": "Order Here :- motivation music news nature photography …",
+            "created_at": "2021-07-05 16:30:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Music"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7134228143310838,
+                "negativity": 0.286577185668917
+            },
+            "user_id": 3484028413,
             "text_translation": ""
         },
         {
@@ -591,6 +686,25 @@
                 "negativity": 0.1601567920077699
             },
             "user_id": 1531018746,
+            "text_translation": ""
+        },
+        {
+            "id": 1412080423975391242,
+            "text": ": Galaxy S20 + 5G Edition V",
+            "created_at": "2021-07-05 16:06:22",
+            "retweet_count": 21689,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8401869158878502,
+                "negativity": 0.1598130841121494
+            },
+            "user_id": 1279151147203334145,
             "text_translation": ""
         },
         {
@@ -731,6 +845,44 @@
             "text_translation": ""
         },
         {
+            "id": 1412034286715248641,
+            "text": "product Introduction 2021 - 07 - 05 13 : 00 category : Other Specialty Unlock Code Galaxy S21 S20 …",
+            "created_at": "2021-07-05 13:03:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08975514927492187,
+                "negativity": 0.9102448507250779
+            },
+            "user_id": 1394646085369434116,
+            "text_translation": ""
+        },
+        {
+            "id": 1412034058889089025,
+            "text": "Stick Tripod , 40 inch Phone Tripod with Remote Compatible with 12 11 Pro …",
+            "created_at": "2021-07-05 13:02:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21754233666729758,
+                "negativity": 0.7824576633327004
+            },
+            "user_id": 17075409,
+            "text_translation": ""
+        },
+        {
             "id": 1412032256210780160,
             "text": "Shipping 🚐😍 Flip Wallet Clear Case for Galaxy S20 Ultra , Black & ; Very Stylish Unbranded …",
             "created_at": "2021-07-05 12:54:58",
@@ -853,9 +1005,9 @@
             "text_translation": ""
         },
         {
-            "id": 1411995823840370688,
-            "text": "Galaxy S20 FE Mobile Phone ; Free - 128 - Cloud Lavender ( …",
-            "created_at": "2021-07-05 10:30:12",
+            "id": 1411993393497055232,
+            "text": "👍 on : 5 Must - Have for your Galaxy ( S20 , Note 10 , S10 , ) ( FREE & ; no )",
+            "created_at": "2021-07-05 10:20:33",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -865,10 +1017,29 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8851761846901556,
-                "negativity": 0.11482381530984197
+                "positivity": 0.6909627162860911,
+                "negativity": 0.30903728371391
             },
-            "user_id": 1350785056252567557,
+            "user_id": 80968453,
+            "text_translation": ""
+        },
+        {
+            "id": 1411989485588463616,
+            "text": "5 Must - Have for your Galaxy ( S20 , Note 10 , S10 , ) ( FREE ... via",
+            "created_at": "2021-07-05 10:05:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8033902870333814,
+                "negativity": 0.19660971296661853
+            },
+            "user_id": 80968453,
             "text_translation": ""
         },
         {
@@ -886,6 +1057,28 @@
                 "classification": "pos",
                 "positivity": 0.5089342693044038,
                 "negativity": 0.49106573069559833
+            },
+            "user_id": 1224349999841984512,
+            "text_translation": ""
+        },
+        {
+            "id": 1411980354290950144,
+            "text": "For Galaxy Note 20 Ultra / S20 + Silicone Phone Case Cover / Screen Protector",
+            "created_at": "2021-07-05 09:28:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.240563252419045,
+                "negativity": 0.7594367475809551
             },
             "user_id": 1224349999841984512,
             "text_translation": ""
@@ -913,6 +1106,25 @@
             "text_translation": ""
         },
         {
+            "id": 1411969719389806592,
+            "text": "Cable C a C [ 20V / 3A 60W ] Cable C a C con Power Delivery 3 . 0 para Galaxy Note 20 / S2 …",
+            "created_at": "2021-07-05 08:46:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5300996787066745,
+                "negativity": 0.46990032129332565
+            },
+            "user_id": 1251493696740229122,
+            "text_translation": ""
+        },
+        {
             "id": 1411967432235708417,
             "text": "This abomination . The Galaxy S2 . This thing used to randomly freeze & ; I had to remove the battery …",
             "created_at": "2021-07-05 08:37:23",
@@ -934,6 +1146,25 @@
             "text_translation": ""
         },
         {
+            "id": 1411957175128371203,
+            "text": "[$ 15 . 25 was $ 21 . 89 ] Fast Charger Type C , 25W Super Fast Charger Block for Galaxy S21 / S21 …",
+            "created_at": "2021-07-05 07:56:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5672258042841679,
+                "negativity": 0.4327741957158324
+            },
+            "user_id": 1196215507214643200,
+            "text_translation": ""
+        },
+        {
             "id": 1411955992011571201,
             "text": "Kudos to who topped the Diamond last week & ; won Galaxy S20 FE . to …",
             "created_at": "2021-07-05 07:51:56",
@@ -950,6 +1181,25 @@
                 "negativity": 0.1338354276854147
             },
             "user_id": 703556525739016192,
+            "text_translation": ""
+        },
+        {
+            "id": 1411952981310853121,
+            "text": "tech giant said . The Galaxy S21 Ultra 5G , which was in , for the award with the Galaxy S2 …",
+            "created_at": "2021-07-05 07:39:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7119016433463461,
+                "negativity": 0.28809835665365524
+            },
+            "user_id": 295040076,
             "text_translation": ""
         },
         {
@@ -1007,6 +1257,25 @@
                 "negativity": 0.6477272727272722
             },
             "user_id": 1345734271273553925,
+            "text_translation": ""
+        },
+        {
+            "id": 1411932024869376000,
+            "text": "Fast C Type Charger Kit for 5 4 4a 4XL 3 , Galaxy S21 + Ultra 5G S20 S10 S9 S8 A51 A71 Note 20 ,…",
+            "created_at": "2021-07-05 06:16:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5984451721606148,
+                "negativity": 0.40155482783938456
+            },
+            "user_id": 1312784056698900481,
             "text_translation": ""
         },
         {

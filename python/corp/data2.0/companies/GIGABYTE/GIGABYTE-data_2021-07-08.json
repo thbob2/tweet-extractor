@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1413286755894104064,
-            "text": "🚨🚨 at DE 🇩🇪 💥 6800 Gaming 💸 1 . 999 , 90 € 🚛 from 🏷 Sold b …",
-            "created_at": "2021-07-08 23:59:54",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5368535271662399,
-                "negativity": 0.4631464728337595
-            },
-            "user_id": 1367087236450291717,
-            "text_translation": ""
-        },
-        {
             "id": 1413285394339205120,
             "text": ": Highly sought after just come up at . With capacity for 5 / 6 , our office come w …",
             "created_at": "2021-07-08 23:54:30",
@@ -38,25 +19,6 @@
                 "negativity": 0.11836487862181991
             },
             "user_id": 193462484,
-            "text_translation": ""
-        },
-        {
-            "id": 1413283138260905985,
-            "text": "🚨🚨 at 🇳🇱 💥 6700 Eagle 🚛 from 🏷 Sold by 👉…",
-            "created_at": "2021-07-08 23:45:32",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5559257532227248,
-                "negativity": 0.44407424677727464
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -91,7 +53,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.40845701061528406,
+                "positivity": 0.4084570106152841,
                 "negativity": 0.591542989384716
             },
             "user_id": 1337904515811602433,
@@ -117,22 +79,24 @@
             "text_translation": ""
         },
         {
-            "id": 1413276434899013632,
-            "text": "6700 EAGLE 12GB Graphics Card 🔗 £ 709 . 98 as of 00 : 18 : 53",
-            "created_at": "2021-07-08 23:18:54",
-            "retweet_count": 0,
+            "id": 1413276338719318018,
+            "text": ": Selling my contact me if you are interested * Specs * : B550 - A Pro : 9 3900X : 3060 Ram : 16G …",
+            "created_at": "2021-07-08 23:18:31",
+            "retweet_count": 7,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
-            "label": "neutral",
+            "mention": [
+                "3060"
+            ],
+            "label": "positive",
             "note": {
                 "classification": "neg",
-                "positivity": 0.25243393602225295,
-                "negativity": 0.7475660639777466
+                "positivity": 0.24388032257348632,
+                "negativity": 0.7561196774265144
             },
-            "user_id": 1399248443110006785,
+            "user_id": 1289788516868603905,
             "text_translation": ""
         },
         {
@@ -154,25 +118,6 @@
                 "negativity": 0.3055555555555554
             },
             "user_id": 1343689985447354369,
-            "text_translation": ""
-        },
-        {
-            "id": 1413272254620786688,
-            "text": "🚨🚨 at 🇳🇱 💥 6700 Eagle 💸 € 715 , 13 🚛 from 🏷 Sold by …",
-            "created_at": "2021-07-08 23:02:17",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5559257532227248,
-                "negativity": 0.44407424677727464
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -213,25 +158,6 @@
                 "negativity": 0.16666666666666646
             },
             "user_id": 1329697243524444160,
-            "text_translation": ""
-        },
-        {
-            "id": 1413262751133315074,
-            "text": "🚨🚨 at 🇫🇷 💥 6700 Eagle 💸 849 , 99 € 🚛 from 🏷 Sold by …",
-            "created_at": "2021-07-08 22:24:31",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5559257532227248,
-                "negativity": 0.44407424677727464
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -292,25 +218,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413256221524692994,
-            "text": "🚨🚨 at IT 🇮🇹 💥 6700 Eagle 🚛 from 🏷 Sold by 👉…",
-            "created_at": "2021-07-08 21:58:34",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5559257532227248,
-                "negativity": 0.44407424677727464
-            },
-            "user_id": 1367087236450291717,
-            "text_translation": ""
-        },
-        {
             "id": 1413252728499888132,
             "text": ": caster Boost Check …",
             "created_at": "2021-07-08 21:44:42",
@@ -346,25 +253,6 @@
                 "negativity": 0.3959002313063758
             },
             "user_id": 14632639,
-            "text_translation": ""
-        },
-        {
-            "id": 1413251064665493508,
-            "text": "🚨🚨 at 🇬🇧 💥 6700 Gaming 💸 £ 749 . 99 🚛 from 🏷 Sold by A …",
-            "created_at": "2021-07-08 21:38:05",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.91252851767355,
-                "negativity": 0.08747148232644936
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -418,7 +306,7 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9201926312247657,
+                "positivity": 0.9201926312247656,
                 "negativity": 0.07980736877523555
             },
             "user_id": 227913908,
@@ -564,27 +452,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413229981107380232,
-            "text": "ad 3080 Gaming ... Stock from \" Now \" to \" Out of …",
-            "created_at": "2021-07-08 20:14:18",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7484262609679069,
-                "negativity": 0.25157373903209196
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
             "id": 1413229544295878658,
             "text": "ad 3080 Gaming ... Stock from \" \"…",
             "created_at": "2021-07-08 20:12:34",
@@ -606,48 +473,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413229417372004352,
-            "text": "3060 Elite 12G Graphics Card , 3X , 12GB 192 - bit G …",
-            "created_at": "2021-07-08 20:12:04",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5695140605478711,
-                "negativity": 0.4304859394521286
-            },
-            "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413229049841950721,
-            "text": "3080 10GB Graphics Card 🔗…",
-            "created_at": "2021-07-08 20:10:36",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3601190476190478,
-                "negativity": 0.6398809523809523
-            },
-            "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
             "id": 1413228798204686345,
             "text": "ad 3080 Gaming ... Stock from \" Now \" to \" …",
             "created_at": "2021-07-08 20:09:36",
@@ -666,27 +491,6 @@
                 "negativity": 0.23883178486072576
             },
             "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
-            "id": 1413228703790899201,
-            "text": ": ’ s 3080 Ti EAGLE 12G On Loan For Review",
-            "created_at": "2021-07-08 20:09:14",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.22391568595231948,
-                "negativity": 0.7760843140476813
-            },
-            "user_id": 1196369578407923714,
             "text_translation": ""
         },
         {
@@ -775,6 +579,25 @@
             "text_translation": ""
         },
         {
+            "id": 1413224484333572099,
+            "text": "Selling my contact me if you are interested * Specs * : B550 - A Pro : 9 3900X : 3 …",
+            "created_at": "2021-07-08 19:52:28",
+            "retweet_count": 7,
+            "favorite_count": 43,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.617255616964772,
+                "negativity": 0.3827443830352286
+            },
+            "user_id": 1067714811654520832,
+            "text_translation": ""
+        },
+        {
             "id": 1413224089544798208,
             "text": "3060 Ti EAGLE 8GB V2 Graphics Card 🔗 £ 639 . 00 as of 20 : 50 : 53",
             "created_at": "2021-07-08 19:50:54",
@@ -838,25 +661,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413218769015615491,
-            "text": ": Please join me in wishing a belated birthday to Don Brown ( June 30th ) and ( 5th )!🎂🎂 Brown voiced …",
-            "created_at": "2021-07-08 19:29:45",
-            "retweet_count": 40,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.16707536783449317,
-                "negativity": 0.8329246321655024
-            },
-            "user_id": 1134298737159868417,
-            "text_translation": ""
-        },
-        {
             "id": 1413217665557176324,
             "text": "( ): 3060 Ti Master 8GB Carte Price : € 459 . 24 a …",
             "created_at": "2021-07-08 19:25:22",
@@ -876,27 +680,6 @@
                 "negativity": 0.5574886535552193
             },
             "user_id": 1343689985447354369,
-            "text_translation": ""
-        },
-        {
-            "id": 1413217647974653955,
-            "text": "I have 8 storage ( good for ) and an 8 graphic card . it ' s the bare m …",
-            "created_at": "2021-07-08 19:25:18",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Storage"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5972157536871093,
-                "negativity": 0.4027842463128913
-            },
-            "user_id": 1299044356305891328,
             "text_translation": ""
         },
         {
@@ -1097,6 +880,25 @@
             "text_translation": ""
         },
         {
+            "id": 1413202208099872770,
+            "text": "motley Don ’ t even start me on that ! I love hardware but their ! I don ’ t …",
+            "created_at": "2021-07-08 18:23:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7466328051284744,
+                "negativity": 0.25336719487152665
+            },
+            "user_id": 1403579921146994689,
+            "text_translation": ""
+        },
+        {
             "id": 1413201956697411595,
             "text": "i have a board as well ( b450 m ) so i guess you better set the …",
             "created_at": "2021-07-08 18:22:57",
@@ -1220,84 +1022,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413182265996234754,
-            "text": "Open Box : 17G - 17 . 3 & ; quot ; 300Hz - Source : Search Reason : = true …",
-            "created_at": "2021-07-08 17:04:42",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5578074502676197,
-                "negativity": 0.44219254973238104
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1413181971639963651,
-            "text": "​. . : 3090 GAMING 24GB GDDR6X Graphic 🔗 💸 £ 1929 . 0 as of 🕒 1 …",
-            "created_at": "2021-07-08 17:03:32",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8861940298507467,
-                "negativity": 0.11380597014925352
-            },
-            "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
-            "id": 1413181518680297482,
-            "text": "​. . : 6700 EAGLE 12GB Graphics Card 🔗 💸 £ 719 . 99 as of 🕒 18 : 01 …",
-            "created_at": "2021-07-08 17:01:44",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.25243393602225295,
-                "negativity": 0.7475660639777466
-            },
-            "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
-            "id": 1413181441983369224,
-            "text": "​. . : 6700 ELITE 12GB Graphics Ca 🔗 💸 £ 749 . 99 as of 🕒 1 …",
-            "created_at": "2021-07-08 17:01:26",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6015625000000002,
-                "negativity": 0.3984374999999994
-            },
-            "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
             "id": 1413180635116617733,
             "text": "3080 Ti 12GB EAGLE Ampere Graphics Card 🔗 £ 1 , 399 . 98 as of 17 : 58 : 13",
             "created_at": "2021-07-08 16:58:13",
@@ -1319,46 +1043,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413179520543305728,
-            "text": "​. . : 6800 MASTER 16GB Graphics C 🔗 💸 £ 967 . 26 as of 🕒 1 …",
-            "created_at": "2021-07-08 16:53:47",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.56151832460733,
-                "negativity": 0.43848167539267013
-            },
-            "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
-            "id": 1413178498806689793,
-            "text": "Open Box : AERO 15 - 15 . 6 & ; quot ; 4K AMOLE Source : Search Reason : = true …",
-            "created_at": "2021-07-08 16:49:44",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5578074502676197,
-                "negativity": 0.44219254973238104
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
             "id": 1413178235383320576,
             "text": "- 1day 13hrs to 25 odd ? Come on Virgin , this service is horrendous . 😲",
             "created_at": "2021-07-08 16:48:41",
@@ -1375,27 +1059,6 @@
                 "negativity": 0.6313060721894521
             },
             "user_id": 861333926874415104,
-            "text_translation": ""
-        },
-        {
-            "id": 1413177172550901762,
-            "text": "Divider 300 1050w pf1 Z590 Pro AX 11900K 3070 Gaming MX1 Plus P …",
-            "created_at": "2021-07-08 16:44:28",
-            "retweet_count": 10,
-            "favorite_count": 114,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9350664223545585,
-                "negativity": 0.06493357764544207
-            },
-            "user_id": 825532173939793921,
             "text_translation": ""
         },
         {
@@ -1420,90 +1083,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413175609933672459,
-            "text": "6800 GAMING is now available on US Link : …",
-            "created_at": "2021-07-08 16:38:15",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9074883848045925,
-                "negativity": 0.09251161519540843
-            },
-            "user_id": 1388860173968715776,
-            "text_translation": ""
-        },
-        {
-            "id": 1413175517088526345,
-            "text": "™ 3070 Master 8GB ( ... Stock from \" NONE \" to \" IN STORE \"…",
-            "created_at": "2021-07-08 16:37:53",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.39376228287023557,
-                "negativity": 0.6062377171297646
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
-            "id": 1413175434171363331,
-            "text": "🤟 DROP !! 🤟 3070 GAMING 8GB Graphics Card Price :£ 894 . 99 Site :",
-            "created_at": "2021-07-08 16:37:33",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7909773153675583,
-                "negativity": 0.2090226846324402
-            },
-            "user_id": 1379697321613615105,
-            "text_translation": ""
-        },
-        {
-            "id": 1413175432388747264,
-            "text": "🤟 DROP !! 🤟 3090 GAMING 24GB GDDR6X Graphics Card Price :£ 1 , 823 . 41 Site :…",
-            "created_at": "2021-07-08 16:37:33",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7909773153675583,
-                "negativity": 0.2090226846324402
-            },
-            "user_id": 1379697321613615105,
-            "text_translation": ""
-        },
-        {
             "id": 1413173956207644672,
             "text": "3080 Ti GAMING 12GB Graphics Card 🔗 £ 1 , 599 . 97 as of 17 : 31 : 40",
             "created_at": "2021-07-08 16:31:41",
@@ -1522,50 +1101,6 @@
                 "negativity": 0.26219512195121947
             },
             "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413173837064294408,
-            "text": "( ): 3070 EAGLE 8GB Product Link : Add to Basket Link :…",
-            "created_at": "2021-07-08 16:31:12",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.24497334437352505,
-                "negativity": 0.7550266556264758
-            },
-            "user_id": 1343689985447354369,
-            "text_translation": ""
-        },
-        {
-            "id": 1413173837051617281,
-            "text": "( ): 3070 GAMING 8GB Product Link : Add to Basket Li …",
-            "created_at": "2021-07-08 16:31:12",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.730007354351858,
-                "negativity": 0.2699926456481421
-            },
-            "user_id": 1343689985447354369,
             "text_translation": ""
         },
         {
@@ -1606,48 +1141,6 @@
                 "negativity": 0.8315284653465341
             },
             "user_id": 1343689985447354369,
-            "text_translation": ""
-        },
-        {
-            "id": 1413172591737589774,
-            "text": "3080 Ti GAMING 12GB Graphics Card is now in stock at for £ 1599 . 97 !",
-            "created_at": "2021-07-08 16:26:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6401135477288304,
-                "negativity": 0.3598864522711689
-            },
-            "user_id": 1322565033180733440,
-            "text_translation": ""
-        },
-        {
-            "id": 1413171756492263424,
-            "text": "6800 MASTER 16GB Graphics Card 🔗 £ 967 . 26 as of 17 : 22 : 56",
-            "created_at": "2021-07-08 16:22:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4956585673272182,
-                "negativity": 0.504341432672783
-            },
-            "user_id": 1399248443110006785,
             "text_translation": ""
         },
         {
@@ -1724,25 +1217,6 @@
                 "negativity": 0.569036578510352
             },
             "user_id": 295837374,
-            "text_translation": ""
-        },
-        {
-            "id": 1413164341755584512,
-            "text": "H510M S2H Socket LGA1200 CALL FOR PRICE APPLY Contact Us by & ; Telegram + 1 ( 305 ) 7 …",
-            "created_at": "2021-07-08 15:53:29",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6127901222205664,
-                "negativity": 0.38720987777943383
-            },
-            "user_id": 134824143,
             "text_translation": ""
         },
         {
@@ -2216,28 +1690,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413148263771893767,
-            "text": "3060 Ti GAMING 8GB GDDR6 Graphics Card Auction Gaming …",
-            "created_at": "2021-07-08 14:49:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5466867469879508,
-                "negativity": 0.4533132530120484
-            },
-            "user_id": 307605293,
-            "text_translation": ""
-        },
-        {
             "id": 1413146692761767938,
             "text": "if I - order buy the 28U how long until I ’ have it ?",
             "created_at": "2021-07-08 14:43:21",
@@ -2420,25 +1872,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413130771850797056,
-            "text": "[$ 1 , 399 . 00 ]: 6800 Gaming 🛒 ⏰ 08 : 40 : 05",
-            "created_at": "2021-07-08 13:40:05",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1306463816226660352,
-            "text_translation": ""
-        },
-        {
             "id": 1413130358237765641,
             "text": "Highly sought after just come up at . With capacity for 5 / 6 , our office …",
             "created_at": "2021-07-08 13:38:26",
@@ -2460,62 +1893,22 @@
             "text_translation": ""
         },
         {
-            "id": 1413130248678305794,
-            "text": "3060 GAMING 12GB GDDR6 Graphics Card Auction Gaming …",
-            "created_at": "2021-07-08 13:38:00",
+            "id": 1413123645921239046,
+            "text": "5 1600 Kraken X53 AB350 Pro4 G . Skill Trident Z 16 3600 A400 240 2 . 5 \" S …",
+            "created_at": "2021-07-08 13:11:46",
             "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5466867469879508,
-                "negativity": 0.4533132530120484
-            },
-            "user_id": 307605293,
-            "text_translation": ""
-        },
-        {
-            "id": 1413129855315574786,
-            "text": "6800 GAMING in stock at retail at ! ad 6800XT 6900XT",
-            "created_at": "2021-07-08 13:36:26",
-            "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.6490384615384626,
-                "negativity": 0.35096153846153755
+                "classification": "neg",
+                "positivity": 0.31179775280898925,
+                "negativity": 0.6882022471910111
             },
-            "user_id": 1315379833644306432,
-            "text_translation": ""
-        },
-        {
-            "id": 1413128467084840966,
-            "text": "6700 ELITE 12GB Graphics Card 🔗 £ 749 . 99 as of 14 : 30 : 55",
-            "created_at": "2021-07-08 13:30:55",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5367553865652732,
-                "negativity": 0.4632446134347275
-            },
-            "user_id": 1399248443110006785,
+            "user_id": 1413115359880781826,
             "text_translation": ""
         },
         {
@@ -2660,63 +2053,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413107829041475586,
-            "text": "[$ 1 , 399 . 00 ]: 6800 Gaming 🛒 ⏰ 07 : 08 : 54",
-            "created_at": "2021-07-08 12:08:55",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1360770482556051457,
-            "text_translation": ""
-        },
-        {
-            "id": 1413107745537105920,
-            "text": "New stock alert : 6700 12GB EAGLE Graphics Card is back at for £ 709 . 98 on 08 / 0 …",
-            "created_at": "2021-07-08 12:08:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.13619437638595583,
-                "negativity": 0.8638056236140449
-            },
-            "user_id": 1363266858053472256,
-            "text_translation": ""
-        },
-        {
-            "id": 1413107743817453575,
-            "text": "New stock alert : 6700 12GB ELITE Graphics Card is back at for £ 749 . 99 o …",
-            "created_at": "2021-07-08 12:08:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3510779492946719,
-                "negativity": 0.6489220507053274
-            },
-            "user_id": 1363266858053472256,
-            "text_translation": ""
-        },
-        {
             "id": 1413103768154120192,
             "text": "3080 MASTER 10GB V3 Graphics Card 🔗 £ 1 , 548 . 41 as of 12 : 52 : 46",
             "created_at": "2021-07-08 11:52:47",
@@ -2735,25 +2071,6 @@
                 "negativity": 0.504341432672783
             },
             "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413099832001040389,
-            "text": "[$ 1 , 399 . 00 ]: 6800 Gaming 🛒 ⏰ 06 : 37 : 08",
-            "created_at": "2021-07-08 11:37:08",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1360770482556051457,
             "text_translation": ""
         },
         {
@@ -2835,25 +2152,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413092189186428931,
-            "text": "[$ 1 , 399 . 00 ]: 6800 Gaming 🛒 ⏰ 06 : 06 : 45",
-            "created_at": "2021-07-08 11:06:46",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1360770482556051457,
-            "text_translation": ""
-        },
-        {
             "id": 1413091780476682243,
             "text": "Grab a 3070 MASTER 8GB Graphics Card for only £ 914 . 99",
             "created_at": "2021-07-08 11:05:09",
@@ -2873,25 +2171,6 @@
                 "negativity": 0.6153670706713626
             },
             "user_id": 858636167184560129,
-            "text_translation": ""
-        },
-        {
-            "id": 1413090947529838595,
-            "text": "🚨🚨 at DE 🇩🇪 💥 6900 Gaming 💸 2 . 840 , 41 € 🚛 from 🏷 Sold b …",
-            "created_at": "2021-07-08 11:01:50",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.91252851767355,
-                "negativity": 0.08747148232644936
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -2973,6 +2252,27 @@
             "text_translation": ""
         },
         {
+            "id": 1413086595930939395,
+            "text": "build a gaming is not worth it . constant hit with dead . dead chip s …",
+            "created_at": "2021-07-08 10:44:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9706028906039085,
+                "negativity": 0.029397109396091012
+            },
+            "user_id": 1404454437012205575,
+            "text_translation": ""
+        },
+        {
             "id": 1413086436283191300,
             "text": "U own me 100000000000000000",
             "created_at": "2021-07-08 10:43:54",
@@ -3027,25 +2327,6 @@
                 "negativity": 0.7991409960157376
             },
             "user_id": 3291317973,
-            "text_translation": ""
-        },
-        {
-            "id": 1413084364733288453,
-            "text": "[$ 1 , 399 . 00 ]: 6800 Gaming 🛒 ⏰ 05 : 35 : 40",
-            "created_at": "2021-07-08 10:35:41",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1360770482556051457,
             "text_translation": ""
         },
         {
@@ -3332,27 +2613,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413061963630977031,
-            "text": "New stock alert : 3080 is back at for £ 1 , 399 . 99 o …",
-            "created_at": "2021-07-08 09:06:40",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.31830082086218414,
-                "negativity": 0.6816991791378153
-            },
-            "user_id": 1363266858053472256,
-            "text_translation": ""
-        },
-        {
             "id": 1413060261288857603,
             "text": "3080 Ti VISION 12GB Graphics Card is now in stock at for £ 1771 . 88 !",
             "created_at": "2021-07-08 08:59:54",
@@ -3558,27 +2818,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413050189024219136,
-            "text": "X - 10 3080 ( ... Stock from \" IN WAREHOUSE \" to \" N …",
-            "created_at": "2021-07-08 08:19:52",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4342982875202116,
-                "negativity": 0.5657017124797883
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
             "id": 1413049655693246465,
             "text": "Just a tweet about great service I have received from DE it ' s been 20 days , I have my 750 Go …",
             "created_at": "2021-07-08 08:17:45",
@@ -3595,46 +2834,6 @@
                 "negativity": 0.16766604468385232
             },
             "user_id": 868740906739875840,
-            "text_translation": ""
-        },
-        {
-            "id": 1413048300568186884,
-            "text": "X - 10 3080 ( ... Stock from \" NONE \" to \" IN …",
-            "created_at": "2021-07-08 08:12:22",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.24089947142674395,
-                "negativity": 0.7591005285732563
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
-            "id": 1413048008090996736,
-            "text": "🚨🚨 at IT 🇮🇹 💥 6700 Eagle 💸 1 . 000 , 16 € 🚛 from 🏷 Sold by Am …",
-            "created_at": "2021-07-08 08:11:12",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5559257532227248,
-                "negativity": 0.44407424677727464
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -3695,22 +2894,22 @@
             "text_translation": ""
         },
         {
-            "id": 1413043816047726593,
-            "text": "🚨🚨 at 🇳🇱 💥 6700 Eagle 💸 € 1 . 045 , 43 🚛 from 🏷 Sold by Am …",
-            "created_at": "2021-07-08 07:54:33",
+            "id": 1413044714933297152,
+            "text": "Not bad , but I have some advice . That is , you could easily switch to a U …",
+            "created_at": "2021-07-08 07:58:07",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "neutral",
+            "label": "positive",
             "note": {
-                "classification": "pos",
-                "positivity": 0.5559257532227248,
-                "negativity": 0.44407424677727464
+                "classification": "neg",
+                "positivity": 0.39071013099531876,
+                "negativity": 0.6092898690046821
             },
-            "user_id": 1367087236450291717,
+            "user_id": 376688143,
             "text_translation": ""
         },
         {
@@ -3757,25 +2956,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413041431841812484,
-            "text": "​. . : 6700 ELITE 12GB Graphics Ca 🔗 💸 £ 769 . 98 as of 🕒 0 …",
-            "created_at": "2021-07-08 07:45:05",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6015625000000002,
-                "negativity": 0.3984374999999994
-            },
-            "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
             "id": 1413038258724945921,
             "text": "New stock alert : 3060 GAMING 12GB is back at for £ 549 . 99 on 08 / 07 …",
             "created_at": "2021-07-08 07:32:28",
@@ -3815,25 +2995,6 @@
                 "negativity": 0.17992520655636612
             },
             "user_id": 2848774076,
-            "text_translation": ""
-        },
-        {
-            "id": 1413033844840804354,
-            "text": "🚨🚨 at IT 🇮🇹 💥 6700 Gaming 💸 1 . 139 , 91 € 🚛 from 🏷 Sold b …",
-            "created_at": "2021-07-08 07:14:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9690372685464361,
-                "negativity": 0.030962731453562382
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -4056,27 +3217,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413013113574764547,
-            "text": "​. : 3080 Ti 12GB EAGLE Ampere Graphics Card 🔗 💸 £ 1 ,…",
-            "created_at": "2021-07-08 05:52:33",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.25243393602225295,
-                "negativity": 0.7475660639777466
-            },
-            "user_id": 1314575666130694144,
-            "text_translation": ""
-        },
-        {
             "id": 1413011916725788676,
             "text": "X570 Ultra with 12 + 2 Phase Digital , Triple 4 . 0 M . 2 with Thermal , …",
             "created_at": "2021-07-08 05:47:48",
@@ -4096,6 +3236,28 @@
             "text_translation": ""
         },
         {
+            "id": 1412997740364185603,
+            "text": "I use the setup for illustrator and photo 3 3600 Rx5600xt 32gb Corsair ram b55 …",
+            "created_at": "2021-07-08 04:51:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.11221920773945986,
+                "negativity": 0.88778079226054
+            },
+            "user_id": 1070153368939708417,
+            "text_translation": ""
+        },
+        {
             "id": 1412996084033495041,
             "text": "What I have can ' t even run 720p . It an hour to a of …",
             "created_at": "2021-07-08 04:44:53",
@@ -4112,6 +3274,25 @@
                 "negativity": 0.6590069354467779
             },
             "user_id": 816500149627195392,
+            "text_translation": ""
+        },
+        {
+            "id": 1412994739830497282,
+            "text": ": Dell , , , , , , and to deliver best - in - class …",
+            "created_at": "2021-07-08 04:39:32",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8848523128026167,
+                "negativity": 0.11514768719738398
+            },
+            "user_id": 1307686683152977920,
             "text_translation": ""
         },
         {
@@ -4238,28 +3419,6 @@
             "text_translation": ""
         },
         {
-            "id": 1412980227173720064,
-            "text": "3070 Ti GAMING 8GB GDDR6X Graphics Card Auction Gaming …",
-            "created_at": "2021-07-08 03:41:52",
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5466867469879508,
-                "negativity": 0.4533132530120484
-            },
-            "user_id": 307605293,
-            "text_translation": ""
-        },
-        {
             "id": 1412978601822146566,
             "text": "Eagle 3060 12GB GDDR6 Express 4 . 0 x rtx3060 geforce3060 Source : Search Re …",
             "created_at": "2021-07-08 03:35:25",
@@ -4281,27 +3440,6 @@
             "text_translation": ""
         },
         {
-            "id": 1412978595857850370,
-            "text": "3080 Ti 12GB GDDR6X Express 4 rtx3080Ti geforce3080Ti Source : Search Result …",
-            "created_at": "2021-07-08 03:35:23",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7891444285008905,
-                "negativity": 0.21085557149911052
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
             "id": 1412978586382970885,
             "text": "Z490 MASTER 1200 Z490 Source : Search Reason : Available …",
             "created_at": "2021-07-08 03:35:21",
@@ -4316,63 +3454,6 @@
                 "classification": "pos",
                 "positivity": 0.8448214231351093,
                 "negativity": 0.15517857686489003
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1412978583715389440,
-            "text": "Z590 ULTRA 1200 Z590 6Gb / s rtx3080Ti geforce3080Ti Source : Search Result …",
-            "created_at": "2021-07-08 03:35:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7561568654642463,
-                "negativity": 0.24384313453575338
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
-            "id": 1412978583698649090,
-            "text": "Z590 MASTER 1200 Z590 rtx3080 geforce3080 Source : Search Re …",
-            "created_at": "2021-07-08 03:35:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8411391532639467,
-                "negativity": 0.15886084673605294
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1412978583568531457,
-            "text": "Z590 ULTRA 1200 Z590 6Gb / s rtx3080 geforce3080 Source : Search Re …",
-            "created_at": "2021-07-08 03:35:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7393428438186525,
-                "negativity": 0.2606571561813476
             },
             "user_id": 1342919737358110720,
             "text_translation": ""
@@ -4415,25 +3496,6 @@
                 "negativity": 0.3352426523708679
             },
             "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
-            "id": 1412978582834630658,
-            "text": "Z590 MASTER 1200 Z590 rtx3080Ti geforce3080Ti Source : Search Result …",
-            "created_at": "2021-07-08 03:35:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8526949694121512,
-                "negativity": 0.14730503058784933
-            },
-            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -4491,27 +3553,6 @@
                 "classification": "pos",
                 "positivity": 0.8448214231351093,
                 "negativity": 0.15517857686489003
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1412978517244092421,
-            "text": "3080 Ti 12GB GDDR6X Express 4 Source : Search Reason : = true …",
-            "created_at": "2021-07-08 03:35:05",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7994825914299194,
-                "negativity": 0.20051740857008107
             },
             "user_id": 1342919737358110720,
             "text_translation": ""
@@ -4577,25 +3618,6 @@
                 "negativity": 0.7475660639777466
             },
             "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1412967839133315075,
-            "text": "🚨🚨 at DE 🇩🇪 💥 6700 Gaming 🚛 from 🏷 Sold by …",
-            "created_at": "2021-07-08 02:52:39",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.91252851767355,
-                "negativity": 0.08747148232644936
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -4681,25 +3703,6 @@
             "text_translation": ""
         },
         {
-            "id": 1412958117684563969,
-            "text": "Open Box : 5600 6G ( Rev 2 . radeon5600XT Source : Search Reason : In …",
-            "created_at": "2021-07-08 02:14:01",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9334745915214494,
-                "negativity": 0.06652540847855003
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
             "id": 1412957849957904384,
             "text": "When Will the M28U be available or in stock at ?",
             "created_at": "2021-07-08 02:12:57",
@@ -4778,28 +3781,6 @@
                 "negativity": 0.45766266559265045
             },
             "user_id": 35368425,
-            "text_translation": ""
-        },
-        {
-            "id": 1412954270874341376,
-            "text": "​. ​. : 3070 GAMING 8GB Graphics Card 🔗 💸 £ 427 . 40 as of 🕒 0 …",
-            "created_at": "2021-07-08 01:58:44",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7378048780487805,
-                "negativity": 0.26219512195121947
-            },
-            "user_id": 1314575666130694144,
             "text_translation": ""
         },
         {
@@ -4905,25 +3886,6 @@
             "text_translation": ""
         },
         {
-            "id": 1412943118358523910,
-            "text": "Z590 1200 Z590 6Gb / s Ex rtx3090 geforce3090 Source : Search Re …",
-            "created_at": "2021-07-08 01:14:25",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7519887305270136,
-                "negativity": 0.2480112694729861
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
             "id": 1412941019193217025,
             "text": "Context for anyone is that some physical had a misprint saying a 15 …",
             "created_at": "2021-07-08 01:06:04",
@@ -4959,28 +3921,6 @@
                 "negativity": 0.7228307975138888
             },
             "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1412939712826945537,
-            "text": "Gaming 3070 Ti 8GB GDDR6X Express 4 rtx3070Ti geforce3070Ti Source : Search Result …",
-            "created_at": "2021-07-08 01:00:53",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9492718322602914,
-                "negativity": 0.05072816773970932
-            },
-            "user_id": 1363974177099816968,
             "text_translation": ""
         },
         {
@@ -5038,25 +3978,6 @@
                 "negativity": 0.19037512846221988
             },
             "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1412939328276340737,
-            "text": "🚨🚨 at 🇫🇷 💥 6800 Gaming 💸 1 899 , 91 € 🚛 from 🏷 Sold b …",
-            "created_at": "2021-07-08 00:59:21",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.91252851767355,
-                "negativity": 0.08747148232644936
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {

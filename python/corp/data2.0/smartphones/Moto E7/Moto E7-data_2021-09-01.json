@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1433138688192495620,
+            "text": ": Worst experience with e7 power . the mobile on 11 / 08 / 21 and found that the phone had network issue . Went to …",
+            "created_at": "2021-09-01 18:44:24",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5201559858937529,
+                "negativity": 0.4798440141062484
+            },
+            "user_id": 1302941505779245057,
+            "text_translation": ""
+        },
+        {
+            "id": 1433138108459978754,
+            "text": "Worst experience with e7 power . the mobile on 11 / 08 / 21 and found that the phone had network issue . W …",
+            "created_at": "2021-09-01 18:42:06",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5431968483154577,
+                "negativity": 0.4568031516845402
+            },
+            "user_id": 2603822371,
+            "text_translation": ""
+        },
+        {
+            "id": 1433053236970332161,
+            "text": ": InfinixSmart5A Motoe7Power Android technology …",
+            "created_at": "2021-09-01 13:04:51",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7000000000000001,
+                "negativity": 0.3000000000000001
+            },
+            "user_id": 1269506728439304194,
+            "text_translation": ""
+        },
+        {
+            "id": 1433052963707047937,
+            "text": "InfinixSmart5A Motoe7Power Android technology …",
+            "created_at": "2021-09-01 13:03:46",
+            "retweet_count": 2,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7000000000000001,
+                "negativity": 0.3000000000000001
+            },
+            "user_id": 1288005387388465157,
+            "text_translation": ""
+        }
+    ]
+}

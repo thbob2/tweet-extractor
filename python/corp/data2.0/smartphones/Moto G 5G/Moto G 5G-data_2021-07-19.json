@@ -1,6 +1,44 @@
 {
     "tweets": [
         {
+            "id": 1417273027902025730,
+            "text": ": Enter for a chance to win a new g stylus 5G ! Follow us or reply to this post by 7 / 18 / 21 Tag a friend …",
+            "created_at": "2021-07-19 23:59:56",
+            "retweet_count": 473,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5992010038089897,
+                "negativity": 0.4007989961910122
+            },
+            "user_id": 1129204484,
+            "text_translation": ""
+        },
+        {
+            "id": 1417186758186389510,
+            "text": "Get the new G Stylus 5G for FREE when you switch over to Boost Mobile ! come visit us here at 1108 n loop 336 …",
+            "created_at": "2021-07-19 18:17:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8072048276169073,
+                "negativity": 0.19279517238309105
+            },
+            "user_id": 2239755001,
+            "text_translation": ""
+        },
+        {
             "id": 1417141951057600514,
             "text": "are here for the Steam Deck , Red Magic 6R , G Stylus 5G , and more !",
             "created_at": "2021-07-19 15:19:05",
@@ -36,6 +74,25 @@
                 "negativity": 0.34597060824232856
             },
             "user_id": 4132821965,
+            "text_translation": ""
+        },
+        {
+            "id": 1416965178516725770,
+            "text": "Hi , thank you for posting ! We understand you are excited to receive Android 11 and we are …",
+            "created_at": "2021-07-19 03:36:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4034918713825362,
+                "negativity": 0.5965081286174652
+            },
+            "user_id": 4851295378,
             "text_translation": ""
         },
         {

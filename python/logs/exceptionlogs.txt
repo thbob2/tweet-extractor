@@ -993,3 +993,338 @@ Failed to send request: ('Connection aborted.', ConnectionResetError(10054, 'An 
 [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Boe\\Documents\\projects\\repos\\tweet-extractor/python/corp/data3.0/companies\\Intel':::2021-08-31 14:10:32.245806
 [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Boe\\Documents\\projects\\repos\\tweet-extractor/python/corp/data3.0/companies\\AMD':::2021-08-31 14:10:32.245806
 [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\Boe\\Documents\\projects\\repos\\tweet-extractor/python/corp/data3.0/companies\\LG':::2021-08-31 14:10:32.246807
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 09:33:54.190853
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 09:48:57.431786
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 10:04:02.167043
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 10:19:05.199412
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 10:34:08.720442
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 10:49:12.641741
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 11:04:16.862188
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 11:19:20.203566
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 11:34:23.700558
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 11:49:27.765254
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 12:04:31.930429
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 12:19:36.006530
+Failed to send request: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')):::2021-09-05 12:34:39.896639
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-09-05 14:17:49.872746
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-09-05 14:17:49.880651
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/TUF Gaming':::2021-09-05 14:23:03.499587
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix G':::2021-09-05 14:23:03.499758
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Scar III':::2021-09-05 14:23:03.499823
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-G':::2021-09-05 14:23:03.499877
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus S':::2021-09-05 14:23:03.499927
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus':::2021-09-05 14:23:03.499975
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Scar II':::2021-09-05 14:23:03.500023
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus M':::2021-09-05 14:23:03.500070
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Hero II':::2021-09-05 14:23:03.500118
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Hero III':::2021-09-05 14:23:03.500163
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus G':::2021-09-05 14:23:03.500210
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/VivoBook Gaming':::2021-09-05 14:23:03.500256
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/TUF A15':::2021-09-05 14:23:03.500308
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/DELL XPS 13':::2021-09-05 14:23:03.500359
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/DELL XPS 15':::2021-09-05 14:23:03.500466
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/MACBOOK PRO':::2021-09-05 14:23:03.500526
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/MACBOOK AIR':::2021-09-05 14:23:03.500581
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/HP Spectre x360 14':::2021-09-05 14:23:03.500646
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/HP Envy x360s':::2021-09-05 14:23:03.500695
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Asus ROG Zephyrus G14':::2021-09-05 14:23:03.500741
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Razer Book 13':::2021-09-05 14:23:03.500787
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Razer Blade Pro 17':::2021-09-05 14:23:03.500833
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Gigabyte Aero 15':::2021-09-05 14:23:03.500878
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Swift 3x':::2021-09-05 14:23:03.500933
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-09-05 14:23:03.500979
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer ConceptD 7':::2021-09-05 14:23:03.501027
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Swift 3':::2021-09-05 14:23:03.501075
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Predator Triton 500':::2021-09-05 14:23:03.501122
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Chromebook 314':::2021-09-05 14:23:03.501179
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Predator Helios 700':::2021-09-05 14:23:03.501224
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-09-05 14:23:03.501269
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Chromebook Spin 311':::2021-09-05 14:23:03.501313
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Chromebook 714':::2021-09-05 14:23:03.501358
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/NVIDIA':::2021-09-05 14:23:03.501490
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/RADEON':::2021-09-05 14:23:03.501548
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/Apple':::2021-09-05 14:23:03.501601
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/ASUS':::2021-09-05 14:23:03.501650
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/GIGABYTE':::2021-09-05 14:23:03.501696
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/DELL':::2021-09-05 14:23:03.501742
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/ACER':::2021-09-05 14:23:03.501789
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/HP':::2021-09-05 14:23:03.501835
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/SONY':::2021-09-05 14:23:03.501883
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/SAMSUNG':::2021-09-05 14:23:03.501933
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/RAZOR':::2021-09-05 14:23:03.501980
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/NZXT':::2021-09-05 14:23:03.502026
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/THERMALTAKE':::2021-09-05 14:23:03.502071
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/CORSAIR':::2021-09-05 14:23:03.502116
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/GSKILL':::2021-09-05 14:23:03.502164
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/HUAWEI':::2021-09-05 14:23:03.502211
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/XIOAMI':::2021-09-05 14:23:03.502268
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/Intel':::2021-09-05 14:23:03.502342
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/AMD':::2021-09-05 14:23:03.502423
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/LG':::2021-09-05 14:23:03.502490
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-09-05 14:23:03.502603
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-09-05 14:23:03.502659
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-09-05 14:23:03.502714
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-09-05 14:23:03.502788
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-09-05 14:23:03.502850
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-09-05 14:23:03.502902
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-09-05 14:23:03.502954
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-09-05 14:23:03.503005
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-09-05 14:23:03.503058
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-09-05 14:23:03.503110
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-09-05 14:23:03.503218
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-09-05 14:23:03.503288
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-09-05 14:23:03.503345
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-09-05 14:23:03.503428
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-09-05 14:23:03.503491
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-09-05 14:23:03.503548
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-09-05 14:23:03.503604
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-09-05 14:23:03.503658
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-09-05 14:23:03.503713
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-09-05 14:23:03.503769
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-09-05 14:23:03.503823
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-09-05 14:23:03.503875
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-09-05 14:23:03.503929
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-09-05 14:23:03.503982
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-09-05 14:23:03.504035
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note 20':::2021-09-05 14:23:03.504087
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note 20 ultra':::2021-09-05 14:23:03.504141
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Infinix Note 7':::2021-09-05 14:23:03.504260
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/iPhone 12':::2021-09-05 14:23:03.504333
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/iPhone 12 Pro':::2021-09-05 14:23:03.504408
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/iPhone SE (2nd generation)':::2021-09-05 14:23:03.504484
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LEGION DUEL':::2021-09-05 14:23:03.504540
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LG V60 ThinQ':::2021-09-05 14:23:03.504604
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LG Velvet':::2021-09-05 14:23:03.504660
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LG Wing':::2021-09-05 14:23:03.504715
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Micromax IN Note 1':::2021-09-05 14:23:03.504769
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto E (2020)':::2021-09-05 14:23:03.504822
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto E7':::2021-09-05 14:23:03.504876
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G (2020)':::2021-09-05 14:23:03.504939
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G 5G':::2021-09-05 14:23:03.504991
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G 5G Plus':::2021-09-05 14:23:03.505044
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G9':::2021-09-05 14:23:03.505096
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Motorola Edge':::2021-09-05 14:23:03.505148
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Motorola Edge+':::2021-09-05 14:23:03.505200
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Motorola Razr (5G)':::2021-09-05 14:23:03.505252
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus 8':::2021-09-05 14:23:03.505304
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus 8T':::2021-09-05 14:23:03.505390
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord':::2021-09-05 14:23:03.505489
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N10':::2021-09-05 14:23:03.505759
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N100':::2021-09-05 14:23:03.505942
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY S20':::2021-09-05 14:23:03.506145
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note':::2021-09-05 14:23:03.506241
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note 20':::2021-09-05 14:23:03.506305
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note 20 ultra':::2021-09-05 14:23:03.506364
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/TUF Gaming':::2021-09-05 14:23:03.506500
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix G':::2021-09-05 14:23:03.506560
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Scar III':::2021-09-05 14:23:03.506617
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-G':::2021-09-05 14:23:03.506682
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus S':::2021-09-05 14:23:03.506737
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus':::2021-09-05 14:23:03.506789
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Scar II':::2021-09-05 14:23:03.506841
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus M':::2021-09-05 14:23:03.507010
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Hero II':::2021-09-05 14:23:03.507095
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Hero III':::2021-09-05 14:23:03.507169
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus G':::2021-09-05 14:23:03.507360
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/VivoBook Gaming':::2021-09-05 14:23:03.507720
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/TUF A15':::2021-09-05 14:23:03.507825
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/DELL XPS 13':::2021-09-05 14:23:03.507892
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/DELL XPS 15':::2021-09-05 14:23:03.508136
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/MACBOOK PRO':::2021-09-05 14:23:03.508194
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/MACBOOK AIR':::2021-09-05 14:23:03.508339
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/HP Spectre x360 14':::2021-09-05 14:23:03.508546
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/HP Envy x360s':::2021-09-05 14:23:03.508608
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Asus ROG Zephyrus G14':::2021-09-05 14:23:03.508792
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Razer Book 13':::2021-09-05 14:23:03.508909
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Razer Blade Pro 17':::2021-09-05 14:23:03.509048
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Gigabyte Aero 15':::2021-09-05 14:23:03.509185
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Swift 3x':::2021-09-05 14:23:03.509273
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-09-05 14:23:03.509347
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer ConceptD 7':::2021-09-05 14:23:03.509439
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Swift 3':::2021-09-05 14:23:03.509502
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Predator Triton 500':::2021-09-05 14:23:03.509587
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook 314':::2021-09-05 14:23:03.509745
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Predator Helios 700':::2021-09-05 14:23:03.509831
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-09-05 14:23:03.509897
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook Spin 311':::2021-09-05 14:23:03.509962
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook 714':::2021-09-05 14:23:03.510021
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/NVIDIA':::2021-09-05 14:23:03.510206
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/RADEON':::2021-09-05 14:23:03.510332
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/Apple':::2021-09-05 14:23:03.510465
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/ASUS':::2021-09-05 14:23:03.510588
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/GIGABYTE':::2021-09-05 14:23:03.510714
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/DELL':::2021-09-05 14:23:03.510794
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/ACER':::2021-09-05 14:23:03.510853
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/HP':::2021-09-05 14:23:03.510974
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/SONY':::2021-09-05 14:23:03.511096
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/SAMSUNG':::2021-09-05 14:23:03.511165
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/RAZOR':::2021-09-05 14:23:03.511220
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/NZXT':::2021-09-05 14:23:03.511273
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/THERMALTAKE':::2021-09-05 14:23:03.511325
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/CORSAIR':::2021-09-05 14:23:03.511394
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/GSKILL':::2021-09-05 14:23:03.511483
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/HUAWEI':::2021-09-05 14:23:03.511539
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/XIOAMI':::2021-09-05 14:23:03.511612
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/Intel':::2021-09-05 14:23:03.511674
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/AMD':::2021-09-05 14:23:03.511729
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/LG':::2021-09-05 14:23:03.511792
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/TUF Gaming':::2021-09-05 15:09:18.337219
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix G':::2021-09-05 15:09:18.338075
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Scar III':::2021-09-05 15:09:18.338293
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-G':::2021-09-05 15:09:18.338411
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus S':::2021-09-05 15:09:18.338487
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus':::2021-09-05 15:09:18.338550
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Scar II':::2021-09-05 15:09:18.338619
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus M':::2021-09-05 15:09:18.338674
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Hero II':::2021-09-05 15:09:18.338724
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Strix Hero III':::2021-09-05 15:09:18.338785
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/ROG-Zephyrus G':::2021-09-05 15:09:18.338836
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/VivoBook Gaming':::2021-09-05 15:09:18.338884
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/TUF A15':::2021-09-05 15:09:18.338933
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/DELL XPS 13':::2021-09-05 15:09:18.338981
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/DELL XPS 15':::2021-09-05 15:09:18.339042
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/MACBOOK PRO':::2021-09-05 15:09:18.339089
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/MACBOOK AIR':::2021-09-05 15:09:18.339134
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/HP Spectre x360 14':::2021-09-05 15:09:18.339187
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/HP Envy x360s':::2021-09-05 15:09:18.339233
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Asus ROG Zephyrus G14':::2021-09-05 15:09:18.339281
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Razer Book 13':::2021-09-05 15:09:18.339370
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Razer Blade Pro 17':::2021-09-05 15:09:18.339429
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Gigabyte Aero 15':::2021-09-05 15:09:18.339478
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Swift 3x':::2021-09-05 15:09:18.339526
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-09-05 15:09:18.339571
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer ConceptD 7':::2021-09-05 15:09:18.339618
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Swift 3':::2021-09-05 15:09:18.339663
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Predator Triton 500':::2021-09-05 15:09:18.339710
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Chromebook 314':::2021-09-05 15:09:18.339756
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Predator Helios 700':::2021-09-05 15:09:18.339804
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Spin 5':::2021-09-05 15:09:18.339848
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Chromebook Spin 311':::2021-09-05 15:09:18.339893
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/laptops/Acer Chromebook 714':::2021-09-05 15:09:18.339939
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/NVIDIA':::2021-09-05 15:09:18.340033
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/RADEON':::2021-09-05 15:09:18.340081
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/Apple':::2021-09-05 15:09:18.340125
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/ASUS':::2021-09-05 15:09:18.340171
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/GIGABYTE':::2021-09-05 15:09:18.340215
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/DELL':::2021-09-05 15:09:18.340260
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/ACER':::2021-09-05 15:09:18.340303
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/HP':::2021-09-05 15:09:18.340380
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/SONY':::2021-09-05 15:09:18.340433
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/SAMSUNG':::2021-09-05 15:09:18.340482
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/RAZOR':::2021-09-05 15:09:18.340529
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/NZXT':::2021-09-05 15:09:18.340575
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/THERMALTAKE':::2021-09-05 15:09:18.340622
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/CORSAIR':::2021-09-05 15:09:18.340677
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/GSKILL':::2021-09-05 15:09:18.340726
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/HUAWEI':::2021-09-05 15:09:18.340771
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/XIOAMI':::2021-09-05 15:09:18.340814
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/Intel':::2021-09-05 15:09:18.340857
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/AMD':::2021-09-05 15:09:18.340899
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/companies/LG':::2021-09-05 15:09:18.340957
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Infinix Note 7':::2021-09-05 15:09:18.341057
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12':::2021-09-05 15:09:18.341106
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone 12 Pro':::2021-09-05 15:09:18.341154
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/iPhone SE (2nd generation)':::2021-09-05 15:09:18.341200
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LEGION DUEL':::2021-09-05 15:09:18.341246
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG V60 ThinQ':::2021-09-05 15:09:18.341292
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Velvet':::2021-09-05 15:09:18.341378
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/LG Wing':::2021-09-05 15:09:18.341435
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Micromax IN Note 1':::2021-09-05 15:09:18.341485
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E (2020)':::2021-09-05 15:09:18.341625
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto E7':::2021-09-05 15:09:18.341717
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G (2020)':::2021-09-05 15:09:18.341770
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G':::2021-09-05 15:09:18.341819
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G 5G Plus':::2021-09-05 15:09:18.341867
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Moto G9':::2021-09-05 15:09:18.341915
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge':::2021-09-05 15:09:18.341964
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Edge+':::2021-09-05 15:09:18.342013
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/Motorola Razr (5G)':::2021-09-05 15:09:18.342086
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8':::2021-09-05 15:09:18.342139
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus 8T':::2021-09-05 15:09:18.342186
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord':::2021-09-05 15:09:18.342233
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N10':::2021-09-05 15:09:18.342281
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/OnePlus Nord N100':::2021-09-05 15:09:18.342356
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY S20':::2021-09-05 15:09:18.342417
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note':::2021-09-05 15:09:18.342466
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note 20':::2021-09-05 15:09:18.342523
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data2.0/smartphones/SAMSUNG GALAXY Note 20 ultra':::2021-09-05 15:09:18.342573
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Infinix Note 7':::2021-09-05 15:09:18.342676
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/iPhone 12':::2021-09-05 15:09:18.342729
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/iPhone 12 Pro':::2021-09-05 15:09:18.342777
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/iPhone SE (2nd generation)':::2021-09-05 15:09:18.342822
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LEGION DUEL':::2021-09-05 15:09:18.342867
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LG V60 ThinQ':::2021-09-05 15:09:18.342911
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LG Velvet':::2021-09-05 15:09:18.342964
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/LG Wing':::2021-09-05 15:09:18.343008
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Micromax IN Note 1':::2021-09-05 15:09:18.343060
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto E (2020)':::2021-09-05 15:09:18.343116
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto E7':::2021-09-05 15:09:18.343161
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G (2020)':::2021-09-05 15:09:18.343205
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G 5G':::2021-09-05 15:09:18.343252
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G 5G Plus':::2021-09-05 15:09:18.343297
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Moto G9':::2021-09-05 15:09:18.343376
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Motorola Edge':::2021-09-05 15:09:18.343428
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Motorola Edge+':::2021-09-05 15:09:18.343475
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/Motorola Razr (5G)':::2021-09-05 15:09:18.343525
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus 8':::2021-09-05 15:09:18.343655
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus 8T':::2021-09-05 15:09:18.343794
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord':::2021-09-05 15:09:18.344177
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N10':::2021-09-05 15:09:18.344466
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/OnePlus Nord N100':::2021-09-05 15:09:18.344565
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY S20':::2021-09-05 15:09:18.344725
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note':::2021-09-05 15:09:18.344900
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note 20':::2021-09-05 15:09:18.345088
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/smartphones/SAMSUNG GALAXY Note 20 ultra':::2021-09-05 15:09:18.345184
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/TUF Gaming':::2021-09-05 15:09:18.345490
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix G':::2021-09-05 15:09:18.345606
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Scar III':::2021-09-05 15:09:18.345769
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-G':::2021-09-05 15:09:18.345845
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus S':::2021-09-05 15:09:18.346005
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus':::2021-09-05 15:09:18.346131
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Scar II':::2021-09-05 15:09:18.346269
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus M':::2021-09-05 15:09:18.346443
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Hero II':::2021-09-05 15:09:18.346533
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Strix Hero III':::2021-09-05 15:09:18.346680
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/ROG-Zephyrus G':::2021-09-05 15:09:18.346782
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/VivoBook Gaming':::2021-09-05 15:09:18.346949
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/TUF A15':::2021-09-05 15:09:18.347025
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/DELL XPS 13':::2021-09-05 15:09:18.347191
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/DELL XPS 15':::2021-09-05 15:09:18.347292
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/MACBOOK PRO':::2021-09-05 15:09:18.347430
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/MACBOOK AIR':::2021-09-05 15:09:18.347553
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/HP Spectre x360 14':::2021-09-05 15:09:18.347985
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/HP Envy x360s':::2021-09-05 15:09:18.348158
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Asus ROG Zephyrus G14':::2021-09-05 15:09:18.348566
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Razer Book 13':::2021-09-05 15:09:18.348729
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Razer Blade Pro 17':::2021-09-05 15:09:18.348806
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Gigabyte Aero 15':::2021-09-05 15:09:18.348869
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Swift 3x':::2021-09-05 15:09:18.348930
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-09-05 15:09:18.348987
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer ConceptD 7':::2021-09-05 15:09:18.349180
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Swift 3':::2021-09-05 15:09:18.349247
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Predator Triton 500':::2021-09-05 15:09:18.349463
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook 314':::2021-09-05 15:09:18.349589
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Predator Helios 700':::2021-09-05 15:09:18.349734
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Spin 5':::2021-09-05 15:09:18.349889
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook Spin 311':::2021-09-05 15:09:18.349960
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/laptops/Acer Chromebook 714':::2021-09-05 15:09:18.350125
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/NVIDIA':::2021-09-05 15:09:18.350368
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/RADEON':::2021-09-05 15:09:18.350526
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/Apple':::2021-09-05 15:09:18.350610
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/ASUS':::2021-09-05 15:09:18.350765
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/GIGABYTE':::2021-09-05 15:09:18.350862
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/DELL':::2021-09-05 15:09:18.350997
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/ACER':::2021-09-05 15:09:18.351117
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/HP':::2021-09-05 15:09:18.351229
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/SONY':::2021-09-05 15:09:18.351300
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/SAMSUNG':::2021-09-05 15:09:18.351480
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/RAZOR':::2021-09-05 15:09:18.351555
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/NZXT':::2021-09-05 15:09:18.351699
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/THERMALTAKE':::2021-09-05 15:09:18.351797
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/CORSAIR':::2021-09-05 15:09:18.351938
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/GSKILL':::2021-09-05 15:09:18.352022
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/HUAWEI':::2021-09-05 15:09:18.352168
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/XIOAMI':::2021-09-05 15:09:18.352423
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/Intel':::2021-09-05 15:09:18.352490
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/AMD':::2021-09-05 15:09:18.352568
+[Errno 17] File exists: '/home/wolf/home/tweet-extractor/python/corp/data3.0/companies/LG':::2021-09-05 15:09:18.352625

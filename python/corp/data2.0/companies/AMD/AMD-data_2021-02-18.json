@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1362552370303930368,
+            "text": ": Anyone else remember when x men wolverine like 2 early the version was missing effects …",
+            "created_at": "2021-02-18 23:59:34",
+            "retweet_count": 7779,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4464721122839442,
+                "negativity": 0.5535278877160549
+            },
+            "user_id": 2148044472,
+            "text_translation": ""
+        },
+        {
             "id": 1362546835211120641,
             "text": "my road test might be of the snow 😒 if i all week got nervous for nothing i ’ m b so mad",
             "created_at": "2021-02-18 23:37:35",
@@ -967,6 +986,25 @@
                 "negativity": 0.39756735456647696
             },
             "user_id": 853962966919761920,
+            "text_translation": ""
+        },
+        {
+            "id": 1362337701064826891,
+            "text": ": When you have of research that fresh air , exercise and good food is the way to health , why are people suddenly …",
+            "created_at": "2021-02-18 09:46:33",
+            "retweet_count": 143,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27037603006354083,
+                "negativity": 0.7296239699364585
+            },
+            "user_id": 744856700969193472,
             "text_translation": ""
         },
         {

@@ -499,7 +499,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.1450022733251393,
-                "negativity": 0.8549977266748592
+                "negativity": 0.8549977266748591
             },
             "user_id": 910509108,
             "text_translation": ""
@@ -594,7 +594,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.9633779587204191,
-                "negativity": 0.03662204127958035
+                "negativity": 0.036622041279580346
             },
             "user_id": 844150723562553344,
             "text_translation": ""
@@ -1415,27 +1415,6 @@
             "text_translation": ""
         },
         {
-            "id": 1386941088838168580,
-            "text": ": Brand new Notebook - 15 - db0076ax * A9 - 9425 * 8 DDR4 ram * 1 2gb graphics …",
-            "created_at": "2021-04-27 07:11:38",
-            "retweet_count": 7,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "RAM"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.1440918062010567,
-                "negativity": 0.8559081937989453
-            },
-            "user_id": 855036350214623232,
-            "text_translation": ""
-        },
-        {
             "id": 1386939840122564608,
             "text": "15 10th Gen Core i3 Processor 15 . 6 - inch ( 39 . 6 ) ( 8GB / 256GB + 1TB / 10 / Office / …",
             "created_at": "2021-04-27 07:06:40",
@@ -1802,6 +1781,25 @@
                 "negativity": 0.30487804878048713
             },
             "user_id": 103398146,
+            "text_translation": ""
+        },
+        {
+            "id": 1386840409989685255,
+            "text": ": I vote for at the",
+            "created_at": "2021-04-27 00:31:34",
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3850488627843843,
+                "negativity": 0.6149511372156153
+            },
+            "user_id": 1331418710398078988,
             "text_translation": ""
         },
         {

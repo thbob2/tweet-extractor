@@ -1,0 +1,65 @@
+{
+    "tweets": [
+        {
+            "id": 1434222728412811266,
+            "text": "or . I got one G 5G . Smooth , fast , 128GB . Can ’ t complain . I walk through The V …",
+            "created_at": "2021-09-04 18:31:59",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8195310060351004,
+                "negativity": 0.1804689939648987
+            },
+            "user_id": 1350950419103678474,
+            "text_translation": ""
+        },
+        {
+            "id": 1434205368503132164,
+            "text": "Is this happening to all the screen recording ? Are you the built - in screen recording …",
+            "created_at": "2021-09-04 17:23:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7588088590891897,
+                "negativity": 0.24119114091081162
+            },
+            "user_id": 334953605,
+            "text_translation": ""
+        },
+        {
+            "id": 1434092980047007750,
+            "text": "love 2 in 1 Full Protection Cover For G 5G Plus Shockproof Rugged Clear Phone Case For G 5G Bac …",
+            "created_at": "2021-09-04 09:56:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7167645328091721,
+                "negativity": 0.2832354671908299
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        }
+    ]
+}

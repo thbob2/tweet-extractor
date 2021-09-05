@@ -1,6 +1,48 @@
 {
     "tweets": [
         {
+            "id": 1415754586665754629,
+            "text": "News Latest News G 5G | Unlocked | solely | 6 / 128GB | Digital camera | 2020 | …",
+            "created_at": "2021-07-15 19:26:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08438569254747387,
+                "negativity": 0.9156143074525279
+            },
+            "user_id": 1248114146547240961,
+            "text_translation": ""
+        },
+        {
+            "id": 1415752844884447238,
+            "text": "G 5G | Unlocked | solely | 6 / 128GB | Digital camera | 2020 | Frosted Silver , 166 . 1 x 76 . 1 x 9 . 9mm ( )",
+            "created_at": "2021-07-15 19:19:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.033745354206555,
+                "negativity": 0.9662546457934476
+            },
+            "user_id": 1248114146547240961,
+            "text_translation": ""
+        },
+        {
             "id": 1415681602810642440,
             "text": ": This , gift the speed of 5G ! Order any device from the g5G family and get the for free …",
             "created_at": "2021-07-15 14:36:10",

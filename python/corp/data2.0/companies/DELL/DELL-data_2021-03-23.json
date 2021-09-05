@@ -231,6 +231,25 @@
             "text_translation": ""
         },
         {
+            "id": 1374431934911111168,
+            "text": ", Sunset",
+            "created_at": "2021-03-23 18:44:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.375,
+                "negativity": 0.6249999999999998
+            },
+            "user_id": 566486491,
+            "text_translation": ""
+        },
+        {
             "id": 1374429890976477190,
             "text": ": Looking at getting the best possible ? Dell , our Manager in Acton , advice on where …",
             "created_at": "2021-03-23 18:36:36",
@@ -323,6 +342,25 @@
                 "negativity": 0.10405446034904135
             },
             "user_id": 91292131,
+            "text_translation": ""
+        },
+        {
+            "id": 1374409844958982148,
+            "text": "Done",
+            "created_at": "2021-03-23 17:16:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5595238095238094,
+                "negativity": 0.44047619047619047
+            },
+            "user_id": 521402910,
             "text_translation": ""
         },
         {
@@ -976,7 +1014,7 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6569123486616505,
+                "positivity": 0.6569123486616506,
                 "negativity": 0.34308765133835045
             },
             "user_id": 817951317880619008,

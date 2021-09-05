@@ -1,6 +1,44 @@
 {
     "tweets": [
         {
+            "id": 1414369196494970881,
+            "text": "UNDER RETAIL FOR ONLY $ 899 . 99 2020 Apple Air with Apple M1 Chip",
+            "created_at": "2021-07-11 23:41:08",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2302037246231895,
+                "negativity": 0.7697962753768112
+            },
+            "user_id": 1284715483,
+            "text_translation": ""
+        },
+        {
+            "id": 1414369171475996675,
+            "text": "ad : UNDER RETAIL FOR ONLY $ 899 . 99 2020 Apple Air with Apple M1 Chip",
+            "created_at": "2021-07-11 23:41:02",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2302037246231895,
+                "negativity": 0.7697962753768112
+            },
+            "user_id": 990600540273954816,
+            "text_translation": ""
+        },
+        {
             "id": 1414367511852642304,
             "text": ": Available RAM on my G5 & ; Total amount of RAM in my Air 😂😂",
             "created_at": "2021-07-11 23:34:27",
@@ -136,22 +174,22 @@
             "text_translation": ""
         },
         {
-            "id": 1414357437189001216,
-            "text": ": There ’ s literally no other in the market which as much value as Air M1 Does , I DARE YOU TO CHANGE MY …",
-            "created_at": "2021-07-11 22:54:25",
-            "retweet_count": 20,
+            "id": 1414357201444089857,
+            "text": ": Air for $ 339 !",
+            "created_at": "2021-07-11 22:53:28",
+            "retweet_count": 2,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "positive",
+            "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.7134885088541678,
-                "negativity": 0.28651149114582986
+                "classification": "neg",
+                "positivity": 0.4743667726590091,
+                "negativity": 0.5256332273409906
             },
-            "user_id": 1361688751127232514,
+            "user_id": 1214357613556699139,
             "text_translation": ""
         },
         {
@@ -171,6 +209,29 @@
                 "negativity": 0.42205445468189484
             },
             "user_id": 102020540,
+            "text_translation": ""
+        },
+        {
+            "id": 1414354054440968201,
+            "text": ": 🚨 🚨 Open carton like new used Apple Air 2020 ; 8gb ram 256gb Core i3 10th gen light Char …",
+            "created_at": "2021-07-11 22:40:58",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3",
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.005079095118148618,
+                "negativity": 0.9949209048818524
+            },
+            "user_id": 1182817496631566339,
             "text_translation": ""
         },
         {
@@ -420,25 +481,6 @@
                 "negativity": 0.3322297925360629
             },
             "user_id": 16086285,
-            "text_translation": ""
-        },
-        {
-            "id": 1414337207188418562,
-            "text": ": Remember the COLORFUL Air We ? Here ’ s When It ’ s Coming by",
-            "created_at": "2021-07-11 21:34:01",
-            "retweet_count": 51,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6205820519390078,
-                "negativity": 0.3794179480609925
-            },
-            "user_id": 2496668922,
             "text_translation": ""
         },
         {
@@ -764,6 +806,25 @@
                 "negativity": 0.34741233607224775
             },
             "user_id": 1643123766,
+            "text_translation": ""
+        },
+        {
+            "id": 1414315601036599296,
+            "text": "I think the dell 13 series is better buy at same price and 10 ' t b …",
+            "created_at": "2021-07-11 20:08:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.810812352792668,
+                "negativity": 0.1891876472073328
+            },
+            "user_id": 1307053823899258880,
             "text_translation": ""
         },
         {
@@ -1095,6 +1156,25 @@
                 "negativity": 0.3044041099719312
             },
             "user_id": 1221379289121054721,
+            "text_translation": ""
+        },
+        {
+            "id": 1414289382891261955,
+            "text": "Enter to win a Air ($ 1 , 449 Value )! Easy to enter giveaway free winner contest",
+            "created_at": "2021-07-11 18:23:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49934916023432296,
+                "negativity": 0.500650839765678
+            },
+            "user_id": 17477817,
             "text_translation": ""
         },
         {
@@ -1952,10 +2032,29 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4777591271506503,
+                "positivity": 0.47775912715065033,
                 "negativity": 0.52224087284935
             },
             "user_id": 1271081550902259714,
+            "text_translation": ""
+        },
+        {
+            "id": 1414234181471805444,
+            "text": ": Who to win a Air ? 💎 Buy 25 billion to qualify 💰 100 billion giveaway prize available for those who …",
+            "created_at": "2021-07-11 14:44:38",
+            "retweet_count": 16,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.26569323890550633,
+                "negativity": 0.7343067610944933
+            },
+            "user_id": 1410184611234201602,
             "text_translation": ""
         },
         {
@@ -2183,7 +2282,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4777591271506503,
+                "positivity": 0.47775912715065033,
                 "negativity": 0.52224087284935
             },
             "user_id": 1306200326710743040,
@@ -2335,7 +2434,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4777591271506503,
+                "positivity": 0.47775912715065033,
                 "negativity": 0.52224087284935
             },
             "user_id": 2769426558,
@@ -2396,6 +2495,25 @@
                 "negativity": 0.7411301164154065
             },
             "user_id": 1328409419344990208,
+            "text_translation": ""
+        },
+        {
+            "id": 1414220621509185536,
+            "text": ": The weekend ’ s best tech : Switch Lite , Air , and more",
+            "created_at": "2021-07-11 13:50:45",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6082856409974289,
+                "negativity": 0.3917143590025722
+            },
+            "user_id": 989618395267108867,
             "text_translation": ""
         },
         {
@@ -2475,6 +2593,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414214709281128448,
+            "text": ": It ’ s so odd how the less expensive air a better front facing camera than the Air .",
+            "created_at": "2021-07-11 13:27:16",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4087206550937704,
+                "negativity": 0.591279344906228
+            },
+            "user_id": 102857285,
+            "text_translation": ""
+        },
+        {
             "id": 1414213573803454468,
             "text": "Nice , get the air now , M1 version 😁😁",
             "created_at": "2021-07-11 13:22:45",
@@ -2544,10 +2681,29 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4777591271506503,
+                "positivity": 0.47775912715065033,
                 "negativity": 0.52224087284935
             },
             "user_id": 1302820173661970432,
+            "text_translation": ""
+        },
+        {
+            "id": 1414211225701871619,
+            "text": "",
+            "created_at": "2021-07-11 13:13:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1143160833146421249,
             "text_translation": ""
         },
         {
@@ -2696,7 +2852,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4777591271506503,
+                "positivity": 0.47775912715065033,
                 "negativity": 0.52224087284935
             },
             "user_id": 930741990211256321,
@@ -2876,6 +3032,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414197285660024841,
+            "text": ": offer new and certified used apple Air and Pro . Follow & ; to order . Pay sma …",
+            "created_at": "2021-07-11 12:18:02",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2628246263885826,
+                "negativity": 0.7371753736114167
+            },
+            "user_id": 94210183,
+            "text_translation": ""
+        },
+        {
             "id": 1414195374760280067,
             "text": "2020 Air with Touch ID with 256 go for sale ❤️$ 1000 or best offer . to purchase : i take cash , …",
             "created_at": "2021-07-11 12:10:26",
@@ -2911,6 +3086,25 @@
                 "negativity": 0.884416243654822
             },
             "user_id": 1275468208992948227,
+            "text_translation": ""
+        },
+        {
+            "id": 1414192755098652673,
+            "text": "offer new and certified used apple Air and Pro . Follow & ; to order . Pay …",
+            "created_at": "2021-07-11 12:00:01",
+            "retweet_count": 2,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2628246263885826,
+                "negativity": 0.7371753736114167
+            },
+            "user_id": 91316071,
             "text_translation": ""
         },
         {
@@ -2968,6 +3162,25 @@
                 "negativity": 0.5161889954527298
             },
             "user_id": 1263290889096421377,
+            "text_translation": ""
+        },
+        {
+            "id": 1414189982198214657,
+            "text": "The weekend ’ s best tech : Switch Lite , Air , and more",
+            "created_at": "2021-07-11 11:49:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6082856409974289,
+                "negativity": 0.3917143590025722
+            },
+            "user_id": 1316178515801370624,
             "text_translation": ""
         },
         {
@@ -3044,6 +3257,25 @@
                 "negativity": 0.3191660959172575
             },
             "user_id": 1139237143077892096,
+            "text_translation": ""
+        },
+        {
+            "id": 1414182704170487812,
+            "text": ": 2022 Air will be , have new - LED display",
+            "created_at": "2021-07-11 11:20:05",
+            "retweet_count": 35,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5666628162706984,
+                "negativity": 0.43333718372930213
+            },
+            "user_id": 162312740,
             "text_translation": ""
         },
         {
@@ -3215,25 +3447,6 @@
                 "negativity": 0.5308099787796743
             },
             "user_id": 913741011788140545,
-            "text_translation": ""
-        },
-        {
-            "id": 1414167732250046470,
-            "text": "air , who ?",
-            "created_at": "2021-07-11 10:20:35",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4777591271506503,
-                "negativity": 0.52224087284935
-            },
-            "user_id": 1263677088,
             "text_translation": ""
         },
         {
@@ -3435,6 +3648,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414153249221976064,
+            "text": "Air 🕯🕯🕯🕯🕯🕯",
+            "created_at": "2021-07-11 09:23:02",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4717741935483867,
+                "negativity": 0.528225806451613
+            },
+            "user_id": 1281656823234387976,
+            "text_translation": ""
+        },
+        {
             "id": 1414151070532653057,
             "text": "Johnson17th : to the ! $ 3 , 000 + a Air Giveaway !",
             "created_at": "2021-07-11 09:14:23",
@@ -3552,6 +3784,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414147210225373188,
+            "text": ": Air - , yet ! 🤩 Now get your Air at an exclusive offer on . Shop …",
+            "created_at": "2021-07-11 08:59:03",
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7815462504333089,
+                "negativity": 0.2184537495666913
+            },
+            "user_id": 1303006852972568579,
+            "text_translation": ""
+        },
+        {
             "id": 1414146029419732993,
             "text": "One of my a silver Air and it so damn good .",
             "created_at": "2021-07-11 08:54:21",
@@ -3651,6 +3902,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414138341075869697,
+            "text": "C a , Hub C 3 . 1 a 4K / 3 . 0 / compatible con / Gal …",
+            "created_at": "2021-07-11 08:23:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2668269230769222,
+                "negativity": 0.7331730769230784
+            },
+            "user_id": 934027863979905024,
+            "text_translation": ""
+        },
+        {
             "id": 1414138052734193666,
             "text": "Is it worth Air M1 now instead of waiting for next generation Air .?? 🤔",
             "created_at": "2021-07-11 08:22:39",
@@ -3743,6 +4013,25 @@
                 "negativity": 0.49400700680946596
             },
             "user_id": 2556707426,
+            "text_translation": ""
+        },
+        {
+            "id": 1414132045245202437,
+            "text": ": Apple Fighting Some Severe Pro",
+            "created_at": "2021-07-11 07:58:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6408237597179993,
+                "negativity": 0.35917624028200157
+            },
+            "user_id": 586887461,
             "text_translation": ""
         },
         {
@@ -3861,6 +4150,25 @@
                 "negativity": 0.7840075318467915
             },
             "user_id": 2720881970,
+            "text_translation": ""
+        },
+        {
+            "id": 1414121132081520641,
+            "text": ": If you think the M1 processor is fast , just wait till the next - generation .",
+            "created_at": "2021-07-11 07:15:25",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.26625688534863057,
+                "negativity": 0.7337431146513713
+            },
+            "user_id": 19469341,
             "text_translation": ""
         },
         {
@@ -4054,6 +4362,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414111040422301696,
+            "text": ": ever since i said i was getting a this morning my AIR been running everything at 60 + 😭",
+            "created_at": "2021-07-11 06:35:19",
+            "retweet_count": 93,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.428286155408767,
+                "negativity": 0.571713844591233
+            },
+            "user_id": 1411444068572307458,
+            "text_translation": ""
+        },
+        {
             "id": 1414108593092132868,
             "text": "Should i buy m1 air now or wait for to go down or wait for m2 ... when is release date",
             "created_at": "2021-07-11 06:25:36",
@@ -4070,6 +4397,25 @@
                 "negativity": 0.40017093175999985
             },
             "user_id": 76013635,
+            "text_translation": ""
+        },
+        {
+            "id": 1414107998943727617,
+            "text": "Check out ® C Hub , Hub with 4 , High Speed Aluminum Type C Hub Compatible with Pro ,…",
+            "created_at": "2021-07-11 06:23:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2914336007071762,
+                "negativity": 0.7085663992928222
+            },
+            "user_id": 64971537,
             "text_translation": ""
         },
         {
@@ -4403,6 +4749,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414087268353159170,
+            "text": ": LED display reportedly coming to 11 - inch Pro next year",
+            "created_at": "2021-07-11 05:00:51",
+            "retweet_count": 23,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8541057635206892,
+                "negativity": 0.1458942364793105
+            },
+            "user_id": 1316831696495480833,
+            "text_translation": ""
+        },
+        {
             "id": 1414087055303380992,
             "text": "Apple Magic Mouse 2 Wireless Mouse2 for Mac Book Air Mac Pro Design Touch …",
             "created_at": "2021-07-11 05:00:01",
@@ -4726,6 +5091,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414067433787195395,
+            "text": "OS , 15 : What ' s new , Can replace Air now ? - Kilo",
+            "created_at": "2021-07-11 03:42:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "OS"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.14381822997685637,
+                "negativity": 0.8561817700231428
+            },
+            "user_id": 1066582377625993216,
+            "text_translation": ""
+        },
+        {
             "id": 1414066945532518401,
             "text": "Enter for a chance to win our Air Giveaway !",
             "created_at": "2021-07-11 03:40:06",
@@ -4937,6 +5323,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414048080324964356,
+            "text": "The 512GB Air is down to the price we ’ ever seen",
+            "created_at": "2021-07-11 02:25:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6353715029349293,
+                "negativity": 0.36462849706507133
+            },
+            "user_id": 15058800,
+            "text_translation": ""
+        },
+        {
             "id": 1414047793833037828,
             "text": "digital : Apple Serious Pro : analytics",
             "created_at": "2021-07-11 02:24:00",
@@ -4997,6 +5402,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414045533140922377,
+            "text": "The next Air : - LED , M2 to usher in massive 2022 redesign -",
+            "created_at": "2021-07-11 02:15:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.35194710187698774,
+                "negativity": 0.6480528981230126
+            },
+            "user_id": 3299897484,
+            "text_translation": ""
+        },
+        {
             "id": 1414045278403977220,
             "text": "Apple Serious Pro : analytics",
             "created_at": "2021-07-11 02:14:00",
@@ -5013,6 +5437,25 @@
                 "negativity": 0.35551231768599134
             },
             "user_id": 145998173,
+            "text_translation": ""
+        },
+        {
+            "id": 1414045203145625602,
+            "text": ": I love to drink a tiny little can of Diet Coke while I design stunning new on my Air .",
+            "created_at": "2021-07-11 02:13:42",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9552089312343378,
+                "negativity": 0.04479106876565965
+            },
+            "user_id": 435850864,
             "text_translation": ""
         },
         {
@@ -5199,6 +5642,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414032444601389066,
+            "text": ": Enter for a chance to win in a new Air and Camera . ! 👀",
+            "created_at": "2021-07-11 01:23:00",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6274332940937473,
+                "negativity": 0.3725667059062523
+            },
+            "user_id": 979908050,
+            "text_translation": ""
+        },
+        {
             "id": 1414031737827569666,
             "text": "I ’ had both over the . My Air is great with and a beautiful display . My does the real work .",
             "created_at": "2021-07-11 01:20:12",
@@ -5348,6 +5810,25 @@
                 "negativity": 0.9323616500255385
             },
             "user_id": 8740862,
+            "text_translation": ""
+        },
+        {
+            "id": 1414014342727614468,
+            "text": ": The next Air is shaping up to be a killer upgrade with new colors , a - LED display , and an M2 processor . But it …",
+            "created_at": "2021-07-11 00:11:05",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8471977623061475,
+                "negativity": 0.1528022376938518
+            },
+            "user_id": 13261222,
             "text_translation": ""
         }
     ]

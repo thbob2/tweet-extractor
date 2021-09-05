@@ -1,28 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1377045951827828736,
-            "text": ": Rocket Lake is here so we ' re giving away this stunning Rocket Build powered by the 11th Gen i9 - 11900K 8 - core ,…",
-            "created_at": "2021-03-30 23:51:53",
-            "retweet_count": 3540,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i9",
-                "Build"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.37558574687423557,
-                "negativity": 0.6244142531257632
-            },
-            "user_id": 1377045413124050950,
-            "text_translation": ""
-        },
-        {
             "id": 1377030245929345024,
             "text": "tech tip : X570 to computer",
             "created_at": "2021-03-30 22:49:29",
@@ -182,44 +160,6 @@
                 "negativity": 0.6156077289764893
             },
             "user_id": 16519923,
-            "text_translation": ""
-        },
-        {
-            "id": 1376927979075366912,
-            "text": "ROG : Looking to step up graphics performance ? New BIOS for 30 series graphics and over 180 mother …",
-            "created_at": "2021-03-30 16:03:06",
-            "retweet_count": 44,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4310680139595709,
-                "negativity": 0.5689319860404308
-            },
-            "user_id": 909014508,
-            "text_translation": ""
-        },
-        {
-            "id": 1376878163716870145,
-            "text": "black …",
-            "created_at": "2021-03-30 12:45:10",
-            "retweet_count": 0,
-            "favorite_count": 2,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5184563758389261,
-                "negativity": 0.4815436241610739
-            },
-            "user_id": 1432356079,
             "text_translation": ""
         },
         {

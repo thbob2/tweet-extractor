@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1375236008766271492,
+            "text": ": Monthly Giveaway We ' re giving away a brand new Galaxy S21 Ultra 5G 256GB ! 🎁 To enter : ● Follow us …",
+            "created_at": "2021-03-25 23:59:49",
+            "retweet_count": 733,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07663036182200922,
+                "negativity": 0.9233696381779912
+            },
+            "user_id": 1043646564567343105,
+            "text_translation": ""
+        },
+        {
             "id": 1375234304251400201,
             "text": "Imagine being this silly . My Galaxy S21 Ultra on the 12 Pro . Android are great .",
             "created_at": "2021-03-25 23:53:03",
@@ -133,6 +152,27 @@
                 "negativity": 0.20016208715650777
             },
             "user_id": 943529062856822784,
+            "text_translation": ""
+        },
+        {
+            "id": 1375219346398584833,
+            "text": ": Right from a 90Hz display to a loaded 6 , 000mAh battery - the Galaxy M12 the budget segment . Watch this …",
+            "created_at": "2021-03-25 22:53:37",
+            "retweet_count": 100,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33685187232334235,
+                "negativity": 0.6631481276766572
+            },
+            "user_id": 1374663394012373005,
             "text_translation": ""
         },
         {
@@ -769,25 +809,6 @@
             "text_translation": ""
         },
         {
-            "id": 1375115314430545920,
-            "text": ": if not , whom have you for then ? or ?",
-            "created_at": "2021-03-25 16:00:14",
-            "retweet_count": 724,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5678680798579484,
-                "negativity": 0.4321319201420515
-            },
-            "user_id": 1305048300626694144,
-            "text_translation": ""
-        },
-        {
             "id": 1375113388720844800,
             "text": "Digital : Interesting article in 👀 Find out why are the key of :",
             "created_at": "2021-03-25 15:52:34",
@@ -1136,6 +1157,25 @@
             "text_translation": ""
         },
         {
+            "id": 1375071050698924042,
+            "text": ": Don ' t forget , we have this G5 34 \" 165Hz Curved Gaming Monitor up for thanks to En …",
+            "created_at": "2021-03-25 13:04:20",
+            "retweet_count": 199,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9787367252669273,
+                "negativity": 0.021263274733071613
+            },
+            "user_id": 892629521878228992,
+            "text_translation": ""
+        },
+        {
             "id": 1375070272789868547,
             "text": "Check out this product 😍 1GB PC2 - 5300S Mac Memory DDR2 667mHz M470T2953EZ3 - CE6 😍 by Apple star …",
             "created_at": "2021-03-25 13:01:15",
@@ -1192,6 +1232,25 @@
                 "negativity": 0.24978609408233401
             },
             "user_id": 399307197,
+            "text_translation": ""
+        },
+        {
+            "id": 1375062478183354371,
+            "text": ": or ?",
+            "created_at": "2021-03-25 12:30:16",
+            "retweet_count": 137,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1200789022894936064,
             "text_translation": ""
         },
         {
@@ -1606,6 +1665,25 @@
             "text_translation": ""
         },
         {
+            "id": 1375002428697812995,
+            "text": "are",
+            "created_at": "2021-03-25 08:31:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5014029180695847,
+                "negativity": 0.4985970819304153
+            },
+            "user_id": 1292935571749273600,
+            "text_translation": ""
+        },
+        {
             "id": 1374996492151255043,
             "text": ": Here ’ s how the 9 and 9 Pro compare to and Apple",
             "created_at": "2021-03-25 08:08:04",
@@ -1841,6 +1919,25 @@
                 "negativity": 0.21369306680043515
             },
             "user_id": 1321002110268231680,
+            "text_translation": ""
+        },
+        {
+            "id": 1374956372148690949,
+            "text": "Mobile : Get Ready for full - Awesomeness with the all - new SamsungGalaxyA52 & ; A72 loaded with a purely Awesome 64MP Quad …",
+            "created_at": "2021-03-25 05:28:39",
+            "retweet_count": 291,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9695992753772806,
+                "negativity": 0.030400724622721483
+            },
+            "user_id": 1338358339667836929,
             "text_translation": ""
         },
         {

@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1428136336834404353,
-            "text": ": N100 4GB 64GB 90Hz 6 . 52 '' Display 13MP Triple 18W 5000mAh …",
-            "created_at": "2021-08-18 23:26:50",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.22532188841201733,
-                "negativity": 0.7746781115879827
-            },
-            "user_id": 950801477475426304,
-            "text_translation": ""
-        },
-        {
             "id": 1428111590587568135,
             "text": "N100 4GB 64GB 90Hz 6 . 52 '' Display 13MP Triple 18W 5000mAh …",
             "created_at": "2021-08-18 21:48:30",
@@ -55,6 +36,27 @@
                 "negativity": 0.7957076929053369
             },
             "user_id": 3947159176,
+            "text_translation": ""
+        },
+        {
+            "id": 1427870343385939970,
+            "text": "climate Crystal Case Bumper Shell for N200 N10 5G Back Case One Plus N100 200 N 10 100 9 Pro 8 …",
+            "created_at": "2021-08-18 05:49:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3654986768557704,
+                "negativity": 0.6345013231442305
+            },
+            "user_id": 1235695675175821312,
             "text_translation": ""
         }
     ]

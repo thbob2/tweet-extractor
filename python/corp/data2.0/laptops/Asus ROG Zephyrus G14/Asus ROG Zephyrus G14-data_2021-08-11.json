@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1425607890287566852,
-            "text": ": QUESTION 2 of THE WORLD ' s EASIEST TEST 💻🎓 🔁 + Reply with the correct answer and you could take home the sleek & ;…",
-            "created_at": "2021-08-11 23:59:42",
-            "retweet_count": 1478,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.864553387018051,
-                "negativity": 0.13544661298195113
-            },
-            "user_id": 1230749860090896384,
-            "text_translation": ""
-        },
-        {
             "id": 1425595732531232770,
             "text": "ROG Answer D , I repeat answer D ! Need fast Zephyrus G14 ! 👍",
             "created_at": "2021-08-11 23:11:23",
@@ -283,6 +264,46 @@
                 "negativity": 0.2676971928552022
             },
             "user_id": 86395621,
+            "text_translation": ""
+        },
+        {
+            "id": 1425506773012819971,
+            "text": "ROG Zephyrus G14 ( 2021 ), 14 ″ ( 35 . 56 ) 144Hz , 9 5900HS , 3050 4GB Graphics , Gaming …",
+            "created_at": "2021-08-11 17:17:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7857142857142865,
+                "negativity": 0.21428571428571433
+            },
+            "user_id": 1256200450988277761,
+            "text_translation": ""
+        },
+        {
+            "id": 1425490648380198915,
+            "text": "1478 - Notebook Rog Zephyrus G14 Ga401 Monitor 14 \" Full 9 4900HS Core Ram 16GB 1TB …",
+            "created_at": "2021-08-11 16:13:49",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5500457478570739,
+                "negativity": 0.4499542521429259
+            },
+            "user_id": 1415601738296528897,
             "text_translation": ""
         },
         {

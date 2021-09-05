@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1424519905039183879,
+            "text": "Did the same recently with an case . Plugged the I care about into my …",
+            "created_at": "2021-08-08 23:56:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6609874164051706,
+                "negativity": 0.3390125835948299
+            },
+            "user_id": 372479872,
+            "text_translation": ""
+        },
+        {
             "id": 1424519850387443713,
             "text": "I ' been them since like 2013 and don ' t really have heat . But everyone …",
             "created_at": "2021-08-08 23:56:13",
@@ -252,6 +273,25 @@
             "text_translation": ""
         },
         {
+            "id": 1424510282441924620,
+            "text": "Hope I win",
+            "created_at": "2021-08-08 23:18:12",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5637254901960784,
+                "negativity": 0.4362745098039217
+            },
+            "user_id": 1343748517517529088,
+            "text_translation": ""
+        },
+        {
             "id": 1424508664082272261,
             "text": "for the Very First Time Ever ! | ! | ! SECRET | [ ] |",
             "created_at": "2021-08-08 23:11:46",
@@ -268,6 +308,44 @@
                 "negativity": 0.3433379094539263
             },
             "user_id": 3520191677,
+            "text_translation": ""
+        },
+        {
+            "id": 1424503179396403200,
+            "text": "Bought all the for building a to write some code on but realizing most of the , , …",
+            "created_at": "2021-08-08 22:49:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4233698314263634,
+                "negativity": 0.5766301685736361
+            },
+            "user_id": 11611512,
+            "text_translation": ""
+        },
+        {
+            "id": 1424501686878490627,
+            "text": ": He “ the world ” on the . nicely .",
+            "created_at": "2021-08-08 22:44:02",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7643286228764692,
+                "negativity": 0.23567137712353053
+            },
+            "user_id": 1330901031866265600,
             "text_translation": ""
         },
         {
@@ -366,6 +444,28 @@
             "text_translation": ""
         },
         {
+            "id": 1424495483033202690,
+            "text": "lad : Specs 5900X 12 core 24 thread 32GB 3200mhz 1080ti 500GB x2 500GB 2TB H510i Case Kraken x63 cooler …",
+            "created_at": "2021-08-08 22:19:23",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB",
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6012451834763084,
+                "negativity": 0.3987548165236907
+            },
+            "user_id": 1064722300300345345,
+            "text_translation": ""
+        },
+        {
             "id": 1424493401102299146,
             "text": "2 yr old came w a 1650 & ; had like 140 - 160 on siege not sure tho",
             "created_at": "2021-08-08 22:11:07",
@@ -436,7 +536,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.770231078638291,
-                "negativity": 0.22976892136171
+                "negativity": 0.22976892136171004
             },
             "user_id": 851592912366440449,
             "text_translation": ""
@@ -626,7 +726,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.770231078638291,
-                "negativity": 0.22976892136171
+                "negativity": 0.22976892136171004
             },
             "user_id": 1364623007298289664,
             "text_translation": ""
@@ -783,6 +883,44 @@
                 "negativity": 0.9110282226078206
             },
             "user_id": 2342135851,
+            "text_translation": ""
+        },
+        {
+            "id": 1424438784758845444,
+            "text": "check",
+            "created_at": "2021-08-08 18:34:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40140845070422543,
+                "negativity": 0.5985915492957745
+            },
+            "user_id": 2427076210,
+            "text_translation": ""
+        },
+        {
+            "id": 1424435215905083395,
+            "text": ": 8 mil on Twitch 💜 giving away 8 or console of YOUR CHOICE to 8 ! + like + comment to …",
+            "created_at": "2021-08-08 18:19:54",
+            "retweet_count": 77275,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6549477848432512,
+                "negativity": 0.34505221515674817
+            },
+            "user_id": 1268853495391608832,
             "text_translation": ""
         },
         {
@@ -980,6 +1118,28 @@
             "text_translation": ""
         },
         {
+            "id": 1424416357752442881,
+            "text": "P500A case Z590x Edition mother board i9 - 11900k X63 Kraken 280mm …",
+            "created_at": "2021-08-08 17:04:58",
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8401760985583691,
+                "negativity": 0.15982390144163125
+            },
+            "user_id": 302979195,
+            "text_translation": ""
+        },
+        {
             "id": 1424415850472386560,
             "text": "rog b450 / kraken liquid cooler / i5 / pro ram / 1650",
             "created_at": "2021-08-08 17:02:57",
@@ -999,6 +1159,44 @@
                 "negativity": 0.9172661870503594
             },
             "user_id": 1276324040500789248,
+            "text_translation": ""
+        },
+        {
+            "id": 1424411762124800003,
+            "text": "What",
+            "created_at": "2021-08-08 16:46:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49250000000000005,
+                "negativity": 0.5075
+            },
+            "user_id": 1575837625,
+            "text_translation": ""
+        },
+        {
+            "id": 1424411268220399616,
+            "text": ": Happy August from 🎉 and set this as your wallpaper for a chance to win a $ 100 Steam gift card !",
+            "created_at": "2021-08-08 16:44:45",
+            "retweet_count": 459,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5750548983014862,
+                "negativity": 0.4249451016985118
+            },
+            "user_id": 1414462976376119297,
             "text_translation": ""
         },
         {
@@ -1154,6 +1352,25 @@
             "text_translation": ""
         },
         {
+            "id": 1424393633432756228,
+            "text": "Same",
+            "created_at": "2021-08-08 15:34:40",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5142180094786729,
+                "negativity": 0.485781990521327
+            },
+            "user_id": 1423076893516091392,
+            "text_translation": ""
+        },
+        {
             "id": 1424392890608885763,
             "text": "Aha ... great case",
             "created_at": "2021-08-08 15:31:43",
@@ -1232,6 +1449,27 @@
             "text_translation": ""
         },
         {
+            "id": 1424386245552136197,
+            "text": "Before and after re - build , 3600 now rocking a 5900x 12 core beast with my first Kraken X63 😎 …",
+            "created_at": "2021-08-08 15:05:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7772495083866404,
+                "negativity": 0.2227504916133594
+            },
+            "user_id": 3064902514,
+            "text_translation": ""
+        },
+        {
             "id": 1424384837893464067,
             "text": "Y ’ all wear shot while video ?",
             "created_at": "2021-08-08 14:59:43",
@@ -1248,6 +1486,25 @@
                 "negativity": 0.6375448602206876
             },
             "user_id": 885596233431121920,
+            "text_translation": ""
+        },
+        {
+            "id": 1424384006959730690,
+            "text": ": Rate this cable management",
+            "created_at": "2021-08-08 14:56:25",
+            "retweet_count": 27,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6825128595724653,
+                "negativity": 0.31748714042753545
+            },
+            "user_id": 962648513979936768,
             "text_translation": ""
         },
         {
@@ -1424,6 +1681,25 @@
             "text_translation": ""
         },
         {
+            "id": 1424361992693817346,
+            "text": "very",
+            "created_at": "2021-08-08 13:28:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5502070393374741,
+                "negativity": 0.449792960662526
+            },
+            "user_id": 1334348386216992769,
+            "text_translation": ""
+        },
+        {
             "id": 1424353180322828290,
             "text": "You wear clothes ?",
             "created_at": "2021-08-08 12:53:56",
@@ -1459,6 +1735,25 @@
                 "negativity": 0.5109430888550486
             },
             "user_id": 1294832490008502277,
+            "text_translation": ""
+        },
+        {
+            "id": 1424348749992767491,
+            "text": ": Just drop this gem",
+            "created_at": "2021-08-08 12:36:19",
+            "retweet_count": 70,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7418158127210628,
+                "negativity": 0.25818418727893694
+            },
+            "user_id": 197652547,
             "text_translation": ""
         },
         {
@@ -1693,6 +1988,25 @@
                 "negativity": 0.3000000000000001
             },
             "user_id": 1373804379636170753,
+            "text_translation": ""
+        },
+        {
+            "id": 1424322029658861571,
+            "text": ": : Building a computer ’ t art Me :",
+            "created_at": "2021-08-08 10:50:09",
+            "retweet_count": 89,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6647743313009251,
+                "negativity": 0.335225668699075
+            },
+            "user_id": 2241762416,
             "text_translation": ""
         },
         {
@@ -2228,6 +2542,25 @@
             "text_translation": ""
         },
         {
+            "id": 1424278378530545667,
+            "text": "*",
+            "created_at": "2021-08-08 07:56:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 744645998975168512,
+            "text_translation": ""
+        },
+        {
             "id": 1424278261572505601,
             "text": "and house . My get cold 😭",
             "created_at": "2021-08-08 07:56:14",
@@ -2374,7 +2707,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.07601932620300023,
-                "negativity": 0.9239806737969997
+                "negativity": 0.9239806737969996
             },
             "user_id": 1132064480689438720,
             "text_translation": ""
@@ -2491,6 +2824,25 @@
                 "negativity": 0.45143222636712516
             },
             "user_id": 3457285575,
+            "text_translation": ""
+        },
+        {
+            "id": 1424275711867588609,
+            "text": "No shot",
+            "created_at": "2021-08-08 07:46:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5190114068441065,
+                "negativity": 0.48098859315589354
+            },
+            "user_id": 2507464038,
             "text_translation": ""
         },
         {
@@ -2760,6 +3112,44 @@
             "text_translation": ""
         },
         {
+            "id": 1424244112815968260,
+            "text": "oh i have bad of those of power buttons , . i was trying to plug my …",
+            "created_at": "2021-08-08 05:40:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8397498161199377,
+                "negativity": 0.16025018388006157
+            },
+            "user_id": 1345639536500617217,
+            "text_translation": ""
+        },
+        {
+            "id": 1424235779631419399,
+            "text": "give me a",
+            "created_at": "2021-08-08 05:07:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4356984478935699,
+                "negativity": 0.5643015521064302
+            },
+            "user_id": 1420897743816384513,
+            "text_translation": ""
+        },
+        {
             "id": 1424229994146979840,
             "text": "this hurt 😭",
             "created_at": "2021-08-08 04:44:26",
@@ -2871,6 +3261,46 @@
                 "negativity": 0.9104218966312528
             },
             "user_id": 852407465119330304,
+            "text_translation": ""
+        },
+        {
+            "id": 1424200286021771265,
+            "text": "N7 B550 white ❤️ it was meant to be",
+            "created_at": "2021-08-08 02:46:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42044867708223743,
+                "negativity": 0.579551322917762
+            },
+            "user_id": 3262266891,
+            "text_translation": ""
+        },
+        {
+            "id": 1424192836006780928,
+            "text": ": ITS FINALLY MINE !! I have been DYING for this case ever since first it ! I can ’ t wait to …",
+            "created_at": "2021-08-08 02:16:46",
+            "retweet_count": 38,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33210018101539107,
+                "negativity": 0.6678998189846099
+            },
+            "user_id": 710962320839712769,
             "text_translation": ""
         },
         {
@@ -3023,6 +3453,25 @@
                 "negativity": 0.4934081171697698
             },
             "user_id": 1413202760099639304,
+            "text_translation": ""
+        },
+        {
+            "id": 1424174307060723712,
+            "text": "version 2 . 0 did not like my at all in the h710 , so I switched to the corsair 5000d . Corsair d …",
+            "created_at": "2021-08-08 01:03:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7552989768399554,
+                "negativity": 0.24470102316004447
+            },
+            "user_id": 951182270907469824,
             "text_translation": ""
         },
         {

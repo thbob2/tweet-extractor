@@ -743,7 +743,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.39068702407982303,
+                "positivity": 0.390687024079823,
                 "negativity": 0.6093129759201763
             },
             "user_id": 205063288,
@@ -937,6 +937,25 @@
                 "negativity": 0.5322580645161288
             },
             "user_id": 1368840404402016257,
+            "text_translation": ""
+        },
+        {
+            "id": 1384150578280890369,
+            "text": ": make heal himself by taking other team",
+            "created_at": "2021-04-19 14:23:08",
+            "retweet_count": 3781,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7023258862110665,
+                "negativity": 0.2976741137889346
+            },
+            "user_id": 1375347943717281793,
             "text_translation": ""
         },
         {
@@ -1140,6 +1159,25 @@
                 "negativity": 0.7735842090947923
             },
             "user_id": 193101975,
+            "text_translation": ""
+        },
+        {
+            "id": 1384118837885378572,
+            "text": ": 🔍 MASS Click the links and scroll for 1 min . No log - in ! Drop too !",
+            "created_at": "2021-04-19 12:17:01",
+            "retweet_count": 25,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6033408663702331,
+                "negativity": 0.39665913362976835
+            },
+            "user_id": 1373076045104963587,
             "text_translation": ""
         },
         {
@@ -1441,27 +1479,6 @@
                 "negativity": 0.4896236239962968
             },
             "user_id": 1182031114954665984,
-            "text_translation": ""
-        },
-        {
-            "id": 1384034392494903297,
-            "text": ": Good morning 🌞 Special offer here 👇 💎 Notebook 15 💎 5 💎 8gb Ram 💎 512GB 💎 / / 💎 4gb Rad …",
-            "created_at": "2021-04-19 06:41:27",
-            "retweet_count": 70,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "8GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.1729813333672518,
-                "negativity": 0.827018666632749
-            },
-            "user_id": 1258323567135121411,
             "text_translation": ""
         },
         {
@@ -1906,6 +1923,25 @@
                 "negativity": 0.1397900193062637
             },
             "user_id": 1014877087130423297,
+            "text_translation": ""
+        },
+        {
+            "id": 1383943997404504067,
+            "text": "....",
+            "created_at": "2021-04-19 00:42:16",
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 2829098415,
             "text_translation": ""
         },
         {

@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1433417846328025091,
+            "text": "Legion Commander Duel Spirit Breaker - / u / dota2",
+            "created_at": "2021-09-02 13:13:40",
+            "retweet_count": 6,
+            "favorite_count": 48,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2534129692832771,
+                "negativity": 0.7465870307167248
+            },
+            "user_id": 1604298906,
+            "text_translation": ""
+        },
+        {
+            "id": 1433411726695878662,
+            "text": ": Get closer with the Legion Phone Duel 2 See more & ;& ;& ; LegionPhoneDuel2 g …",
+            "created_at": "2021-09-02 12:49:21",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5881906848286449,
+                "negativity": 0.4118093151713545
+            },
+            "user_id": 219210934,
+            "text_translation": ""
+        },
+        {
+            "id": 1433410298279497730,
+            "text": "Get closer with the Legion Phone Duel 2 See more & ;& ;& ; …",
+            "created_at": "2021-09-02 12:43:41",
+            "retweet_count": 1,
+            "favorite_count": 30,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5881906848286449,
+                "negativity": 0.4118093151713545
+            },
+            "user_id": 3502267702,
+            "text_translation": ""
+        },
+        {
+            "id": 1433382931674902532,
+            "text": "really ? My legion duel 2 run 120 on wild rift ..",
+            "created_at": "2021-09-02 10:54:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2743286472209025,
+                "negativity": 0.7256713527790989
+            },
+            "user_id": 3013484115,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1433470151102451717,
+            "text": ": today its full range of , and creator . …",
+            "created_at": "2021-09-02 16:41:31",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8497151610841511,
+                "negativity": 0.15028483891584862
+            },
+            "user_id": 1333467666980409353,
+            "text_translation": ""
+        },
+        {
+            "id": 1433470142474854405,
+            "text": "today its full range of , and creator .…",
+            "created_at": "2021-09-02 16:41:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8497151610841511,
+                "negativity": 0.15028483891584862
+            },
+            "user_id": 901364018484477954,
+            "text_translation": ""
+        }
+    ]
+}

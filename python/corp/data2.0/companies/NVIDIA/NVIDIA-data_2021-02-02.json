@@ -1,6 +1,44 @@
 {
     "tweets": [
         {
+            "id": 1356739986352201731,
+            "text": ": Today ’ s Spotlight : The Blade 15 Key : ⚪ 30 Series ⚪ Ultra …",
+            "created_at": "2021-02-02 23:03:14",
+            "retweet_count": 171,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.883561772657345,
+                "negativity": 0.1164382273426555
+            },
+            "user_id": 23479374,
+            "text_translation": ""
+        },
+        {
+            "id": 1356734423727808515,
+            "text": ": Today ’ s Spotlight : The Blade 15 Key : ⚪ 30 Series ⚪ …",
+            "created_at": "2021-02-02 22:41:08",
+            "retweet_count": 1409,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8902494544878827,
+                "negativity": 0.10975054551211796
+            },
+            "user_id": 326299745,
+            "text_translation": ""
+        },
+        {
             "id": 1356727204240121865,
             "text": ": \" Notch ’ s smooth , - free playback , extensive node library , beautiful tile , and - driven layout shuffling won …",
             "created_at": "2021-02-02 22:12:26",
@@ -117,6 +155,27 @@
             "text_translation": ""
         },
         {
+            "id": 1356653013897785353,
+            "text": ": We ' re giving a $ 3 , 000 3080 Gaming to one lucky winner that this and someone . You must …",
+            "created_at": "2021-02-02 17:17:38",
+            "retweet_count": 7835,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8623978234717664,
+                "negativity": 0.1376021765282315
+            },
+            "user_id": 1202470539224334336,
+            "text_translation": ""
+        },
+        {
             "id": 1356648262661529605,
             "text": "design : Some . Personal environment Unreal Engine 4 . 26 baked , Physical lightning . More …",
             "created_at": "2021-02-02 16:58:45",
@@ -216,6 +275,27 @@
             "text_translation": ""
         },
         {
+            "id": 1356604704046874625,
+            "text": ": I ' up with to give a $ 3 , 000 3080 Gaming to one lucky follower who this and …",
+            "created_at": "2021-02-02 14:05:40",
+            "retweet_count": 4987,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9255208557708487,
+                "negativity": 0.07447914422915224
+            },
+            "user_id": 942740798793244673,
+            "text_translation": ""
+        },
+        {
             "id": 1356545261246513152,
             "text": "Think it was something like 1500 ordered with 3080s 😅 they …",
             "created_at": "2021-02-02 10:09:28",
@@ -232,6 +312,27 @@
                 "negativity": 0.23272109554253498
             },
             "user_id": 1483732766,
+            "text_translation": ""
+        },
+        {
+            "id": 1356534274506305537,
+            "text": ": We ' re giving an 3090 to one lucky winner that this and someone . To enter , use the link below …",
+            "created_at": "2021-02-02 09:25:48",
+            "retweet_count": 2325,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.588421940063706,
+                "negativity": 0.411578059936294
+            },
+            "user_id": 1305890985046503425,
             "text_translation": ""
         },
         {
@@ -331,6 +432,27 @@
                 "negativity": 0.46875691864418134
             },
             "user_id": 3386629092,
+            "text_translation": ""
+        },
+        {
+            "id": 1356443774704963598,
+            "text": ": I ' m giving an 3090 to one lucky follow that this and a friend . To enter , use the link below …",
+            "created_at": "2021-02-02 03:26:12",
+            "retweet_count": 2186,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6342596943332287,
+                "negativity": 0.365740305666769
+            },
+            "user_id": 1223942324306112512,
             "text_translation": ""
         },
         {

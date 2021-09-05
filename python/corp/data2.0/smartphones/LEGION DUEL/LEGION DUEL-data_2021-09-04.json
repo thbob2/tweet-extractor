@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1434302661117952010,
+            "text": ": Did you know ' s shard ability an enemy ' s Legion ' s Duel ? 😎 dota2",
+            "created_at": "2021-09-04 23:49:37",
+            "retweet_count": 48,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8040195197614938,
+                "negativity": 0.19598048023850678
+            },
+            "user_id": 2922632556,
+            "text_translation": ""
+        },
+        {
+            "id": 1434297251711619074,
+            "text": "\" an ally Legion ' s Duel ...\"",
+            "created_at": "2021-09-04 23:28:07",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47872340425531823,
+                "negativity": 0.5212765957446811
+            },
+            "user_id": 1276300611852677120,
+            "text_translation": ""
+        },
+        {
+            "id": 1434094133518344195,
+            "text": "Did you know ' s shard ability an enemy ' s Legion ' s Duel ? 😎 dota2",
+            "created_at": "2021-09-04 10:01:00",
+            "retweet_count": 48,
+            "favorite_count": 310,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8040195197614938,
+                "negativity": 0.19598048023850678
+            },
+            "user_id": 393715760,
+            "text_translation": ""
+        }
+    ]
+}

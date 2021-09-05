@@ -1,0 +1,102 @@
+{
+    "tweets": [
+        {
+            "id": 1434124305940496389,
+            "text": "The G9 Power written and video are up and as , the best selling point of this phone i …",
+            "created_at": "2021-09-04 12:00:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45214406910896876,
+                "negativity": 0.5478559308910311
+            },
+            "user_id": 2981531673,
+            "text_translation": ""
+        },
+        {
+            "id": 1434116787184996354,
+            "text": "Support Hi , I have a G9 Play to Android 11 ( ) and since yesterday I am with …",
+            "created_at": "2021-09-04 11:31:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8997311471021603,
+                "negativity": 0.1002688528978402
+            },
+            "user_id": 2231788770,
+            "text_translation": ""
+        },
+        {
+            "id": 1434102430933917699,
+            "text": "I think I ' got a g9 power",
+            "created_at": "2021-09-04 10:33:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47171249273614896,
+                "negativity": 0.528287507263851
+            },
+            "user_id": 734320184572399617,
+            "text_translation": ""
+        },
+        {
+            "id": 1434078524457959427,
+            "text": "Support Regret trusting your legacy & ; a g9 play instead of trusting the …",
+            "created_at": "2021-09-04 08:58:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9322917733371076,
+                "negativity": 0.06770822666289457
+            },
+            "user_id": 1431622047671611395,
+            "text_translation": ""
+        },
+        {
+            "id": 1433997257288847361,
+            "text": "G9 + Plus ( 128GB , 4GB ) 6 . 84 ″ +, 5000mAh Battery , Snapdragon 730 , 4G Factory Unlocked ( AT & ; T , T - Mobile …",
+            "created_at": "2021-09-04 03:36:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery",
+                "4G"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5199340483051593,
+                "negativity": 0.48006595169483857
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1434085597048557569,
+            "text": "the worst experience 🙁",
+            "created_at": "2021-09-04 09:27:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2553170977488336,
+                "negativity": 0.7446829022511666
+            },
+            "user_id": 1312301449494228992,
+            "text_translation": ""
+        },
+        {
+            "id": 1433976227363184643,
+            "text": "Sammy in the cam for the upcoming 6 & ; the 12 ultra 200mp camera is actually from Sammy",
+            "created_at": "2021-09-04 02:12:29",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09221846453679951,
+                "negativity": 0.9077815354632
+            },
+            "user_id": 2858828563,
+            "text_translation": ""
+        }
+    ]
+}

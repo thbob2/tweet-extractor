@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1433928853831962637,
+            "text": ": 10 ago people would have assumed this was a scene from one of the more wacky of . This is what Ta …",
+            "created_at": "2021-09-03 23:04:14",
+            "retweet_count": 259,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22141639948306618,
+                "negativity": 0.7785836005169325
+            },
+            "user_id": 835781853000925184,
+            "text_translation": ""
+        },
+        {
+            "id": 1433792450494013444,
+            "text": "I have the wing mobile phone from three ago , and now the device is charging v …",
+            "created_at": "2021-09-03 14:02:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3901654306873912,
+                "negativity": 0.6098345693126088
+            },
+            "user_id": 2647808456,
+            "text_translation": ""
+        },
+        {
+            "id": 1433742877666992147,
+            "text": ": 🎵 , he on left wing , , he ' s got a league ring , , he ' s …",
+            "created_at": "2021-09-03 10:45:14",
+            "retweet_count": 63,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2900841525547805,
+                "negativity": 0.7099158474452195
+            },
+            "user_id": 1383703129967906824,
+            "text_translation": ""
+        },
+        {
+            "id": 1433734693380370434,
+            "text": "After all why ' t I buy myself the Wing",
+            "created_at": "2021-09-03 10:12:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3783546312697179,
+                "negativity": 0.6216453687302833
+            },
+            "user_id": 159754709,
+            "text_translation": ""
+        },
+        {
+            "id": 1433605317770809350,
+            "text": ": the recent general strike , not that a large part of that was right wing anti - …",
+            "created_at": "2021-09-03 01:38:37",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "General"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8348152953970617,
+                "negativity": 0.1651847046029376
+            },
+            "user_id": 1322977203345305615,
+            "text_translation": ""
+        }
+    ]
+}

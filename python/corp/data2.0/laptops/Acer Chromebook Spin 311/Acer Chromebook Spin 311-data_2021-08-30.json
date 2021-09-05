@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432490614915051523,
+            "text": "Spin 311 Convertible , N4020 11 . 6 \" Touch 4GB Click H …",
+            "created_at": "2021-08-30 23:49:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.709854971168967,
+                "negativity": 0.2901450288310329
+            },
+            "user_id": 1367633066227863555,
+            "text_translation": ""
+        },
+        {
+            "id": 1432454612888559620,
+            "text": "Get an Spin 311 Convertible for Half Off",
+            "created_at": "2021-08-30 21:26:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3876013859068244,
+                "negativity": 0.612398614093176
+            },
+            "user_id": 119984497,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,6 +1,28 @@
 {
     "tweets": [
         {
+            "id": 1410733871629430784,
+            "text": "5 3600 1650 SUPER 3600MHZ ( 8 + 8 ) 16GB RAM ELITE A520M …",
+            "created_at": "2021-07-01 22:55:39",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2058823529411767,
+                "negativity": 0.7941176470588245
+            },
+            "user_id": 1165709307893223424,
+            "text_translation": ""
+        },
+        {
             "id": 1410713878481285122,
             "text": "I ' m sure the nice add extra horsepower ...",
             "created_at": "2021-07-01 21:36:13",
@@ -235,25 +257,6 @@
             "text_translation": ""
         },
         {
-            "id": 1410616974053310466,
-            "text": "I ' to win an cooler with . Wish me luck ! gaming",
-            "created_at": "2021-07-01 15:11:09",
-            "retweet_count": 2,
-            "favorite_count": 2,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8149632871917407,
-                "negativity": 0.1850367128082595
-            },
-            "user_id": 509270496,
-            "text_translation": ""
-        },
-        {
             "id": 1410610128303263749,
             "text": "Arctic or .",
             "created_at": "2021-07-01 14:43:57",
@@ -351,25 +354,6 @@
                 "negativity": 0.4099539983240247
             },
             "user_id": 1209291377386893313,
-            "text_translation": ""
-        },
-        {
-            "id": 1410463466989756419,
-            "text": ": Happy 2021 🥳⌨🍒 To kick - off the , we ' up with and are giving away …",
-            "created_at": "2021-07-01 05:01:10",
-            "retweet_count": 184,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.45615231423113295,
-                "negativity": 0.5438476857688671
-            },
-            "user_id": 1259224083394433024,
             "text_translation": ""
         },
         {

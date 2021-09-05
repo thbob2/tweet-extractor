@@ -1,9 +1,28 @@
 {
     "tweets": [
         {
-            "id": 1417109457012670468,
-            "text": "38 % off & ; $ 124 . 00 & ; N100 Coupon Code [ 4 + 64GB ] [ EU Version ]",
-            "created_at": "2021-07-19 13:09:57",
+            "id": 1417182453110910977,
+            "text": "N100 Midnight Frost Unlocked ​, 4GB + 64GB , US Version , Model BE2011 . …",
+            "created_at": "2021-07-19 18:00:01",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7434950665478125,
+                "negativity": 0.25650493345218744
+            },
+            "user_id": 1391528299927457793,
+            "text_translation": ""
+        },
+        {
+            "id": 1417139757965008903,
+            "text": "Day will drop the N10 price to € 200 , N100 to € 100 @",
+            "created_at": "2021-07-19 15:10:22",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -12,11 +31,30 @@
             "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "neg",
-                "positivity": 0.14529978419252934,
-                "negativity": 0.8547002158074699
+                "classification": "pos",
+                "positivity": 0.5661966730210362,
+                "negativity": 0.43380332697896373
             },
-            "user_id": 929214700449038337,
+            "user_id": 116809880,
+            "text_translation": ""
+        },
+        {
+            "id": 1417125860893728771,
+            "text": "Tomorrow will hold a “ limited flash sale ” for the N series in . It will be a short one , lasting …",
+            "created_at": "2021-07-19 14:15:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9578770739354413,
+                "negativity": 0.04212292606455998
+            },
+            "user_id": 20660763,
             "text_translation": ""
         },
         {

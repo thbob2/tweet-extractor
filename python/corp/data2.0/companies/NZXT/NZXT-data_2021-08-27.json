@@ -58,20 +58,20 @@
             "text_translation": ""
         },
         {
-            "id": 1431401826860032009,
-            "text": "x : Long time no see 👀 Rate my setup ? …",
-            "created_at": "2021-08-27 23:42:44",
-            "retweet_count": 4,
+            "id": 1431401861874130948,
+            "text": ": Rust",
+            "created_at": "2021-08-27 23:42:52",
+            "retweet_count": 1,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "negative",
+            "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6596116408923477,
-                "negativity": 0.3403883591076525
+                "positivity": 0.5,
+                "negativity": 0.5
             },
             "user_id": 851592912366440449,
             "text_translation": ""
@@ -150,27 +150,6 @@
                 "negativity": 0.28029710711493366
             },
             "user_id": 1097880437773352960,
-            "text_translation": ""
-        },
-        {
-            "id": 1431398864657977346,
-            "text": "H710i - Mid Tower Gaming Case - Front I / O Type - C Port - Quick - Release Tempered Glass Side Panel - V …",
-            "created_at": "2021-08-27 23:30:58",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9791305928646862,
-                "negativity": 0.02086940713531584
-            },
-            "user_id": 307605293,
             "text_translation": ""
         },
         {
@@ -1596,6 +1575,27 @@
             "text_translation": ""
         },
         {
+            "id": 1431363289749995521,
+            "text": "Your setup is really cool 😭 Specs : 5 3600 RAM : Corsair Vengeance Pro 16 : Strix 306 …",
+            "created_at": "2021-08-27 21:09:36",
+            "retweet_count": 4,
+            "favorite_count": 49,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19314792921795618,
+                "negativity": 0.8068520707820427
+            },
+            "user_id": 871032756,
+            "text_translation": ""
+        },
+        {
             "id": 1431363266689712128,
             "text": "Free coming up ?",
             "created_at": "2021-08-27 21:09:30",
@@ -2283,25 +2283,6 @@
                 "negativity": 0.75
             },
             "user_id": 753898513411428352,
-            "text_translation": ""
-        },
-        {
-            "id": 1431358773956804608,
-            "text": ": 152 - X X 100 % of the proceeds will be donated to Bid …",
-            "created_at": "2021-08-27 20:51:39",
-            "retweet_count": 19,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5260525389595917,
-                "negativity": 0.47394746104040747
-            },
-            "user_id": 994113274357530624,
             "text_translation": ""
         },
         {
@@ -4205,6 +4186,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431319910366470146,
+            "text": ": Milk Crate 🤝 Not the team up we need but the one we deserve .",
+            "created_at": "2021-08-27 18:17:13",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6957243980684841,
+                "negativity": 0.30427560193151476
+            },
+            "user_id": 2868298009,
+            "text_translation": ""
+        },
+        {
             "id": 1431319714265976836,
             "text": "made me go",
             "created_at": "2021-08-27 18:16:27",
@@ -4316,6 +4316,65 @@
                 "negativity": 0.5
             },
             "user_id": 401887436,
+            "text_translation": ""
+        },
+        {
+            "id": 1431313748841611270,
+            "text": "Milk Crate 🤝 Not the team up we need but the one we deserve .",
+            "created_at": "2021-08-27 17:52:44",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6957243980684841,
+                "negativity": 0.30427560193151476
+            },
+            "user_id": 3615829835,
+            "text_translation": ""
+        },
+        {
+            "id": 1431312558452056072,
+            "text": "Perfect fan or the milk crate .",
+            "created_at": "2021-08-27 17:48:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8592371957490093,
+                "negativity": 0.14076280425099177
+            },
+            "user_id": 3615829835,
+            "text_translation": ""
+        },
+        {
+            "id": 1431312106687696905,
+            "text": "You partner with to use their 500mm in this case ?",
+            "created_at": "2021-08-27 17:46:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.43572911033445083,
+                "negativity": 0.5642708896655493
+            },
+            "user_id": 3615829835,
             "text_translation": ""
         },
         {
@@ -6764,6 +6823,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431224871435096066,
+            "text": "life is good",
+            "created_at": "2021-08-27 11:59:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5995917017800413,
+                "negativity": 0.4004082982199584
+            },
+            "user_id": 1067472193519566849,
+            "text_translation": ""
+        },
+        {
             "id": 1431223955868762117,
             "text": "! Good",
             "created_at": "2021-08-27 11:55:56",
@@ -8097,7 +8175,7 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.661138074093872,
+                "positivity": 0.6611380740938719,
                 "negativity": 0.3388619259061282
             },
             "user_id": 940189454152560640,
@@ -10259,25 +10337,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431074750961442827,
-            "text": "Uncle",
-            "created_at": "2021-08-27 02:03:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6935483870967744,
-                "negativity": 0.3064516129032258
-            },
-            "user_id": 102479975,
-            "text_translation": ""
-        },
-        {
             "id": 1431072877290430468,
             "text": "Met a guy “ ” BO with him once and added as a friend . Never with him again bu …",
             "created_at": "2021-08-27 01:55:36",
@@ -10632,7 +10691,7 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8182038714070452,
+                "positivity": 0.8182038714070453,
                 "negativity": 0.1817961285929522
             },
             "user_id": 1134558134184185856,
@@ -12178,7 +12237,7 @@
             "label": "negative",
             "note": {
                 "classification": "neg",
-                "positivity": 0.2183098591549299,
+                "positivity": 0.21830985915492992,
                 "negativity": 0.7816901408450714
             },
             "user_id": 790638590870982657,
@@ -12336,6 +12395,25 @@
                 "negativity": 0.6143166957432223
             },
             "user_id": 15397738,
+            "text_translation": ""
+        },
+        {
+            "id": 1431050395804184578,
+            "text": "sorry but i would choose over yours",
+            "created_at": "2021-08-27 00:26:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30196357308566585,
+                "negativity": 0.6980364269143348
+            },
+            "user_id": 1385047357646008320,
             "text_translation": ""
         },
         {

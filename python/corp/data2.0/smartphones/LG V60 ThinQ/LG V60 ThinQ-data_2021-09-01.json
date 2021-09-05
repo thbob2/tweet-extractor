@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1433056811301490690,
+            "text": ": Shot on V60 5G",
+            "created_at": "2021-09-01 13:19:03",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5190114068441065,
+                "negativity": 0.48098859315589354
+            },
+            "user_id": 1292749586021281792,
+            "text_translation": ""
+        },
+        {
+            "id": 1433037707974828036,
+            "text": "Shot on V60 5G",
+            "created_at": "2021-09-01 12:03:08",
+            "retweet_count": 2,
+            "favorite_count": 10,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5190114068441065,
+                "negativity": 0.48098859315589354
+            },
+            "user_id": 1268866434429448193,
+            "text_translation": ""
+        },
+        {
+            "id": 1432862739983212546,
+            "text": "THE UNFUNNY My V60 + is better than the …",
+            "created_at": "2021-09-01 00:27:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16369021019292063,
+                "negativity": 0.8363097898070794
+            },
+            "user_id": 843763812947951617,
+            "text_translation": ""
+        }
+    ]
+}

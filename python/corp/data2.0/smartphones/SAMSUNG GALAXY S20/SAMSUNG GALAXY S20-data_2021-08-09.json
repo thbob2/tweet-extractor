@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1424878343481135104,
+            "text": ": G780FXXU4CUG5 G780FOLM4CUG5 ( Android 11 )",
+            "created_at": "2021-08-09 23:40:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5833333333333333,
+                "negativity": 0.4166666666666665
+            },
+            "user_id": 89913536,
+            "text_translation": ""
+        },
+        {
             "id": 1424877183563091969,
             "text": "Don ' t have but my Galaxy S20 again today",
             "created_at": "2021-08-09 23:36:08",
@@ -74,6 +93,25 @@
                 "negativity": 0.7602612127975258
             },
             "user_id": 1282173705070669824,
+            "text_translation": ""
+        },
+        {
+            "id": 1424827620772876289,
+            "text": "' Enter the ' Galaxy S20 - Soft In 2020 , a server of over …",
+            "created_at": "2021-08-09 20:19:11",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.23973878720247416,
+                "negativity": 0.7602612127975258
+            },
+            "user_id": 1317120764353552385,
             "text_translation": ""
         },
         {

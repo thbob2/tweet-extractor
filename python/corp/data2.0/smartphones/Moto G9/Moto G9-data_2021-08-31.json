@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1432792273142616071,
+            "text": "El G9 Power",
+            "created_at": "2021-08-31 19:47:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5932642487046633,
+                "negativity": 0.40673575129533673
+            },
+            "user_id": 31207040,
+            "text_translation": ""
+        },
+        {
+            "id": 1432623286869893127,
+            "text": "motivation For G9 Power Case Phone Cover Silicone Soft for G9 Power Case Black Bumper …",
+            "created_at": "2021-08-31 08:36:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.12025518778460616,
+                "negativity": 0.8797448122153939
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1432607729659621376,
+            "text": "G9 PLAY :",
+            "created_at": "2021-08-31 07:34:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5044910179640717,
+                "negativity": 0.4955089820359282
+            },
+            "user_id": 1019977320,
+            "text_translation": ""
+        },
+        {
+            "id": 1432518908532113412,
+            "text": "Finally Android 11 in G9 Plus in !! AR",
+            "created_at": "2021-08-31 01:41:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.592431264203913,
+                "negativity": 0.4075687357960873
+            },
+            "user_id": 3332714391,
+            "text_translation": ""
+        }
+    ]
+}

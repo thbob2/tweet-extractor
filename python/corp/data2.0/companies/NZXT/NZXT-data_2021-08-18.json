@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1428142148499689473,
+            "text": ": My / game room",
+            "created_at": "2021-08-18 23:49:56",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5669148936170213,
+                "negativity": 0.4330851063829786
+            },
+            "user_id": 4407354387,
+            "text_translation": ""
+        },
+        {
             "id": 1428140364297347074,
             "text": ": Can ' t go wrong with either but maybe an opinion",
             "created_at": "2021-08-18 23:42:51",
@@ -733,25 +752,6 @@
             "text_translation": ""
         },
         {
-            "id": 1428104830002864131,
-            "text": "Dark 1",
-            "created_at": "2021-08-18 21:21:39",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5930232558139533,
-                "negativity": 0.4069767441860465
-            },
-            "user_id": 2705359382,
-            "text_translation": ""
-        },
-        {
             "id": 1428104545108910086,
             "text": "de na Is it … sideways ? 🤔",
             "created_at": "2021-08-18 21:20:31",
@@ -809,9 +809,9 @@
             "text_translation": ""
         },
         {
-            "id": 1428101947358425091,
-            "text": "Getting over it",
-            "created_at": "2021-08-18 21:10:11",
+            "id": 1428101935526187021,
+            "text": "One at a time",
+            "created_at": "2021-08-18 21:10:08",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -820,11 +820,11 @@
             "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "neg",
-                "positivity": 0.49744189376222986,
-                "negativity": 0.5025581062377703
+                "classification": "pos",
+                "positivity": 0.5157178728297042,
+                "negativity": 0.48428212717029584
             },
-            "user_id": 879751898332631041,
+            "user_id": 1140611373782720512,
             "text_translation": ""
         },
         {
@@ -962,6 +962,25 @@
                 "negativity": 0.48808833930530926
             },
             "user_id": 1378010247487426565,
+            "text_translation": ""
+        },
+        {
+            "id": 1428095558846095361,
+            "text": "Rust",
+            "created_at": "2021-08-18 20:44:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1241519255289356288,
             "text_translation": ""
         },
         {
@@ -1116,25 +1135,6 @@
                 "negativity": 0.8083931500162365
             },
             "user_id": 1153808977559523328,
-            "text_translation": ""
-        },
-        {
-            "id": 1428088572922548224,
-            "text": "Life .",
-            "created_at": "2021-08-18 20:17:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5955259975816204,
-                "negativity": 0.40447400241837966
-            },
-            "user_id": 1101894814595989504,
             "text_translation": ""
         },
         {
@@ -1450,25 +1450,6 @@
             "text_translation": ""
         },
         {
-            "id": 1428074791840452615,
-            "text": "geometry dash",
-            "created_at": "2021-08-18 19:22:17",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2826086956521738,
-                "negativity": 0.717391304347825
-            },
-            "user_id": 1362738807603404800,
-            "text_translation": ""
-        },
-        {
             "id": 1428074436557692929,
             "text": "this is going to explode 🔥",
             "created_at": "2021-08-18 19:20:52",
@@ -1757,6 +1738,25 @@
                 "negativity": 0.514989648022504
             },
             "user_id": 1426618268794724357,
+            "text_translation": ""
+        },
+        {
+            "id": 1428063777564549124,
+            "text": "NA …",
+            "created_at": "2021-08-18 18:38:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1257538741008306176,
             "text_translation": ""
         },
         {
@@ -2169,6 +2169,25 @@
                 "negativity": 0.5158730158730157
             },
             "user_id": 954928280909549568,
+            "text_translation": ""
+        },
+        {
+            "id": 1428059954540212226,
+            "text": ": 🔴 LIVE NOW ! . & ; 💜 & ; 🎬 & ;",
+            "created_at": "2021-08-18 18:23:19",
+            "retweet_count": 18,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5122257981914858,
+                "negativity": 0.48777420180851433
+            },
+            "user_id": 1358057167463407621,
             "text_translation": ""
         },
         {
@@ -2711,6 +2730,25 @@
             "text_translation": ""
         },
         {
+            "id": 1428039676741357583,
+            "text": ": so happy you and your sister can play together now 🥺❤️ she so ❤️ l …",
+            "created_at": "2021-08-18 17:02:45",
+            "retweet_count": 25,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7513702418167294,
+                "negativity": 0.2486297581832709
+            },
+            "user_id": 1400421892155068423,
+            "text_translation": ""
+        },
+        {
             "id": 1428038796340342789,
             "text": "Been happening a lot sadly .",
             "created_at": "2021-08-18 16:59:15",
@@ -2887,6 +2925,25 @@
             "text_translation": ""
         },
         {
+            "id": 1428030493463810052,
+            "text": "so maybe y ’ all should learn from and and …",
+            "created_at": "2021-08-18 16:26:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36500457600778424,
+                "negativity": 0.634995423992216
+            },
+            "user_id": 1361204525709811714,
+            "text_translation": ""
+        },
+        {
             "id": 1428030197404667904,
             "text": "girl is this the creator ?? i had to return mine 😭😭",
             "created_at": "2021-08-18 16:25:05",
@@ -3036,25 +3093,6 @@
                 "negativity": 0.5042372881355932
             },
             "user_id": 948339112305668097,
-            "text_translation": ""
-        },
-        {
-            "id": 1428019767617724425,
-            "text": "thank you !!",
-            "created_at": "2021-08-18 15:43:38",
-            "retweet_count": 0,
-            "favorite_count": 2,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5060896287777378,
-                "negativity": 0.4939103712222622
-            },
-            "user_id": 1066110813164003328,
             "text_translation": ""
         },
         {
@@ -3231,6 +3269,25 @@
             "text_translation": ""
         },
         {
+            "id": 1428016040718467075,
+            "text": "Dang how ’ d u get that it ’ s pretty rare",
+            "created_at": "2021-08-18 15:28:50",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.717097217472796,
+                "negativity": 0.2829027825272037
+            },
+            "user_id": 1245208899638022144,
+            "text_translation": ""
+        },
+        {
             "id": 1428015992647606275,
             "text": "So true .",
             "created_at": "2021-08-18 15:28:38",
@@ -3269,6 +3326,25 @@
                 "negativity": 0.14025262508087466
             },
             "user_id": 4389010401,
+            "text_translation": ""
+        },
+        {
+            "id": 1428015562668613642,
+            "text": "Absolutely 💕",
+            "created_at": "2021-08-18 15:26:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4940119760479041,
+                "negativity": 0.5059880239520956
+            },
+            "user_id": 834912949,
             "text_translation": ""
         },
         {
@@ -3405,6 +3481,25 @@
             "text_translation": ""
         },
         {
+            "id": 1428012956240039948,
+            "text": "happy",
+            "created_at": "2021-08-18 15:16:34",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5702702702702702,
+                "negativity": 0.4297297297297299
+            },
+            "user_id": 1220511669648007169,
+            "text_translation": ""
+        },
+        {
             "id": 1428012900568862723,
             "text": "Oh yes , very much so . The last time I checked , I think I had over 7K ...",
             "created_at": "2021-08-18 15:16:21",
@@ -3516,6 +3611,25 @@
                 "negativity": 0.41313591467967603
             },
             "user_id": 2266227426,
+            "text_translation": ""
+        },
+        {
+            "id": 1428008999530733574,
+            "text": "A reminder that it is not the goal of or any journalist to \" take down \" , , or any other …",
+            "created_at": "2021-08-18 15:00:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.926380830559312,
+                "negativity": 0.07361916944068801
+            },
+            "user_id": 700436639252946946,
             "text_translation": ""
         },
         {
@@ -4017,6 +4131,44 @@
             "text_translation": ""
         },
         {
+            "id": 1427993143899656195,
+            "text": "damn",
+            "created_at": "2021-08-18 13:57:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.44936708860759494,
+                "negativity": 0.5506329113924052
+            },
+            "user_id": 1309115851405168642,
+            "text_translation": ""
+        },
+        {
+            "id": 1427991383734816770,
+            "text": "Love this",
+            "created_at": "2021-08-18 13:50:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5399525935823081,
+                "negativity": 0.46004740641769193
+            },
+            "user_id": 1361049318489083904,
+            "text_translation": ""
+        },
+        {
             "id": 1427990823761756161,
             "text": "Thanks dude I do my best .",
             "created_at": "2021-08-18 13:48:37",
@@ -4422,6 +4574,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427976575505555459,
+            "text": "Check",
+            "created_at": "2021-08-18 12:52:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40140845070422543,
+                "negativity": 0.5985915492957745
+            },
+            "user_id": 591247527,
+            "text_translation": ""
+        },
+        {
             "id": 1427976530320400393,
             "text": "This had a H1 case in it",
             "created_at": "2021-08-18 12:51:50",
@@ -4478,6 +4649,25 @@
                 "negativity": 0.32921767852612116
             },
             "user_id": 931173446209429504,
+            "text_translation": ""
+        },
+        {
+            "id": 1427976052354297862,
+            "text": "Fire",
+            "created_at": "2021-08-18 12:49:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5362903225806454,
+                "negativity": 0.4637096774193548
+            },
+            "user_id": 896073532240789504,
             "text_translation": ""
         },
         {
@@ -4611,6 +4801,25 @@
                 "negativity": 0.22244859107006468
             },
             "user_id": 1066110813164003328,
+            "text_translation": ""
+        },
+        {
+            "id": 1427967448330883083,
+            "text": "3080ti founder edition does exist : o",
+            "created_at": "2021-08-18 12:15:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6842925419987037,
+                "negativity": 0.3157074580012959
+            },
+            "user_id": 357972495,
             "text_translation": ""
         },
         {
@@ -4980,6 +5189,63 @@
             "text_translation": ""
         },
         {
+            "id": 1427956061554712584,
+            "text": ": What do y ’ all think ? !",
+            "created_at": "2021-08-18 11:30:29",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4667353851282696,
+                "negativity": 0.5332646148717304
+            },
+            "user_id": 1330162705907511300,
+            "text_translation": ""
+        },
+        {
+            "id": 1427955833313185795,
+            "text": ": new desk setup .",
+            "created_at": "2021-08-18 11:29:35",
+            "retweet_count": 25,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6150676609996085,
+                "negativity": 0.38493233900039187
+            },
+            "user_id": 1415902860789784577,
+            "text_translation": ""
+        },
+        {
+            "id": 1427955550285881349,
+            "text": "Imagine",
+            "created_at": "2021-08-18 11:28:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49576271186440646,
+                "negativity": 0.5042372881355932
+            },
+            "user_id": 1347744230865825794,
+            "text_translation": ""
+        },
+        {
             "id": 1427954992900673536,
             "text": "how do you do it ... I mean you have a discord community but when people buy a they say not to buy f …",
             "created_at": "2021-08-18 11:26:15",
@@ -5113,6 +5379,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427950430059827208,
+            "text": ": seeing doubling down on that explode right now like",
+            "created_at": "2021-08-18 11:08:07",
+            "retweet_count": 40,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4820516101358702,
+                "negativity": 0.5179483898641304
+            },
+            "user_id": 984798246,
+            "text_translation": ""
+        },
+        {
             "id": 1427950096721670153,
             "text": "Damn so nice of ya",
             "created_at": "2021-08-18 11:06:47",
@@ -5167,6 +5452,27 @@
                 "negativity": 0.3528422738190551
             },
             "user_id": 1321838535201198080,
+            "text_translation": ""
+        },
+        {
+            "id": 1427948720394547203,
+            "text": "After watching if I ever build another it probably won ' t have or in it ! 😳",
+            "created_at": "2021-08-18 11:01:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6285587554402853,
+                "negativity": 0.37144124455971406
+            },
+            "user_id": 195288276,
             "text_translation": ""
         },
         {
@@ -5322,6 +5628,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427936700546785280,
+            "text": "the",
+            "created_at": "2021-08-18 10:13:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.50025,
+                "negativity": 0.49974999999999997
+            },
+            "user_id": 1087059931533008896,
+            "text_translation": ""
+        },
+        {
             "id": 1427936346551857152,
             "text": ": The game you are with me",
             "created_at": "2021-08-18 10:12:09",
@@ -5360,25 +5685,6 @@
             "text_translation": ""
         },
         {
-            "id": 1427933327412006916,
-            "text": "Our H400i to have a small bracket on the front .",
-            "created_at": "2021-08-18 10:00:09",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7953301777066909,
-                "negativity": 0.20466982229330913
-            },
-            "user_id": 950811684028932096,
-            "text_translation": ""
-        },
-        {
             "id": 1427933067591696387,
             "text": "Not jealous , just breath I ’ m not jealous . I need one for college but breath I ’ m not jealous",
             "created_at": "2021-08-18 09:59:07",
@@ -5414,6 +5720,25 @@
                 "negativity": 0.44816162578099944
             },
             "user_id": 1929040285,
+            "text_translation": ""
+        },
+        {
+            "id": 1427930973547630594,
+            "text": ": 💜 My computer is finally finished 💜",
+            "created_at": "2021-08-18 09:50:48",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.46205304490577814,
+                "negativity": 0.5379469550942215
+            },
+            "user_id": 1047452519528521730,
             "text_translation": ""
         },
         {
@@ -5566,6 +5891,25 @@
                 "negativity": 0.25
             },
             "user_id": 1110316569102610433,
+            "text_translation": ""
+        },
+        {
+            "id": 1427927032822964232,
+            "text": "I don ' t know man . Nexus ' t pull their , they ' …",
+            "created_at": "2021-08-18 09:35:08",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18173171682849196,
+                "negativity": 0.8182682831715083
+            },
+            "user_id": 1477797410,
             "text_translation": ""
         },
         {
@@ -5799,6 +6143,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427918662833516550,
+            "text": "Love it ! 👌",
+            "created_at": "2021-08-18 09:01:53",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5441400304414004,
+                "negativity": 0.45585996955859964
+            },
+            "user_id": 982747388,
+            "text_translation": ""
+        },
+        {
             "id": 1427915975467311105,
             "text": "So , Cam is making my hotter by 10 C . . Ever a trash . I ' t use it if not for my Hue + . 🤦‍♂️",
             "created_at": "2021-08-18 08:51:12",
@@ -5894,6 +6257,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427912262799462408,
+            "text": "Do you live the life ? What colors do you rock ? . . . …",
+            "created_at": "2021-08-18 08:36:27",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8184746150451734,
+                "negativity": 0.18152538495482676
+            },
+            "user_id": 1029723737988456449,
+            "text_translation": ""
+        },
+        {
             "id": 1427912047111585795,
             "text": "The first Prince of .",
             "created_at": "2021-08-18 08:35:36",
@@ -5910,6 +6292,25 @@
                 "negativity": 0.4735102370882444
             },
             "user_id": 1731460669,
+            "text_translation": ""
+        },
+        {
+            "id": 1427912022499397634,
+            "text": "Your",
+            "created_at": "2021-08-18 08:35:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5230905861456483,
+                "negativity": 0.47690941385435176
+            },
+            "user_id": 1248318406283141125,
             "text_translation": ""
         },
         {
@@ -5970,6 +6371,44 @@
             "text_translation": ""
         },
         {
+            "id": 1427903356413091840,
+            "text": "critic : Click here to see our review on the CAM : …",
+            "created_at": "2021-08-18 08:01:03",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.473368108629082,
+                "negativity": 0.526631891370918
+            },
+            "user_id": 715492170392846336,
+            "text_translation": ""
+        },
+        {
+            "id": 1427903099117744128,
+            "text": "Click here to see our review on the CAM : …",
+            "created_at": "2021-08-18 08:00:02",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45649750210692996,
+                "negativity": 0.5435024978930698
+            },
+            "user_id": 1264597448468705280,
+            "text_translation": ""
+        },
+        {
             "id": 1427902517543845892,
             "text": "Driver mission ....",
             "created_at": "2021-08-18 07:57:43",
@@ -5986,6 +6425,25 @@
                 "negativity": 0.4010871024023619
             },
             "user_id": 863962183,
+            "text_translation": ""
+        },
+        {
+            "id": 1427902385574146054,
+            "text": "!! nice !!",
+            "created_at": "2021-08-18 07:57:12",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5462962962962964,
+                "negativity": 0.45370370370370355
+            },
+            "user_id": 2665839435,
             "text_translation": ""
         },
         {
@@ -6008,22 +6466,22 @@
             "text_translation": ""
         },
         {
-            "id": 1427902088353300492,
-            "text": "cuphead",
-            "created_at": "2021-08-18 07:56:01",
+            "id": 1427902071966109699,
+            "text": "What a great setup ! Love the little lucky cat 💜😍 - PA",
+            "created_at": "2021-08-18 07:55:57",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 3,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "neutral",
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
+                "positivity": 0.6974940554544581,
+                "negativity": 0.3025059445455412
             },
-            "user_id": 2317850599,
+            "user_id": 2188404727,
             "text_translation": ""
         },
         {
@@ -6040,7 +6498,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.17986663069942216,
-                "negativity": 0.820133369300579
+                "negativity": 0.8201333693005789
             },
             "user_id": 3281555539,
             "text_translation": ""
@@ -6119,6 +6577,30 @@
                 "negativity": 0.5996119436900983
             },
             "user_id": 1090685973229420545,
+            "text_translation": ""
+        },
+        {
+            "id": 1427897943462400000,
+            "text": "I9 - 9900k , 3080 Ti , 32gb ram 😊",
+            "created_at": "2021-08-18 07:39:33",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "3080",
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16666666666666646,
+                "negativity": 0.833333333333333
+            },
+            "user_id": 834912949,
             "text_translation": ""
         },
         {
@@ -6312,6 +6794,28 @@
             "text_translation": ""
         },
         {
+            "id": 1427889552442724352,
+            "text": "Got a couple of different to show you this 3090 build . 9 5900x 3090 N7 B55 …",
+            "created_at": "2021-08-18 07:06:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090",
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6373846797782785,
+                "negativity": 0.36261532022172144
+            },
+            "user_id": 1159147095602937857,
+            "text_translation": ""
+        },
+        {
             "id": 1427889294685970443,
             "text": "Halo 5 Legendary , specifically the Level ‘ The Breaking ’ without dying for that one achievement .",
             "created_at": "2021-08-18 07:05:11",
@@ -6442,6 +6946,25 @@
                 "negativity": 0.5060973385524081
             },
             "user_id": 262065073,
+            "text_translation": ""
+        },
+        {
+            "id": 1427884010999468038,
+            "text": "mood",
+            "created_at": "2021-08-18 06:44:11",
+            "retweet_count": 0,
+            "favorite_count": 11,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7083333333333333,
+                "negativity": 0.29166666666666663
+            },
+            "user_id": 19936982,
             "text_translation": ""
         },
         {
@@ -7982,6 +8505,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427847417966247938,
+            "text": "💯",
+            "created_at": "2021-08-18 04:18:47",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1198868092421574657,
+            "text_translation": ""
+        },
+        {
             "id": 1427847305235816456,
             "text": "Spawn by on the Super !",
             "created_at": "2021-08-18 04:18:20",
@@ -8419,25 +8961,6 @@
             "text_translation": ""
         },
         {
-            "id": 1427845699639517187,
-            "text": "on",
-            "created_at": "2021-08-18 04:11:57",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 210400193,
-            "text_translation": ""
-        },
-        {
             "id": 1427845664587718663,
             "text": "E . T the extraterrestrial",
             "created_at": "2021-08-18 04:11:49",
@@ -8587,6 +9110,25 @@
                 "negativity": 0.5602924724308774
             },
             "user_id": 84194336,
+            "text_translation": ""
+        },
+        {
+            "id": 1427845191327649802,
+            "text": "cat",
+            "created_at": "2021-08-18 04:09:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4500000000000001,
+                "negativity": 0.5499999999999999
+            },
+            "user_id": 3002818231,
             "text_translation": ""
         },
         {
@@ -8803,6 +9345,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427843434958688256,
+            "text": "valley",
+            "created_at": "2021-08-18 04:02:57",
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4062499999999999,
+                "negativity": 0.5937499999999999
+            },
+            "user_id": 1052705568652255233,
+            "text_translation": ""
+        },
+        {
             "id": 1427843369108221952,
             "text": "APEX weirdly even tough I play",
             "created_at": "2021-08-18 04:02:41",
@@ -8884,6 +9445,25 @@
             "created_at": "2021-08-18 04:00:54",
             "retweet_count": 1,
             "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5230905861456483,
+                "negativity": 0.47690941385435176
+            },
+            "user_id": 1262282536274673664,
+            "text_translation": ""
+        },
+        {
+            "id": 1427842901657018377,
+            "text": "your",
+            "created_at": "2021-08-18 04:00:50",
+            "retweet_count": 1,
+            "favorite_count": 2,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -9218,25 +9798,6 @@
                 "negativity": 0.5096233150829009
             },
             "user_id": 1005644863,
-            "text_translation": ""
-        },
-        {
-            "id": 1427841848295530497,
-            "text": "escape from",
-            "created_at": "2021-08-18 03:56:39",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5898249855707396,
-                "negativity": 0.4101750144292602
-            },
-            "user_id": 1008151357931606017,
             "text_translation": ""
         },
         {
@@ -9734,6 +10295,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427840994905665539,
+            "text": "Time .",
+            "created_at": "2021-08-18 03:53:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5095313741064336,
+                "negativity": 0.49046862589356627
+            },
+            "user_id": 836902500,
+            "text_translation": ""
+        },
+        {
             "id": 1427840974890229762,
             "text": "I tried Super on the simulator on switch and damn it ’ s so hard after being used to , 8 and 8DX …",
             "created_at": "2021-08-18 03:53:11",
@@ -9978,6 +10558,25 @@
                 "negativity": 0.414083063174949
             },
             "user_id": 840817963791917056,
+            "text_translation": ""
+        },
+        {
+            "id": 1427840733633941507,
+            "text": "This setup so much I love it .",
+            "created_at": "2021-08-18 03:52:13",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6627447689612237,
+                "negativity": 0.33725523103877636
+            },
+            "user_id": 922621157227995136,
             "text_translation": ""
         },
         {
@@ -10306,6 +10905,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427830759138729994,
+            "text": ": Nexus , deservedly on the same - list as and for their sh …",
+            "created_at": "2021-08-18 03:12:35",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40110452173857375,
+                "negativity": 0.5988954782614273
+            },
+            "user_id": 872222125104484354,
+            "text_translation": ""
+        },
+        {
             "id": 1427829899243388937,
             "text": "0 , a company , \" it nice and it ' s cheap \", you know the usual mo …",
             "created_at": "2021-08-18 03:09:10",
@@ -10322,6 +10940,25 @@
                 "negativity": 0.5478248860082553
             },
             "user_id": 1167597790991540224,
+            "text_translation": ""
+        },
+        {
+            "id": 1427829760076304388,
+            "text": "B350 , H1 , The holy trinity",
+            "created_at": "2021-08-18 03:08:37",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7133192926097718,
+                "negativity": 0.28668070739022844
+            },
+            "user_id": 554278732,
             "text_translation": ""
         },
         {
@@ -10379,6 +11016,25 @@
                 "negativity": 0.3740334911934441
             },
             "user_id": 1424902484783292416,
+            "text_translation": ""
+        },
+        {
+            "id": 1427826619029200898,
+            "text": "Nexus , deservedly on the same - list as and for their …",
+            "created_at": "2021-08-18 02:56:08",
+            "retweet_count": 2,
+            "favorite_count": 10,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40110452173857375,
+                "negativity": 0.5988954782614273
+            },
+            "user_id": 216905838,
             "text_translation": ""
         },
         {
@@ -10846,6 +11502,25 @@
             "text_translation": ""
         },
         {
+            "id": 1427806018290003969,
+            "text": "give",
+            "created_at": "2021-08-18 01:34:16",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4356984478935699,
+                "negativity": 0.5643015521064302
+            },
+            "user_id": 1297996711466381313,
+            "text_translation": ""
+        },
+        {
             "id": 1427805707793879048,
             "text": "My and",
             "created_at": "2021-08-18 01:33:02",
@@ -11188,6 +11863,48 @@
             "text_translation": ""
         },
         {
+            "id": 1427795578000392194,
+            "text": "Specs : C R9 5950X 3080 32GB RAM Z73 Cooler 2tb of Corsair 275r R7 3 …",
+            "created_at": "2021-08-18 00:52:47",
+            "retweet_count": 0,
+            "favorite_count": 24,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080",
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16666666666666646,
+                "negativity": 0.833333333333334
+            },
+            "user_id": 1275639687735099393,
+            "text_translation": ""
+        },
+        {
+            "id": 1427795532441870346,
+            "text": ": What console see when a player a lobby . twitch …",
+            "created_at": "2021-08-18 00:52:36",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7988206829787773,
+                "negativity": 0.20117931702122335
+            },
+            "user_id": 1128878664572166144,
+            "text_translation": ""
+        },
+        {
             "id": 1427795486027751424,
             "text": ": i legit have in my , this is so so amazing .. so happy for 🥺💞",
             "created_at": "2021-08-18 00:52:25",
@@ -11378,6 +12095,25 @@
                 "negativity": 0.38429823093666693
             },
             "user_id": 850364763259326464,
+            "text_translation": ""
+        },
+        {
+            "id": 1427789782185218051,
+            "text": "I don ' t know what after ' s stuff ...",
+            "created_at": "2021-08-18 00:29:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3734612020906721,
+                "negativity": 0.626538797909328
+            },
+            "user_id": 486276461,
             "text_translation": ""
         },
         {

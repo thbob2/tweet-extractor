@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1433379005118365700,
+            "text": "- 40 \\ 35 , 178 4312M \\ 35 , 178 Anker Nebula Capsule Pro D4111N11 \\ 21 , 978 712 C871T -…",
+            "created_at": "2021-09-02 10:39:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.724872231686542,
+                "negativity": 0.27512776831345853
+            },
+            "user_id": 1367868313506697222,
+            "text_translation": ""
+        },
+        {
+            "id": 1433286001229582341,
+            "text": "2021 Spin 311 Convertible , 8 - Core Processor , 11 . 6 ″ Touch , 4GB LPDDR4 , 32G …",
+            "created_at": "2021-09-02 04:29:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.43777326326016824,
+                "negativity": 0.5622267367398318
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        }
+    ]
+}

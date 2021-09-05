@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1427763472528412675,
-            "text": "Dell 15 and get major price today",
-            "created_at": "2021-08-17 22:45:13",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9012682947428662,
-                "negativity": 0.09873170525713314
-            },
-            "user_id": 1420660507,
-            "text_translation": ""
-        },
-        {
             "id": 1427757992838144002,
             "text": "Dell 15 and I absolutely love it 😍",
             "created_at": "2021-08-17 22:23:26",
@@ -169,6 +150,25 @@
                 "negativity": 0.23307083034039575
             },
             "user_id": 87537732,
+            "text_translation": ""
+        },
+        {
+            "id": 1427718762212569095,
+            "text": "Yesterday , I my Dell 15 to a Pro 13 ( m1 , if you care ), and these are the …",
+            "created_at": "2021-08-17 19:47:33",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9300792792713692,
+                "negativity": 0.06992072072862984
+            },
+            "user_id": 1171313916003139584,
             "text_translation": ""
         },
         {

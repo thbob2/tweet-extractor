@@ -1,0 +1,35 @@
+{
+    "tweets": [
+        {
+            "id": 1434206134261354498,
+            "text": "Spin 311 : Spin 311 convertible . 11 . 6 \" touch screen . Comes with charger an …",
+            "created_at": "2021-09-04 17:26:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    53.2193239,
+                    -114.99043559
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -114.99043559,
+                    53.2193239
+                ]
+            },
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6315566122926556,
+                "negativity": 0.36844338770734475
+            },
+            "user_id": 162488555,
+            "text_translation": ""
+        }
+    ]
+}

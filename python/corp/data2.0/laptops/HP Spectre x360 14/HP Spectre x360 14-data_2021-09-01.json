@@ -1,0 +1,45 @@
+{
+    "tweets": [
+        {
+            "id": 1433075859590717454,
+            "text": ": X360 15 ” Core i7 8th Gen 16GB 512GB Keyboard 330 2GB Gra …",
+            "created_at": "2021-09-01 14:34:44",
+            "retweet_count": 29,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3026460859977946,
+                "negativity": 0.6973539140022057
+            },
+            "user_id": 1734136832,
+            "text_translation": ""
+        },
+        {
+            "id": 1432932091726020614,
+            "text": "x360 14 Review - Everything You Need to Know",
+            "created_at": "2021-09-01 05:03:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4422304779592499,
+                "negativity": 0.5577695220407497
+            },
+            "user_id": 3299506735,
+            "text_translation": ""
+        }
+    ]
+}

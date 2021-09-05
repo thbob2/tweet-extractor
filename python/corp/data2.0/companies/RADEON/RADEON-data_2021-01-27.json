@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1354579473996402688,
+            "text": "tech tip : this tech tip was brought to you by , use code COMPUTER to get free 64 Graphics Card",
+            "created_at": "2021-01-27 23:58:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6664963636126662,
+                "negativity": 0.33350363638733244
+            },
+            "user_id": 907617044673257472,
+            "text_translation": ""
+        },
+        {
             "id": 1354537933173215232,
             "text": "Dell 7080 Computer – 10th Gen Core i5 - 10600 4 . 8 , R5 430 2GB 4K Dis …",
             "created_at": "2021-01-27 21:13:04",

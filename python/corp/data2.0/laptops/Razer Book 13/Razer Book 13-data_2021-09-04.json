@@ -1,0 +1,86 @@
+{
+    "tweets": [
+        {
+            "id": 1434192835746545665,
+            "text": "Razer Book 13 with Core i7 - 1165G7 & ; + Touch display on",
+            "created_at": "2021-09-04 16:33:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5274084596022257,
+                "negativity": 0.4725915403977731
+            },
+            "user_id": 945596752614195200,
+            "text_translation": ""
+        },
+        {
+            "id": 1434160304556965893,
+            "text": ": From a heritage of high - performance hardware comes the Razer Book 13 — an ultra - lightweight certified that …",
+            "created_at": "2021-09-04 14:23:56",
+            "retweet_count": 53,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22564393855167908,
+                "negativity": 0.774356061448319
+            },
+            "user_id": 1090606410898067456,
+            "text_translation": ""
+        },
+        {
+            "id": 1434158524804866051,
+            "text": "Razer Book 13 : Core i7 - 1165G7 4 Core , Iris , 13 . 4 ″ + Touch ( 1920 x1200 ), 16GB RAM , 256GB …",
+            "created_at": "2021-09-04 14:16:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6624829058663549,
+                "negativity": 0.33751709413364406
+            },
+            "user_id": 1426516381986549766,
+            "text_translation": ""
+        },
+        {
+            "id": 1433989538418995203,
+            "text": "Get Up to 20 % off Razer Book 13 - Ultra Light for on the Go with 1 Only £ 956 . 26",
+            "created_at": "2021-09-04 03:05:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5473979215729682,
+                "negativity": 0.45260207842703104
+            },
+            "user_id": 858636167184560129,
+            "text_translation": ""
+        }
+    ]
+}

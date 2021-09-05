@@ -1,66 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1416184021797773317,
-            "text": "dell 13",
-            "created_at": "2021-07-16 23:52:36",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.75,
-                "negativity": 0.2499999999999997
-            },
-            "user_id": 208394959,
-            "text_translation": ""
-        },
-        {
-            "id": 1416153232481701901,
-            "text": "Dell 13 9380 i7 8Th Gen 512GB 16GB Ram Faulty over 13 \" 4K Touch electronics ad",
-            "created_at": "2021-07-16 21:50:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.07903721061775251,
-                "negativity": 0.9209627893822488
-            },
-            "user_id": 336556251,
-            "text_translation": ""
-        },
-        {
-            "id": 1416126013508096007,
-            "text": "These are the best for the Dell 13",
-            "created_at": "2021-07-16 20:02:06",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8217891597112795,
-                "negativity": 0.17821084028872
-            },
-            "user_id": 629084145,
-            "text_translation": ""
-        },
-        {
             "id": 1416125114765266956,
             "text": ": Frame 1 & ; 2 Dell 13 9370 Core i5 256gb 16gb ram Keyboard light 4 , 500GH Frame 3 & ; 4 14 ” 256gb …",
             "created_at": "2021-07-16 19:58:32",
@@ -121,27 +61,6 @@
                 "negativity": 0.3573333836106457
             },
             "user_id": 1377329892,
-            "text_translation": ""
-        },
-        {
-            "id": 1416061569641771008,
-            "text": "I Dell . as long as you get decent specs it ' s powerful but still sleek & ; …",
-            "created_at": "2021-07-16 15:46:02",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "specs"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9066535002375552,
-                "negativity": 0.09334649976244565
-            },
-            "user_id": 1274529554934030336,
             "text_translation": ""
         },
         {
@@ -275,25 +194,6 @@
                 "negativity": 0.22183179617907342
             },
             "user_id": 1040872437410353152,
-            "text_translation": ""
-        },
-        {
-            "id": 1415869538470617089,
-            "text": "65W 45W Listed Charger for Dell - 15 - 3000 15 - 5000 15 - 7000 11 - 3000 13 - 5000 13 - 7000 17 - 5000 …",
-            "created_at": "2021-07-16 03:02:58",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.10562969799268998,
-                "negativity": 0.8943703020073125
-            },
-            "user_id": 360376907,
             "text_translation": ""
         }
     ]

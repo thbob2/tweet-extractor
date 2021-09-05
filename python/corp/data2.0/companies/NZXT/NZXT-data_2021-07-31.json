@@ -563,6 +563,27 @@
             "text_translation": ""
         },
         {
+            "id": 1421595291598327808,
+            "text": "Very cool . After 30 , I am now to build my last . So far I have …",
+            "created_at": "2021-07-31 22:15:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6059420520463378,
+                "negativity": 0.3940579479536611
+            },
+            "user_id": 1383137212510973952,
+            "text_translation": ""
+        },
+        {
             "id": 1421591328270467072,
             "text": "Oh , buy new thermal paste ..",
             "created_at": "2021-07-31 21:59:19",
@@ -632,7 +653,7 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.592435124175875,
+                "positivity": 0.5924351241758748,
                 "negativity": 0.4075648758241252
             },
             "user_id": 17181522,
@@ -1157,25 +1178,6 @@
                 "negativity": 0.12289197046426519
             },
             "user_id": 1048621420475891712,
-            "text_translation": ""
-        },
-        {
-            "id": 1421573239382450187,
-            "text": "ES",
-            "created_at": "2021-07-31 20:47:26",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 86998264,
             "text_translation": ""
         },
         {
@@ -3175,25 +3177,6 @@
             "text_translation": ""
         },
         {
-            "id": 1421489532688498690,
-            "text": "Days Gone",
-            "created_at": "2021-07-31 15:14:49",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5093825385043605,
-                "negativity": 0.4906174614956394
-            },
-            "user_id": 1041985412678467584,
-            "text_translation": ""
-        },
-        {
             "id": 1421487615564558340,
             "text": "OH NOW YOU TELL ME",
             "created_at": "2021-07-31 15:07:12",
@@ -3476,6 +3459,27 @@
                 "negativity": 0.906808903912744
             },
             "user_id": 1031639635968110593,
+            "text_translation": ""
+        },
+        {
+            "id": 1421482876608995329,
+            "text": "My current specs are : 5 2600 1660 Super X52 i got second hand for 75 B450 …",
+            "created_at": "2021-07-31 14:48:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38296014622065,
+                "negativity": 0.6170398537793494
+            },
+            "user_id": 1078520143796363265,
             "text_translation": ""
         },
         {
@@ -4682,25 +4686,6 @@
             "text_translation": ""
         },
         {
-            "id": 1421432291495186432,
-            "text": "Nobody",
-            "created_at": "2021-07-31 11:27:21",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.39375,
-                "negativity": 0.60625
-            },
-            "user_id": 131527787,
-            "text_translation": ""
-        },
-        {
             "id": 1421431830620868610,
             "text": "SINCE WHEN !",
             "created_at": "2021-07-31 11:25:32",
@@ -4831,25 +4816,6 @@
                 "negativity": 0.9179588804998614
             },
             "user_id": 370295721,
-            "text_translation": ""
-        },
-        {
-            "id": 1421425590427660296,
-            "text": "Just saw this on : Kraken X53 240mm - - KRX53 - 01 - - Rotating Infinity M …",
-            "created_at": "2021-07-31 11:00:44",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.026386283561832074,
-                "negativity": 0.9736137164381682
-            },
-            "user_id": 1368302825676152838,
             "text_translation": ""
         },
         {
@@ -6710,8 +6676,8 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.1796263659916697,
-                "negativity": 0.8203736340083295
+                "positivity": 0.17962636599166992,
+                "negativity": 0.8203736340083305
             },
             "user_id": 3197532293,
             "text_translation": ""
@@ -7458,25 +7424,6 @@
             "text_translation": ""
         },
         {
-            "id": 1421379778179833857,
-            "text": ": More for more . We ’ expanded our H1 and Streaming ! 🤝",
-            "created_at": "2021-07-31 07:58:41",
-            "retweet_count": 11,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716331049313085,
-                "negativity": 0.2836689506869154
-            },
-            "user_id": 2241762416,
-            "text_translation": ""
-        },
-        {
             "id": 1421379743979560970,
             "text": "Too late",
             "created_at": "2021-07-31 07:58:33",
@@ -7509,7 +7456,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.2501875468867214,
-                "negativity": 0.7498124531132784
+                "negativity": 0.7498124531132785
             },
             "user_id": 907642563670224897,
             "text_translation": ""
@@ -8519,6 +8466,25 @@
                 "negativity": 0.5310642677666108
             },
             "user_id": 833000940391239682,
+            "text_translation": ""
+        },
+        {
+            "id": 1421325867175878657,
+            "text": "Maybe ?",
+            "created_at": "2021-07-31 04:24:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3474264705882353,
+                "negativity": 0.6525735294117646
+            },
+            "user_id": 1071234281236824064,
             "text_translation": ""
         },
         {
@@ -10156,27 +10122,6 @@
                 "negativity": 0.43394596913731065
             },
             "user_id": 959477887224102913,
-            "text_translation": ""
-        },
-        {
-            "id": 1421264363672031232,
-            "text": "Kraken X73 360mm - - KRX73 - 01 - Liquid Cooler - Rotating Infinity Mirror Design - Pump -…",
-            "created_at": "2021-07-31 00:20:04",
-            "retweet_count": 0,
-            "favorite_count": 3,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Design"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.016493446660320623,
-                "negativity": 0.9835065533396811
-            },
-            "user_id": 1410688498957537290,
             "text_translation": ""
         },
         {

@@ -1,44 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1356019392987996160,
-            "text": ": Chad Wolf himself tried to alter intelligence to include left - wing for which there was no credible …",
-            "created_at": "2021-01-31 23:19:51",
-            "retweet_count": 494,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8646502038975723,
-                "negativity": 0.13534979610242795
-            },
-            "user_id": 1074345928226734080,
-            "text_translation": ""
-        },
-        {
-            "id": 1356009412855529472,
-            "text": ": For , Trump ' s - put pressure on the agency to not only from the people who …",
-            "created_at": "2021-01-31 22:40:12",
-            "retweet_count": 468,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.46130279237132893,
-                "negativity": 0.5386972076286719
-            },
-            "user_id": 606891085,
-            "text_translation": ""
-        },
-        {
             "id": 1356007092658778115,
             "text": "During my internship at Corporation last summer , I the cost of making autonomous",
             "created_at": "2021-01-31 22:30:58",
@@ -74,44 +36,6 @@
                 "negativity": 0.660148929874741
             },
             "user_id": 1287825483606962178,
-            "text_translation": ""
-        },
-        {
-            "id": 1356003307668578307,
-            "text": ": What would Intelligence , Surveillance , and Reconnaissance do on home soil ? - identify - observe behavior - …",
-            "created_at": "2021-01-31 22:15:56",
-            "retweet_count": 462,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8442960051910988,
-                "negativity": 0.15570399480890043
-            },
-            "user_id": 316578266,
-            "text_translation": ""
-        },
-        {
-            "id": 1356000000275329029,
-            "text": ": Intelligence & ; Analysis produced a Homeland Threat Assessment ( ) that Trump ' s political covered up …",
-            "created_at": "2021-01-31 22:02:47",
-            "retweet_count": 605,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9787665188057217,
-                "negativity": 0.021233481194279126
-            },
-            "user_id": 800405666426810368,
             "text_translation": ""
         },
         {
@@ -222,7 +146,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.44760388179520627,
+                "positivity": 0.4476038817952063,
                 "negativity": 0.5523961182047932
             },
             "user_id": 949876501398376448,
@@ -321,25 +245,6 @@
                 "negativity": 0.3538490086836334
             },
             "user_id": 1075863660139036677,
-            "text_translation": ""
-        },
-        {
-            "id": 1355951224412135424,
-            "text": ": For those : Stripping Patel of clearance will make him ineligible for a lot of advisory , for certain contra …",
-            "created_at": "2021-01-31 18:48:58",
-            "retweet_count": 366,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7077824980551436,
-                "negativity": 0.2922175019448576
-            },
-            "user_id": 793560323609460736,
             "text_translation": ""
         },
         {
@@ -701,6 +606,27 @@
                 "negativity": 0.32439098384237364
             },
             "user_id": 865112967372652544,
+            "text_translation": ""
+        },
+        {
+            "id": 1355855862707834882,
+            "text": "' s new another top engineer back into the fold as as head of Design Engineering …",
+            "created_at": "2021-01-31 12:30:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.89100712949371,
+                "negativity": 0.10899287050628892
+            },
+            "user_id": 14434769,
             "text_translation": ""
         },
         {

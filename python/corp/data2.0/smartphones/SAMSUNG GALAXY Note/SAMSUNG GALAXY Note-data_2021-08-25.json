@@ -1,63 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1430672904560300032,
-            "text": "Horrible service today !!! We the rep for a stylus pen for our Galaxy Note S20 …",
-            "created_at": "2021-08-25 23:26:15",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5042362806221867,
-                "negativity": 0.49576371937781344
-            },
-            "user_id": 40244474,
-            "text_translation": ""
-        },
-        {
-            "id": 1430666395570909185,
-            "text": "Review Fold 3 : Galaxy Note ? - PROTECT GalaxyZFlip3 …",
-            "created_at": "2021-08-25 23:00:23",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7112032609200325,
-                "negativity": 0.2887967390799664
-            },
-            "user_id": 867593107956654080,
-            "text_translation": ""
-        },
-        {
-            "id": 1430665155638030337,
-            "text": "phone fire on airplane five after Galaxy Note 7 debacle -",
-            "created_at": "2021-08-25 22:55:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5889391847788495,
-                "negativity": 0.41106081522114896
-            },
-            "user_id": 1376005313917120515,
-            "text_translation": ""
-        },
-        {
             "id": 1430651134180462601,
             "text": "h2002 I wonder why never a thing on android ? I do have the Galaxy …",
             "created_at": "2021-08-25 21:59:45",
@@ -245,25 +188,6 @@
                 "negativity": 0.41106081522114896
             },
             "user_id": 424045534,
-            "text_translation": ""
-        },
-        {
-            "id": 1430590316629745669,
-            "text": "phone fire on airplane five after Galaxy Note 7 debacle",
-            "created_at": "2021-08-25 17:58:05",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5889391847788495,
-                "negativity": 0.41106081522114896
-            },
-            "user_id": 323938158,
             "text_translation": ""
         },
         {
@@ -784,25 +708,6 @@
             "text_translation": ""
         },
         {
-            "id": 1430530433486368773,
-            "text": "Latest - device for sale : Galaxy Note 9 128GB Ocean Blue ( 3 Month Warranty ) Only R5 , 699 . 00 …",
-            "created_at": "2021-08-25 14:00:07",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8652573242506352,
-                "negativity": 0.1347426757493664
-            },
-            "user_id": 966271196252778496,
-            "text_translation": ""
-        },
-        {
             "id": 1430527007608168460,
             "text": "Galaxy Note 10 plus with 256 storage and 12gb in different colors at 1 , 700 000 Call or 0705 …",
             "created_at": "2021-08-25 13:46:31",
@@ -1312,7 +1217,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.1169681171369905,
-                "negativity": 0.883031882863009
+                "negativity": 0.8830318828630089
             },
             "user_id": 1406474814701854720,
             "text_translation": ""
@@ -1355,27 +1260,6 @@
                 "classification": "pos",
                 "positivity": 0.6651596290673955,
                 "negativity": 0.33484037093260555
-            },
-            "user_id": 1366252190608674821,
-            "text_translation": ""
-        },
-        {
-            "id": 1430433502563012611,
-            "text": "3 Galaxy Note 9 Case Cover",
-            "created_at": "2021-08-25 07:34:57",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6316090585605253,
-                "negativity": 0.36839094143947404
             },
             "user_id": 1366252190608674821,
             "text_translation": ""
@@ -1870,27 +1754,6 @@
                 "negativity": 0.8111995979817184
             },
             "user_id": 2630323421,
-            "text_translation": ""
-        },
-        {
-            "id": 1430381325341532161,
-            "text": "climate Cute Rabbit Fluffy Case For Galaxy S20 Ultra S10 S9 S8 Note 9 8 S7 J6 J8 A8 A70 A71 A51 A50 A …",
-            "created_at": "2021-08-25 04:07:37",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9414628489319596,
-                "negativity": 0.05853715106803857
-            },
-            "user_id": 1235695675175821312,
             "text_translation": ""
         },
         {

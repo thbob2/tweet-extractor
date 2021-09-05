@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1419755640084475911,
+            "text": "Spin e Swift chips Tiger Lake e 5000",
+            "created_at": "2021-07-26 20:24:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42564053693467935,
+                "negativity": 0.5743594630653204
+            },
+            "user_id": 3095960279,
+            "text_translation": ""
+        },
+        {
             "id": 1419690870043922443,
             "text": ": SWIFT 3 SPECS : i5 - 10210U : 4GB RAM / 1TB / 250 GRAPHIC RM2400 acerswift3 …",
             "created_at": "2021-07-26 16:07:34",

@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1406399464319995910,
+            "text": "6800 Gaming Graphics Card with 16 radeon6800XT Source : Product Page Reason : …",
+            "created_at": "2021-06-19 23:52:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.377878426639538,
+                "negativity": 0.6221215733604628
+            },
+            "user_id": 1363974177099816968,
+            "text_translation": ""
+        },
+        {
             "id": 1406343102147694595,
             "text": "🚨🚨 at 🇫🇷 💥 6700 2x 💸 899 , 99 € 🚛 from 🏷 Sold by …",
             "created_at": "2021-06-19 20:08:18",
@@ -82,9 +101,9 @@
             "text_translation": ""
         },
         {
-            "id": 1406236848226246656,
-            "text": "Red Dragon 6800 Gaming Graphics Car ... is now in stock . Product Page :…",
-            "created_at": "2021-06-19 13:06:05",
+            "id": 1406268457151311878,
+            "text": "🚨🚨 at 🇳🇱 💥 6700 Gaming 💸 € 1 . 299 , 90 🚛 from …",
+            "created_at": "2021-06-19 15:11:42",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -93,30 +112,11 @@
             "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "neg",
-                "positivity": 0.3827173613732378,
-                "negativity": 0.617282638626764
-            },
-            "user_id": 1377519267143376898,
-            "text_translation": ""
-        },
-        {
-            "id": 1406160880857985028,
-            "text": "🔥 : 6700 2X Link : | | rx6700xt",
-            "created_at": "2021-06-19 08:04:13",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
                 "classification": "pos",
-                "positivity": 0.5370370370370368,
-                "negativity": 0.46296296296296297
+                "positivity": 0.8359268624781178,
+                "negativity": 0.16407313752188293
             },
-            "user_id": 1312929373343952896,
+            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {

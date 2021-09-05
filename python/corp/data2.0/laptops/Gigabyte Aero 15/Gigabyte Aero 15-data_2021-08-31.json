@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1432793025722208257,
+            "text": "Looking for a top - of - the - line gaming ? Get the AERO 15 that sports a 15 . 6 \" 4K display …",
+            "created_at": "2021-08-31 19:50:51",
+            "retweet_count": 5,
+            "favorite_count": 34,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5793247836258406,
+                "negativity": 0.42067521637416017
+            },
+            "user_id": 17221819,
+            "text_translation": ""
+        },
+        {
+            "id": 1432513382754799628,
+            "text": "The latest Air is $ 100 off at Best Buy and via",
+            "created_at": "2021-08-31 01:19:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7715070527085937,
+                "negativity": 0.22849294729140623
+            },
+            "user_id": 1372132990848016385,
+            "text_translation": ""
+        },
+        {
+            "id": 1432510572613017607,
+            "text": "These are crazy powerful tablet / almost computer a d at $ 500 are worth a look . Scroll down for the be …",
+            "created_at": "2021-08-31 01:08:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2627969938818426,
+                "negativity": 0.7372030061181549
+            },
+            "user_id": 1256661595444428800,
+            "text_translation": ""
+        },
+        {
+            "id": 1432508632864747527,
+            "text": ": ' s Aero 15 is a fantastic deal if you ' re looking for a powerful gaming with a 4K screen and an 3060 …",
+            "created_at": "2021-08-31 01:00:47",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9831254185054167,
+                "negativity": 0.016874581494584096
+            },
+            "user_id": 3405758517,
+            "text_translation": ""
+        }
+    ]
+}

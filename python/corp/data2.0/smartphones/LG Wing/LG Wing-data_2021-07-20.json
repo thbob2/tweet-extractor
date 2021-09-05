@@ -98,6 +98,25 @@
             "text_translation": ""
         },
         {
+            "id": 1417353627656540163,
+            "text": "Order ID - OD222181220345142000 Wing ( Illusion Sky , 128 ) I received a …",
+            "created_at": "2021-07-20 05:20:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13277722483856902,
+                "negativity": 0.8672227751614326
+            },
+            "user_id": 1413843378597367813,
+            "text_translation": ""
+        },
+        {
             "id": 1417351406957252627,
             "text": "You sound exactly like my ' s life partner . 90 old but healthy , active …",
             "created_at": "2021-07-20 05:11:23",
@@ -171,6 +190,44 @@
                 "negativity": 0.24639750861076212
             },
             "user_id": 1124348983944601600,
+            "text_translation": ""
+        },
+        {
+            "id": 1417296852999835665,
+            "text": ": Galaxy M42 5G - Which is the right phone for you ?",
+            "created_at": "2021-07-20 01:34:36",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6543536348519818,
+                "negativity": 0.34564636514801794
+            },
+            "user_id": 50282586,
+            "text_translation": ""
+        },
+        {
+            "id": 1417280595768524805,
+            "text": "Galaxy M42 5G - Which is the right phone for you ?",
+            "created_at": "2021-07-20 00:30:00",
+            "retweet_count": 1,
+            "favorite_count": 9,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6543536348519818,
+                "negativity": 0.34564636514801794
+            },
+            "user_id": 43077446,
             "text_translation": ""
         },
         {

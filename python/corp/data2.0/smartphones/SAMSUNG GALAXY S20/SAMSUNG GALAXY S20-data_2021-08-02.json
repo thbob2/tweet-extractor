@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1422342141670432773,
+            "text": "product Introduction 2021 - 08 - 02 23 : 00 category : Screen 2Pack HYDROGEL Screen Protector Ga …",
+            "created_at": "2021-08-02 23:42:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4273064301898343,
+                "negativity": 0.5726935698101657
+            },
+            "user_id": 1394646085369434116,
+            "text_translation": ""
+        },
+        {
             "id": 1422338222034665472,
             "text": "Do some big this winter . Thin Fit Works with Galaxy S20 Case 👉…",
             "created_at": "2021-08-02 23:27:12",
@@ -140,22 +161,24 @@
             "text_translation": ""
         },
         {
-            "id": 1422250275247562770,
-            "text": "👉 $ 549 . 99 👈 Galaxy S20 FE 5G Factory Unlocked Android Cell Phone 128GB US Galaxy …",
-            "created_at": "2021-08-02 17:37:44",
-            "retweet_count": 1,
-            "favorite_count": 1,
+            "id": 1422252475311083521,
+            "text": "Check out Galaxy S20 Ultra Symmetry Clear Phone Case 77 - 64442 via",
+            "created_at": "2021-08-02 17:46:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
-            "label": "neutral",
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.7716019107967849,
-                "negativity": 0.22839808920321358
+                "positivity": 0.8662905336317012,
+                "negativity": 0.1337094663682984
             },
-            "user_id": 943529062856822784,
+            "user_id": 1060296753453379584,
             "text_translation": ""
         },
         {
@@ -175,46 +198,6 @@
                 "negativity": 0.2991305916391806
             },
             "user_id": 1255453471677059074,
-            "text_translation": ""
-        },
-        {
-            "id": 1422239503620714499,
-            "text": "Original Non - working Dummy Display phone For Galaxy Note20 S20 A71 A51 Display",
-            "created_at": "2021-08-02 16:54:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6294534921043451,
-                "negativity": 0.37054650789565513
-            },
-            "user_id": 1224349999841984512,
-            "text_translation": ""
-        },
-        {
-            "id": 1422226061107007489,
-            "text": "The best Galaxy S20 Ultra screen via Why famous …",
-            "created_at": "2021-08-02 16:01:31",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Screen"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8367765698925334,
-                "negativity": 0.16322343010746554
-            },
-            "user_id": 1299146363322527744,
             "text_translation": ""
         },
         {
@@ -256,25 +239,6 @@
             "text_translation": ""
         },
         {
-            "id": 1422189199877419008,
-            "text": "How to Remove Whitestone Dome Glass for Galaxy S20 Ultra - The World …",
-            "created_at": "2021-08-02 13:35:02",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5944124963580719,
-                "negativity": 0.40558750364192936
-            },
-            "user_id": 1299146363322527744,
-            "text_translation": ""
-        },
-        {
             "id": 1422182306823892994,
             "text": ": Galaxy S20 FE August 2021 security update",
             "created_at": "2021-08-02 13:07:39",
@@ -310,6 +274,25 @@
                 "negativity": 0.38044046908905416
             },
             "user_id": 1328336555010887682,
+            "text_translation": ""
+        },
+        {
+            "id": 1422174831672442880,
+            "text": "C Charger - 25W Wall Charger Fast Charging for Galaxy S20 / S10 5G / Note 10 / N ...",
+            "created_at": "2021-08-02 12:37:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3937103111646777,
+                "negativity": 0.6062896888353216
+            },
+            "user_id": 793896354842021889,
             "text_translation": ""
         },
         {
@@ -560,25 +543,6 @@
             "text_translation": ""
         },
         {
-            "id": 1422098390679097346,
-            "text": "Galaxy S20 FE August 2021 security update",
-            "created_at": "2021-08-02 07:34:12",
-            "retweet_count": 1,
-            "favorite_count": 4,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.354172354233847,
-                "negativity": 0.6458276457661519
-            },
-            "user_id": 778887366266097664,
-            "text_translation": ""
-        },
-        {
             "id": 1422093417991921670,
             "text": "rip to my galaxy s20 the on that were 🔥🔥🔥",
             "created_at": "2021-08-02 07:14:26",
@@ -617,25 +581,6 @@
             "text_translation": ""
         },
         {
-            "id": 1422080798828728322,
-            "text": "Galaxy S20 FE ( Cloud Lavender , 1 🔹 Offer price -₹ 37 , 999 🔹 -₹ 65 , 999 🔹 Saving : 42 % off ✨ - 3 . 9 |…",
-            "created_at": "2021-08-02 06:24:18",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6044724703995852,
-                "negativity": 0.39552752960041576
-            },
-            "user_id": 1297213254758850562,
-            "text_translation": ""
-        },
-        {
             "id": 1422076689970991114,
             "text": "🌟 Galaxy S20 FE ( Cloud Lavender , 128 ) ( 8 RAM ) @ 36999 /- + up to 15000 discount with exchange Buy he …",
             "created_at": "2021-08-02 06:07:58",
@@ -671,6 +616,27 @@
                 "negativity": 0.6337401018122333
             },
             "user_id": 2923571768,
+            "text_translation": ""
+        },
+        {
+            "id": 1422069469438877699,
+            "text": "product Introduction 2021 - 08 - 02 05 : 00 category : Screen 2Pack HYDROGEL Screen Protector Ga …",
+            "created_at": "2021-08-02 05:39:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4273064301898343,
+                "negativity": 0.5726935698101657
+            },
+            "user_id": 1394646085369434116,
             "text_translation": ""
         },
         {
@@ -768,6 +734,47 @@
                 "negativity": 0.14809555629802804
             },
             "user_id": 1350785056252567557,
+            "text_translation": ""
+        },
+        {
+            "id": 1422012976488452097,
+            "text": "Galaxy S20 Plus 5G Tempered Glass Screen Protector + Camera Lens , Alignment Frame Easy …",
+            "created_at": "2021-08-02 01:54:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.657076550844626,
+                "negativity": 0.3429234491553733
+            },
+            "user_id": 1911670285,
+            "text_translation": ""
+        },
+        {
+            "id": 1422012962395631616,
+            "text": "Car Charger , 3 . 4A Dual Port Fast C Car Charger Adaptor with 6 . 6Ft / 2M C Cable for Galaxy S21 /…",
+            "created_at": "2021-08-02 01:54:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6653446659228024,
+                "negativity": 0.33465533407719733
+            },
+            "user_id": 1911670285,
             "text_translation": ""
         }
     ]

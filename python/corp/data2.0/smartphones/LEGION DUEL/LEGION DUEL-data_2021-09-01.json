@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432957022077652994,
+            "text": "Is it compatible with a Legion Duel 2 which can charge up to 90w ? 👍",
+            "created_at": "2021-09-01 06:42:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17269251632250127,
+                "negativity": 0.8273074836774963
+            },
+            "user_id": 1276551980782161920,
+            "text_translation": ""
+        },
+        {
+            "id": 1432892190263554050,
+            "text": "release Gaming smart Legion Phone Duel 2 White Titanium White ,…",
+            "created_at": "2021-09-01 02:24:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9763166018701981,
+                "negativity": 0.023683398129802708
+            },
+            "user_id": 1072409348469481472,
+            "text_translation": ""
+        }
+    ]
+}

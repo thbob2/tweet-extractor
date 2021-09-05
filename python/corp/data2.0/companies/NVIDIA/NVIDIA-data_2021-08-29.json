@@ -1,6 +1,44 @@
 {
     "tweets": [
         {
+            "id": 1432130929632296961,
+            "text": ": See what ' s new with & ; physics in this on - demand SIGGRAPH2021 session :…",
+            "created_at": "2021-08-29 23:59:55",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41825245511276476,
+                "negativity": 0.5817475448872353
+            },
+            "user_id": 3296826558,
+            "text_translation": ""
+        },
+        {
+            "id": 1432130882995769347,
+            "text": "ON - DEMAND : Get a comprehensive look at Nucleus , the platform ’ s revolutionary collaboration and …",
+            "created_at": "2021-08-29 23:59:44",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9330097844998527,
+                "negativity": 0.06699021550014717
+            },
+            "user_id": 3296826558,
+            "text_translation": ""
+        },
+        {
             "id": 1432130830789271552,
             "text": "I dealt with this for a long time . It progressively got worse . One crash a month , to one a week , to mu …",
             "created_at": "2021-08-29 23:59:32",
@@ -17,6 +55,25 @@
                 "negativity": 0.8888590270162295
             },
             "user_id": 2752691387,
+            "text_translation": ""
+        },
+        {
+            "id": 1432130768831074305,
+            "text": "Learn about the role of artificial intelligence in agriculture and how AI can overcome various research …",
+            "created_at": "2021-08-29 23:59:17",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6503794049266826,
+                "negativity": 0.3496205950733183
+            },
+            "user_id": 3296826558,
             "text_translation": ""
         },
         {
@@ -329,22 +386,22 @@
             "text_translation": ""
         },
         {
-            "id": 1432126690986233856,
-            "text": ": , . ( : ), Corporation ( : ) – Why ’ s Musk Is Reportedly Opposing ’ s …",
-            "created_at": "2021-08-29 23:43:05",
-            "retweet_count": 6,
+            "id": 1432126569229717506,
+            "text": ": Next Generation Will Use ’ s 5nm Process Instead Of ’ s",
+            "created_at": "2021-08-29 23:42:36",
+            "retweet_count": 7,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "positive",
+            "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.7829296259137155,
-                "negativity": 0.21707037408628382
+                "positivity": 0.7430989681167115,
+                "negativity": 0.2569010318832883
             },
-            "user_id": 60487460,
+            "user_id": 116574170,
             "text_translation": ""
         },
         {
@@ -1226,25 +1283,6 @@
             "text_translation": ""
         },
         {
-            "id": 1432107709567021059,
-            "text": ": 🔥 Graphics Week 34 : 1085 sold , 32 . 34 %, ASP : 782 . 92 ( ) : 2270 , 67 . 66 %, ASP : 801 . 14 Re …",
-            "created_at": "2021-08-29 22:27:39",
-            "retweet_count": 30,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8777194778602496,
-                "negativity": 0.12228052213974915
-            },
-            "user_id": 1190953949924331520,
-            "text_translation": ""
-        },
-        {
             "id": 1432107357119651840,
             "text": "Bora o L 🎮 - Outlast , Midnight , Life is Strange True Colors , D …",
             "created_at": "2021-08-29 22:26:15",
@@ -1435,6 +1473,30 @@
             "text_translation": ""
         },
         {
+            "id": 1432105561311514628,
+            "text": "harmony : Brand Dell 9710 32GB RAM 1TB Core i9 11th generation ( 2021 model ) 6GB 3060 4K display …",
+            "created_at": "2021-08-29 22:19:07",
+            "retweet_count": 45,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "3060",
+                "RAM",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19926751453001906,
+                "negativity": 0.8007324854699795
+            },
+            "user_id": 985207201869516800,
+            "text_translation": ""
+        },
+        {
             "id": 1432105083064385539,
             "text": ": and light . Made a little box room ... Blender3D gaming 3D 3dmodeling texture unity3d …",
             "created_at": "2021-08-29 22:17:13",
@@ -1508,6 +1570,25 @@
                 "negativity": 0.26718943293826597
             },
             "user_id": 91331057,
+            "text_translation": ""
+        },
+        {
+            "id": 1432104644076085253,
+            "text": ": NEWS : Musk over ’ s plan to buy semiconductor designer Arm competition , according …",
+            "created_at": "2021-08-29 22:15:29",
+            "retweet_count": 45,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.930003750753306,
+                "negativity": 0.06999624924669204
+            },
+            "user_id": 1960044362,
             "text_translation": ""
         },
         {
@@ -2162,6 +2243,63 @@
             "text_translation": ""
         },
         {
+            "id": 1432092317532446722,
+            "text": ": Building the Trader of Tomorrow With Artificial Intelligence - AI Data …",
+            "created_at": "2021-08-29 21:26:30",
+            "retweet_count": 108,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22158190692270835,
+                "negativity": 0.7784180930772895
+            },
+            "user_id": 936706340210212864,
+            "text_translation": ""
+        },
+        {
+            "id": 1432092165342126082,
+            "text": ": Faraday Protocol is with : Up to 75 % Faster Performance at 4K ⚡️ Gamescom2021 →",
+            "created_at": "2021-08-29 21:25:53",
+            "retweet_count": 42,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4596845966411475,
+                "negativity": 0.5403154033588514
+            },
+            "user_id": 2402070642,
+            "text_translation": ""
+        },
+        {
+            "id": 1432092147008876546,
+            "text": ": Prepare to return to the ultimate medieval battlefield in Chivalry 2 , coming soon with for even faster …",
+            "created_at": "2021-08-29 21:25:49",
+            "retweet_count": 37,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8934917019005021,
+                "negativity": 0.10650829809949587
+            },
+            "user_id": 2402070642,
+            "text_translation": ""
+        },
+        {
             "id": 1432091922428923911,
             "text": "Mine are : Crowd strike The trade desk Air",
             "created_at": "2021-08-29 21:24:55",
@@ -2216,6 +2354,25 @@
                 "negativity": 0.5051724137931033
             },
             "user_id": 807875667216007169,
+            "text_translation": ""
+        },
+        {
+            "id": 1432089850765877248,
+            "text": ": Random question : Does anyone have a used more powerful than an 1060 they ' d be willing to donate to our ca …",
+            "created_at": "2021-08-29 21:16:42",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3917548157865601,
+                "negativity": 0.6082451842134392
+            },
+            "user_id": 813539147906514945,
             "text_translation": ""
         },
         {
@@ -2591,6 +2748,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432083302597357573,
+            "text": ": Best Buy of graphics , and after showing up , I ' m convinced that these are going t …",
+            "created_at": "2021-08-29 20:50:40",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6345700541569372,
+                "negativity": 0.36542994584306177
+            },
+            "user_id": 3897823213,
+            "text_translation": ""
+        },
+        {
             "id": 1432083219231424525,
             "text": "Nitro 5 2021 AN517 - 41 7 5800H 3060 Test Gaming War ... on",
             "created_at": "2021-08-29 20:50:20",
@@ -2706,6 +2882,25 @@
                 "negativity": 0.5961538461538463
             },
             "user_id": 46431871,
+            "text_translation": ""
+        },
+        {
+            "id": 1432082384216748034,
+            "text": "from about The Synthetic Brain Project , an AI collaboration between , King ' s …",
+            "created_at": "2021-08-29 20:47:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05420522710784316,
+                "negativity": 0.945794772892157
+            },
+            "user_id": 2429035302,
             "text_translation": ""
         },
         {
@@ -2839,6 +3034,25 @@
                 "negativity": 0.48125387190552865
             },
             "user_id": 87537732,
+            "text_translation": ""
+        },
+        {
+            "id": 1432080898032238598,
+            "text": ": Deploy Triton Inference Server at scale and in parallel MIG on A100 Tensor Core and . Check out our b …",
+            "created_at": "2021-08-29 20:41:07",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5534266239839644,
+                "negativity": 0.44657337601603553
+            },
+            "user_id": 1629341107,
             "text_translation": ""
         },
         {
@@ -2991,6 +3205,27 @@
                 "negativity": 0.7524296801742457
             },
             "user_id": 3382021444,
+            "text_translation": ""
+        },
+        {
+            "id": 1432079360450826243,
+            "text": ": Check out this small - scale self - driving truck . It a wireless inductive charging system by and an J …",
+            "created_at": "2021-08-29 20:35:00",
+            "retweet_count": 40,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "wireless"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4616576369556613,
+                "negativity": 0.5383423630443367
+            },
+            "user_id": 107190081,
             "text_translation": ""
         },
         {
@@ -3184,6 +3419,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432076366128816134,
+            "text": "us …",
+            "created_at": "2021-08-29 20:23:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 2270694806,
+            "text_translation": ""
+        },
+        {
             "id": 1432076165443833858,
             "text": "stick I ' had way less with than actually .",
             "created_at": "2021-08-29 20:22:19",
@@ -3196,7 +3450,7 @@
             "label": "negative",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4604414282530305,
+                "positivity": 0.46044142825303047,
                 "negativity": 0.5395585717469695
             },
             "user_id": 984251638108930048,
@@ -3219,6 +3473,25 @@
                 "negativity": 0.31151439064767456
             },
             "user_id": 1421246997332381697,
+            "text_translation": ""
+        },
+        {
+            "id": 1432075941631639555,
+            "text": ": Hot Chips : Here Come the and from Arm , and",
+            "created_at": "2021-08-29 20:21:25",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7806971827690167,
+                "negativity": 0.21930281723098302
+            },
+            "user_id": 7517772,
             "text_translation": ""
         },
         {
@@ -3414,6 +3687,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432073116663091205,
+            "text": ": is that because you use their to play",
+            "created_at": "2021-08-29 20:10:12",
+            "retweet_count": 28,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5624365191026408,
+                "negativity": 0.437563480897359
+            },
+            "user_id": 3528703467,
+            "text_translation": ""
+        },
+        {
             "id": 1432073040733614088,
             "text": "what do you think about and ' s hypothesis that the AI market will be $ 15T ?",
             "created_at": "2021-08-29 20:09:54",
@@ -3494,6 +3786,28 @@
             "text_translation": ""
         },
         {
+            "id": 1432071070178234370,
+            "text": "[$ 2199 . 99 ]: OMEN 30L Gaming - Core i9 - 10850K , 3080 …",
+            "created_at": "2021-08-29 20:02:04",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6676882661996489,
+                "negativity": 0.3323117338003505
+            },
+            "user_id": 1306463816226660352,
+            "text_translation": ""
+        },
+        {
             "id": 1432070826648608779,
             "text": "AI : Built on ’ s framework , ’ s in a new generation 100DaysOfCode AI Analytics Art …",
             "created_at": "2021-08-29 20:01:06",
@@ -3529,25 +3843,6 @@
                 "negativity": 0.09110558060704793
             },
             "user_id": 49096194,
-            "text_translation": ""
-        },
-        {
-            "id": 1432069123203289090,
-            "text": "is that",
-            "created_at": "2021-08-29 19:54:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5012729124236253,
-                "negativity": 0.49872708757637485
-            },
-            "user_id": 753228704092872704,
             "text_translation": ""
         },
         {
@@ -3847,6 +4142,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432065623920631816,
+            "text": ": MUSK SAID TO OPPOSE ' S OF ARM : TELEGRAPH",
+            "created_at": "2021-08-29 19:40:25",
+            "retweet_count": 29,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5913930789707191,
+                "negativity": 0.4086069210292809
+            },
+            "user_id": 39915948,
+            "text_translation": ""
+        },
+        {
             "id": 1432065606187163652,
             "text": "\" This new crop of AI to benefit and the environment , and such as Fa …",
             "created_at": "2021-08-29 19:40:21",
@@ -3863,6 +4177,25 @@
                 "negativity": 0.5401939380559909
             },
             "user_id": 1055226973507661824,
+            "text_translation": ""
+        },
+        {
+            "id": 1432065320634699776,
+            "text": ": Learn how to maximize AI inference performance on and with Triton Inference Server . Join our on …",
+            "created_at": "2021-08-29 19:39:13",
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9177979907194221,
+                "negativity": 0.0822020092805772
+            },
+            "user_id": 427402721,
             "text_translation": ""
         },
         {
@@ -4015,6 +4348,27 @@
                 "negativity": 0.5385815323777314
             },
             "user_id": 27710633,
+            "text_translation": ""
+        },
+        {
+            "id": 1432060746762887170,
+            "text": ": 30 Series 3060 TI & ; 3060 Are Going To Become Hard To Buy Till As Production …",
+            "created_at": "2021-08-29 19:21:03",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7256741609163037,
+                "negativity": 0.27432583908369507
+            },
+            "user_id": 5889072,
             "text_translation": ""
         },
         {
@@ -4191,6 +4545,29 @@
             "text_translation": ""
         },
         {
+            "id": 1432058674583937024,
+            "text": "harmony : Brand Dell 17 16gb ram 1tb Core i7 10th gen 4K display 6gb 20 …",
+            "created_at": "2021-08-29 19:12:49",
+            "retweet_count": 37,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20080468178492966,
+                "negativity": 0.7991953182150681
+            },
+            "user_id": 824276844136501249,
+            "text_translation": ""
+        },
+        {
             "id": 1432058233435435017,
             "text": "T460s Core i7 - 6600U 8GB RAM 256GB 2GB Graphics keyboard . 48 , 000 📞 07274 …",
             "created_at": "2021-08-29 19:11:03",
@@ -4289,6 +4666,25 @@
                 "negativity": 0.6991528434470925
             },
             "user_id": 10329292,
+            "text_translation": ""
+        },
+        {
+            "id": 1432056382338084873,
+            "text": "Hot Chips : Here Come the and from Arm , and",
+            "created_at": "2021-08-29 19:03:42",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7806971827690167,
+                "negativity": 0.21930281723098302
+            },
+            "user_id": 1454266386,
             "text_translation": ""
         },
         {
@@ -4452,6 +4848,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432051810055999495,
+            "text": ": Best cap stocks ($ 200B Market Cap +) so far in 2021 $ + 73 % $ + 71 % $ + 65 % $…",
+            "created_at": "2021-08-29 18:45:32",
+            "retweet_count": 12,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7441988951531546,
+                "negativity": 0.2558011048468447
+            },
+            "user_id": 1225169439768756224,
+            "text_translation": ""
+        },
+        {
             "id": 1432051764174467078,
             "text": "Big bad bug in – but no cause for alarm AI …",
             "created_at": "2021-08-29 18:45:21",
@@ -4487,25 +4902,6 @@
                 "negativity": 0.48125387190552865
             },
             "user_id": 844839127329587200,
-            "text_translation": ""
-        },
-        {
-            "id": 1432049991061688323,
-            "text": ": $ , $ , and have reportedly all came out in opposition of ' s $ …",
-            "created_at": "2021-08-29 18:38:18",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9034305685893483,
-                "negativity": 0.09656943141065143
-            },
-            "user_id": 91689197,
             "text_translation": ""
         },
         {
@@ -4566,6 +4962,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432048689669881860,
+            "text": ": Dell is the first hyper - platform to be qualified as a - Certified System for E …",
+            "created_at": "2021-08-29 18:33:08",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9171364109924117,
+                "negativity": 0.08286358900759078
+            },
+            "user_id": 1287874188,
+            "text_translation": ""
+        },
+        {
             "id": 1432048390620200964,
             "text": "Yeah , I ' t bother with all that post either . But and Broadcast are …",
             "created_at": "2021-08-29 18:31:57",
@@ -4582,6 +4997,25 @@
                 "negativity": 0.8955852083059849
             },
             "user_id": 1202628492,
+            "text_translation": ""
+        },
+        {
+            "id": 1432048217412210699,
+            "text": "Musk Said to Oppose ' s of Arm : Telegraph",
+            "created_at": "2021-08-29 18:31:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5913930789707191,
+                "negativity": 0.4086069210292809
+            },
+            "user_id": 1365978950892199939,
             "text_translation": ""
         },
         {
@@ -4701,6 +5135,27 @@
             "text_translation": ""
         },
         {
+            "id": 1432045963007467535,
+            "text": "🇪🇸🇪🇸🇪🇸 [ TO US ] - A30810J - 10P 3080 rtx3080Ti geforce3080Ti Source :…",
+            "created_at": "2021-08-29 18:22:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6465517241379309,
+                "negativity": 0.35344827586206884
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        },
+        {
             "id": 1432045688876158979,
             "text": "My new a bad 210",
             "created_at": "2021-08-29 18:21:13",
@@ -4758,6 +5213,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432044516144345088,
+            "text": ": News From 2021 : come to 2021 with lots of news . Specifically , they came with news regard …",
+            "created_at": "2021-08-29 18:16:33",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8802168044337014,
+                "negativity": 0.11978319556629766
+            },
+            "user_id": 941633647656034304,
+            "text_translation": ""
+        },
+        {
             "id": 1432044489657438215,
             "text": "24 All the show so I ' m say it ' be there on launch . I know …",
             "created_at": "2021-08-29 18:16:27",
@@ -4812,6 +5286,25 @@
                 "negativity": 0.887800736142599
             },
             "user_id": 2268807645,
+            "text_translation": ""
+        },
+        {
+            "id": 1432043240275030027,
+            "text": ": I bought the m17 R4 through Dell ' s US and when it came to me I found that the device was defective a …",
+            "created_at": "2021-08-29 18:11:29",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8440250718618294,
+                "negativity": 0.15597492813817157
+            },
+            "user_id": 1432028755262910466,
             "text_translation": ""
         },
         {
@@ -5256,6 +5749,48 @@
             "text_translation": ""
         },
         {
+            "id": 1432037498910347273,
+            "text": "2021 with ‘ Dying Light 2 ’ and ‘ of the Galaxy ’ Announcement",
+            "created_at": "2021-08-29 17:48:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6618930313803456,
+                "negativity": 0.3381069686196543
+            },
+            "user_id": 838092776520695808,
+            "text_translation": ""
+        },
+        {
+            "id": 1432036949452337162,
+            "text": "Legion 7 10th Gen Core i7 15 . 6 inch Full Gaming ( 16GB / 1TB / 10 / Office 2019 / 144 …",
+            "created_at": "2021-08-29 17:46:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB",
+                "Office"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7990974932909974,
+                "negativity": 0.20090250670900353
+            },
+            "user_id": 1413126127862747140,
+            "text_translation": ""
+        },
+        {
             "id": 1432036789867458564,
             "text": "The at must have had a heart attack when they saw how much those could have been sold for",
             "created_at": "2021-08-29 17:45:51",
@@ -5507,22 +6042,41 @@
             "text_translation": ""
         },
         {
-            "id": 1432032823095988229,
-            "text": "Reality Ray tracing ? Reality .",
-            "created_at": "2021-08-29 17:30:05",
-            "retweet_count": 0,
+            "id": 1432032709711384576,
+            "text": ": Enterprise - Ready for AI . It ’ s powerful , flexible , and available today from - Certified part …",
+            "created_at": "2021-08-29 17:29:38",
+            "retweet_count": 37,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "neutral",
+            "label": "positive",
             "note": {
                 "classification": "neg",
-                "positivity": 0.3589228295819925,
-                "negativity": 0.6410771704180065
+                "positivity": 0.14010151682550936,
+                "negativity": 0.8598984831744918
             },
-            "user_id": 1396534045064978433,
+            "user_id": 935446829730291717,
+            "text_translation": ""
+        },
+        {
+            "id": 1432032668775075843,
+            "text": ": The year is 2046 and your mission is to investigate the disappearance of a famous journalist . is coming with …",
+            "created_at": "2021-08-29 17:29:28",
+            "retweet_count": 51,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6230003601298165,
+                "negativity": 0.376999639870185
+            },
+            "user_id": 327576400,
             "text_translation": ""
         },
         {
@@ -5844,6 +6398,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432028002863439872,
+            "text": "Stock for different Tech and supply rising ? via …",
+            "created_at": "2021-08-29 17:10:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6606743458659359,
+                "negativity": 0.33932565413406335
+            },
+            "user_id": 1382708176122961922,
+            "text_translation": ""
+        },
+        {
             "id": 1432027749036691458,
             "text": "dot They could just drop the ARM deal and spend $ 10 billion on . should buy a c …",
             "created_at": "2021-08-29 17:09:55",
@@ -6050,25 +6623,6 @@
                 "negativity": 0.31962798138010234
             },
             "user_id": 1182333204528795649,
-            "text_translation": ""
-        },
-        {
-            "id": 1432025116179943432,
-            "text": "if u think won t come for your scalp as you keep raising your di …",
-            "created_at": "2021-08-29 16:59:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4132406289442526,
-                "negativity": 0.5867593710557478
-            },
-            "user_id": 1396534045064978433,
             "text_translation": ""
         },
         {
@@ -6452,6 +7006,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432020226770677768,
+            "text": "( Sept 16 ): Re - opening Your Stadium Safely After the Pandemic () …",
+            "created_at": "2021-08-29 16:40:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9822695526859379,
+                "negativity": 0.01773044731406068
+            },
+            "user_id": 2906580072,
+            "text_translation": ""
+        },
+        {
             "id": 1432020205358702599,
             "text": "By making AI easy to buy , easy to develop , easy to deploy , and easy to manage across the cloud and edge , ’ s …",
             "created_at": "2021-08-29 16:39:57",
@@ -6603,6 +7176,25 @@
                 "negativity": 0.32220673518732734
             },
             "user_id": 1109544277196054533,
+            "text_translation": ""
+        },
+        {
+            "id": 1432016395877945346,
+            "text": ": Choose the ultimate for School & ; Gaming - .",
+            "created_at": "2021-08-29 16:24:49",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8991434446411144,
+                "negativity": 0.10085655535888428
+            },
+            "user_id": 443185793,
             "text_translation": ""
         },
         {
@@ -6766,6 +7358,28 @@
             "text_translation": ""
         },
         {
+            "id": 1432010963545468928,
+            "text": ": This is A BEAST ! 🔥 16GB 3080 165W & ; 9 5900HX ! 💻 WATCH ⬇️ …",
+            "created_at": "2021-08-29 16:03:13",
+            "retweet_count": 57,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4163496051687007,
+                "negativity": 0.5836503948312991
+            },
+            "user_id": 1052054137339293696,
+            "text_translation": ""
+        },
+        {
             "id": 1432010477819813890,
             "text": "interview : The physical world and the can be connected via …",
             "created_at": "2021-08-29 16:01:18",
@@ -6839,6 +7453,25 @@
                 "negativity": 0.622210344626089
             },
             "user_id": 1260407043816599552,
+            "text_translation": ""
+        },
+        {
+            "id": 1432009995818872834,
+            "text": ": it is a major expansion of the , the simulation and collaboration platform that is …",
+            "created_at": "2021-08-29 15:59:23",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9206040066260551,
+                "negativity": 0.07939599337394608
+            },
+            "user_id": 1423913118170681347,
             "text_translation": ""
         },
         {
@@ -7057,6 +7690,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432004618301620225,
+            "text": ": 🔛 GRADUATE FELLOWSHIP PROGRAM The for recommendation is 3pm 8 …",
+            "created_at": "2021-08-29 15:38:01",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2546252136174482,
+                "negativity": 0.7453747863825514
+            },
+            "user_id": 897360716298149888,
+            "text_translation": ""
+        },
+        {
             "id": 1432004568662020098,
             "text": "Have you used it , and if so , for what ?",
             "created_at": "2021-08-29 15:37:49",
@@ -7137,6 +7789,25 @@
             "text_translation": ""
         },
         {
+            "id": 1432002858707156992,
+            "text": "End User for Hybrid Work with and",
+            "created_at": "2021-08-29 15:31:01",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6840100118481938,
+                "negativity": 0.3159899881518067
+            },
+            "user_id": 946246779057475584,
+            "text_translation": ""
+        },
+        {
             "id": 1432002709264035843,
             "text": "its really not worth it to attempt to get a as is rising so little chance drop until …",
             "created_at": "2021-08-29 15:30:25",
@@ -7191,6 +7862,44 @@
                 "negativity": 0.031042488311506047
             },
             "user_id": 570927672,
+            "text_translation": ""
+        },
+        {
+            "id": 1432001355799924738,
+            "text": "Read about the latest to on the on the latest version of …",
+            "created_at": "2021-08-29 15:25:03",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5150901399701842,
+                "negativity": 0.4849098600298153
+            },
+            "user_id": 32437020,
+            "text_translation": ""
+        },
+        {
+            "id": 1432001266918453249,
+            "text": "Hear GE Renewable Energy ' s and technical leader share on AI in energy , such as mode …",
+            "created_at": "2021-08-29 15:24:41",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8578811122799787,
+                "negativity": 0.14211888772002207
+            },
+            "user_id": 32437020,
             "text_translation": ""
         },
         {
@@ -7386,25 +8095,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431997123382362114,
-            "text": "- 27 ” 1ms 144Hz Monitor with Source : Best Buy checker Reason : Check Store …",
-            "created_at": "2021-08-29 15:08:14",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9291143621184796,
-                "negativity": 0.07088563788152055
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
             "id": 1431996980792811522,
             "text": "it ’ s such a good !! the that had .",
             "created_at": "2021-08-29 15:07:40",
@@ -7480,6 +8170,25 @@
                 "negativity": 0.22273190621814482
             },
             "user_id": 360376907,
+            "text_translation": ""
+        },
+        {
+            "id": 1431995741359149061,
+            "text": "and other Polygon ( ) Giveaway ! Go to airdrop POLYGON",
+            "created_at": "2021-08-29 15:02:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1360552175947588,
+                "negativity": 0.8639447824052406
+            },
+            "user_id": 1424003847475765249,
             "text_translation": ""
         },
         {
@@ -7777,6 +8486,48 @@
             "text_translation": ""
         },
         {
+            "id": 1431991031285702666,
+            "text": "Insightful interview with ’ s . He on and the of …",
+            "created_at": "2021-08-29 14:44:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9088725978875617,
+                "negativity": 0.09112740211243797
+            },
+            "user_id": 2429035302,
+            "text_translation": ""
+        },
+        {
+            "id": 1431990994313023489,
+            "text": "Pavilion Gaming 10th Gen Core i7 Processor 15 . 6 - inch Gaming ( 16GB / 512GB + 32GB …",
+            "created_at": "2021-08-29 14:43:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4608678806664059,
+                "negativity": 0.5391321193335922
+            },
+            "user_id": 1413126127862747140,
+            "text_translation": ""
+        },
+        {
             "id": 1431990349417824262,
             "text": ", our AI built on , is one of the seven most powerful of al …",
             "created_at": "2021-08-29 14:41:19",
@@ -7967,6 +8718,48 @@
             "text_translation": ""
         },
         {
+            "id": 1431988400203128833,
+            "text": "harmony : used 15 16gb ram 512ssd Core i7 8th gen 2gb 4K display …",
+            "created_at": "2021-08-29 14:33:34",
+            "retweet_count": 40,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17814348398223348,
+                "negativity": 0.8218565160177684
+            },
+            "user_id": 1007045060951793664,
+            "text_translation": ""
+        },
+        {
+            "id": 1431988150465974277,
+            "text": ": \" a advantage that is nearly an order magnitude better than an AI solution . If their are true , …",
+            "created_at": "2021-08-29 14:32:34",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8594752591461273,
+                "negativity": 0.14052474085387243
+            },
+            "user_id": 403616166,
+            "text_translation": ""
+        },
+        {
             "id": 1431988001454891020,
             "text": ": quick \" sketch \" with Canvas & ; . If you ' d this to me a year ago , I ' d have been both confused & ;…",
             "created_at": "2021-08-29 14:31:59",
@@ -8024,6 +8817,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431986613551128577,
+            "text": "Thanks for your help . I have a 960 4gb",
+            "created_at": "2021-08-29 14:26:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6368970675634555,
+                "negativity": 0.36310293243654407
+            },
+            "user_id": 1371747844084834305,
+            "text_translation": ""
+        },
+        {
             "id": 1431986410672820232,
             "text": ": with a $ 566 billion capitalization should be the new \" N \" in with a $ 247 billion …",
             "created_at": "2021-08-29 14:25:39",
@@ -8059,6 +8871,25 @@
                 "negativity": 0.49320974168843745
             },
             "user_id": 858467832,
+            "text_translation": ""
+        },
+        {
+            "id": 1431985806529421312,
+            "text": ": Average base salary for at tech : : $ 185 , 110 : $ 160 , 000 : $ 143 , 407 Goo …",
+            "created_at": "2021-08-29 14:23:15",
+            "retweet_count": 149,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9755493801213658,
+                "negativity": 0.024450619878632795
+            },
+            "user_id": 985490868,
             "text_translation": ""
         },
         {
@@ -8571,6 +9402,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431973317687267333,
+            "text": ": NEW VIDEO : with ! Does Not Care link : News :",
+            "created_at": "2021-08-29 13:33:38",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4247108414904935,
+                "negativity": 0.5752891585095065
+            },
+            "user_id": 977193923213955073,
+            "text_translation": ""
+        },
+        {
             "id": 1431972930049609733,
             "text": "so the I got 8GB …",
             "created_at": "2021-08-29 13:32:05",
@@ -8608,25 +9458,6 @@
                 "negativity": 0.46022201665124884
             },
             "user_id": 20137674,
-            "text_translation": ""
-        },
-        {
-            "id": 1431972529888022529,
-            "text": "🔥 Graphics Week 34 : 1085 sold , 32 . 34 %, ASP : 782 . 92 ( ) : 2270 , 67 . 66 %, ASP : 801 . 14 …",
-            "created_at": "2021-08-29 13:30:30",
-            "retweet_count": 30,
-            "favorite_count": 82,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8777194778602496,
-                "negativity": 0.12228052213974915
-            },
-            "user_id": 756467838680981504,
             "text_translation": ""
         },
         {
@@ -8785,6 +9616,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431968691814481922,
+            "text": "AI spending is on the rise and that ' s good news for , whose graphics - are the go - to choice …",
+            "created_at": "2021-08-29 13:15:15",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6511238818610533,
+                "negativity": 0.34887611813894626
+            },
+            "user_id": 1403779939011383299,
+            "text_translation": ""
+        },
+        {
             "id": 1431968513753763847,
             "text": "New Dell G15 Gaming , 2 in the via DellG15gaminglaptops …",
             "created_at": "2021-08-29 13:14:33",
@@ -8863,6 +9713,30 @@
             "text_translation": ""
         },
         {
+            "id": 1431968061972795394,
+            "text": "harmony : sealed DELL x17 16gb , 1TB , 8gb 3070 core i7 11th generation , Price -: 1 . 550 …",
+            "created_at": "2021-08-29 13:12:45",
+            "retweet_count": 38,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3070",
+                "8GB",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4339099652684998,
+                "negativity": 0.5660900347315012
+            },
+            "user_id": 1084878759679934472,
+            "text_translation": ""
+        },
+        {
             "id": 1431967993592963078,
             "text": "harmony : used Gs63 thin 15inches 8gb ram 512ssd Core i5 9th gen 4gb 1650 Keyboard light God …",
             "created_at": "2021-08-29 13:12:29",
@@ -8886,6 +9760,30 @@
             "text_translation": ""
         },
         {
+            "id": 1431967776864882692,
+            "text": "harmony : Mint condition ( ) ’ Legion 7i 16gb ram 1 . 5 Core i7 10th gen 8gb 2070 k …",
+            "created_at": "2021-08-29 13:11:37",
+            "retweet_count": 55,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.03920308483290483,
+                "negativity": 0.9607969151670929
+            },
+            "user_id": 1084878759679934472,
+            "text_translation": ""
+        },
+        {
             "id": 1431967714600493058,
             "text": "System : Minimum , , ,",
             "created_at": "2021-08-29 13:11:22",
@@ -8902,6 +9800,29 @@
                 "negativity": 0.4505148741418762
             },
             "user_id": 1256169555849863168,
+            "text_translation": ""
+        },
+        {
+            "id": 1431967602260201476,
+            "text": "harmony : Open box legion Y740 , 15 . 6inch screen , core i7 9th generation , 16gb Ram 256gb 1TB hard drive ,…",
+            "created_at": "2021-08-29 13:10:55",
+            "retweet_count": 24,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB",
+                "Screen"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24557562825793652,
+                "negativity": 0.7544243717420638
+            },
+            "user_id": 1084878759679934472,
             "text_translation": ""
         },
         {
@@ -9076,25 +9997,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431962438942003200,
-            "text": ": + Days Gaming Setup & ; train with the Giveaway 👉❤️ 👉 More",
-            "created_at": "2021-08-29 12:50:24",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.621500637074727,
-                "negativity": 0.3784993629252742
-            },
-            "user_id": 547638957,
-            "text_translation": ""
-        },
-        {
             "id": 1431962280162381825,
             "text": "$ $ Next Generation Will Use ' s 5nm Process Instead Of ' s",
             "created_at": "2021-08-29 12:49:46",
@@ -9111,6 +10013,25 @@
                 "negativity": 0.2569010318832883
             },
             "user_id": 950755795603423232,
+            "text_translation": ""
+        },
+        {
+            "id": 1431962244879814657,
+            "text": ": Musk over ’ s plan to buy semiconductor designer Arm competition , Telegraph …",
+            "created_at": "2021-08-29 12:49:38",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7732277572515031,
+                "negativity": 0.2267722427484995
+            },
+            "user_id": 1409329636954148869,
             "text_translation": ""
         },
         {
@@ -9285,6 +10206,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431957505614090250,
+            "text": "Musk deal for chip maker",
+            "created_at": "2021-08-29 12:30:48",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.820680030784449,
+                "negativity": 0.17931996921555182
+            },
+            "user_id": 969008246026588160,
+            "text_translation": ""
+        },
+        {
             "id": 1431957225656958981,
             "text": "what to do when clip thingy sometimes just down",
             "created_at": "2021-08-29 12:29:41",
@@ -9320,6 +10260,25 @@
                 "negativity": 0.31843314191960687
             },
             "user_id": 1061692849379467264,
+            "text_translation": ""
+        },
+        {
+            "id": 1431956835842592776,
+            "text": ": team had recently work on a crazy project with Polish Team They tried to mix and and here …",
+            "created_at": "2021-08-29 12:28:08",
+            "retweet_count": 23,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17226436202059986,
+                "negativity": 0.8277356379793975
+            },
+            "user_id": 1353403550093737985,
             "text_translation": ""
         },
         {
@@ -9415,6 +10374,27 @@
                 "negativity": 0.4907850847744133
             },
             "user_id": 628667978,
+            "text_translation": ""
+        },
+        {
+            "id": 1431954866704982016,
+            "text": "1070 ti 8gb * Brand New - NEVER USED * Auction …",
+            "created_at": "2021-08-29 12:20:19",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30582945261668254,
+                "negativity": 0.6941705473833164
+            },
+            "user_id": 307605293,
             "text_translation": ""
         },
         {
@@ -9592,6 +10572,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431952336461631488,
+            "text": ": LEVEL 2 UPDATE 👀 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 90 % Track progress here 📺",
+            "created_at": "2021-08-29 12:10:16",
+            "retweet_count": 34,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3064943254918364,
+                "negativity": 0.6935056745081648
+            },
+            "user_id": 1431951567599570949,
+            "text_translation": ""
+        },
+        {
             "id": 1431951913755492353,
             "text": "Hi , here ' s my specs for my Air 3 , 1 Late 2010 core 2 duo su9600 1 . 6GHz 4GB ddr3 N …",
             "created_at": "2021-08-29 12:08:35",
@@ -9651,6 +10650,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431950234985316361,
+            "text": "its entire press conference , and it ' s amazing . By",
+            "created_at": "2021-08-29 12:01:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5802125594111495,
+                "negativity": 0.41978744058884954
+            },
+            "user_id": 903063320781049856,
+            "text_translation": ""
+        },
+        {
             "id": 1431950060309389320,
             "text": "Sure . None of your negate mine . growth will come from more than …",
             "created_at": "2021-08-29 12:01:13",
@@ -9664,7 +10682,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.14578865861977228,
-                "negativity": 0.8542113413802301
+                "negativity": 0.8542113413802302
             },
             "user_id": 182062652,
             "text_translation": ""
@@ -9748,6 +10766,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431946733349752844,
+            "text": ": $ always a good get at it back fast Got and on their before they …",
+            "created_at": "2021-08-29 11:48:00",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.47218571391307507,
+                "negativity": 0.5278142860869255
+            },
+            "user_id": 451749329,
+            "text_translation": ""
+        },
+        {
             "id": 1431946467669786625,
             "text": "Are you curious to know about the stocks that peaked and the that fell the last week …",
             "created_at": "2021-08-29 11:46:56",
@@ -9824,6 +10861,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431945339498639361,
+            "text": "Musk over ’ s plan to buy semiconductor designer Arm competition , Telegraph …",
+            "created_at": "2021-08-29 11:42:27",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7732277572515031,
+                "negativity": 0.2267722427484995
+            },
+            "user_id": 3740226628,
+            "text_translation": ""
+        },
+        {
             "id": 1431945269562667016,
             "text": "4000 ‘ ’ could turn up earl …",
             "created_at": "2021-08-29 11:42:11",
@@ -9840,6 +10896,25 @@
                 "negativity": 0.23340267517609764
             },
             "user_id": 1164648440376242176,
+            "text_translation": ""
+        },
+        {
+            "id": 1431945013101989888,
+            "text": ": The vast majority of discrete sold are , but it will be interesting to see how much ' s entry …",
+            "created_at": "2021-08-29 11:41:10",
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8313828973893385,
+                "negativity": 0.16861710261066212
+            },
+            "user_id": 4883133520,
             "text_translation": ""
         },
         {
@@ -10039,6 +11114,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431940613448994820,
+            "text": ": 40 series with again to use N5 process",
+            "created_at": "2021-08-29 11:23:41",
+            "retweet_count": 37,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6835443017913541,
+                "negativity": 0.31645569820864644
+            },
+            "user_id": 1278267613013872640,
+            "text_translation": ""
+        },
+        {
             "id": 1431939399697108997,
             "text": "' B ( AKA , Tiger 2 , King Tiger , ) from 9th through the wo …",
             "created_at": "2021-08-29 11:18:51",
@@ -10150,6 +11244,25 @@
                 "negativity": 0.7752156774431116
             },
             "user_id": 2253057067,
+            "text_translation": ""
+        },
+        {
+            "id": 1431935372595023872,
+            "text": ": Masa the of the next decade . If that ’ s true , it ’ s probably $ Masa an …",
+            "created_at": "2021-08-29 11:02:51",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7495398426601664,
+                "negativity": 0.250460157339833
+            },
+            "user_id": 28115982,
             "text_translation": ""
         },
         {
@@ -10349,44 +11462,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431931231713861635,
-            "text": ": Financial If I have to choose , it ’ s B . But in real life it ’ s this … E . Retire in Style Portfolio + ( 50 %)…",
-            "created_at": "2021-08-29 10:46:24",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7479674973009443,
-                "negativity": 0.25203250269905497
-            },
-            "user_id": 1025630569990893568,
-            "text_translation": ""
-        },
-        {
-            "id": 1431931143763410949,
-            "text": ": Mortal Shell / Computer Game . PRICE : 200 . 00 CONTACT : 0786 178372 or + 254 726 178372 Minimum Graphics C …",
-            "created_at": "2021-08-29 10:46:03",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.24218609198471674,
-                "negativity": 0.7578139080152819
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
             "id": 1431931107918942210,
             "text": "Sure I ' just go ahead and buy the product at 4 - 5x is holding b …",
             "created_at": "2021-08-29 10:45:54",
@@ -10403,25 +11478,6 @@
                 "negativity": 0.40320163545094256
             },
             "user_id": 1394387905636970503,
-            "text_translation": ""
-        },
-        {
-            "id": 1431930404836159490,
-            "text": ": Middle earth Shadow of War / Computer Game . PRICE : 1900 . 00 Minimum Graphics Card : Ge …",
-            "created_at": "2021-08-29 10:43:07",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6500362810664977,
-                "negativity": 0.34996371893350126
-            },
-            "user_id": 1190316252956430336,
             "text_translation": ""
         },
         {
@@ -10460,25 +11516,6 @@
                 "classification": "pos",
                 "positivity": 0.9378219621061087,
                 "negativity": 0.062178037893891945
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
-            "id": 1431929947011100678,
-            "text": ": Sniper Ghost Warrior / Computer Game . PRICE : 300 . 00 Minimum Graphics Card : …",
-            "created_at": "2021-08-29 10:41:17",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.539237940309619,
-                "negativity": 0.4607620596903823
             },
             "user_id": 1190316252956430336,
             "text_translation": ""
@@ -10564,6 +11601,123 @@
             "text_translation": ""
         },
         {
+            "id": 1431929499957055488,
+            "text": ": Boost performance by up to 60 % in with on graphics and . 👉 h …",
+            "created_at": "2021-08-29 10:39:31",
+            "retweet_count": 58,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.621902957394416,
+                "negativity": 0.3780970426055838
+            },
+            "user_id": 741310982182600704,
+            "text_translation": ""
+        },
+        {
+            "id": 1431929464565424136,
+            "text": ": Get ready for a wild ride across the cosmos with the all - new Marvel ' s of the Galaxy . ar …",
+            "created_at": "2021-08-29 10:39:22",
+            "retweet_count": 73,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8089134668881405,
+                "negativity": 0.19108653311185758
+            },
+            "user_id": 741310982182600704,
+            "text_translation": ""
+        },
+        {
+            "id": 1431929396877725696,
+            "text": ": Ray tracing and are coming to 2 Stay Human . Watch our exclusive reveal . …",
+            "created_at": "2021-08-29 10:39:06",
+            "retweet_count": 64,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.580538539341976,
+                "negativity": 0.41946146065802187
+            },
+            "user_id": 741310982182600704,
+            "text_translation": ""
+        },
+        {
+            "id": 1431929329882128386,
+            "text": ": Ray tracing and coming to your favorite 👀 👉",
+            "created_at": "2021-08-29 10:38:50",
+            "retweet_count": 117,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2757226411022163,
+                "negativity": 0.7242773588977841
+            },
+            "user_id": 741310982182600704,
+            "text_translation": ""
+        },
+        {
+            "id": 1431929120167010305,
+            "text": ": Check out : Off Planet ’ s all - new trailer : 🟢 Ray - 🟢 Ray - 🟢…",
+            "created_at": "2021-08-29 10:38:00",
+            "retweet_count": 57,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19080148406142594,
+                "negativity": 0.8091985159385745
+            },
+            "user_id": 741310982182600704,
+            "text_translation": ""
+        },
+        {
+            "id": 1431929052043096066,
+            "text": ": 👀 All - new Bright Memory : Infinite : ⚫️ Ray - ⚫️ Ray - ⚫️ Ray - t …",
+            "created_at": "2021-08-29 10:37:44",
+            "retweet_count": 66,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Memory",
+                "Bright"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.507456397898493,
+                "negativity": 0.4925436021015068
+            },
+            "user_id": 741310982182600704,
+            "text_translation": ""
+        },
+        {
             "id": 1431928998804738051,
             "text": ": Terminator Resistance / Computer Game . PRICE : 300 . 00 CONTACT : 0786 178372 or 0726 178372 Minimum Graph …",
             "created_at": "2021-08-29 10:37:31",
@@ -10578,25 +11732,6 @@
                 "classification": "pos",
                 "positivity": 0.7596892022301116,
                 "negativity": 0.2403107977698899
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
-            "id": 1431928824032374784,
-            "text": ": Star Fallen Order / Computer Game . PRICE : 1200 . 00 Minimum Graphics Card : G …",
-            "created_at": "2021-08-29 10:36:50",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.506496147005176,
-                "negativity": 0.49350385299482585
             },
             "user_id": 1190316252956430336,
             "text_translation": ""
@@ -10640,22 +11775,22 @@
             "text_translation": ""
         },
         {
-            "id": 1431928364818911234,
-            "text": ": 20 with / Computer Game . PRICE : 6500 . 00 Minimum Graphics Card : …",
-            "created_at": "2021-08-29 10:35:00",
-            "retweet_count": 1,
+            "id": 1431927966628409344,
+            "text": "partnership with AI across enterprise for every",
+            "created_at": "2021-08-29 10:33:25",
+            "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "negative",
+            "label": "neutral",
             "note": {
-                "classification": "neg",
-                "positivity": 0.4723052013025211,
-                "negativity": 0.5276947986974788
+                "classification": "pos",
+                "positivity": 0.6170275143406486,
+                "negativity": 0.3829724856593503
             },
-            "user_id": 1190316252956430336,
+            "user_id": 35299079,
             "text_translation": ""
         },
         {
@@ -10677,25 +11812,6 @@
                 "classification": "neg",
                 "positivity": 0.16742356226564645,
                 "negativity": 0.8325764377343521
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
-            "id": 1431927643008638977,
-            "text": ": Shadow of the Tomb Raider / Computer Game . PRICE : 800 . 00 Call : 0786178372 / 0726178372 Minimum Graphic …",
-            "created_at": "2021-08-29 10:32:08",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.06130566880075765,
-                "negativity": 0.9386943311992408
             },
             "user_id": 1190316252956430336,
             "text_translation": ""
@@ -10743,25 +11859,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431926973580955648,
-            "text": ": 3 / Computer Game PRICE : 1000 . 00 CONTACT : 0786178372 or 0726178372 Minimum Graphics Card Re …",
-            "created_at": "2021-08-29 10:29:29",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5333283754728916,
-                "negativity": 0.46667162452711
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
             "id": 1431926968279347204,
             "text": "Top story : Musk deal for chip maker see more",
             "created_at": "2021-08-29 10:29:27",
@@ -10800,25 +11897,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431926355889950728,
-            "text": ": 5 / Computer Game . PRICE : 1000 . 00 CONTACT : 0786 178372 or 0726 178372 Minimum Graphics Card …",
-            "created_at": "2021-08-29 10:27:01",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5333283754728916,
-                "negativity": 0.46667162452711
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
             "id": 1431926283324248067,
             "text": "Siding himself with the , Musk also raised competition over ’ s acquisition of ARM …",
             "created_at": "2021-08-29 10:26:44",
@@ -10835,44 +11913,6 @@
                 "negativity": 0.01167645588422448
             },
             "user_id": 1411996051884621826,
-            "text_translation": ""
-        },
-        {
-            "id": 1431925845623443459,
-            "text": ": 2K20 / Computer Game . PRICE : 1600 . 00 CONTACT : 0786 178372 or 0726 178372 Minimum Graphics Card …",
-            "created_at": "2021-08-29 10:25:00",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4004401562708859,
-                "negativity": 0.5995598437291162
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
-            "id": 1431925673355005952,
-            "text": ": 8 / Game . PRICE : 500 . 00 CONTACT : 0786 178372 or + 254 726 178372 Minimum Graphics Card …",
-            "created_at": "2021-08-29 10:24:19",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4620035437597791,
-                "negativity": 0.5379964562402196
-            },
-            "user_id": 1190316252956430336,
             "text_translation": ""
         },
         {
@@ -10913,44 +11953,6 @@
                 "classification": "pos",
                 "positivity": 0.5781228839855581,
                 "negativity": 0.4218771160144397
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
-            "id": 1431925154389508101,
-            "text": ": Truck Racing Championship / Computer Game . PRICE : 300 . 00 Minimum Graphics Card …",
-            "created_at": "2021-08-29 10:22:15",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.39899391348329805,
-                "negativity": 0.6010060865167041
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
-            "id": 1431925050748416008,
-            "text": ": COLLIN DIRT 2 / Computer Game . PRICE : 200 . 00 CONTACT : 0786 178372 or + 254 726 178372 Minimum Gra …",
-            "created_at": "2021-08-29 10:21:50",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4378095891550159,
-                "negativity": 0.5621904108449863
             },
             "user_id": 1190316252956430336,
             "text_translation": ""
@@ -11036,25 +12038,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431923155065528323,
-            "text": ": 19 Computer Game . PRICE : 800 . 00 CONTACT : 0786 178372 or + 254 726 178372 Minimum Graphics Card …",
-            "created_at": "2021-08-29 10:14:18",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.14759896979678122,
-                "negativity": 0.85240103020322
-            },
-            "user_id": 1190316252956430336,
-            "text_translation": ""
-        },
-        {
             "id": 1431921908761567234,
             "text": ": Faraday Protocol is with : Up to 75 % Faster Performance at 4K . Gamescom2021 ➡️ h …",
             "created_at": "2021-08-29 10:09:21",
@@ -11111,6 +12094,25 @@
                 "negativity": 0.04777026580861153
             },
             "user_id": 306666000,
+            "text_translation": ""
+        },
+        {
+            "id": 1431920241534115841,
+            "text": ": Go for a with amazing for the gaming market ! ON …",
+            "created_at": "2021-08-29 10:02:44",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9246016051500361,
+                "negativity": 0.07539839484996519
+            },
+            "user_id": 1270007291991994368,
             "text_translation": ""
         },
         {
@@ -11308,6 +12310,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431914870010781700,
+            "text": ": On 15th we will be hosting our 2nd workshop , by Machine Learning Engineer 🤩 In …",
+            "created_at": "2021-08-29 09:41:23",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9236072968659388,
+                "negativity": 0.07639270313406119
+            },
+            "user_id": 1527854358,
+            "text_translation": ""
+        },
+        {
             "id": 1431914761336283136,
             "text": "It ' s not just dependent on as I ' seen in a coupe of your . …",
             "created_at": "2021-08-29 09:40:57",
@@ -11324,6 +12345,25 @@
                 "negativity": 0.3126756938002964
             },
             "user_id": 182062652,
+            "text_translation": ""
+        },
+        {
+            "id": 1431914519987724290,
+            "text": "On 15th we will be hosting our 2nd workshop , by Machine Learning Engineer …",
+            "created_at": "2021-08-29 09:39:59",
+            "retweet_count": 2,
+            "favorite_count": 7,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9236072968659388,
+                "negativity": 0.07639270313406119
+            },
+            "user_id": 398200139,
             "text_translation": ""
         },
         {
@@ -11387,6 +12427,27 @@
                 "negativity": 0.6912790591797211
             },
             "user_id": 1384202860863180817,
+            "text_translation": ""
+        },
+        {
+            "id": 1431912343093579777,
+            "text": "The Eagle landed , we have another almost impossible to get graphic card for sale ! - - - 3070 - Ti - EAGLE",
+            "created_at": "2021-08-29 09:31:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7480683566176793,
+                "negativity": 0.251931643382322
+            },
+            "user_id": 1396782179175305219,
             "text_translation": ""
         },
         {
@@ -11484,6 +12545,27 @@
                 "negativity": 0.07120545799206393
             },
             "user_id": 969052964815036416,
+            "text_translation": ""
+        },
+        {
+            "id": 1431909945876918279,
+            "text": ": New reveal that is likely working on its next graphics card , the 3090 Super . The card would be '…",
+            "created_at": "2021-08-29 09:21:49",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41862399737320205,
+                "negativity": 0.581376002626796
+            },
+            "user_id": 1196961326381158400,
             "text_translation": ""
         },
         {
@@ -11735,6 +12817,25 @@
                 "negativity": 0.5336816443323342
             },
             "user_id": 1412062152492556290,
+            "text_translation": ""
+        },
+        {
+            "id": 1431905927775588352,
+            "text": "EU All Set To Formally Probe $ 54 Billion - ARM Merger",
+            "created_at": "2021-08-29 09:05:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.43474416620185263,
+                "negativity": 0.5652558337981467
+            },
+            "user_id": 1326314643917320194,
             "text_translation": ""
         },
         {
@@ -12414,6 +13515,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431894997222182914,
+            "text": ": I WISH PICKED UP MY I WAS DYING",
+            "created_at": "2021-08-29 08:22:25",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5575693102475557,
+                "negativity": 0.44243068975244393
+            },
+            "user_id": 699717495775698944,
+            "text_translation": ""
+        },
+        {
             "id": 1431894721115275266,
             "text": "in chat Blow The \" \" part would make sense if ARM was a closed source chip company . Like if t …",
             "created_at": "2021-08-29 08:21:19",
@@ -12468,6 +13588,25 @@
                 "negativity": 0.556485386941308
             },
             "user_id": 1345898494293381120,
+            "text_translation": ""
+        },
+        {
+            "id": 1431893212306755585,
+            "text": ": deployment ' s expensive . Still , have you ever wished you could deploy your for FREE ? Now you can w / …",
+            "created_at": "2021-08-29 08:15:19",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5021229127684952,
+                "negativity": 0.4978770872315042
+            },
+            "user_id": 1221471,
             "text_translation": ""
         },
         {
@@ -12796,6 +13935,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431884269421481984,
+            "text": "Best Buy of graphics , and after showing up , I ' m convinced that these are go …",
+            "created_at": "2021-08-29 07:39:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6626345839797019,
+                "negativity": 0.337365416020298
+            },
+            "user_id": 1113005772336697344,
+            "text_translation": ""
+        },
+        {
             "id": 1431884240677912580,
             "text": "engine obscure Such a nice technical achievement but useless for the end user . A lot of …",
             "created_at": "2021-08-29 07:39:40",
@@ -13064,6 +14222,27 @@
             "text_translation": ""
         },
         {
+            "id": 1431879275561590784,
+            "text": "Razer Blade 15 Advanced Gaming 2020 : Core i7 - 10875H 8 - Core , …",
+            "created_at": "2021-08-29 07:19:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.44143478837958533,
+                "negativity": 0.5585652116204132
+            },
+            "user_id": 1197364662,
+            "text_translation": ""
+        },
+        {
             "id": 1431878934640029702,
             "text": "I will do the same for and and . , , ripple and will become the …",
             "created_at": "2021-08-29 07:18:35",
@@ -13161,6 +14340,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431877954729086982,
+            "text": ": The Angel Cyberpunk2077 Cyberpunk2077PC photography Cyberpunk2077Phot …",
+            "created_at": "2021-08-29 07:14:42",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4997038501932552,
+                "negativity": 0.5002961498067447
+            },
+            "user_id": 1339960794331660291,
+            "text_translation": ""
+        },
+        {
             "id": 1431877954447962117,
             "text": ": ' s Musk over deal for chip maker : Report",
             "created_at": "2021-08-29 07:14:42",
@@ -13177,6 +14375,44 @@
                 "negativity": 0.17648919736038265
             },
             "user_id": 229491030,
+            "text_translation": ""
+        },
+        {
+            "id": 1431877766572556290,
+            "text": "Said to Seek EU Antitrust Approval for $ 54 - Billion Arm Deal",
+            "created_at": "2021-08-29 07:13:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6537719353415539,
+                "negativity": 0.3462280646584474
+            },
+            "user_id": 1005881466,
+            "text_translation": ""
+        },
+        {
+            "id": 1431876514589597697,
+            "text": ": acquisition of Arm may take longer than 18 …",
+            "created_at": "2021-08-29 07:08:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8176414059579783,
+                "negativity": 0.1823585940420228
+            },
+            "user_id": 34574639,
             "text_translation": ""
         },
         {
@@ -13258,6 +14494,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431874065682223104,
+            "text": ": Date night ! Cyberpunk2077 Cyberpunk2077PC photography Cyberpunk2077Ph …",
+            "created_at": "2021-08-29 06:59:14",
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6862975049026067,
+                "negativity": 0.3137024950973929
+            },
+            "user_id": 1140800147162402816,
+            "text_translation": ""
+        },
+        {
             "id": 1431874001748561922,
             "text": "DAILY + MULTIPLE 6068 Error : Specs : : Z390 ACE ( - 7B12 ) …",
             "created_at": "2021-08-29 06:58:59",
@@ -13317,25 +14572,22 @@
             "text_translation": ""
         },
         {
-            "id": 1431872827347582977,
-            "text": "Halo system : a 64 - bit processor and operating system OS : 10 19H2 x64 Processor : R …",
-            "created_at": "2021-08-29 06:54:19",
-            "retweet_count": 0,
+            "id": 1431872742018596866,
+            "text": ": Watch , Director , Hardware Engineering , , explain how the Cadence Dynamic Duo 2 . 0 …",
+            "created_at": "2021-08-29 06:53:59",
+            "retweet_count": 5,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "OS",
-                "OS"
-            ],
+            "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.6571670316938848,
-                "negativity": 0.3428329683061141
+                "classification": "neg",
+                "positivity": 0.24125725907289264,
+                "negativity": 0.7587427409271077
             },
-            "user_id": 474286025,
+            "user_id": 1404393524762603526,
             "text_translation": ""
         },
         {
@@ -13414,6 +14666,25 @@
                 "negativity": 0.40446620849656595
             },
             "user_id": 17860697,
+            "text_translation": ""
+        },
+        {
+            "id": 1431870073623416832,
+            "text": "Musk Said to Oppose ’ s of Arm : Telegraph",
+            "created_at": "2021-08-29 06:43:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5913930789707191,
+                "negativity": 0.4086069210292809
+            },
+            "user_id": 30701862,
             "text_translation": ""
         },
         {
@@ -13959,6 +15230,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431857741296021510,
+            "text": ": Quake ( 2019 ) id",
+            "created_at": "2021-08-29 05:54:22",
+            "retweet_count": 25,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1042046357983424512,
+            "text_translation": ""
+        },
+        {
             "id": 1431857404996587526,
             "text": "AI Enterprise Suite Globally : Making AI Accessible for Every Industry ai",
             "created_at": "2021-08-29 05:53:02",
@@ -14205,6 +15495,25 @@
                 "negativity": 0.2765023506783819
             },
             "user_id": 1340213150327713794,
+            "text_translation": ""
+        },
+        {
+            "id": 1431853371670007810,
+            "text": "AI : : and Partner on Data Center || 100DaysOfCode AI Analytics …",
+            "created_at": "2021-08-29 05:37:01",
+            "retweet_count": 20,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3433404653650713,
+                "negativity": 0.6566595346349284
+            },
+            "user_id": 492009914,
             "text_translation": ""
         },
         {
@@ -14516,25 +15825,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431844056896720900,
-            "text": "19 Computer Game . PRICE : 800 . 00 CONTACT : 0786 178372 or + 254 726 178372 Minimum Graphics Card …",
-            "created_at": "2021-08-29 05:00:00",
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.14759896979678122,
-                "negativity": 0.85240103020322
-            },
-            "user_id": 2534964300,
-            "text_translation": ""
-        },
-        {
             "id": 1431843327096377345,
             "text": "' s Musk over deal for chip maker - The Telegraph …",
             "created_at": "2021-08-29 04:57:06",
@@ -14668,6 +15958,29 @@
             "text_translation": ""
         },
         {
+            "id": 1431840855007055873,
+            "text": "harmony : used yoga x360 8gb ram 256ssd Core i5 2gb graphics …",
+            "created_at": "2021-08-29 04:47:16",
+            "retweet_count": 34,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1974875278139507,
+                "negativity": 0.8025124721860476
+            },
+            "user_id": 1377629890950889473,
+            "text_translation": ""
+        },
+        {
             "id": 1431839664667725827,
             "text": "' s huge $ 54 billion Arm deal being by the EU",
             "created_at": "2021-08-29 04:42:33",
@@ -14788,6 +16101,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431834439164780544,
+            "text": ": Welcome to the 🌌 its for by millions of Blender to the . If 3D a …",
+            "created_at": "2021-08-29 04:21:47",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3345673562539393,
+                "negativity": 0.6654326437460607
+            },
+            "user_id": 18917622,
+            "text_translation": ""
+        },
+        {
             "id": 1431834404444262403,
             "text": "The Is Coming . on the Fusion of Virtual and Physical .…",
             "created_at": "2021-08-29 04:21:38",
@@ -14823,6 +16155,27 @@
                 "negativity": 0.4678411137415586
             },
             "user_id": 2179279118,
+            "text_translation": ""
+        },
+        {
+            "id": 1431832027356139527,
+            "text": "Gaming 3 5 4600H 15 . 6 - inch Full ( 8GB / 512GB / 10 / 60 / 1 …",
+            "created_at": "2021-08-29 04:12:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8537234042553187,
+                "negativity": 0.14627659574468085
+            },
+            "user_id": 1426516381986549766,
             "text_translation": ""
         },
         {
@@ -15077,6 +16430,27 @@
             "text_translation": ""
         },
         {
+            "id": 1431821739546198023,
+            "text": ": 3060 Ti and 3060 supply to decrease in",
+            "created_at": "2021-08-29 03:31:19",
+            "retweet_count": 30,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.39655172413793166,
+                "negativity": 0.6034482758620691
+            },
+            "user_id": 1309517880552239106,
+            "text_translation": ""
+        },
+        {
             "id": 1431821653324058626,
             "text": ": Either or is high on something . Remember everyone , is the BEST operating system . 100 %…",
             "created_at": "2021-08-29 03:30:58",
@@ -15150,6 +16524,37 @@
                 "negativity": 0.6262593929171557
             },
             "user_id": 1599180145,
+            "text_translation": ""
+        },
+        {
+            "id": 1431820914128162819,
+            "text": "' s lab AI super from , , while waiting for",
+            "created_at": "2021-08-29 03:28:02",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    39.78197047,
+                    -75.69231988
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69231988,
+                    39.78197047
+                ]
+            },
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24218187796117338,
+                "negativity": 0.7578181220388255
+            },
+            "user_id": 948014469044678656,
             "text_translation": ""
         },
         {
@@ -15250,6 +16655,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431819579416793088,
+            "text": ": So , if I want to all of these ... for 🙃 $ = ' ' \"",
+            "created_at": "2021-08-29 03:22:44",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5260424322772794,
+                "negativity": 0.47395756772272046
+            },
+            "user_id": 829785295650451456,
+            "text_translation": ""
+        },
+        {
             "id": 1431819547141677057,
             "text": "No and only 1080p quality streaming even tho it ' s chip can do 4k ( same as shield …",
             "created_at": "2021-08-29 03:22:36",
@@ -15304,6 +16728,25 @@
                 "negativity": 0.7242864740652436
             },
             "user_id": 891382950436229120,
+            "text_translation": ""
+        },
+        {
+            "id": 1431819024397123587,
+            "text": ": NEW chance to win a brand new 1TBSSD ! giveaway free LIKE + enter via link b …",
+            "created_at": "2021-08-29 03:20:31",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38291791875331327,
+                "negativity": 0.6170820812466853
+            },
+            "user_id": 182877463,
             "text_translation": ""
         },
         {
@@ -15706,6 +17149,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431812861706182663,
+            "text": "Now A Comprehensive Platform For Enterprise AI",
+            "created_at": "2021-08-29 02:56:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8058383880664329,
+                "negativity": 0.194161611933568
+            },
+            "user_id": 19091048,
+            "text_translation": ""
+        },
+        {
             "id": 1431812825975037954,
             "text": "' s Musk over deal for chip maker - The Telegraph technology tech …",
             "created_at": "2021-08-29 02:55:54",
@@ -15820,6 +17282,25 @@
                 "negativity": 0.4690220291180731
             },
             "user_id": 1285554064046972929,
+            "text_translation": ""
+        },
+        {
+            "id": 1431810432587730947,
+            "text": ": Thank you very much for my project \" Deep Learning for master at University of …",
+            "created_at": "2021-08-29 02:46:23",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7688640707209018,
+                "negativity": 0.23113592927909957
+            },
+            "user_id": 148107092,
             "text_translation": ""
         },
         {
@@ -16096,6 +17577,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431807490656702466,
+            "text": "partnership with AI …",
+            "created_at": "2021-08-29 02:34:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7017246689251617,
+                "negativity": 0.2982753310748384
+            },
+            "user_id": 613081104,
+            "text_translation": ""
+        },
+        {
             "id": 1431807470012338177,
             "text": "is this error ever get fixed ? Foreign language when there ’ s an word on scree …",
             "created_at": "2021-08-29 02:34:37",
@@ -16304,6 +17804,27 @@
                 "negativity": 0.4020656161429207
             },
             "user_id": 24820841,
+            "text_translation": ""
+        },
+        {
+            "id": 1431802779161415688,
+            "text": "First build in were still pretty decent to now . 7 3700X G …",
+            "created_at": "2021-08-29 02:15:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.455585519346618,
+                "negativity": 0.5444144806533809
+            },
+            "user_id": 1297619876597641217,
             "text_translation": ""
         },
         {
@@ -16594,6 +18115,46 @@
             "text_translation": ""
         },
         {
+            "id": 1431798932938579974,
+            "text": ": 06 [ ] THE 3 MAGIC REVEALED A NEW PATH TO THE OLD ... …",
+            "created_at": "2021-08-29 02:00:41",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8039362249541683,
+                "negativity": 0.19606377504583092
+            },
+            "user_id": 4271364269,
+            "text_translation": ""
+        },
+        {
+            "id": 1431798802193829889,
+            "text": "3060 stock could be a bumpy ride over the next couple of",
+            "created_at": "2021-08-29 02:00:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40641531464300273,
+                "negativity": 0.5935846853569975
+            },
+            "user_id": 912676304788520964,
+            "text_translation": ""
+        },
+        {
             "id": 1431798780278579200,
             "text": ": 3060 stock could be a bumpy ride over the next couple of h …",
             "created_at": "2021-08-29 02:00:05",
@@ -16808,6 +18369,27 @@
                 "negativity": 0.0505532497414294
             },
             "user_id": 1257465690593923075,
+            "text_translation": ""
+        },
+        {
+            "id": 1431795660978851840,
+            "text": "3060 stock could be a bumpy ride over the next couple of –",
+            "created_at": "2021-08-29 01:47:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40641531464300273,
+                "negativity": 0.5935846853569975
+            },
+            "user_id": 1668194960,
             "text_translation": ""
         },
         {
@@ -17098,6 +18680,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431790501967978502,
+            "text": "Which portfolio are you holding for 3 ? A . $ Square $ $ $ B . $ SE Se …",
+            "created_at": "2021-08-29 01:27:11",
+            "retweet_count": 1,
+            "favorite_count": 10,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6318461038920662,
+                "negativity": 0.36815389610793414
+            },
+            "user_id": 1283106286066741248,
+            "text_translation": ""
+        },
+        {
             "id": 1431790379049762818,
             "text": "luckily Control Panel is helpful for monitor",
             "created_at": "2021-08-29 01:26:42",
@@ -17133,6 +18734,27 @@
                 "negativity": 0.8284175206513528
             },
             "user_id": 926557334071054337,
+            "text_translation": ""
+        },
+        {
+            "id": 1431790006843150339,
+            "text": ": 3060 stock could be a bumpy ride over the next couple of",
+            "created_at": "2021-08-29 01:25:13",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.40641531464300273,
+                "negativity": 0.5935846853569975
+            },
+            "user_id": 281342266,
             "text_translation": ""
         },
         {
@@ -17230,6 +18852,44 @@
                 "negativity": 0.48864265850618216
             },
             "user_id": 964557711991025670,
+            "text_translation": ""
+        },
+        {
+            "id": 1431787837003755528,
+            "text": ": that is a whole food to you soon with 🐢🐢 🐢 🐢 🐢…",
+            "created_at": "2021-08-29 01:16:36",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4990147010100302,
+                "negativity": 0.5009852989899701
+            },
+            "user_id": 637359277,
+            "text_translation": ""
+        },
+        {
+            "id": 1431787698931462145,
+            "text": "Of Corporation ( ) Rise Above Previous 52 - Week High",
+            "created_at": "2021-08-29 01:16:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8227215659232533,
+                "negativity": 0.17727843407674715
+            },
+            "user_id": 610006485,
             "text_translation": ""
         },
         {
@@ -17420,6 +19080,25 @@
                 "negativity": 0.7216396246371265
             },
             "user_id": 1341782565158567939,
+            "text_translation": ""
+        },
+        {
+            "id": 1431784209853583364,
+            "text": "Marbles Playable Sample Now Available in Gaming",
+            "created_at": "2021-08-29 01:02:11",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.854109339256705,
+                "negativity": 0.14589066074329404
+            },
+            "user_id": 1394348176862326784,
             "text_translation": ""
         },
         {
@@ -17732,6 +19411,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431776326235693060,
+            "text": ": We have received a gift of two 2070 from to aid in development ! Thank you !",
+            "created_at": "2021-08-29 00:30:51",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6570567391766816,
+                "negativity": 0.34294326082331794
+            },
+            "user_id": 1034827562005024770,
+            "text_translation": ""
+        },
+        {
             "id": 1431776041610141698,
             "text": ": If is actually shifting to again for flagship then it a lot about ' s bleeding - edge …",
             "created_at": "2021-08-29 00:29:44",
@@ -17926,25 +19624,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431772756505419785,
-            "text": "6000 & ; 3000 wrong . which ? what he will do ? plus whats his experience . BLINDLY …",
-            "created_at": "2021-08-29 00:16:40",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.031417218198563315,
-                "negativity": 0.9685827818014354
-            },
-            "user_id": 150105514,
-            "text_translation": ""
-        },
-        {
             "id": 1431772754446065672,
             "text": "Are you Broadcast ? This tool works for literally everything ... virtual , noise …",
             "created_at": "2021-08-29 00:16:40",
@@ -18037,6 +19716,25 @@
                 "negativity": 0.8820812166653053
             },
             "user_id": 707484470392332288,
+            "text_translation": ""
+        },
+        {
+            "id": 1431771523006803982,
+            "text": "for remote development in Luminous Engine",
+            "created_at": "2021-08-29 00:11:46",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4868446904321039,
+                "negativity": 0.5131553095678973
+            },
+            "user_id": 1138002792,
             "text_translation": ""
         },
         {

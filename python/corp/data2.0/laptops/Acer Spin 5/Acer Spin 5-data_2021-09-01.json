@@ -1,0 +1,84 @@
+{
+    "tweets": [
+        {
+            "id": 1433086927012438020,
+            "text": ": Ignite your and bring out your passion through creativity with the thin and lightweight convertible Spin 5 lap …",
+            "created_at": "2021-09-01 15:18:43",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1310274010905598,
+                "negativity": 0.8689725989094395
+            },
+            "user_id": 1937026118,
+            "text_translation": ""
+        },
+        {
+            "id": 1433063063914172420,
+            "text": "Ignite your and bring out your passion through creativity with the thin and lightweight convertible …",
+            "created_at": "2021-09-01 13:43:54",
+            "retweet_count": 2,
+            "favorite_count": 8,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.25355244959701917,
+                "negativity": 0.7464475504029809
+            },
+            "user_id": 99878596,
+            "text_translation": ""
+        },
+        {
+            "id": 1433017575412310022,
+            "text": ": Check out this deal : Spin 311 Convertible , N4020 , 11 . 6 \" Touch , 4GB LPDDR4 ,…",
+            "created_at": "2021-09-01 10:43:08",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5651950429390786,
+                "negativity": 0.4348049570609211
+            },
+            "user_id": 522652314,
+            "text_translation": ""
+        },
+        {
+            "id": 1432885414168236034,
+            "text": "Notebook 2 in 1 Spin 5 SP513 - 54N - 70PD Monitor 13 . 5 \" Quad Touch Screen Core i7 - 1065G7 RAM 8GB 1TB …",
+            "created_at": "2021-09-01 01:57:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6572501225244116,
+                "negativity": 0.34274987747558616
+            },
+            "user_id": 1277193540892856320,
+            "text_translation": ""
+        }
+    ]
+}
