@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1427765899621064707,
+            "text": "Dell 13 13 : Which is the best ?",
+            "created_at": "2021-08-17 22:54:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8075438387340751,
+                "negativity": 0.19245616126592527
+            },
+            "user_id": 521749341,
+            "text_translation": ""
+        },
+        {
             "id": 1427738268439912453,
             "text": "If you ’ re in the market for an , this might make your decision easier :",
             "created_at": "2021-08-17 21:05:03",
@@ -17,29 +36,6 @@
                 "negativity": 0.3898564048830896
             },
             "user_id": 3188788064,
-            "text_translation": ""
-        },
-        {
-            "id": 1427734221955559425,
-            "text": ": Looking for a 2 in 1 . i7 11th Gen Processor , 16GB RAM , min 512GB , Iris Graphics or Ge …",
-            "created_at": "2021-08-17 20:48:59",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM",
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.06308870879237752,
-                "negativity": 0.9369112912076241
-            },
-            "user_id": 1269279919902806016,
             "text_translation": ""
         },
         {
@@ -82,25 +78,6 @@
                 "negativity": 0.16800825621120102
             },
             "user_id": 177530122,
-            "text_translation": ""
-        },
-        {
-            "id": 1427718762212569095,
-            "text": "Yesterday , I my Dell 15 to a Pro 13 ( m1 , if you care ), and these are the …",
-            "created_at": "2021-08-17 19:47:33",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9300792792713692,
-                "negativity": 0.06992072072862984
-            },
-            "user_id": 1171313916003139584,
             "text_translation": ""
         },
         {
@@ -221,25 +198,6 @@
             "text_translation": ""
         },
         {
-            "id": 1427608734713319428,
-            "text": "IN : The power to explore your , now for less . Avail 10 % and No Cost on the XPS13 Know more :",
-            "created_at": "2021-08-17 12:30:20",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.32657204715115373,
-                "negativity": 0.6734279528488452
-            },
-            "user_id": 802025356408426496,
-            "text_translation": ""
-        },
-        {
             "id": 1427608662437253164,
             "text": "The power to explore your , now for less . Avail 10 % and No Cost on the XPS13 Know more :…",
             "created_at": "2021-08-17 12:30:03",
@@ -256,6 +214,52 @@
                 "negativity": 0.6734279528488452
             },
             "user_id": 39495487,
+            "text_translation": ""
+        },
+        {
+            "id": 1427600795717931016,
+            "text": "Dell 9370 13 . 3 - inch Display Thin & ; Light ( 8th Gen i7 - 8550U / 16GB / 512GB / Win 10 + Office / …",
+            "created_at": "2021-08-17 11:58:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7315708674200971,
+                "negativity": 0.26842913257990275
+            },
+            "user_id": 457591575,
+            "text_translation": ""
+        },
+        {
+            "id": 1427573608558338055,
+            "text": ": 11 64gb brand new 315k G3 16gb 256ssd core i7 260k used . Dell 13 8gb 256ssd core i5 Used . 64gb Fact …",
+            "created_at": "2021-08-17 10:10:45",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "i7",
+                "8GB",
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7303256289331809,
+                "negativity": 0.26967437106682046
+            },
+            "user_id": 55526286,
             "text_translation": ""
         },
         {
@@ -354,22 +358,22 @@
             "text_translation": ""
         },
         {
-            "id": 1427471869289054210,
-            "text": "News From , , ,…",
-            "created_at": "2021-08-17 03:26:29",
+            "id": 1427474276446212115,
+            "text": "Dell 13 13 : Which is the best ? - The Verge",
+            "created_at": "2021-08-17 03:36:03",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "neutral",
+            "label": "positive",
             "note": {
-                "classification": "neg",
-                "positivity": 0.4666302598298457,
-                "negativity": 0.5333697401701537
+                "classification": "pos",
+                "positivity": 0.866394280133075,
+                "negativity": 0.13360571986692502
             },
-            "user_id": 1296783730527416327,
+            "user_id": 1471006987,
             "text_translation": ""
         },
         {
@@ -427,6 +431,25 @@
                 "negativity": 0.182796640536303
             },
             "user_id": 860404394705268736,
+            "text_translation": ""
+        },
+        {
+            "id": 1427422502263955457,
+            "text": ": Dell 13 Review coming up this week 🎓📚🚌",
+            "created_at": "2021-08-17 00:10:19",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7209105202701083,
+                "negativity": 0.27908947972989195
+            },
+            "user_id": 2241416174,
             "text_translation": ""
         }
     ]

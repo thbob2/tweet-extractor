@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432786449212981252,
+            "text": "Communism is a right wing concept world wide ? There is no such thing as a left communist . W …",
+            "created_at": "2021-08-31 19:24:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9189313568231924,
+                "negativity": 0.08106864317680619
+            },
+            "user_id": 1324767153929609216,
+            "text_translation": ""
+        },
+        {
+            "id": 1432632793645793284,
+            "text": "Location / Address : Unit No . 01 , A Wing , Floor , Art Guild House , Phoenix Market city , Road , W …",
+            "created_at": "2021-08-31 09:14:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16425528033721726,
+                "negativity": 0.8357447196627809
+            },
+            "user_id": 56027268,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1416142347688157185,
+            "text": "G9 play",
+            "created_at": "2021-07-16 21:07:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5044910179640717,
+                "negativity": 0.4955089820359282
+            },
+            "user_id": 1166118889408946179,
+            "text_translation": ""
+        },
+        {
             "id": 1416126291431002114,
             "text": "G9 Play .",
             "created_at": "2021-07-16 20:03:12",
@@ -172,9 +191,9 @@
             "text_translation": ""
         },
         {
-            "id": 1415938580548100097,
-            "text": "G9 Power XT2091 - 8 :",
-            "created_at": "2021-07-16 07:37:19",
+            "id": 1415938552601382912,
+            "text": "G9 Power XT2091 - 3 :",
+            "created_at": "2021-07-16 07:37:12",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",

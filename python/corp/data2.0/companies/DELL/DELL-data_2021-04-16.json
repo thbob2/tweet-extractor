@@ -172,6 +172,25 @@
             "text_translation": ""
         },
         {
+            "id": 1383095088444751872,
+            "text": ": On this , tell us the top 3 in your kitchen & ; be to win . Dell ' s Hash , an apron …",
+            "created_at": "2021-04-16 16:29:00",
+            "retweet_count": 248,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5095292058110896,
+                "negativity": 0.4904707941889093
+            },
+            "user_id": 1318307817338658816,
+            "text_translation": ""
+        },
+        {
             "id": 1383084445448609794,
             "text": "dell7 um I was waiting",
             "created_at": "2021-04-16 15:46:42",
@@ -518,6 +537,25 @@
             "text_translation": ""
         },
         {
+            "id": 1382988951833739266,
+            "text": "Mary Dell Mary Dell Designer",
+            "created_at": "2021-04-16 09:27:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9198113207547159,
+                "negativity": 0.08018867924528293
+            },
+            "user_id": 124540865,
+            "text_translation": ""
+        },
+        {
             "id": 1382987090388996097,
             "text": "\\\\ oh God I ' m starting to have from lack of sleep",
             "created_at": "2021-04-16 09:19:51",
@@ -575,6 +613,27 @@
             "text_translation": ""
         },
         {
+            "id": 1382884580235956225,
+            "text": ": GIVEAWAY Dell 3020 micro computer perfect for melee ! like / / follow to enter ! specs in , 5 / 1 / 21 !…",
+            "created_at": "2021-04-16 02:32:31",
+            "retweet_count": 421,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8691102088466985,
+                "negativity": 0.1308897911533006
+            },
+            "user_id": 734979932917358593,
+            "text_translation": ""
+        },
+        {
             "id": 1382862023256637444,
             "text": ": Imagine being an employee at , or and to relocate to a state with no regard for the safety or w …",
             "created_at": "2021-04-16 01:02:53",
@@ -610,6 +669,27 @@
                 "negativity": 0.6256072970513658
             },
             "user_id": 3120051333,
+            "text_translation": ""
+        },
+        {
+            "id": 1382846939297947650,
+            "text": "Houseof308 : If we stand on opposite sides of a room and I whisper “ hello ” into my speaker , you ’ hear hello from the other …",
+            "created_at": "2021-04-16 00:02:57",
+            "retweet_count": 929,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5917071894010184,
+                "negativity": 0.40829281059898015
+            },
+            "user_id": 1257087487526273031,
             "text_translation": ""
         }
     ]

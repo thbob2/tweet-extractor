@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1433838615348584452,
+            "text": "I have note 4 , 5 , 5 stylus , 7 , 10 , 10 pro but my primary device is Rog 5 ultimate because of …",
+            "created_at": "2021-09-03 17:05:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7170483431456776,
+                "negativity": 0.28295165685432305
+            },
+            "user_id": 782188138546532353,
+            "text_translation": ""
+        },
+        {
+            "id": 1433701462438187013,
+            "text": "note 7",
+            "created_at": "2021-09-03 08:00:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5232558139534884,
+                "negativity": 0.4767441860465117
+            },
+            "user_id": 1220605765205008385,
+            "text_translation": ""
+        },
+        {
+            "id": 1433621001271582724,
+            "text": "Because the Note 7 phone made by was sold a lot and people hoped that it would also get 7 …",
+            "created_at": "2021-09-03 02:40:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8176736061683115,
+                "negativity": 0.18232639383168975
+            },
+            "user_id": 1400270709964767235,
+            "text_translation": ""
+        },
+        {
+            "id": 1433620930735919105,
+            "text": "So please update note 7 to android 11 and 7 very soon because this phone is …",
+            "created_at": "2021-09-03 02:40:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3274719773482062,
+                "negativity": 0.6725280226517942
+            },
+            "user_id": 1400270709964767235,
+            "text_translation": ""
+        }
+    ]
+}

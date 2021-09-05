@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1433525370368757762,
+            "text": ": Is Making a Comeback in Wireless ? Jeff by ra …",
+            "created_at": "2021-09-02 20:20:56",
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6170024177637795,
+                "negativity": 0.38299758223622005
+            },
+            "user_id": 22824243,
+            "text_translation": ""
+        },
+        {
+            "id": 1433477842034171909,
+            "text": "Hello Seeing , Flip 3 and 5G same . Which …",
+            "created_at": "2021-09-02 17:12:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33594069037878654,
+                "negativity": 0.6640593096212134
+            },
+            "user_id": 70182233,
+            "text_translation": ""
+        }
+    ]
+}

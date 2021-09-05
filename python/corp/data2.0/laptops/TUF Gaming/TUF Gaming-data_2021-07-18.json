@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1416884951451148292,
+            "text": "Gaming F15 Core i5 10th Gen – ( 8 / 512 / 10 Home / 4 Graphics / 1650 / 144 H …",
+            "created_at": "2021-07-18 22:17:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.751119402985074,
+                "negativity": 0.24888059701492524
+            },
+            "user_id": 995883804257480704,
+            "text_translation": ""
+        },
+        {
             "id": 1416884870362636292,
             "text": "16 : $ 1 , 199 Gaming Deal - i5 - 10400F 16GB RAM 512GB 600w 80 + Gold GT301 Case …",
             "created_at": "2021-07-18 22:17:32",
@@ -44,6 +65,47 @@
                 "negativity": 0.40274224496322353
             },
             "user_id": 715198343001952259,
+            "text_translation": ""
+        },
+        {
+            "id": 1416883484916961281,
+            "text": "harmony : gaming 8gb ram 256ssd 5 4000 series 4gb 1650 keyboard light Open box Very neat Price …",
+            "created_at": "2021-07-18 22:12:01",
+            "retweet_count": 39,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6927019974148809,
+                "negativity": 0.3072980025851197
+            },
+            "user_id": 1383418902118494209,
+            "text_translation": ""
+        },
+        {
+            "id": 1416877872241913863,
+            "text": "GAMING B450 - PLUS AM4 B450 6Gb / s ryzen5800X Source : Search …",
+            "created_at": "2021-07-18 21:49:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9300147399379585,
+                "negativity": 0.06998526006204273
+            },
+            "user_id": 1363974177099816968,
             "text_translation": ""
         },
         {
@@ -106,10 +168,10 @@
             "text_translation": ""
         },
         {
-            "id": 1416854756593647616,
-            "text": "( US ) 3090 Gaming - $ 2 , 129 . 99 Link : : As an …",
-            "created_at": "2021-07-18 20:17:52",
-            "retweet_count": 0,
+            "id": 1416853109171757058,
+            "text": ": 🚨🚨 RESTOCK Gaming 3090 Edition Graphics Card - 4 . 0 , 24GB GDDR6X , 2 . 1 , …",
+            "created_at": "2021-07-18 20:11:19",
+            "retweet_count": 1,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
@@ -120,10 +182,10 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8529411764705888,
-                "negativity": 0.1470588235294121
+                "positivity": 0.9006673511293631,
+                "negativity": 0.09933264887063645
             },
-            "user_id": 499672969,
+            "user_id": 1333467666980409353,
             "text_translation": ""
         },
         {
@@ -209,11 +271,11 @@
             "text_translation": ""
         },
         {
-            "id": 1416841192730468360,
-            "text": "( US ) 6900XT Gaming - $ 1 , 599 . 99 Link : : As an …",
-            "created_at": "2021-07-18 19:23:58",
-            "retweet_count": 0,
-            "favorite_count": 0,
+            "id": 1416841313832607749,
+            "text": "Gaming 6900 Edition Graphics Card ad",
+            "created_at": "2021-07-18 19:24:27",
+            "retweet_count": 2,
+            "favorite_count": 6,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -221,10 +283,10 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8529411764705878,
-                "negativity": 0.14705882352941174
+                "positivity": 0.9006673511293631,
+                "negativity": 0.09933264887063645
             },
-            "user_id": 499672969,
+            "user_id": 1187131529299935234,
             "text_translation": ""
         },
         {
@@ -498,6 +560,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416730882141007880,
+            "text": "🚨🚨 at DE 🇩🇪 💥 6800 Gaming 💸 2 . 208 , 30 € 🚛 from 🏷 Sold b …",
+            "created_at": "2021-07-18 12:05:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
             "id": 1416730044311822338,
             "text": "Had to send back the gaming monitor I ordered 2 ago because it came defective nothing was on the …",
             "created_at": "2021-07-18 12:02:18",
@@ -598,6 +679,27 @@
             "text_translation": ""
         },
         {
+            "id": 1416688319925268481,
+            "text": "New stock alert : 6800 16GB GAMING Graphics Card is back at for £ 827 …",
+            "created_at": "2021-07-18 09:16:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.567828974246343,
+                "negativity": 0.43217102575365773
+            },
+            "user_id": 1363266858053472256,
+            "text_translation": ""
+        },
+        {
             "id": 1416688313885417475,
             "text": "New stock alert : 6800 16GB GAMING Graphics Card is back at for £ 812 …",
             "created_at": "2021-07-18 09:16:29",
@@ -619,6 +721,44 @@
             "text_translation": ""
         },
         {
+            "id": 1416685078122536962,
+            "text": "Gaming 27 \" 2K Monitor ( VG27AQ1A ) ( 2560 1440 ), , 170Hz ( 144Hz ), 1ms , Extreme Low …",
+            "created_at": "2021-07-18 09:03:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9766897167075604,
+                "negativity": 0.02331028329243801
+            },
+            "user_id": 360376907,
+            "text_translation": ""
+        },
+        {
+            "id": 1416685018345246723,
+            "text": "Gaming VG279QL1A 27 ” Gaming Monitor , 1ms , 1080P Full , 165Hz ( 144Hz ), , Premium …",
+            "created_at": "2021-07-18 09:03:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9942477876106192,
+                "negativity": 0.0057522123893805
+            },
+            "user_id": 360376907,
+            "text_translation": ""
+        },
+        {
             "id": 1416683099086213124,
             "text": "gaming 👍",
             "created_at": "2021-07-18 08:55:46",
@@ -635,6 +775,25 @@
                 "negativity": 0.16666666666666646
             },
             "user_id": 3106829546,
+            "text_translation": ""
+        },
+        {
+            "id": 1416681645093101574,
+            "text": ": Spontaneous trip ⏩🛫 Which will be by your side ? Either home or away , we ' re gaming there & ;& ;",
+            "created_at": "2021-07-18 08:49:59",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9257249134212147,
+                "negativity": 0.07427508657878659
+            },
+            "user_id": 935122103858335744,
             "text_translation": ""
         },
         {
@@ -757,6 +916,27 @@
                 "negativity": 0.03111271061175296
             },
             "user_id": 1009081266631782400,
+            "text_translation": ""
+        },
+        {
+            "id": 1416623768680665091,
+            "text": "( US ) In Stock : 3090 Gaming - $ 2 , 070 . 99 : Link : As an Am …",
+            "created_at": "2021-07-18 05:00:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7814371257485043,
+                "negativity": 0.21856287425149656
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -884,6 +1064,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416621415093071872,
+            "text": "gaming ?",
+            "created_at": "2021-07-18 04:50:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.833333333333333,
+                "negativity": 0.16666666666666646
+            },
+            "user_id": 1331140448195289089,
+            "text_translation": ""
+        },
+        {
             "id": 1416617798105587713,
             "text": ": Gaming 6700 Edition Graphics Ca ... is now in stock . Product Page :",
             "created_at": "2021-07-18 04:36:17",
@@ -922,6 +1121,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416610444853252102,
+            "text": "ROG : 🤩😍 Check all the gorgeous and feature at",
+            "created_at": "2021-07-18 04:07:04",
+            "retweet_count": 27,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5636663899671507,
+                "negativity": 0.4363336100328496
+            },
+            "user_id": 195431756,
+            "text_translation": ""
+        },
+        {
             "id": 1416607299435524099,
             "text": "gaming , gaming15",
             "created_at": "2021-07-18 03:54:34",
@@ -938,6 +1156,25 @@
                 "negativity": 0.16666666666666646
             },
             "user_id": 1011101909925543936,
+            "text_translation": ""
+        },
+        {
+            "id": 1416600098113531909,
+            "text": "Gaming VG27AQ 27 & ; quot ; 2560 x 1440 2K rtx3090 geforce3090 Source : Search Re …",
+            "created_at": "2021-07-18 03:25:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8348051661331275,
+                "negativity": 0.16519483386687242
+            },
+            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -1000,6 +1237,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416564201032589319,
+            "text": "🚨🚨 at 🇫🇷 💥 6800 Gaming 💸 2 189 , 90 € 🚛 from 🏷 Sold b …",
+            "created_at": "2021-07-18 01:03:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7766577145667053,
+                "negativity": 0.22334228543329387
+            },
+            "user_id": 1367087236450291717,
+            "text_translation": ""
+        },
+        {
             "id": 1416561644239429637,
             "text": "pavilion , Gaming , Nitro",
             "created_at": "2021-07-18 00:53:09",
@@ -1016,6 +1272,25 @@
                 "negativity": 0.6874999999999996
             },
             "user_id": 1283468854543310851,
+            "text_translation": ""
+        },
+        {
+            "id": 1416557136767823879,
+            "text": "🚨🚨 at IT 🇮🇹 💥 6800 Gaming 💸 2 . 080 , 41 € 🚛 from 🏷 Sold b …",
+            "created_at": "2021-07-18 00:35:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.91252851767355,
+                "negativity": 0.08747148232644936
+            },
+            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {

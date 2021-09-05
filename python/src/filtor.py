@@ -387,6 +387,9 @@ def filterCompanies():
         string =  json.dumps(towrite,indent=4,ensure_ascii=False).encode("utf8")
         file.write(string)
 
+def sortTweet(tweet):
+    date = dt.datetime.strptime(tweet.created_at,'%Y-%m-%d %H:%M:%S')
+    return date
 
 def Semantico(files,n):
     
@@ -423,7 +426,7 @@ def Semantico(files,n):
                 alltweets.append(tempo)
                 cpt +=1
         
-        
+        alltweets.sort(key=sortTweet,reverse=False)
         chunk_m['query'] = os.path.basename(chunk[0]).split('-')[0]
         chunk_m['start'] = alltweets[0].created_at
         chunk_m['end'] = alltweets[len(alltweets)-1].created_at
@@ -441,7 +444,7 @@ def chunkyboy(path):
     #! going throught phones
     try:
         for folder in chinks:
-            towrite = Semantico(folder['files'],30)
+            towrite = Semantico(folder['files'],250)
             
             for w in towrite:
                 fname = "{0}-{1}--{2}.json".format(folder['name'],str(w['start'])[0:10],str(w['end'])[0:10])
@@ -455,17 +458,17 @@ def chunkyboy(path):
 
 #!main method
 if __name__ == '__main__':
-#    filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path2,"laptops")
-    filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path2,"companies")
-    filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path2,"smartphones")
-
+    #filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path2,"laptops")
+    #filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path2,"companies")
+    #filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path2,"smartphones")
+#
     filter(os.getcwd()+'/python/corp/assets/smartphones.txt',data_path3,"smartphones")
     filter(os.getcwd()+'/python/corp/assets/laptops.txt',data_path3,"laptops")
     filter(os.getcwd()+'/python/corp/assets/companies.txt',data_path3,"companies")
- 
-    filterPhones()
-    filterLaptops()
-    filterCompanies()
+ #
+    #filterPhones()
+    #filterLaptops()
+    #filterCompanies()
     chunkyboy(laptops)
     chunkyboy(companies)
     chunkyboy(phones)

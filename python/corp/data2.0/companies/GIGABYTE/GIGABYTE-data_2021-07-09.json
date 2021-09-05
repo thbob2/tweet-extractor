@@ -1,22 +1,25 @@
 {
     "tweets": [
         {
-            "id": 1413646903997259779,
-            "text": "Surprisingly great monitor ! List Price $ 369 . 99 With Deal :$ 329 . 99 100daysOfCode …",
-            "created_at": "2021-07-09 23:51:00",
-            "retweet_count": 4,
-            "favorite_count": 1,
+            "id": 1413647678886408195,
+            "text": "Tune in this for my 12th build , 1st build . Here it is : Cooler master TD500 I9 - 11900K Ga …",
+            "created_at": "2021-07-09 23:54:05",
+            "retweet_count": 0,
+            "favorite_count": 8,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
-            "label": "positive",
+            "mention": [
+                "i9",
+                "Build"
+            ],
+            "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.969610766112307,
-                "negativity": 0.030389233887691828
+                "positivity": 0.9795052168157644,
+                "negativity": 0.02049478318423343
             },
-            "user_id": 336590824,
+            "user_id": 1392310460884557825,
             "text_translation": ""
         },
         {
@@ -55,48 +58,6 @@
                 "negativity": 0.36078309509011763
             },
             "user_id": 1360770482556051457,
-            "text_translation": ""
-        },
-        {
-            "id": 1413643482334433280,
-            "text": "​. de : 3090 Gaming 24GB GDDR6X 🔗 💸 € 1 , 917 . 78 as of …",
-            "created_at": "2021-07-09 23:37:25",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1329697243524444160,
-            "text_translation": ""
-        },
-        {
-            "id": 1413637911254380547,
-            "text": "​. es : Technology - N3090AORUSX W - 24GD 3090 🔗 💸 € 1 , 934 . 20 …",
-            "created_at": "2021-07-09 23:15:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6250000000000001,
-                "negativity": 0.375
-            },
-            "user_id": 1329697243524444160,
             "text_translation": ""
         },
         {
@@ -216,69 +177,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413625446219005956,
-            "text": "( ES ): Technology - N3090AORUSX W - 24GD 3090 24G 24 …",
-            "created_at": "2021-07-09 22:25:44",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6250000000000001,
-                "negativity": 0.375
-            },
-            "user_id": 1343689985447354369,
-            "text_translation": ""
-        },
-        {
-            "id": 1413623510698713096,
-            "text": "( DE ): 3090 Gaming 24GB GDDR6X Price : € 1917 . 78 as …",
-            "created_at": "2021-07-09 22:18:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8720930232558143,
-                "negativity": 0.12790697674418597
-            },
-            "user_id": 1343689985447354369,
-            "text_translation": ""
-        },
-        {
-            "id": 1413623137686724616,
-            "text": "​. : 3070 Ti Vision Carte 8 Go 🔗 💸 € 823 . 53 as of 🕒…",
-            "created_at": "2021-07-09 22:16:34",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4090909090909088,
-                "negativity": 0.5909090909090915
-            },
-            "user_id": 1314575666130694144,
-            "text_translation": ""
-        },
-        {
             "id": 1413622497036152833,
             "text": ": I am in ownership of a spare core i9 9900k AND master z390 i am willing to sell at non . …",
             "created_at": "2021-07-09 22:14:01",
@@ -361,27 +259,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413613481782296576,
-            "text": "ad 3080 Gaming 10GB GDDR6X ... Stock from \" Out of Stock \" t …",
-            "created_at": "2021-07-09 21:38:12",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7456553995661598,
-                "negativity": 0.25434460043384
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
             "id": 1413606141012152320,
             "text": "ce gay",
             "created_at": "2021-07-09 21:09:02",
@@ -417,25 +294,6 @@
                 "negativity": 0.6290256709389682
             },
             "user_id": 34495867,
-            "text_translation": ""
-        },
-        {
-            "id": 1413599789279764482,
-            "text": "How a is made : Inside the factory in WATCH VIDEO & ;& ;",
-            "created_at": "2021-07-09 20:43:47",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5814132801023455,
-                "negativity": 0.4185867198976538
-            },
-            "user_id": 1387585443387019265,
             "text_translation": ""
         },
         {
@@ -519,69 +377,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413591683866955780,
-            "text": "3060 Gaming 12G ( REV2 . 0 ) Graphics Card , 3X , 12GB 19 …",
-            "created_at": "2021-07-09 20:11:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7378048780487805,
-                "negativity": 0.26219512195121947
-            },
-            "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413591680826191876,
-            "text": "3060 Gaming Rev 2 . 0 Graphics Card 12GB 192 - bit GDDR6 Express 4 …",
-            "created_at": "2021-07-09 20:11:34",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9621100527257702,
-                "negativity": 0.03788994727422788
-            },
-            "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413590440847155202,
-            "text": "( ) Technology - N3090AORUSX W - 24GD 3090 24G 24 …",
-            "created_at": "2021-07-09 20:06:38",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6250000000000001,
-                "negativity": 0.375
-            },
-            "user_id": 1330246927686971405,
-            "text_translation": ""
-        },
-        {
             "id": 1413589364479823880,
             "text": "[ ] - ( ): - N306TEAGLE - 8GD 2 . 0 - € 904 . 9",
             "created_at": "2021-07-09 20:02:22",
@@ -638,25 +433,6 @@
                 "negativity": 0.6249999999999998
             },
             "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
-            "id": 1413581409294426116,
-            "text": "🚨🚨 at IT 🇮🇹 💥 6700 Eagle 💸 999 , 85 € 🚛 from 🏷 Sold by …",
-            "created_at": "2021-07-09 19:30:45",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.12211186773320629,
-                "negativity": 0.8778881322667927
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -835,6 +611,28 @@
             "text_translation": ""
         },
         {
+            "id": 1413570270288359425,
+            "text": "My new that I built on stream w / 🤩🌺 SPECS : Case corsair 220t Processor 5600x g …",
+            "created_at": "2021-07-09 18:46:29",
+            "retweet_count": 0,
+            "favorite_count": 20,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs",
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.280457653886834,
+                "negativity": 0.7195423461131667
+            },
+            "user_id": 1873494595,
+            "text_translation": ""
+        },
+        {
             "id": 1413570207226994690,
             "text": "chao I think the future competition that and will bring with satellite , will …",
             "created_at": "2021-07-09 18:46:14",
@@ -870,25 +668,6 @@
                 "negativity": 0.3275590138626959
             },
             "user_id": 3040811027,
-            "text_translation": ""
-        },
-        {
-            "id": 1413564580157067265,
-            "text": "​. . : 6700 GAMING 12GB Graphics Card 🔗 💸 £ 749 . 99 as of 🕒 1 …",
-            "created_at": "2021-07-09 18:23:53",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7378048780487805,
-                "negativity": 0.26219512195121947
-            },
-            "user_id": 1346887159656144896,
             "text_translation": ""
         },
         {
@@ -970,46 +749,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413560289035968518,
-            "text": "[ - ( ): 3080 GAMING 10GB GDDR6X Graphics Card , - N …",
-            "created_at": "2021-07-09 18:06:50",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7378048780487805,
-                "negativity": 0.26219512195121947
-            },
-            "user_id": 1381623467771068416,
-            "text_translation": ""
-        },
-        {
-            "id": 1413558902856290317,
-            "text": "DE Nice !",
-            "created_at": "2021-07-09 18:01:19",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5462962962962964,
-                "negativity": 0.45370370370370355
-            },
-            "user_id": 1349131329137504256,
-            "text_translation": ""
-        },
-        {
             "id": 1413554133274144781,
             "text": "[ 🇩🇪] 3080 Ti Gaming 12GB Graphics Card 💵 € 1599 . 99 🕙 2021 - 07 - 09 17 : 4 …",
             "created_at": "2021-07-09 17:42:22",
@@ -1047,27 +786,6 @@
                 "negativity": 0.8204352673403027
             },
             "user_id": 265197376,
-            "text_translation": ""
-        },
-        {
-            "id": 1413552262731948035,
-            "text": "( ): 3070 Ti Vision Carte 8 Go Price : € 823 . 53 as …",
-            "created_at": "2021-07-09 17:34:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.48561151079136683,
-                "negativity": 0.5143884892086332
-            },
-            "user_id": 1343689985447354369,
             "text_translation": ""
         },
         {
@@ -1169,27 +887,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413545693399158786,
-            "text": "🤟 DROP !! 🤟 3090 GAMING 24GB GDDR6X Graphics Card Price :£ 1 , 827 . 08 Site :…",
-            "created_at": "2021-07-09 17:08:50",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7909773153675583,
-                "negativity": 0.2090226846324402
-            },
-            "user_id": 1379697321613615105,
-            "text_translation": ""
-        },
-        {
             "id": 1413545463765217283,
             "text": "3080 10GB GDDR6X Graphics Card by £ 1 , 560 . 16",
             "created_at": "2021-07-09 17:07:55",
@@ -1208,63 +905,6 @@
                 "negativity": 0.6398809523809523
             },
             "user_id": 1263771738976006148,
-            "text_translation": ""
-        },
-        {
-            "id": 1413544610488586243,
-            "text": ": Don ' t miss out on this opportunity to win big with ZA and Enter the draw to win an awesome Gaming over …",
-            "created_at": "2021-07-09 17:04:32",
-            "retweet_count": 6,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9477441105071313,
-                "negativity": 0.052255889492867684
-            },
-            "user_id": 1409429963925827584,
-            "text_translation": ""
-        },
-        {
-            "id": 1413544420092350469,
-            "text": "ad RTX3090 24GB GDDR6X 3xHDM ... Stock from \" Now \" to \" …",
-            "created_at": "2021-07-09 17:03:46",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3892792156284089,
-                "negativity": 0.6107207843715909
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
-            "id": 1413544018387013638,
-            "text": "ad RTX3090 24GB GDDR6X 3xHDM ... Stock from \" \"…",
-            "created_at": "2021-07-09 17:02:11",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.38579892871036287,
-                "negativity": 0.6142010712896371
-            },
-            "user_id": 1307601967607410688,
             "text_translation": ""
         },
         {
@@ -1306,48 +946,6 @@
                 "negativity": 0.504341432672783
             },
             "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413537597591277573,
-            "text": "​. de : 3080 Ti Vision , 12 🔗 💸 € 1 , 492 . 41 as of 🕒…",
-            "created_at": "2021-07-09 16:36:40",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6750000000000002,
-                "negativity": 0.32500000000000007
-            },
-            "user_id": 1314575666130694144,
-            "text_translation": ""
-        },
-        {
-            "id": 1413537521879879691,
-            "text": "( DE ): 3080 Ti Vision , 12 Price : € 1492 . 41 as o …",
-            "created_at": "2021-07-09 16:36:22",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.739051094890511,
-                "negativity": 0.26094890510948887
-            },
-            "user_id": 1343689985447354369,
             "text_translation": ""
         },
         {
@@ -1636,27 +1234,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413516932670709766,
-            "text": ": 2060 SUPER 8GB GDDR6 E rtx2060 geforce2060 Source : Search Re …",
-            "created_at": "2021-07-09 15:14:33",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "8GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6562492024195401,
-                "negativity": 0.3437507975804599
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
             "id": 1413515146463350791,
             "text": "3070 GAMING 8GB V2 Graphics Card 🔗 £ 899 . 99 as of 16 : 07 : 26",
             "created_at": "2021-07-09 15:07:27",
@@ -1695,27 +1272,6 @@
                 "negativity": 0.3275590138626959
             },
             "user_id": 1049113209461006337,
-            "text_translation": ""
-        },
-        {
-            "id": 1413510063763820553,
-            "text": ": It is complete . Actual 🔥! Specs : : 3950x 16cores 3 . 5 : 3080 TI Vision ( white ) : N7 B5 …",
-            "created_at": "2021-07-09 14:47:15",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6956248255353231,
-                "negativity": 0.3043751744646769
-            },
-            "user_id": 887233188828897280,
             "text_translation": ""
         },
         {
@@ -1815,27 +1371,6 @@
                 "negativity": 0.0744855314234778
             },
             "user_id": 986006558,
-            "text_translation": ""
-        },
-        {
-            "id": 1413499214835949569,
-            "text": "🤟 DROP !! 🤟 3090 24GB Graphics Card Price :£ 2 , 167 . 60 Site :…",
-            "created_at": "2021-07-09 14:04:09",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6942365269461082,
-                "negativity": 0.30576347305389073
-            },
-            "user_id": 1379697321613615105,
             "text_translation": ""
         },
         {
@@ -2045,27 +1580,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413487258628333572,
-            "text": "New stock alert : 3090 24GB is back at for £ 2 , 199 . 99 on …",
-            "created_at": "2021-07-09 13:16:38",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.31830082086218414,
-                "negativity": 0.6816991791378153
-            },
-            "user_id": 1363266858053472256,
-            "text_translation": ""
-        },
-        {
             "id": 1413487254748770306,
             "text": "New stock alert : 3090 is back at for £ 2 , 199 . 99 o …",
             "created_at": "2021-07-09 13:16:37",
@@ -2087,27 +1601,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413486101495386113,
-            "text": ": Divider 300 1050w pf1 Z590 Pro AX 11900K 3070 Gaming MX1 Plus PR32 …",
-            "created_at": "2021-07-09 13:12:02",
-            "retweet_count": 10,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9350664223545585,
-                "negativity": 0.06493357764544207
-            },
-            "user_id": 1586727434,
-            "text_translation": ""
-        },
-        {
             "id": 1413485896746233862,
             "text": "BIG SUR  • • i9 - 9900K • 5700 • UHD630 • Z390 MASTER",
             "created_at": "2021-07-09 13:11:13",
@@ -2126,48 +1619,6 @@
                 "negativity": 0.17923488484236139
             },
             "user_id": 414069162,
-            "text_translation": ""
-        },
-        {
-            "id": 1413484780956491779,
-            "text": "ad 3090 24GB Gra ... Stock from \" Now \" to \" …",
-            "created_at": "2021-07-09 13:06:47",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3892792156284089,
-                "negativity": 0.6107207843715909
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
-            "id": 1413483636905623552,
-            "text": "ad 3090 24GB Gra ... Stock from \" \"…",
-            "created_at": "2021-07-09 13:02:14",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.38579892871036287,
-                "negativity": 0.6142010712896371
-            },
-            "user_id": 1307601967607410688,
             "text_translation": ""
         },
         {
@@ -2206,27 +1657,6 @@
                 "negativity": 0.8395123428622319
             },
             "user_id": 1386017878953107456,
-            "text_translation": ""
-        },
-        {
-            "id": 1413481304050454535,
-            "text": "Who a $ 99 . 00 6800xt ? New 6800 GAMING 16GB | on",
-            "created_at": "2021-07-09 12:52:58",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "16GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8546216776638205,
-                "negativity": 0.1453783223361796
-            },
-            "user_id": 4224477385,
             "text_translation": ""
         },
         {
@@ -2270,25 +1700,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413472358053007360,
-            "text": "Buy ' G32QC A ( 32 \" 165Hz 1440P Curved Gaming Monitor , 2560 x 1440 1500R Display , 1ms ( …",
-            "created_at": "2021-07-09 12:17:25",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9773748825976103,
-                "negativity": 0.022625117402388262
-            },
-            "user_id": 1090498878938406913,
-            "text_translation": ""
-        },
-        {
             "id": 1413470277032308742,
             "text": "Finally Gold Level on membership at their official Still a long way …",
             "created_at": "2021-07-09 12:09:09",
@@ -2305,27 +1716,6 @@
                 "negativity": 0.5254168082834947
             },
             "user_id": 1395779500097642501,
-            "text_translation": ""
-        },
-        {
-            "id": 1413466668349726720,
-            "text": "🚨🚨 at 🇫🇷 💥 3080 Gaming 🚛 from 🏷 Sold by 👉…",
-            "created_at": "2021-07-09 11:54:49",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.91252851767355,
-                "negativity": 0.08747148232644936
-            },
-            "user_id": 1367087236450291717,
             "text_translation": ""
         },
         {
@@ -2369,25 +1759,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413465985286242312,
-            "text": "[ ] : 100 - 1000 , , , , SOCKET 1150 , 1151 , 1155 , A GRADE , MAKE OFFER …",
-            "created_at": "2021-07-09 11:52:06",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2883622846821039,
-                "negativity": 0.711637715317897
-            },
-            "user_id": 92962780,
-            "text_translation": ""
-        },
-        {
             "id": 1413465006264356872,
             "text": "Meanwhile in . DE",
             "created_at": "2021-07-09 11:48:13",
@@ -2426,27 +1797,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413459970113167369,
-            "text": "[ SUCCESS ] BIG SUR  • i9 - 9900K • 5700 • UHD630 • Z390 MASTER 💙 :…",
-            "created_at": "2021-07-09 11:28:12",
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i9"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8671829561564689,
-                "negativity": 0.13281704384353046
-            },
-            "user_id": 1252199551995465731,
-            "text_translation": ""
-        },
-        {
             "id": 1413458479218446347,
             "text": "Can get a monitor 4k 144hz for £ 600 . I have one its really good .",
             "created_at": "2021-07-09 11:22:16",
@@ -2463,25 +1813,6 @@
                 "negativity": 0.09811143656725693
             },
             "user_id": 1092225451836272640,
-            "text_translation": ""
-        },
-        {
-            "id": 1413456985186398217,
-            "text": "ZA : 💚 The green one or the red one ? ❤️ …",
-            "created_at": "2021-07-09 11:16:20",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5410280859468678,
-                "negativity": 0.4589719140531318
-            },
-            "user_id": 1342900586933608448,
             "text_translation": ""
         },
         {
@@ -2605,25 +1936,6 @@
                 "negativity": 0.12691182689596853
             },
             "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413434782508146690,
-            "text": "💚 The green one or the red one ? ❤️ …",
-            "created_at": "2021-07-09 09:48:07",
-            "retweet_count": 1,
-            "favorite_count": 30,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5410280859468678,
-                "negativity": 0.4589719140531318
-            },
-            "user_id": 1019087184144490496,
             "text_translation": ""
         },
         {
@@ -2789,27 +2101,6 @@
                 "negativity": 0.6398809523809523
             },
             "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413422017253158914,
-            "text": "New stock alert : 3080 10GB GDDR6X Ampere Graphics Card is back …",
-            "created_at": "2021-07-09 08:57:23",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.20638754647574542,
-                "negativity": 0.7936124535242545
-            },
-            "user_id": 1363266858053472256,
             "text_translation": ""
         },
         {
@@ -3041,28 +2332,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413386793110708224,
-            "text": "3070 Ti Gaming 8G Graphics Card , 3X Cooling System , 8GB …",
-            "created_at": "2021-07-09 06:37:25",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.809149011717362,
-                "negativity": 0.19085098828263677
-            },
-            "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
             "id": 1413380731728850945,
             "text": "Clear : [ ] G32QC 32 \" 165Hz Curved Monitor $ 336 . 75 ( after Waiver ) @ Case Ge …",
             "created_at": "2021-07-09 06:13:20",
@@ -3138,28 +2407,6 @@
                 "negativity": 0.4209513479261272
             },
             "user_id": 48975858,
-            "text_translation": ""
-        },
-        {
-            "id": 1413362754895888386,
-            "text": "™ 3070 Master 8GB ( ... Stock from \" IN STORE \" to \" NONE \"…",
-            "created_at": "2021-07-09 05:01:54",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.39376228287023557,
-                "negativity": 0.6062377171297646
-            },
-            "user_id": 1307601967607410688,
             "text_translation": ""
         },
         {
@@ -3285,25 +2532,6 @@
                 "negativity": 0.3984729178513867
             },
             "user_id": 171855996,
-            "text_translation": ""
-        },
-        {
-            "id": 1413343867588460545,
-            "text": "How a is made : Inside the factory in WATCH VIDEO -& ;",
-            "created_at": "2021-07-09 03:46:51",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5814132801023455,
-                "negativity": 0.4185867198976538
-            },
-            "user_id": 1387585443387019265,
             "text_translation": ""
         },
         {
@@ -3448,65 +2676,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413316892450869248,
-            "text": "6700 GAMING 12GB Graphics Card 🔗 £ 749 . 99 as of 02 : 59 : 39",
-            "created_at": "2021-07-09 01:59:39",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7378048780487805,
-                "negativity": 0.26219512195121947
-            },
-            "user_id": 1399248443110006785,
-            "text_translation": ""
-        },
-        {
-            "id": 1413315208630738944,
-            "text": ": 3090 VISION 24GB Video Card - N3090 rtx3090 geforce3090 Source : Search Reason : …",
-            "created_at": "2021-07-09 01:52:58",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6610007436096008,
-                "negativity": 0.33899925639039946
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
-            "id": 1413315207951265792,
-            "text": ": Z590 ( Z590 ) rtx3090 geforce3090 Source : Search Reason :…",
-            "created_at": "2021-07-09 01:52:58",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6516368072434078,
-                "negativity": 0.3483631927565925
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
             "id": 1413312700952809472,
             "text": "3090 GAMING 24GB GDDR6X Graphics Card 🔗 £ 1 , 928 . 98 as of 02 : 43 : 00",
             "created_at": "2021-07-09 01:43:00",
@@ -3647,25 +2816,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413304574748860417,
-            "text": "Z590 PRO AX 1200 Z590 rtx3070Ti geforce3070Ti Source : Search Result …",
-            "created_at": "2021-07-09 01:10:43",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8176782543690977,
-                "negativity": 0.1823217456309021
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
             "id": 1413304574610395144,
             "text": "B550 PRO AM4 B550 with rtx3070 geforce3070 Source : Search Re …",
             "created_at": "2021-07-09 01:10:43",
@@ -3699,150 +2849,6 @@
                 "classification": "pos",
                 "positivity": 0.8040068411361835,
                 "negativity": 0.19599315886381655
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1413304564758065152,
-            "text": "3090 VISION 24GB Video Card - N3090 rtx3090 geforce3090 Source : Search Re …",
-            "created_at": "2021-07-09 01:10:40",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7596501508114063,
-                "negativity": 0.24034984918859445
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
-            "id": 1413304550979776512,
-            "text": "3090 24G Gra rtx3090 geforce3090 Source : Search Re …",
-            "created_at": "2021-07-09 01:10:37",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7519887305270136,
-                "negativity": 0.2480112694729861
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
-            "id": 1413304550891704323,
-            "text": "3090 VISION 24GB Video Card , - N309 rtx3090 geforce3090 Source : Search Re …",
-            "created_at": "2021-07-09 01:10:37",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7596501508114063,
-                "negativity": 0.24034984918859445
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
-            "id": 1413304547104133121,
-            "text": "Z490 MASTER 1200 Z490 rtx3080Ti geforce3080Ti Source : Search Result …",
-            "created_at": "2021-07-09 01:10:36",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8526949694121512,
-                "negativity": 0.14730503058784933
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
-            "id": 1413304546101760002,
-            "text": "X570 ULTRA 3000 4 . 0 6Gb / s rtx3080Ti geforce3080Ti Source : Search Result …",
-            "created_at": "2021-07-09 01:10:36",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.21991332369779312,
-                "negativity": 0.7800866763022068
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1413302618160566273,
-            "text": "3070 Ti 8GB GDDR6X Express 4 . rtx3070Ti geforce3070Ti Source : Search Result …",
-            "created_at": "2021-07-09 01:02:56",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7891444285008905,
-                "negativity": 0.21085557149911052
-            },
-            "user_id": 1342919737358110720,
-            "text_translation": ""
-        },
-        {
-            "id": 1413302248801722368,
-            "text": "3090 24GB Video Card , - N Source : Search Reason : = true …",
-            "created_at": "2021-07-09 01:01:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6393007759084793,
-                "negativity": 0.3606992240915207
             },
             "user_id": 1342919737358110720,
             "text_translation": ""

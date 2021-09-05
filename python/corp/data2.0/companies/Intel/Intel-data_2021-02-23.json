@@ -1,44 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1364364402280046593,
-            "text": ": Are we just not going to talk about the fact Police Chief said he had that was part of the …",
-            "created_at": "2021-02-23 23:59:56",
-            "retweet_count": 14582,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.32353005068474494,
-                "negativity": 0.676469949315256
-            },
-            "user_id": 1347401340545355777,
-            "text_translation": ""
-        },
-        {
-            "id": 1364360525858041858,
-            "text": ": What we ' re doing tomorrow : Moving forward on COVID relief Voting to Confirm : — - @ UN — @ Con …",
-            "created_at": "2021-02-23 23:44:32",
-            "retweet_count": 1925,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.28963861136833624,
-                "negativity": 0.7103613886316653
-            },
-            "user_id": 1475869219,
-            "text_translation": ""
-        },
-        {
             "id": 1364355273498984452,
             "text": ": I just spoke to - his company was first to identify the likely hack on i …",
             "created_at": "2021-02-23 23:23:40",
@@ -169,7 +131,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.5435543878998916,
-                "negativity": 0.4564456121001089
+                "negativity": 0.456445612100109
             },
             "user_id": 1144620986660216833,
             "text_translation": ""
@@ -210,25 +172,6 @@
                 "negativity": 0.6470516253525955
             },
             "user_id": 1364332567084810247,
-            "text_translation": ""
-        },
-        {
-            "id": 1364335238982348801,
-            "text": ": Wait I turned the news off ... are they going with the lie that no one was informed of the endless ? Or are they going …",
-            "created_at": "2021-02-23 22:04:03",
-            "retweet_count": 123,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2083141277304972,
-                "negativity": 0.7916858722695052
-            },
-            "user_id": 27684504,
             "text_translation": ""
         },
         {
@@ -346,25 +289,6 @@
             "text_translation": ""
         },
         {
-            "id": 1364320549988663307,
-            "text": ": The is joining , and several other major media and tech in a new initiative meant to c …",
-            "created_at": "2021-02-23 21:05:41",
-            "retweet_count": 99,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9067531940710553,
-                "negativity": 0.09324680592894458
-            },
-            "user_id": 184975034,
-            "text_translation": ""
-        },
-        {
             "id": 1364319119722631186,
             "text": "Its DDR5 - 4800 & ; Up To 128 Memory For Alder Lake & ; 600 Series …",
             "created_at": "2021-02-23 21:00:00",
@@ -440,25 +364,6 @@
                 "negativity": 0.28296103547014584
             },
             "user_id": 2563832206,
-            "text_translation": ""
-        },
-        {
-            "id": 1364306762514497540,
-            "text": ": Rick : Why is the National Guard still here in ? cannot provide any of current to the Ca …",
-            "created_at": "2021-02-23 20:10:54",
-            "retweet_count": 383,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.41650114019112044,
-                "negativity": 0.5834988598088783
-            },
-            "user_id": 2600706698,
             "text_translation": ""
         },
         {
@@ -975,25 +880,6 @@
                 "negativity": 0.31889019594568485
             },
             "user_id": 431935801,
-            "text_translation": ""
-        },
-        {
-            "id": 1364263492002447371,
-            "text": ": , and say they never received a . 5 report that of for \" war \" o …",
-            "created_at": "2021-02-23 17:18:57",
-            "retweet_count": 409,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7143801434192958,
-                "negativity": 0.28561985658070543
-            },
-            "user_id": 3403943357,
             "text_translation": ""
         },
         {
@@ -1659,6 +1545,25 @@
                 "negativity": 0.5035627941855058
             },
             "user_id": 830532933983178753,
+            "text_translation": ""
+        },
+        {
+            "id": 1364139769723121667,
+            "text": "Which ?",
+            "created_at": "2021-02-23 09:07:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5105980317940955,
+                "negativity": 0.48940196820590465
+            },
+            "user_id": 108974926,
             "text_translation": ""
         },
         {

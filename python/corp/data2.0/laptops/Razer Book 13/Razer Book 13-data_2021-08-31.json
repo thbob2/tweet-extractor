@@ -1,0 +1,103 @@
+{
+    "tweets": [
+        {
+            "id": 1432827300341501952,
+            "text": "Save $ 160 off of this 13 . 4inch Razer Book 13 ( Core i7 / 16GB RAM / 256GB / Chroma ) & ; get it for $ 1 , 440 .…",
+            "created_at": "2021-08-31 22:07:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3161178137562602,
+                "negativity": 0.6838821862437422
+            },
+            "user_id": 316282893,
+            "text_translation": ""
+        },
+        {
+            "id": 1432798094580764680,
+            "text": "Razer Book 13 , Galaxy Book Pro and more are on sale today",
+            "created_at": "2021-08-31 20:11:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9447651093017574,
+                "negativity": 0.05523489069824297
+            },
+            "user_id": 1334621655130320897,
+            "text_translation": ""
+        },
+        {
+            "id": 1432770717561524231,
+            "text": "Score the second - best price yet on Razer ’ s new Book 13 with Thunderbolt 4 at $ 160 off",
+            "created_at": "2021-08-31 18:22:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9562312282421119,
+                "negativity": 0.04376877175788791
+            },
+            "user_id": 14989736,
+            "text_translation": ""
+        },
+        {
+            "id": 1432767828457893889,
+            "text": "Score the second - best price yet on Razer ' s new Book 13 with Thunderbolt 4 at $ 160 off by",
+            "created_at": "2021-08-31 18:10:44",
+            "retweet_count": 0,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9562312282421119,
+                "negativity": 0.04376877175788791
+            },
+            "user_id": 42980370,
+            "text_translation": ""
+        },
+        {
+            "id": 1432694252656545803,
+            "text": "Check out this - Razer Book 13 - Ultra Light for on the Go with 1 for £ 956 . 26 …",
+            "created_at": "2021-08-31 13:18:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.493127903481972,
+                "negativity": 0.506872096518027
+            },
+            "user_id": 858636167184560129,
+            "text_translation": ""
+        }
+    ]
+}

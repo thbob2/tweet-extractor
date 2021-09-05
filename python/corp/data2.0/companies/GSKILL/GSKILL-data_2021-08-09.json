@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1424816039116877833,
+            "text": "Cause it does make sense , cause I switch back to my corsair ram and no . Did bios , d …",
+            "created_at": "2021-08-09 19:33:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.04476906861683975,
+                "negativity": 0.9552309313831628
+            },
+            "user_id": 1347560649187057664,
+            "text_translation": ""
+        },
+        {
             "id": 1424815860741517312,
             "text": "You have a , 8 core , and ram at 3200 ?",
             "created_at": "2021-08-09 19:32:27",

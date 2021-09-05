@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1424156840112365572,
+            "text": "Edge S Pro Goes Official With 144Hz Display , Triple Rear",
+            "created_at": "2021-08-07 23:53:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2186913265487794,
+                "negativity": 0.7813086734512185
+            },
+            "user_id": 497814309,
+            "text_translation": ""
+        },
+        {
             "id": 1424143172771385352,
             "text": "Edge 20 series launch",
             "created_at": "2021-08-07 22:59:26",
@@ -133,6 +152,25 @@
                 "negativity": 0.45511733081702704
             },
             "user_id": 1209110887031697408,
+            "text_translation": ""
+        },
+        {
+            "id": 1424090227593957377,
+            "text": ": Upcoming in August / Galaxy Z Fold 3 & ; Z Flip 3 Honor Magic 3 Flash / Master …",
+            "created_at": "2021-08-07 19:29:03",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8961769639875711,
+                "negativity": 0.10382303601243077
+            },
+            "user_id": 1032174734727933952,
             "text_translation": ""
         },
         {
@@ -568,6 +606,25 @@
             "text_translation": ""
         },
         {
+            "id": 1423999576793571328,
+            "text": "Edge S Pro is official , it is a Edge 20 Pro",
+            "created_at": "2021-08-07 13:28:50",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6088441197732383,
+                "negativity": 0.39115588022676273
+            },
+            "user_id": 45084950,
+            "text_translation": ""
+        },
+        {
             "id": 1423997209301848069,
             "text": "G100 is not coming to . You ca …",
             "created_at": "2021-08-07 13:19:25",
@@ -739,6 +796,25 @@
             "text_translation": ""
         },
         {
+            "id": 1423969543303561218,
+            "text": ": Edge 20 & ; in 🇮🇳 next month . - 6 . 7 \" + 120hz display - Snapdragon 778G …",
+            "created_at": "2021-08-07 11:29:29",
+            "retweet_count": 47,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6395978636142452,
+                "negativity": 0.36040213638575386
+            },
+            "user_id": 1297161897964220417,
+            "text_translation": ""
+        },
+        {
             "id": 1423959535773908997,
             "text": "edge s pro , the very thin and light Snapdragon 870 flagship . Although the native system is not as …",
             "created_at": "2021-08-07 10:49:43",
@@ -757,25 +833,6 @@
                 "negativity": 0.07458591648869983
             },
             "user_id": 874296719374266368,
-            "text_translation": ""
-        },
-        {
-            "id": 1423956191693074433,
-            "text": ": It ’ s been just over a year since we got our on the Edge +, a tool that we as “ beauty nearly to a fa …",
-            "created_at": "2021-08-07 10:36:26",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9491570955333487,
-                "negativity": 0.05084290446665141
-            },
-            "user_id": 1295344565419991047,
             "text_translation": ""
         },
         {
@@ -1282,6 +1339,27 @@
                 "negativity": 0.3457138156982155
             },
             "user_id": 30393902,
+            "text_translation": ""
+        },
+        {
+            "id": 1423830724805804032,
+            "text": "$ 370 Edge S Pro with Snapdragon 870 chip and 108MP camera",
+            "created_at": "2021-08-07 02:17:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.901505851382717,
+                "negativity": 0.09849414861728449
+            },
+            "user_id": 139897409,
             "text_translation": ""
         }
     ]

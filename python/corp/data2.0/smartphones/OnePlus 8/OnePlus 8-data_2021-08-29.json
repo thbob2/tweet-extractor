@@ -1,22 +1,24 @@
 {
     "tweets": [
         {
-            "id": 1432111675231059975,
-            "text": "I know there are other that are probably better , but left the best impression with me .…",
-            "created_at": "2021-08-29 22:43:25",
+            "id": 1432129002081185793,
+            "text": "motivation For 8 9 5T 6T 7 7T Pro Case Original Liquid Silicone Soft Phone Cover For One plus 5 6 7 8 …",
+            "created_at": "2021-08-29 23:52:16",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "positive",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4187380184582982,
-                "negativity": 0.581261981541702
+                "positivity": 0.05832004823914742,
+                "negativity": 0.9416799517608526
             },
-            "user_id": 2571611215,
+            "user_id": 1235695675175821312,
             "text_translation": ""
         },
         {
@@ -169,25 +171,6 @@
                 "negativity": 0.75
             },
             "user_id": 1382041309150552064,
-            "text_translation": ""
-        },
-        {
-            "id": 1432015925960749056,
-            "text": "Gully Squad Day2 | 12 & ; 8T Giveaway | Today 8 : 00 ... via",
-            "created_at": "2021-08-29 16:22:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.25416101044679285,
-                "negativity": 0.745838989553208
-            },
-            "user_id": 1343616394802438146,
             "text_translation": ""
         },
         {
@@ -429,6 +412,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431839783920173056,
+            "text": "163 . 8 ( 65 ) U Series 4K LED Smart Android 65U1S ( Black ) ( 2021 Model ) by via",
+            "created_at": "2021-08-29 04:43:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8630686074473075,
+                "negativity": 0.1369313925526927
+            },
+            "user_id": 457591575,
+            "text_translation": ""
+        },
+        {
             "id": 1431825056921837577,
             "text": "IN Stop 90hz and .. screen on time is more than 8 in my ce",
             "created_at": "2021-08-29 03:44:30",
@@ -487,25 +489,6 @@
                 "negativity": 0.5648080597736321
             },
             "user_id": 1429718436515500032,
-            "text_translation": ""
-        },
-        {
-            "id": 1431801244775956487,
-            "text": "with C - Type for 6 6T 7 7T 7Pro 8 8T 8 Pro ( Earphone ) by …",
-            "created_at": "2021-08-29 02:09:52",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5849809713633282,
-                "negativity": 0.4150190286366712
-            },
-            "user_id": 457591575,
             "text_translation": ""
         }
     ]

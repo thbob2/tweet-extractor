@@ -117,6 +117,25 @@
             "text_translation": ""
         },
         {
+            "id": 1420796703993733124,
+            "text": ": You know how some have a compartment and a tablet compartment ? The 13 in the tablet compartment …",
+            "created_at": "2021-07-29 17:21:46",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07148577938152043,
+                "negativity": 0.9285142206184807
+            },
+            "user_id": 11312652,
+            "text_translation": ""
+        },
+        {
             "id": 1420788019330785283,
             "text": ": Trying out a new - C battery with a diagnostic display : the for a Dell 13 it at 40W , the one for an Apple …",
             "created_at": "2021-07-29 16:47:15",
@@ -152,25 +171,6 @@
                 "negativity": 0.11074413101896555
             },
             "user_id": 1912663848,
-            "text_translation": ""
-        },
-        {
-            "id": 1420774440237899789,
-            "text": "DELL 13",
-            "created_at": "2021-07-29 15:53:17",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.75,
-                "negativity": 0.2499999999999997
-            },
-            "user_id": 1174655190168825856,
             "text_translation": ""
         },
         {
@@ -216,6 +216,29 @@
             "text_translation": ""
         },
         {
+            "id": 1420746149959389189,
+            "text": "Dell 13 9350 i7 6500U 2 . 5GHz 8GB RAM 512GB Win 10 Missing Battery electronics ad",
+            "created_at": "2021-07-29 14:00:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07931034482758617,
+                "negativity": 0.920689655172412
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
             "id": 1420743497108185092,
             "text": "Dell 13 9380 8th Gen i7 - 8565u 4K 256GB 8GB RAM electronics ad",
             "created_at": "2021-07-29 13:50:20",
@@ -239,29 +262,6 @@
             "text_translation": ""
         },
         {
-            "id": 1420743491081043973,
-            "text": "Dell 13 9380 8th Gen i7 - 8665u 4K 256GB 16GB RAM Missing Mouse No Bat electronics ad",
-            "created_at": "2021-07-29 13:50:19",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM",
-                "16GB"
-            ],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.19684298099658443,
-                "negativity": 0.8031570190034133
-            },
-            "user_id": 336556251,
-            "text_translation": ""
-        },
-        {
             "id": 1420743484990840840,
             "text": "Dell 13 9380 8th Gen i7 - 8665u 4K 256GB 16GB RAM - Cracked Screen electronics ad",
             "created_at": "2021-07-29 13:50:17",
@@ -280,29 +280,6 @@
                 "classification": "neg",
                 "positivity": 0.16951272734654077,
                 "negativity": 0.8304872726534568
-            },
-            "user_id": 336556251,
-            "text_translation": ""
-        },
-        {
-            "id": 1420743478854623247,
-            "text": "Dell 13 9380 8th Gen i7 - 8665u 4K 256GB 16GB RAM - Blotch electronics ad",
-            "created_at": "2021-07-29 13:50:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM",
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.14062499999999964,
-                "negativity": 0.8593749999999991
             },
             "user_id": 336556251,
             "text_translation": ""
@@ -402,6 +379,25 @@
                 "negativity": 0.008866806749527402
             },
             "user_id": 381338243,
+            "text_translation": ""
+        },
+        {
+            "id": 1420579597331042307,
+            "text": ": Every business is on a journey . Dell are here with the right tech , like the 13 , so yo …",
+            "created_at": "2021-07-29 02:59:03",
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9009544711914494,
+                "negativity": 0.09904552880855069
+            },
+            "user_id": 1390071297275621379,
             "text_translation": ""
         },
         {

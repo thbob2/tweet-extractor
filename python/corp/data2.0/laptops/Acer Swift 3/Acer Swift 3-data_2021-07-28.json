@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1420527030312001538,
-            "text": "The Swift 3 2020 edition ultra - thin Available in 13 . 5 - and 14 - inch , t …",
-            "created_at": "2021-07-28 23:30:10",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.16526781301045637,
-                "negativity": 0.834732186989545
-            },
-            "user_id": 864339338,
-            "text_translation": ""
-        },
-        {
             "id": 1420438095418200065,
             "text": "In the month of May I swift 3 from reliance digital , after two …",
             "created_at": "2021-07-28 17:36:47",
@@ -76,6 +57,29 @@
                 "negativity": 0.883562773060753
             },
             "user_id": 39030678,
+            "text_translation": ""
+        },
+        {
+            "id": 1420197732766060549,
+            "text": "Swift 3 SF314 - 59 14 inch - ( Core i7 - 1165G7 , 8GB RAM , 512GB , Full Display , 10 , …",
+            "created_at": "2021-07-28 01:41:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.058972521051934255,
+                "negativity": 0.9410274789480655
+            },
+            "user_id": 356034482,
             "text_translation": ""
         }
     ]

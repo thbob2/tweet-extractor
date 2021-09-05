@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1424513012078100483,
-            "text": ": ai analytics tech data …",
-            "created_at": "2021-08-08 23:29:02",
-            "retweet_count": 5,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4342672413793102,
-                "negativity": 0.5657327586206902
-            },
-            "user_id": 22824243,
-            "text_translation": ""
-        },
-        {
             "id": 1424513011495149574,
             "text": "[ Update ] Dell 13 9310 Review : analytics",
             "created_at": "2021-08-08 23:29:02",
@@ -191,6 +172,27 @@
                 "negativity": 0.009894712983140467
             },
             "user_id": 1335969517764218880,
+            "text_translation": ""
+        },
+        {
+            "id": 1424382457382678528,
+            "text": "Dell 13 ( 13 . 3 \") 7390 Notebook Core i5 10th Gen electronics ad",
+            "created_at": "2021-08-08 14:50:16",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19426751592356561,
+                "negativity": 0.8057324840764317
+            },
+            "user_id": 336556251,
             "text_translation": ""
         },
         {

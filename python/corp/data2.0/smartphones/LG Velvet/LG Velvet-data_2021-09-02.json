@@ -1,0 +1,82 @@
+{
+    "tweets": [
+        {
+            "id": 1433517518614929411,
+            "text": "My Note 20 Ultra screen broke . The module for repair is not in stock in , so will take at …",
+            "created_at": "2021-09-02 19:49:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5906826218375453,
+                "negativity": 0.40931737816245656
+            },
+            "user_id": 186602898,
+            "text_translation": ""
+        },
+        {
+            "id": 1433476007697297415,
+            "text": ": red velvet seeing eric in a pizza boy outfit backstage on :",
+            "created_at": "2021-09-02 17:04:47",
+            "retweet_count": 1487,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5747959665238765,
+                "negativity": 0.42520403347612235
+            },
+            "user_id": 1004489874374881283,
+            "text_translation": ""
+        },
+        {
+            "id": 1433399536739753995,
+            "text": "How do I use this image as wallpaper on my Velvet phone ??",
+            "created_at": "2021-09-02 12:00:55",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4929478400752508,
+                "negativity": 0.5070521599247497
+            },
+            "user_id": 28946543,
+            "text_translation": ""
+        },
+        {
+            "id": 1433244141400506369,
+            "text": "I ' m debating between this and the Note 10 Pro as my new daily driver . I ' m switching from an …",
+            "created_at": "2021-09-02 01:43:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9372369023676455,
+                "negativity": 0.06276309763235342
+            },
+            "user_id": 850460811625627648,
+            "text_translation": ""
+        }
+    ]
+}

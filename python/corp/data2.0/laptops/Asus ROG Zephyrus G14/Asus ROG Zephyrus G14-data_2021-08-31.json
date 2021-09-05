@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1432772314194591747,
+            "text": ": Besides the fact that ROG Zephyrus G14 is a really cool and compact gaming , it also a unique feature .…",
+            "created_at": "2021-08-31 18:28:33",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9496976179735346,
+                "negativity": 0.0503023820264666
+            },
+            "user_id": 1406181412777066500,
+            "text_translation": ""
+        },
+        {
+            "id": 1432768112982695940,
+            "text": "Besides the fact that ROG Zephyrus G14 is a really cool and compact gaming , it also a unique fe …",
+            "created_at": "2021-08-31 18:11:52",
+            "retweet_count": 2,
+            "favorite_count": 27,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9415781396951268,
+                "negativity": 0.05842186030487476
+            },
+            "user_id": 207120515,
+            "text_translation": ""
+        },
+        {
+            "id": 1432754860319903746,
+            "text": "( ) ROG Zephyrus G14 ( 2021 ), 14 \" ( 35 . 56 ) 144Hz , 7 5800HS , 3060 6GB Graphics , Gaming La …",
+            "created_at": "2021-08-31 17:19:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7857142857142865,
+                "negativity": 0.21428571428571433
+            },
+            "user_id": 1432747413710663681,
+            "text_translation": ""
+        },
+        {
+            "id": 1432679252529352705,
+            "text": ": The ROG Zephyrus G14 Alan Walker SE Is a Fun , Unique Gaming",
+            "created_at": "2021-08-31 12:18:46",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8684482955421259,
+                "negativity": 0.13155170445787334
+            },
+            "user_id": 345329030,
+            "text_translation": ""
+        },
+        {
+            "id": 1432674897080188935,
+            "text": "The ROG Zephyrus G14 Alan Walker SE Is a Fun , Unique Gaming",
+            "created_at": "2021-08-31 12:01:27",
+            "retweet_count": 3,
+            "favorite_count": 10,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8684482955421259,
+                "negativity": 0.13155170445787334
+            },
+            "user_id": 1040991639605407744,
+            "text_translation": ""
+        }
+    ]
+}

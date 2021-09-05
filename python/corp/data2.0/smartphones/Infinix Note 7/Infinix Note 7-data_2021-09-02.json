@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1433469104946565129,
+            "text": "042 This year just 1 , last time it was in 2019 , note 5 .. .. x5 , red …",
+            "created_at": "2021-09-02 16:37:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5443835225226907,
+                "negativity": 0.4556164774773089
+            },
+            "user_id": 1266943629278535681,
+            "text_translation": ""
+        },
+        {
+            "id": 1433314406264303618,
+            "text": "Will Note 7 get Android 11 update or not ?? And if Note 7 will be avail …",
+            "created_at": "2021-09-02 06:22:38",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13704438964442384,
+                "negativity": 0.8629556103555772
+            },
+            "user_id": 1400270709964767235,
+            "text_translation": ""
+        },
+        {
+            "id": 1433310946110414857,
+            "text": "same here note 7 lite 🤣🤣🤣",
+            "created_at": "2021-09-02 06:08:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4939339879468144,
+                "negativity": 0.5060660120531856
+            },
+            "user_id": 1337654558458310656,
+            "text_translation": ""
+        }
+    ]
+}

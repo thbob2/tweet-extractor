@@ -1,6 +1,50 @@
 {
     "tweets": [
         {
+            "id": 1427547381533454336,
+            "text": ": AERO 15 Gaming - 9th Gen i7 - HUGE SPECS Auction Gaming …",
+            "created_at": "2021-08-17 08:26:32",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7186681373224865,
+                "negativity": 0.28133186267751253
+            },
+            "user_id": 1333467666980409353,
+            "text_translation": ""
+        },
+        {
+            "id": 1427547000644513800,
+            "text": "AERO 15 Gaming - 9th Gen i7 - HUGE SPECS Auction Gaming …",
+            "created_at": "2021-08-17 08:25:02",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7186681373224865,
+                "negativity": 0.28133186267751253
+            },
+            "user_id": 307605293,
+            "text_translation": ""
+        },
+        {
             "id": 1427469125862006784,
             "text": "aero 15 + vive cosmos ; my selection criteria are a bit weird so if i would give …",
             "created_at": "2021-08-17 03:15:35",

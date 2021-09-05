@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432601247106809857,
+            "text": "zero 8 release date and release date and note 8 & ; 8i launch …",
+            "created_at": "2021-08-31 07:08:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5570920415843909,
+                "negativity": 0.44290795841560876
+            },
+            "user_id": 1409409447106023424,
+            "text_translation": ""
+        },
+        {
+            "id": 1432596753266536452,
+            "text": "hot 10 , hot 10 play , note 7 , zero 8i android 11 update sir ?🙏",
+            "created_at": "2021-08-31 06:50:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.33479166595225845,
+                "negativity": 0.6652083340477395
+            },
+            "user_id": 1401188589195513860,
+            "text_translation": ""
+        },
+        {
+            "id": 1432595888711475202,
+            "text": "Sir hot 10 , note 7 , hot 10 play 11 rolling out soon ?",
+            "created_at": "2021-08-31 06:47:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.654787427895826,
+                "negativity": 0.34521257210417394
+            },
+            "user_id": 1401188589195513860,
+            "text_translation": ""
+        }
+    ]
+}

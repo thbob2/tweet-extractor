@@ -52,7 +52,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.4142779734489296,
-                "negativity": 0.5857220265510702
+                "negativity": 0.5857220265510703
             },
             "user_id": 962738704702943233,
             "text_translation": ""
@@ -230,7 +230,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.42231317541592994,
-                "negativity": 0.5776868245840693
+                "negativity": 0.5776868245840692
             },
             "user_id": 2587312142,
             "text_translation": ""
@@ -446,6 +446,25 @@
                 "negativity": 0.2310126582278477
             },
             "user_id": 1286516463843438592,
+            "text_translation": ""
+        },
+        {
+            "id": 1376005520243429376,
+            "text": "dell ?",
+            "created_at": "2021-03-28 02:57:35",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 4861923646,
             "text_translation": ""
         },
         {

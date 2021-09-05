@@ -1,0 +1,127 @@
+{
+    "tweets": [
+        {
+            "id": 1432659986258087950,
+            "text": "a15 fa506ic WHO ?",
+            "created_at": "2021-08-31 11:02:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5059999999999999,
+                "negativity": 0.494
+            },
+            "user_id": 4677163453,
+            "text_translation": ""
+        },
+        {
+            "id": 1432617280005820419,
+            "text": "sho these two are the only option right now A15 Gaming 3",
+            "created_at": "2021-08-31 08:12:30",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8826280791639781,
+                "negativity": 0.11737192083602054
+            },
+            "user_id": 967641175623528448,
+            "text_translation": ""
+        },
+        {
+            "id": 1432570763165323273,
+            "text": "₹ 61 , 990 . Gaming F15 15 . 6 \" ( 39 . 62 ) 144Hz , Core i5 - 10300H 10th Gen , 1650 4 …",
+            "created_at": "2021-08-31 05:07:40",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5465949820788532,
+                "negativity": 0.4534050179211472
+            },
+            "user_id": 1307849715145347073,
+            "text_translation": ""
+        },
+        {
+            "id": 1432546762737139715,
+            "text": "₹ 96 , 596 /- Dash F15 ( 2021 ), 15 . 6 \" ( 39 . 62 ) 144Hz , Core i5 - 11300H 11th Gen , 3050 Ti 4GB G …",
+            "created_at": "2021-08-31 03:32:18",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2217561521252789,
+                "negativity": 0.7782438478747218
+            },
+            "user_id": 1307849715145347073,
+            "text_translation": ""
+        },
+        {
+            "id": 1432546543416975361,
+            "text": "₹ 64 , 990 ( ) Gaming A15 15 . 6 \" 144Hz 5 4600H , 1650 4GB Graphics ( 8GB RAM / 512GB N …",
+            "created_at": "2021-08-31 03:31:26",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42307692307692324,
+                "negativity": 0.5769230769230764
+            },
+            "user_id": 1307849715145347073,
+            "text_translation": ""
+        },
+        {
+            "id": 1432505064493621252,
+            "text": "I bought the a15 - 7 4800h , 16g ram , 1tb , rtx2060",
+            "created_at": "2021-08-31 00:46:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.25343591275769317,
+                "negativity": 0.7465640872423066
+            },
+            "user_id": 482459328,
+            "text_translation": ""
+        }
+    ]
+}

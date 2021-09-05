@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1433118929451372545,
+            "text": "T Kirk G9 : 3",
+            "created_at": "2021-09-01 17:25:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5312500000000006,
+                "negativity": 0.4687499999999998
+            },
+            "user_id": 114059814,
+            "text_translation": ""
+        },
+        {
+            "id": 1432972921211920388,
+            "text": "1951 Matchless G9 , 500cc , running restoration project with V5C £ 1300 . 00 currently 16 400 Mo …",
+            "created_at": "2021-09-01 07:45:42",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5363070163541694,
+                "negativity": 0.4636929836458292
+            },
+            "user_id": 1392773699825197062,
+            "text_translation": ""
+        },
+        {
+            "id": 1432967682886815744,
+            "text": "love Case For G9 Power Leather Wallet Flip Cover Vintage Magnet Phone Case For G9 Power Coque …",
+            "created_at": "2021-09-01 07:24:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.14417517667500035,
+                "negativity": 0.8558248233249989
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        }
+    ]
+}

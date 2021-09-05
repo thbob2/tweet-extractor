@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1433812992668340244,
+            "text": ": Row The Third | ( 1650 Super / 1050 Ti / Swift 3 )",
+            "created_at": "2021-09-03 15:23:51",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17647185196799958,
+                "negativity": 0.8235281480320019
+            },
+            "user_id": 877943843429208064,
+            "text_translation": ""
+        },
+        {
+            "id": 1433762461635600387,
+            "text": "Super Hot Deal ! Get it for only $ 724 . 99 ! Compare : ($ 879 . 99 ) | ($ 894 . 99 )",
+            "created_at": "2021-09-03 12:03:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5309308543386626,
+                "negativity": 0.4690691456613374
+            },
+            "user_id": 40199130,
+            "text_translation": ""
+        },
+        {
+            "id": 1433717179405512704,
+            "text": "4 why I LOVE the insanely powerful Swift 3 ( ) | SF314 - 43 - R9GU",
+            "created_at": "2021-09-03 09:03:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3627941304643239,
+                "negativity": 0.637205869535677
+            },
+            "user_id": 2548212710,
+            "text_translation": ""
+        },
+        {
+            "id": 1433699202954055692,
+            "text": "{ Disarmed } Swift 3 , review : a lightweight that the 7 5700U",
+            "created_at": "2021-09-03 07:51:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.12439016794596744,
+                "negativity": 0.8756098320540329
+            },
+            "user_id": 75009915,
+            "text_translation": ""
+        }
+    ]
+}

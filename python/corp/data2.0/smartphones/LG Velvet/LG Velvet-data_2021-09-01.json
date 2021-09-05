@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432999313928560644,
+            "text": "The Velvet a little ahead Considering all these , it is not foolish to think that the G7 …",
+            "created_at": "2021-09-01 09:30:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3793558945094633,
+                "negativity": 0.6206441054905357
+            },
+            "user_id": 1249194189759406080,
+            "text_translation": ""
+        },
+        {
+            "id": 1432911020905750529,
+            "text": "And I am waiting for the A11 update for my Velvet .. when will you release it ?",
+            "created_at": "2021-09-01 03:39:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.32960152965309486,
+                "negativity": 0.6703984703469045
+            },
+            "user_id": 950306376173023232,
+            "text_translation": ""
+        }
+    ]
+}

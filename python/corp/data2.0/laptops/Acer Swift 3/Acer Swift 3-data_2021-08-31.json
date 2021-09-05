@@ -1,0 +1,105 @@
+{
+    "tweets": [
+        {
+            "id": 1432764454089805826,
+            "text": "swift 3 ???",
+            "created_at": "2021-08-31 17:57:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.27777777777777785,
+                "negativity": 0.7222222222222221
+            },
+            "user_id": 1017785925223399424,
+            "text_translation": ""
+        },
+        {
+            "id": 1432733148400529411,
+            "text": "- Swift 3 13 \" Full Display Ultra Thin and Light Notebook ( i5 - 11th Gen / 8 …",
+            "created_at": "2021-08-31 15:52:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.06958946384215563,
+                "negativity": 0.9304105361578422
+            },
+            "user_id": 790431424700493824,
+            "text_translation": ""
+        },
+        {
+            "id": 1432720239846952963,
+            "text": "Singh Swift 3 a lot of good from ( I ordered one myself but can ’ t comment since …",
+            "created_at": "2021-08-31 15:01:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5462700981277933,
+                "negativity": 0.4537299018722075
+            },
+            "user_id": 2332663296,
+            "text_translation": ""
+        },
+        {
+            "id": 1432702506220539905,
+            "text": "- Swift 3 SF313 - 52 13 . 5 - inch ( 34 . 29 ) ( 10th Gen Core i5 - 1035G4 process …",
+            "created_at": "2021-08-31 13:51:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.17601569713758122,
+                "negativity": 0.8239843028624183
+            },
+            "user_id": 790431424700493824,
+            "text_translation": ""
+        },
+        {
+            "id": 1432649524795826176,
+            "text": "Swift 3 Thin & ; Light , 13 . 5 ″ 2256 x 1504 , Core i7 - 1165G7 , Iris Graphics , 8G …",
+            "created_at": "2021-08-31 10:20:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6304754469885036,
+                "negativity": 0.3695245530114949
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        }
+    ]
+}

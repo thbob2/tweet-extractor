@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1414011319280455680,
-            "text": ": .’ s Ssu - Chia Cheng it ! Enter for a chance to win a Swift3 : 🏌️‍♀‍ Follow 🏌️‍♀‍ & ; reply to …",
-            "created_at": "2021-07-10 23:59:04",
-            "retweet_count": 517,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3755101334026781,
-                "negativity": 0.6244898665973204
-            },
-            "user_id": 113505151,
-            "text_translation": ""
-        },
-        {
             "id": 1414002282367225857,
             "text": ": If it were an there ' d be an argument to be made but yes . are class of the creative …",
             "created_at": "2021-07-10 23:23:09",
@@ -39,22 +20,25 @@
             "text_translation": ""
         },
         {
-            "id": 1414001969056952320,
-            "text": "Swift 5 - The Lightweight King",
-            "created_at": "2021-07-10 23:21:54",
-            "retweet_count": 0,
+            "id": 1414001273347715072,
+            "text": ": The Golden Aspect Ratio : With its 16 : 10 display , the divine of the ConceptD5 mean its screen width is 1 . 6 …",
+            "created_at": "2021-07-10 23:19:09",
+            "retweet_count": 6,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
-            "label": "neutral",
+            "mention": [
+                "width",
+                "Screen"
+            ],
+            "label": "negative",
             "note": {
-                "classification": "neg",
-                "positivity": 0.17612931276551438,
-                "negativity": 0.8238706872344852
+                "classification": "pos",
+                "positivity": 0.9733799651661915,
+                "negativity": 0.02662003483380612
             },
-            "user_id": 1082828700,
+            "user_id": 3406150275,
             "text_translation": ""
         },
         {
@@ -74,25 +58,6 @@
                 "negativity": 0.5239043824701194
             },
             "user_id": 11511,
-            "text_translation": ""
-        },
-        {
-            "id": 1413999859191877636,
-            "text": "Nice 😎",
-            "created_at": "2021-07-10 23:13:31",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5462962962962964,
-                "negativity": 0.45370370370370355
-            },
-            "user_id": 973179563843846144,
             "text_translation": ""
         },
         {
@@ -350,25 +315,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413990303007010819,
-            "text": "your weekend with this week ’ s best tech",
-            "created_at": "2021-07-10 22:35:33",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5854998755205439,
-                "negativity": 0.41450012447945633
-            },
-            "user_id": 3709137917,
-            "text_translation": ""
-        },
-        {
             "id": 1413989621864697860,
             "text": "no literally",
             "created_at": "2021-07-10 22:32:51",
@@ -483,25 +429,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413983886342774787,
-            "text": "🌍 Welcome to our world 🌍 Aspire 15 . 6 \" 5742 Genuine Keyboard PK130C93A07 - ALC0U * - by on sale …",
-            "created_at": "2021-07-10 22:10:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.841415170129017,
-                "negativity": 0.15858482987098205
-            },
-            "user_id": 1371749996899536901,
-            "text_translation": ""
-        },
-        {
             "id": 1413983132768890882,
             "text": "just over US $ 1 billion in revenue over 1 month news tech",
             "created_at": "2021-07-10 22:07:04",
@@ -540,28 +467,6 @@
                 "negativity": 0.21659087816412215
             },
             "user_id": 801900606910844928,
-            "text_translation": ""
-        },
-        {
-            "id": 1413981505840467974,
-            "text": ": Aspire 15 anti - scratch A4 9th gen 1terabyte hard drive + 256 solid start drive 4gigabyte pc4 ram 15 . 6 led screen …",
-            "created_at": "2021-07-10 22:00:36",
-            "retweet_count": 56,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "RAM",
-                "Screen"
-            ],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5966013824429953,
-                "negativity": 0.4033986175570052
-            },
-            "user_id": 810129719567990784,
             "text_translation": ""
         },
         {
@@ -657,6 +562,25 @@
                 "negativity": 0.4034610132768865
             },
             "user_id": 778284816617705472,
+            "text_translation": ""
+        },
+        {
+            "id": 1413978843086532610,
+            "text": "Diagnose starting , measure achievement and monitor growth with PAT Adaptive : innovative new student …",
+            "created_at": "2021-07-10 21:50:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9849409533845336,
+                "negativity": 0.015059046615464365
+            },
+            "user_id": 82342846,
             "text_translation": ""
         },
         {
@@ -887,25 +811,6 @@
                 "negativity": 0.20866560340244575
             },
             "user_id": 1221379289121054721,
-            "text_translation": ""
-        },
-        {
-            "id": 1413966448607760386,
-            "text": "R13 2 in 1 64GB Silver Hardly used electronics ad",
-            "created_at": "2021-07-10 21:00:46",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3198722408449812,
-                "negativity": 0.6801277591550179
-            },
-            "user_id": 336556251,
             "text_translation": ""
         },
         {
@@ -1217,25 +1122,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413948706957807622,
-            "text": "aspire 3 15 . 6 electronics ad",
-            "created_at": "2021-07-10 19:50:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2499999999999994,
-                "negativity": 0.7500000000000009
-            },
-            "user_id": 336556251,
-            "text_translation": ""
-        },
-        {
             "id": 1413947707836837891,
             "text": "Just perfect after your stressful week ... enjoy ❤️❤️❤️ We ' re just enjoying the last of the evening …",
             "created_at": "2021-07-10 19:46:18",
@@ -1355,25 +1241,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413938812737269765,
-            "text": "The evidence before the is incontrovertible",
-            "created_at": "2021-07-10 19:10:57",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4509666414542361,
-                "negativity": 0.5490333585457635
-            },
-            "user_id": 1160702532370309120,
-            "text_translation": ""
-        },
-        {
             "id": 1413936757800853506,
             "text": "' s CRAZY - FINAL ANSWER",
             "created_at": "2021-07-10 19:02:47",
@@ -1387,7 +1254,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.4912351054078827,
-                "negativity": 0.508764894592117
+                "negativity": 0.5087648945921169
             },
             "user_id": 1168656219474747394,
             "text_translation": ""
@@ -1492,25 +1359,6 @@
                 "negativity": 0.3287562662787876
             },
             "user_id": 37907479,
-            "text_translation": ""
-        },
-        {
-            "id": 1413933622328012800,
-            "text": "Aspire E1 - 570 - Black - Complete with Box - Barely used electronics ad",
-            "created_at": "2021-07-10 18:50:19",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.13665683739800177,
-                "negativity": 0.8633431626019985
-            },
-            "user_id": 336556251,
             "text_translation": ""
         },
         {
@@ -1710,47 +1558,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413926201031340034,
-            "text": "Aspire 5 15 . 6 Full Display , 3 3200U , 3 Graphics , 16GB DDR4 RAM , 512GB ,…",
-            "created_at": "2021-07-10 18:20:50",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "RAM",
-                "16GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.10262744870080837,
-                "negativity": 0.8973725512991928
-            },
-            "user_id": 1387787832421462025,
-            "text_translation": ""
-        },
-        {
-            "id": 1413925571483086855,
-            "text": "Nice !",
-            "created_at": "2021-07-10 18:18:20",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5462962962962964,
-                "negativity": 0.45370370370370355
-            },
-            "user_id": 37565425,
-            "text_translation": ""
-        },
-        {
             "id": 1413924819159056386,
             "text": ": Tech Update : your weekend with this week ’ s best tech ... Let ' s Discuss ? …",
             "created_at": "2021-07-10 18:15:20",
@@ -1922,27 +1729,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413917495757467648,
-            "text": ": Swift 5 Review 🔥| Best For Casual Gaming 🚀| Core i7 11 ... I …",
-            "created_at": "2021-07-10 17:46:14",
-            "retweet_count": 19,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6945617741973525,
-                "negativity": 0.3054382258026471
-            },
-            "user_id": 1404675979990110211,
-            "text_translation": ""
-        },
-        {
             "id": 1413914507391295489,
             "text": ": 27 ” 1MS 144HZ Monitor Blue Microphone + Arm for it C922 1080P Streaming Ast …",
             "created_at": "2021-07-10 17:34:22",
@@ -2079,6 +1865,25 @@
             "text_translation": ""
         },
         {
+            "id": 1413907409119203336,
+            "text": ": Wet leaves . Ginkgo , Smilax . on Magnolia x ; nature …",
+            "created_at": "2021-07-10 17:06:10",
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6057153576788389,
+                "negativity": 0.39428464232116067
+            },
+            "user_id": 747207321776848896,
+            "text_translation": ""
+        },
+        {
             "id": 1413905811785482245,
             "text": "nitro 5 an515 - 43 is out of stock . when to expect it in market ?",
             "created_at": "2021-07-10 16:59:49",
@@ -2133,44 +1938,6 @@
                 "negativity": 0.025034264337282078
             },
             "user_id": 1133514959755784192,
-            "text_translation": ""
-        },
-        {
-            "id": 1413902156382359555,
-            "text": "Chrome Business |",
-            "created_at": "2021-07-10 16:45:17",
-            "retweet_count": 1,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5406249999999999,
-                "negativity": 0.4593749999999999
-            },
-            "user_id": 701671508,
-            "text_translation": ""
-        },
-        {
-            "id": 1413899603842371584,
-            "text": "I vote ( ) for",
-            "created_at": "2021-07-10 16:35:09",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.38481210376404995,
-                "negativity": 0.6151878962359496
-            },
-            "user_id": 1336889486991568898,
             "text_translation": ""
         },
         {
@@ -2311,25 +2078,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413891128559128576,
-            "text": ": P5530 – Full Beamer",
-            "created_at": "2021-07-10 16:01:28",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.49690402476780204,
-                "negativity": 0.5030959752321983
-            },
-            "user_id": 232943504,
-            "text_translation": ""
-        },
-        {
             "id": 1413891008501194753,
             "text": "cannot , outdated . Buy , or",
             "created_at": "2021-07-10 16:00:59",
@@ -2438,9 +2186,30 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.5696960156235304,
-                "negativity": 0.43030398437646833
+                "negativity": 0.4303039843764683
             },
             "user_id": 61608747,
+            "text_translation": ""
+        },
+        {
+            "id": 1413887378737930248,
+            "text": ": Disturb the ™ 3060 , 1TB Nitro50 at your peril .",
+            "created_at": "2021-07-10 15:46:34",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.46061020730500213,
+                "negativity": 0.5393897926949982
+            },
+            "user_id": 1301005676999782406,
             "text_translation": ""
         },
         {
@@ -3585,25 +3354,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413855326735015945,
-            "text": "Cool",
-            "created_at": "2021-07-10 13:39:12",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4525316455696202,
-                "negativity": 0.5474683544303799
-            },
-            "user_id": 602650680,
-            "text_translation": ""
-        },
-        {
             "id": 1413853860213391367,
             "text": "air and . 🐄",
             "created_at": "2021-07-10 13:33:23",
@@ -3775,44 +3525,6 @@
                 "negativity": 0.25992430910557784
             },
             "user_id": 1413460708944072704,
-            "text_translation": ""
-        },
-        {
-            "id": 1413850552383987713,
-            "text": "[ International ] for Nitro 5 An517 - 41 - R0RZ Gaming , 7 5800h ( 8 - Core )…",
-            "created_at": "2021-07-10 13:20:14",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.33576245015304335,
-                "negativity": 0.6642375498469568
-            },
-            "user_id": 2537060543,
-            "text_translation": ""
-        },
-        {
-            "id": 1413850538131722241,
-            "text": "[ International ] for Nitro 5 An517 - 41 - R0RZ Gaming , 7 5800h ( 8 - Cor …",
-            "created_at": "2021-07-10 13:20:11",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3637781117956007,
-                "negativity": 0.6362218882043984
-            },
-            "user_id": 913709582526111744,
             "text_translation": ""
         },
         {
@@ -4008,25 +3720,6 @@
                 "negativity": 0.2812264945093365
             },
             "user_id": 1158398306650750976,
-            "text_translation": ""
-        },
-        {
-            "id": 1413845607664467979,
-            "text": "Oh right . I found this & ; it really nice . What do you have ?",
-            "created_at": "2021-07-10 13:00:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5858208622034564,
-                "negativity": 0.4141791377965435
-            },
-            "user_id": 968790265044652032,
             "text_translation": ""
         },
         {
@@ -4841,11 +4534,11 @@
             "text_translation": ""
         },
         {
-            "id": 1413827324760494082,
-            "text": "Beautiful .",
-            "created_at": "2021-07-10 11:47:56",
-            "retweet_count": 0,
-            "favorite_count": 1,
+            "id": 1413827499478458370,
+            "text": ": Huge thanks to , King , , and for …",
+            "created_at": "2021-07-10 11:48:38",
+            "retweet_count": 3,
+            "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -4853,10 +4546,10 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6227678571428573,
-                "negativity": 0.37723214285714296
+                "positivity": 0.631043762933213,
+                "negativity": 0.3689562370667867
             },
-            "user_id": 539116569,
+            "user_id": 849587556,
             "text_translation": ""
         },
         {
@@ -5360,27 +5053,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413794001073983493,
-            "text": "Aspire 15 anti - scratch A4 9th gen 1terabyte hard drive + 256 solid start drive 4gigabyte pc4 ram 15 . 6 …",
-            "created_at": "2021-07-10 09:35:31",
-            "retweet_count": 56,
-            "favorite_count": 82,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "RAM"
-            ],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.46872352415038027,
-                "negativity": 0.5312764758496185
-            },
-            "user_id": 1301343387317145602,
-            "text_translation": ""
-        },
-        {
             "id": 1413793240273211392,
             "text": "IN247 : Check out True Wireless Stereo with 5 . 1v , Fast Charging & ; 8 . 0mm Driver , Voice Assistance , Type - C …",
             "created_at": "2021-07-10 09:32:30",
@@ -5598,25 +5270,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413787829566681088,
-            "text": "Mother , do you think they ' try to break ?",
-            "created_at": "2021-07-10 09:11:00",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6301121633890122,
-                "negativity": 0.36988783661098773
-            },
-            "user_id": 1160702532370309120,
-            "text_translation": ""
-        },
-        {
             "id": 1413787414255095808,
             "text": "Hi ! Sorry for the inconvenience . We request you to drop a mail at .",
             "created_at": "2021-07-10 09:09:21",
@@ -5652,25 +5305,6 @@
                 "negativity": 0.29287371289995323
             },
             "user_id": 1386193394242777091,
-            "text_translation": ""
-        },
-        {
-            "id": 1413786256841052164,
-            "text": "Do us for any further assistance . ^",
-            "created_at": "2021-07-10 09:04:45",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5221063490920291,
-                "negativity": 0.47789365090797137
-            },
-            "user_id": 99878596,
             "text_translation": ""
         },
         {
@@ -5914,6 +5548,25 @@
             "text_translation": ""
         },
         {
+            "id": 1413777395807567876,
+            "text": ": Let ’ s get wet ‘ n wild . with a waterproof fan and specialized drainage capability , you can bring the …",
+            "created_at": "2021-07-10 08:29:32",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.12143492606077519,
+                "negativity": 0.8785650739392261
+            },
+            "user_id": 36143299,
+            "text_translation": ""
+        },
+        {
             "id": 1413776971968958465,
             "text": "silk 🎁 FREE GIFT * on our ! 😀 ' s Bag Sleeve | bag",
             "created_at": "2021-07-10 08:27:51",
@@ -6011,6 +5664,27 @@
                 "negativity": 0.699536122888901
             },
             "user_id": 3015149567,
+            "text_translation": ""
+        },
+        {
+            "id": 1413772552778915843,
+            "text": ": Here is the review of Aspire 5 which is the best under 55k for . Powered By 11thGen Core i5 …",
+            "created_at": "2021-07-10 08:10:17",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3319542573669417,
+                "negativity": 0.6680457426330586
+            },
+            "user_id": 1040829680532639744,
             "text_translation": ""
         },
         {
@@ -6214,25 +5888,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413763121169133573,
-            "text": "swift 3",
-            "created_at": "2021-07-10 07:32:49",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.27777777777777785,
-                "negativity": 0.7222222222222221
-            },
-            "user_id": 1412305394853040128,
-            "text_translation": ""
-        },
-        {
             "id": 1413761684020158468,
             "text": "* me looking at Hello Future template * I don ' t mind anyone on Hello but please let me pull Mark on …",
             "created_at": "2021-07-10 07:27:06",
@@ -6394,6 +6049,25 @@
                 "negativity": 0.6484658282457729
             },
             "user_id": 319698202,
+            "text_translation": ""
+        },
+        {
+            "id": 1413743090649665537,
+            "text": ": is consulting on the to the Long Term Capacity Calculation Methodology for the Core region : 💻 of t …",
+            "created_at": "2021-07-10 06:13:13",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08712677462117739,
+                "negativity": 0.9128732253788208
+            },
+            "user_id": 238925013,
             "text_translation": ""
         },
         {
@@ -6760,44 +6434,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413712653592190979,
-            "text": "Hi ! Sorry for the inconvenience , we request you to share your machine serial number alo …",
-            "created_at": "2021-07-10 04:12:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8909586599872975,
-                "negativity": 0.10904134001270392
-            },
-            "user_id": 99878596,
-            "text_translation": ""
-        },
-        {
-            "id": 1413712258107125763,
-            "text": "Hi ! Sorry for the inconvenience , we request you to share your machine serial number along …",
-            "created_at": "2021-07-10 04:10:42",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.899394894351224,
-                "negativity": 0.10060510564877802
-            },
-            "user_id": 99878596,
-            "text_translation": ""
-        },
-        {
             "id": 1413708015996448772,
             "text": ": Discover the powerful performance and portability with up to 11th Gen ® Core ™ i7 processor , this light and thin …",
             "created_at": "2021-07-10 03:53:51",
@@ -6873,25 +6509,6 @@
                 "negativity": 0.4194619318155379
             },
             "user_id": 312863321,
-            "text_translation": ""
-        },
-        {
-            "id": 1413702987889872900,
-            "text": "Awesome",
-            "created_at": "2021-07-10 03:33:52",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7166666666666666,
-                "negativity": 0.28333333333333344
-            },
-            "user_id": 1256421528482136065,
             "text_translation": ""
         },
         {
@@ -7009,9 +6626,9 @@
             "text_translation": ""
         },
         {
-            "id": 1413698836770353152,
-            "text": "maybe",
-            "created_at": "2021-07-10 03:17:22",
+            "id": 1413698229623918593,
+            "text": "Name : Age : 31 Location : Occidental add : cindyrio123 . …",
+            "created_at": "2021-07-10 03:14:57",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -7021,10 +6638,10 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.3474264705882353,
-                "negativity": 0.6525735294117646
+                "positivity": 0.4331594877506394,
+                "negativity": 0.5668405122493603
             },
-            "user_id": 4542049154,
+            "user_id": 1413460708944072704,
             "text_translation": ""
         },
         {
@@ -7066,6 +6683,25 @@
                 "negativity": 0.5156478234149899
             },
             "user_id": 1411227597762039811,
+            "text_translation": ""
+        },
+        {
+            "id": 1413693518774669317,
+            "text": ": So this team from and ate",
+            "created_at": "2021-07-10 02:56:14",
+            "retweet_count": 35,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6085659979382041,
+                "negativity": 0.3914340020617958
+            },
+            "user_id": 4266647656,
             "text_translation": ""
         },
         {
@@ -7381,25 +7017,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413664386259030023,
-            "text": "2021 Pacific gaming campaign in partnership with , , , Dell and …",
-            "created_at": "2021-07-10 01:00:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9346678286298732,
-                "negativity": 0.06533217137012583
-            },
-            "user_id": 4486241533,
-            "text_translation": ""
-        },
-        {
             "id": 1413660522306736129,
             "text": "Black Stylus for the 9 | D 9 NEW",
             "created_at": "2021-07-10 00:45:07",
@@ -7495,25 +7112,6 @@
             "text_translation": ""
         },
         {
-            "id": 1413656691615358978,
-            "text": "( Aspire 5 Slim , 15 . 6 \") -",
-            "created_at": "2021-07-10 00:29:54",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6499999999999997,
-                "negativity": 0.34999999999999964
-            },
-            "user_id": 78649197,
-            "text_translation": ""
-        },
-        {
             "id": 1413656258347880448,
             "text": "- Spin 713 CP713 - 2W - 3311 , 13 . 5 \" 2K - Core i3 ... 195133028363 | …",
             "created_at": "2021-07-10 00:28:11",
@@ -7554,6 +7152,27 @@
             "text_translation": ""
         },
         {
+            "id": 1413654873367748608,
+            "text": ": Testing this amazing from 🔥 Powered by Core i7 processor 🤩 Video coming soon 😇…",
+            "created_at": "2021-07-10 00:22:40",
+            "retweet_count": 20,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21297102163075957,
+                "negativity": 0.7870289783692396
+            },
+            "user_id": 1365898011419664385,
+            "text_translation": ""
+        },
+        {
             "id": 1413654717411086336,
             "text": "so the verb \" do \" is and some people can write , , and its so horrible …",
             "created_at": "2021-07-10 00:22:03",
@@ -7589,6 +7208,28 @@
                 "negativity": 0.7922598399959037
             },
             "user_id": 1334701066491813888,
+            "text_translation": ""
+        },
+        {
+            "id": 1413653239145369627,
+            "text": "Predator Triton 300 SE Review ( i7 - 11375H + 3060 )",
+            "created_at": "2021-07-10 00:16:11",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5551985421062731,
+                "negativity": 0.4448014578937277
+            },
+            "user_id": 6076652,
             "text_translation": ""
         },
         {

@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1426690395333922818,
-            "text": "C Cable ,【 0 . 5M 】 Nylon Braided Type C Fast Charging Cable Compatible with Galaxy S10 S9 S8 A30 …",
-            "created_at": "2021-08-14 23:41:11",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.024536068889287027,
-                "negativity": 0.9754639311107132
-            },
-            "user_id": 1911670285,
-            "text_translation": ""
-        },
-        {
             "id": 1426683790961827846,
             "text": "Time for your tech news … style ! Weekly Tech Tussle . 3 ( 8 / 14 / 2021 ) - Apple Scanning Update , …",
             "created_at": "2021-08-14 23:14:56",
@@ -112,6 +93,27 @@
                 "negativity": 0.3574084514289234
             },
             "user_id": 1376929572285935621,
+            "text_translation": ""
+        },
+        {
+            "id": 1426575444606812161,
+            "text": ": like 2 sale specially the for the base variant are strong till now . 8 / 128gb Blue color is out of stock …",
+            "created_at": "2021-08-14 16:04:25",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Color"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9813144899914681,
+                "negativity": 0.018685510008532785
+            },
+            "user_id": 1284086767172255744,
             "text_translation": ""
         },
         {
@@ -305,44 +307,6 @@
             "text_translation": ""
         },
         {
-            "id": 1426528395987464196,
-            "text": "S20 fe , 8 8t",
-            "created_at": "2021-08-14 12:57:27",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 1015191785742749697,
-            "text_translation": ""
-        },
-        {
-            "id": 1426527609526050817,
-            "text": "8 & ; 8T , Galaxy S20 , Note 10 Pro & ; & ; & ; grad ?",
-            "created_at": "2021-08-14 12:54:20",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5094043057643047,
-                "negativity": 0.4905956942356952
-            },
-            "user_id": 1082678111282569222,
-            "text_translation": ""
-        },
-        {
             "id": 1426514226504470530,
             "text": ": | 6T ( 8 Go + 128 Go ) Midnight Black 🚫 ANTES : 579 . 00 € 🤑 : 184 . 61 € 👇👇👇…",
             "created_at": "2021-08-14 12:01:09",
@@ -435,44 +399,6 @@
                 "negativity": 0.6897259051107768
             },
             "user_id": 1540601756,
-            "text_translation": ""
-        },
-        {
-            "id": 1426504888205430784,
-            "text": "GB5 COMPUTE ( ) Name : Snapdragon 855 Identifier : ARM 65 architecture 8 variant 1 part 3396 r …",
-            "created_at": "2021-08-14 11:24:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9044656732582469,
-                "negativity": 0.09553432674175422
-            },
-            "user_id": 1281135823539314688,
-            "text_translation": ""
-        },
-        {
-            "id": 1426504047188660227,
-            "text": "on : GAME FOR PEACE 🥵 INSANE CAR | , 9R , 9 , 8T , 7T ,, 7 , 6T , 8 , N105G , N100 , , 5T ,",
-            "created_at": "2021-08-14 11:20:42",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.676550283812961,
-                "negativity": 0.3234497161870388
-            },
-            "user_id": 786918738213924865,
             "text_translation": ""
         },
         {
@@ -768,6 +694,27 @@
                 "negativity": 0.25943261255307504
             },
             "user_id": 3178258664,
+            "text_translation": ""
+        },
+        {
+            "id": 1426400690587451394,
+            "text": "9 comes with a camera , 8GB RAM for smooth performance and an ultra - fast charging feature . Shop f …",
+            "created_at": "2021-08-14 04:30:00",
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4163268347145116,
+                "negativity": 0.5836731652854894
+            },
+            "user_id": 168654282,
             "text_translation": ""
         },
         {

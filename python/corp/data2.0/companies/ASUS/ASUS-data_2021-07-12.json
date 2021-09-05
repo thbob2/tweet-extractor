@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1414736130977697794,
+            "text": "( US ) In Stock : ROG Strix 6700 - $ 929 . 99 Link : : As …",
+            "created_at": "2021-07-12 23:59:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.416932907348243,
+                "negativity": 0.5830670926517572
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
             "id": 1414736070873395204,
             "text": "ROG it be nice to have give me free",
             "created_at": "2021-07-12 23:58:58",
@@ -39,24 +58,22 @@
             "text_translation": ""
         },
         {
-            "id": 1414735661047943171,
-            "text": "( US ) In Stock : Gaming 3070 Ti - $ 949 . 99 : Link : As an …",
-            "created_at": "2021-07-12 23:57:20",
+            "id": 1414735684930318340,
+            "text": "Gaming A17 Gaming , 17 . 3 ” 120Hz Full - Type , 7 4800H , 1660 Ti - $ 1099 . 99 …",
+            "created_at": "2021-07-12 23:57:26",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
+            "mention": [],
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.7814371257485043,
-                "negativity": 0.21856287425149656
+                "positivity": 0.834712524782346,
+                "negativity": 0.16528747521765352
             },
-            "user_id": 499672969,
+            "user_id": 1409510462203572224,
             "text_translation": ""
         },
         {
@@ -76,25 +93,6 @@
                 "negativity": 0.5827504178872547
             },
             "user_id": 973934642033250305,
-            "text_translation": ""
-        },
-        {
-            "id": 1414735396483870721,
-            "text": "Gaming 6700 Edition Graphics Ca ... is now in stock . Product Page :…",
-            "created_at": "2021-07-12 23:56:17",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5836875917077058,
-                "negativity": 0.41631240829229216
-            },
-            "user_id": 1377519267143376898,
             "text_translation": ""
         },
         {
@@ -160,48 +158,22 @@
             "text_translation": ""
         },
         {
-            "id": 1414735025640181760,
-            "text": "KO 3070 Edition 8GB GDDR6 Gaming ... is now in stock . Product Page :…",
-            "created_at": "2021-07-12 23:54:49",
-            "retweet_count": 0,
+            "id": 1414735033567428608,
+            "text": ": 🔥⌨️ WIN ROG Wireless Compact Bundle 🖱️🔥 ' 21 🌞 and to celebrate we ' re giving away their brand new …",
+            "created_at": "2021-07-12 23:54:51",
+            "retweet_count": 370,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
+            "mention": [],
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6565787611138016,
-                "negativity": 0.3434212388861978
+                "positivity": 0.7610530624705877,
+                "negativity": 0.23894693752941343
             },
-            "user_id": 1377519267143376898,
-            "text_translation": ""
-        },
-        {
-            "id": 1414734987648249864,
-            "text": "RESTOCK !! KO 3070 Edition 8GB GDDR6 Gaming Graphics Card ( 4 . 0 , 8GB GDDR6 Memory , H …",
-            "created_at": "2021-07-12 23:54:40",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB",
-                "Memory"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9363421695202715,
-                "negativity": 0.06365783047972737
-            },
-            "user_id": 1697691840,
+            "user_id": 98028700,
             "text_translation": ""
         },
         {
@@ -302,28 +274,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414734139820068868,
-            "text": "KO 3070 Edition 8GB GDDR6 Gaming rtx3070 geforce3070 Source : Checker v3Z …",
-            "created_at": "2021-07-12 23:51:18",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.967182497331911,
-                "negativity": 0.03281750266808962
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
             "id": 1414734037717970952,
             "text": "ROG New house = new setup + new",
             "created_at": "2021-07-12 23:50:53",
@@ -343,29 +293,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414733977450164235,
-            "text": "RESTOCK !! KO 3070 Edition 8GB GDDR6 Gaming Graphics Card ( 4 . 0 , 8GB GDDR6 Memory ,…",
-            "created_at": "2021-07-12 23:50:39",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB",
-                "Memory"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9363421695202715,
-                "negativity": 0.06365783047972737
-            },
-            "user_id": 1697691840,
-            "text_translation": ""
-        },
-        {
             "id": 1414733597005606913,
             "text": ": 🦋 well , this drawing ’ t make it the of the art contest but i to share it with you …",
             "created_at": "2021-07-12 23:49:08",
@@ -382,49 +309,6 @@
                 "negativity": 0.09459286157116827
             },
             "user_id": 1341584189678788608,
-            "text_translation": ""
-        },
-        {
-            "id": 1414733371360505861,
-            "text": ": My budget mid range I built living in Japan . Specs : Case - H510 - 5 3600 - B450 Steel L …",
-            "created_at": "2021-07-12 23:48:14",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8923355896214452,
-                "negativity": 0.10766441037855365
-            },
-            "user_id": 1037175499896774656,
-            "text_translation": ""
-        },
-        {
-            "id": 1414733176673644547,
-            "text": "🚨🚨 RESTOCK KO 3070 Edition 8GB GDDR6 Gaming Graphics Card ( 4 . 0 , 8GB GDDR6 …",
-            "created_at": "2021-07-12 23:47:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 1372047693455880192,
             "text_translation": ""
         },
         {
@@ -468,27 +352,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414732538229166081,
-            "text": "[$ 729 . 99 ]: KO 3070 rtx3070 rtx3000 ⏰ 18 : 44 : 55",
-            "created_at": "2021-07-12 23:44:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 1360770482556051457,
-            "text_translation": ""
-        },
-        {
             "id": 1414732471778824197,
             "text": "3070 KO is now available on US Link : monitor …",
             "created_at": "2021-07-12 23:44:40",
@@ -507,27 +370,6 @@
                 "negativity": 0.06787375681745264
             },
             "user_id": 1388860173968715776,
-            "text_translation": ""
-        },
-        {
-            "id": 1414732466955374593,
-            "text": "3070 KO in stock at retail at ! ad RTX3070 RTX3070TI",
-            "created_at": "2021-07-12 23:44:39",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2700000000000002,
-                "negativity": 0.7299999999999999
-            },
-            "user_id": 1315379833644306432,
             "text_translation": ""
         },
         {
@@ -729,25 +571,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414730482403659779,
-            "text": "ROG Strix 6700 Edition Gaming Graph ... is now in stock . Product Page :…",
-            "created_at": "2021-07-12 23:36:46",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.38923537305087524,
-                "negativity": 0.6107646269491229
-            },
-            "user_id": 1377519267143376898,
-            "text_translation": ""
-        },
-        {
             "id": 1414730276006150147,
             "text": "ROG My first build was when i was 7yrs old my uncle had his old and he told me if i want it and i said …",
             "created_at": "2021-07-12 23:35:56",
@@ -826,25 +649,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414728987973148672,
-            "text": "Goodness , the 4k Graph card is a beast & ; the Essence sound card with Burr - Brown driving my Cyrus …",
-            "created_at": "2021-07-12 23:30:49",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6285312310369486,
-                "negativity": 0.3714687689630515
-            },
-            "user_id": 741025932,
-            "text_translation": ""
-        },
-        {
             "id": 1414728913008439298,
             "text": "📽️ New video is out ! Call of Duty : Black Cold War 3070 1080 / 1440 / 4K [ GAMING 307 …",
             "created_at": "2021-07-12 23:30:31",
@@ -863,6 +667,25 @@
                 "negativity": 0.05105353787569483
             },
             "user_id": 832832103553212416,
+            "text_translation": ""
+        },
+        {
+            "id": 1414728432370413578,
+            "text": ": NEW Gaming for $ 789 ! * 5500xt ( comparable to a 1650Super !)",
+            "created_at": "2021-07-12 23:28:37",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9378028301909036,
+                "negativity": 0.06219716980909609
+            },
+            "user_id": 3002382974,
             "text_translation": ""
         },
         {
@@ -1039,35 +862,6 @@
                 "negativity": 0.5
             },
             "user_id": 1090015105604087810,
-            "text_translation": ""
-        },
-        {
-            "id": 1414725615064952834,
-            "text": ": 🔥🔥🔥🔥🔥 🔥🔥🔥🔥🔥 DASH Gaming republic i7 16gb RAM 512gb storage 15inch screen size 3 …",
-            "created_at": "2021-07-12 23:17:25",
-            "retweet_count": 39,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "15inch",
-                "RAM",
-                "16GB",
-                "Storage",
-                "Size",
-                "Screen",
-                "Screen Size",
-                "Screen Size"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9368085580159219,
-                "negativity": 0.06319144198407613
-            },
-            "user_id": 735163810294693888,
             "text_translation": ""
         },
         {
@@ -1308,6 +1102,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414722663126224900,
+            "text": ": We are hosting a giveaway in celebration of 30K on discord ! 2x 360hz ($ 700 ~ each ) 10x …",
+            "created_at": "2021-07-12 23:05:41",
+            "retweet_count": 3049,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3949471049817011,
+                "negativity": 0.6050528950183013
+            },
+            "user_id": 499417364,
+            "text_translation": ""
+        },
+        {
             "id": 1414722531844579331,
             "text": "Hello - I am looking for efficient , affordable virtual for the home . are high $$$$ for th …",
             "created_at": "2021-07-12 23:05:10",
@@ -1404,6 +1217,25 @@
                 "negativity": 0.8050399798469681
             },
             "user_id": 63092378,
+            "text_translation": ""
+        },
+        {
+            "id": 1414720666654347268,
+            "text": "6900 is now available on US Link : monitor …",
+            "created_at": "2021-07-12 22:57:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9321262431825462,
+                "negativity": 0.06787375681745264
+            },
+            "user_id": 1388860173968715776,
             "text_translation": ""
         },
         {
@@ -1642,6 +1474,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414717934816145409,
+            "text": ": Maybe you knew already , but now , with the honor of an iFDesignAward2021 , Pro Duo 15 is truly one of the best …",
+            "created_at": "2021-07-12 22:46:54",
+            "retweet_count": 12,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5095616876981917,
+                "negativity": 0.4904383123018107
+            },
+            "user_id": 1339265202680967175,
+            "text_translation": ""
+        },
+        {
             "id": 1414717705505198080,
             "text": "Check this amazing ! Insane ! ,",
             "created_at": "2021-07-12 22:45:59",
@@ -1715,27 +1566,6 @@
                 "negativity": 0.226937566609662
             },
             "user_id": 907617044673257472,
-            "text_translation": ""
-        },
-        {
-            "id": 1414716111904407553,
-            "text": "My budget mid range I built living in Japan . Specs : Case - H510 - 5 3600 - B450 …",
-            "created_at": "2021-07-12 22:39:39",
-            "retweet_count": 1,
-            "favorite_count": 7,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8267482681720127,
-                "negativity": 0.17325173182798617
-            },
-            "user_id": 102384315,
             "text_translation": ""
         },
         {
@@ -1977,6 +1807,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414710170010128397,
+            "text": "NEW Gaming for $ 789 ! * 5500xt ( comparable to a 1650Super !)",
+            "created_at": "2021-07-12 22:16:03",
+            "retweet_count": 9,
+            "favorite_count": 38,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9378028301909036,
+                "negativity": 0.06219716980909609
+            },
+            "user_id": 2360121187,
+            "text_translation": ""
+        },
+        {
             "id": 1414710081350942722,
             "text": "ROG I would love to win this equipment always quality",
             "created_at": "2021-07-12 22:15:42",
@@ -2053,6 +1902,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414708809638072325,
+            "text": ": We ' re giving an 280Hz Gaming Monitor to one lucky winner that this and someone . To enter , perform these act …",
+            "created_at": "2021-07-12 22:10:38",
+            "retweet_count": 1330,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9875613814293659,
+                "negativity": 0.012438618570636108
+            },
+            "user_id": 362055579,
+            "text_translation": ""
+        },
+        {
             "id": 1414708318522814468,
             "text": "ROG back in like 2008 , got some random used and bought a brand new 3650 for dirt cheap .…",
             "created_at": "2021-07-12 22:08:41",
@@ -2069,6 +1937,27 @@
                 "negativity": 0.854429491820046
             },
             "user_id": 1940609358,
+            "text_translation": ""
+        },
+        {
+            "id": 1414708266534416395,
+            "text": "( US ) In Stock : ROG Strix 3070 Ti - $ 999 . 99 : Link : As an Ama …",
+            "created_at": "2021-07-12 22:08:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.07360406091370537,
+                "negativity": 0.9263959390862947
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -2093,6 +1982,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414707682179633152,
+            "text": "ROG Zephyrus M16 review : An absolute beast for the price",
+            "created_at": "2021-07-12 22:06:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5340906005637645,
+                "negativity": 0.46590939943623544
+            },
+            "user_id": 521749341,
+            "text_translation": ""
+        },
+        {
             "id": 1414707447017656320,
             "text": "🚀🚨[ US ] 3070ti strix 🚨🚀 Link : : 3070ti ⏱️ 12 , 6 : 05 …",
             "created_at": "2021-07-12 22:05:14",
@@ -2109,6 +2017,25 @@
                 "negativity": 0.46296296296296297
             },
             "user_id": 1336123093543215104,
+            "text_translation": ""
+        },
+        {
+            "id": 1414707341367316480,
+            "text": "( US ) In Stock : rx6800 - $ 989 . 99 Link : : As an …",
+            "created_at": "2021-07-12 22:04:48",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.416932907348243,
+                "negativity": 0.5830670926517572
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -2173,6 +2100,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414706783524986884,
+            "text": "🔥 : 3070 Ti ROG STRIX Link : : | | rtx3070ti",
+            "created_at": "2021-07-12 22:02:35",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5370370370370368,
+                "negativity": 0.46296296296296297
+            },
+            "user_id": 1312929373343952896,
+            "text_translation": ""
+        },
+        {
             "id": 1414706750863859712,
             "text": ". Patience is a virtue",
             "created_at": "2021-07-12 22:02:28",
@@ -2189,27 +2137,6 @@
                 "negativity": 0.6333333333333335
             },
             "user_id": 516674358,
-            "text_translation": ""
-        },
-        {
-            "id": 1414706549038137358,
-            "text": "ROG Strix 3070 Ti Edition Gaming Graphics Card ( 4 . 0 is now in stock . Product Page :…",
-            "created_at": "2021-07-12 22:01:39",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5183011655149138,
-                "negativity": 0.4816988344850881
-            },
-            "user_id": 1377519267143376898,
             "text_translation": ""
         },
         {
@@ -2231,27 +2158,6 @@
                 "negativity": 0.8624468025781695
             },
             "user_id": 1364927109165166596,
-            "text_translation": ""
-        },
-        {
-            "id": 1414706201313546249,
-            "text": "If that was the case then so would , , , Corsair , , , , Tosh …",
-            "created_at": "2021-07-12 22:00:17",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.41800959741794413,
-                "negativity": 0.5819904025820561
-            },
-            "user_id": 1275998093868249088,
             "text_translation": ""
         },
         {
@@ -2414,25 +2320,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414705025541185537,
-            "text": "free",
-            "created_at": "2021-07-12 21:55:36",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5300751879699249,
-                "negativity": 0.46992481203007497
-            },
-            "user_id": 1009943662393020422,
-            "text_translation": ""
-        },
-        {
             "id": 1414704787275206662,
             "text": "no its a power supply",
             "created_at": "2021-07-12 21:54:39",
@@ -2489,6 +2376,25 @@
                 "negativity": 0.48887366182777037
             },
             "user_id": 3442447573,
+            "text_translation": ""
+        },
+        {
+            "id": 1414703864910077953,
+            "text": "tech tip : install to use",
+            "created_at": "2021-07-12 21:50:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8309745404199674,
+                "negativity": 0.16902545958003293
+            },
+            "user_id": 907617044673257472,
             "text_translation": ""
         },
         {
@@ -2570,6 +2476,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414702224844869640,
+            "text": ": 26 % Off !! Flip C434 2 - In - 1 , 14 \" Full 4 - Way …",
+            "created_at": "2021-07-12 21:44:28",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3619350703129072,
+                "negativity": 0.6380649296870928
+            },
+            "user_id": 760492920,
+            "text_translation": ""
+        },
+        {
             "id": 1414702088836239360,
             "text": ": If you ' re an fan , there ' s nothing faster ( or cooler ) on today than this .",
             "created_at": "2021-07-12 21:43:56",
@@ -2586,6 +2511,25 @@
                 "negativity": 0.5971042892908838
             },
             "user_id": 279319442,
+            "text_translation": ""
+        },
+        {
+            "id": 1414701854508797963,
+            "text": "26 % Off !! Flip C434 2 - In - 1 , 14 \" Full 4 - Way",
+            "created_at": "2021-07-12 21:43:00",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3619350703129072,
+                "negativity": 0.6380649296870928
+            },
+            "user_id": 1178811384387293187,
             "text_translation": ""
         },
         {
@@ -2725,27 +2669,6 @@
                 "negativity": 0.4093931837073985
             },
             "user_id": 1312929373343952896,
-            "text_translation": ""
-        },
-        {
-            "id": 1414699631188000769,
-            "text": "( US ) In Stock : ROG Strix 3080 White - : Link :…",
-            "created_at": "2021-07-12 21:34:10",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.47070298122929677,
-                "negativity": 0.5292970187707033
-            },
-            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -2907,6 +2830,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414698594091814922,
+            "text": ": With great power , comes great responsibility 🕷 Our - are tingling ... let ' s build ! & ;& ;",
+            "created_at": "2021-07-12 21:30:03",
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.961231316082935,
+                "negativity": 0.038768683917063354
+            },
+            "user_id": 966683337392906242,
+            "text_translation": ""
+        },
+        {
             "id": 1414698472662618117,
             "text": "ROG My first computer , was one from ago that I set up together with my uncle and that is how I …",
             "created_at": "2021-07-12 21:29:34",
@@ -2923,6 +2867,25 @@
                 "negativity": 0.18561596130066005
             },
             "user_id": 841582268,
+            "text_translation": ""
+        },
+        {
+            "id": 1414698272980193281,
+            "text": "Zenfone3Zoom lightroom :…",
+            "created_at": "2021-07-12 21:28:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1267575835160182786,
             "text_translation": ""
         },
         {
@@ -2964,24 +2927,22 @@
             "text_translation": ""
         },
         {
-            "id": 1414697719784955909,
-            "text": "[$ 999 . 99 ]: ROG Strix 3070 Ti rtx3070 rtx3000 ⏰ 16 : 26 : 34",
-            "created_at": "2021-07-12 21:26:34",
+            "id": 1414697991395586050,
+            "text": "Gaming 6700 Edition Graphics Ca radeon6700XT Source : Checker v3Z Reason : Sold …",
+            "created_at": "2021-07-12 21:27:39",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "3070"
-            ],
+            "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "neg",
-                "positivity": 0.09999999999999992,
-                "negativity": 0.9000000000000002
+                "classification": "pos",
+                "positivity": 0.9646662156167995,
+                "negativity": 0.035333784383200915
             },
-            "user_id": 1360770482556051457,
+            "user_id": 1363974177099816968,
             "text_translation": ""
         },
         {
@@ -3027,6 +2988,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414697652663595012,
+            "text": "Strix 3060TI In Stock at ampere Ryzen5000 …",
+            "created_at": "2021-07-12 21:26:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38135593220338976,
+                "negativity": 0.6186440677966099
+            },
+            "user_id": 1328823635793031168,
+            "text_translation": ""
+        },
+        {
             "id": 1414697236861177864,
             "text": "🚀🚨[ US ] 3070ti strix 🚨🚀 Link : : 3070ti ⏱️ 12 , 5 : 24 …",
             "created_at": "2021-07-12 21:24:39",
@@ -3046,11 +3026,11 @@
             "text_translation": ""
         },
         {
-            "id": 1414697207408779276,
-            "text": "[$ 649 . 99 ]: ROG STRIX 3060 Ti rtx3060ti rtx3000 ⏰ 16 : 24 : 32",
-            "created_at": "2021-07-12 21:24:32",
+            "id": 1414697198403661828,
+            "text": "🔥 : 3060 Ti ROG STRIX Link : : | | rtx3060ti",
+            "created_at": "2021-07-12 21:24:30",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -3060,10 +3040,31 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
+                "positivity": 0.5370370370370368,
+                "negativity": 0.46296296296296297
             },
-            "user_id": 1360770482556051457,
+            "user_id": 1312929373343952896,
+            "text_translation": ""
+        },
+        {
+            "id": 1414697188408676353,
+            "text": "3060 TI STRIX is now available on US Link : monitor …",
+            "created_at": "2021-07-12 21:24:28",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9321262431825462,
+                "negativity": 0.06787375681745264
+            },
+            "user_id": 1388860173968715776,
             "text_translation": ""
         },
         {
@@ -3244,6 +3245,48 @@
             "text_translation": ""
         },
         {
+            "id": 1414695227223429128,
+            "text": ": tuff f15 gaming with 3060 coming soon 🔥🔥",
+            "created_at": "2021-07-12 21:16:40",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8618921065558605,
+                "negativity": 0.13810789344413962
+            },
+            "user_id": 1240257864968679426,
+            "text_translation": ""
+        },
+        {
+            "id": 1414695165739081738,
+            "text": ": finally it is TIME to build another ! be for my dual setup ~ s / o ROG for most of t …",
+            "created_at": "2021-07-12 21:16:25",
+            "retweet_count": 55,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8970657616208075,
+                "negativity": 0.1029342383791936
+            },
+            "user_id": 2197258199,
+            "text_translation": ""
+        },
+        {
             "id": 1414695040203509767,
             "text": "ROG probably with my mother , so that she could see what it of and how the computer works .",
             "created_at": "2021-07-12 21:15:56",
@@ -3358,25 +3401,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414692807244124165,
-            "text": "ROG Strix 2060 Edition Carte Gaming ( 6GB GDDR6 , P …",
-            "created_at": "2021-07-12 21:07:03",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8430232558139524,
-                "negativity": 0.15697674418604687
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
             "id": 1414692437247791111,
             "text": "father On paper you should be good , but what BIOS you got and if it ' s after the one …",
             "created_at": "2021-07-12 21:05:35",
@@ -3393,27 +3417,6 @@
                 "negativity": 0.9329476139020361
             },
             "user_id": 125457338,
-            "text_translation": ""
-        },
-        {
-            "id": 1414692429521883139,
-            "text": "​. de : Gaming 6800 16G Edition ( 4 . 0 , 16GB GDDR6 , 🔗…",
-            "created_at": "2021-07-12 21:05:33",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9415584415584424,
-                "negativity": 0.05844155844155841
-            },
-            "user_id": 1314575666130694144,
             "text_translation": ""
         },
         {
@@ -4390,27 +4393,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414676262522691586,
-            "text": "​. de : 3080 10 Version Gaming 🔗 💸 € 1499 . 0 as of 🕒 21 : 0 …",
-            "created_at": "2021-07-12 20:01:19",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8596096096096095,
-                "negativity": 0.14039039039039017
-            },
-            "user_id": 1346887159656144896,
-            "text_translation": ""
-        },
-        {
             "id": 1414675777300451329,
             "text": "ROG My first build was a used - build . The more I learnt about the more I would open it up and replace …",
             "created_at": "2021-07-12 19:59:23",
@@ -4569,46 +4551,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414672362902011904,
-            "text": "​. de : ROG Strix 3090 24 Version White Gaming ( Ampere , 4 . 0 , 🔗…",
-            "created_at": "2021-07-12 19:45:49",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.883921931914143,
-                "negativity": 0.11607806808585718
-            },
-            "user_id": 1329697243524444160,
-            "text_translation": ""
-        },
-        {
-            "id": 1414671720649093120,
-            "text": "Are you sure about that . I see many , , dell with processor and Graphic .",
-            "created_at": "2021-07-12 19:43:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8134434941951993,
-                "negativity": 0.1865565058048012
-            },
-            "user_id": 1345621907626811394,
-            "text_translation": ""
-        },
-        {
             "id": 1414671695525425152,
             "text": "Steal !! 17 - X712JA + 17 . 3 ( i3 - 10 for only £ 399",
             "created_at": "2021-07-12 19:43:10",
@@ -4744,9 +4686,9 @@
             "text_translation": ""
         },
         {
-            "id": 1414669843672993793,
-            "text": "Gaming 3060 Edition Graphics rtx3060 geforce3060 Source : Checker v3Z …",
-            "created_at": "2021-07-12 19:35:48",
+            "id": 1414669777046581248,
+            "text": "( US ) In Stock : 3060 Gaming - $ 509 . 99 Link : : As an Am …",
+            "created_at": "2021-07-12 19:35:32",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -4758,10 +4700,10 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9557766059443913,
-                "negativity": 0.044223394055608815
+                "positivity": 0.7814371257485043,
+                "negativity": 0.21856287425149656
             },
-            "user_id": 1342919737358110720,
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -4784,28 +4726,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414669281858662402,
-            "text": "Gaming 3070 8GB Auction Gaming 🔗…",
-            "created_at": "2021-07-12 19:33:34",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.681818181818181,
-                "negativity": 0.3181818181818179
-            },
-            "user_id": 307605293,
-            "text_translation": ""
-        },
-        {
             "id": 1414668820728406026,
             "text": "Home World Name : Behemoth Character Name : Dawnlight Character Profile : Desired …",
             "created_at": "2021-07-12 19:31:44",
@@ -4825,24 +4745,34 @@
             "text_translation": ""
         },
         {
-            "id": 1414668662804402180,
-            "text": "Gaming 3060 Edition Graphics Card ad",
-            "created_at": "2021-07-12 19:31:07",
+            "id": 1414668774976917504,
+            "text": "Monitor Market Growth Status and Outlook 2021 - 2026 : , , , , , Apple , ,…",
+            "created_at": "2021-07-12 19:31:33",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    43.66279559,
+                    -79.39813134
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39813134,
+                    43.66279559
+                ]
+            },
+            "mention": [],
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
+                "positivity": 0.993362483976763,
+                "negativity": 0.00663751602323754
             },
-            "user_id": 1362119149565005824,
+            "user_id": 437618020,
             "text_translation": ""
         },
         {
@@ -4938,6 +4868,69 @@
                 "negativity": 0.5032788174010754
             },
             "user_id": 817811639516991488,
+            "text_translation": ""
+        },
+        {
+            "id": 1414666912177561604,
+            "text": "🔥 : 3060 GAMING Link : : | | rtx3060",
+            "created_at": "2021-07-12 19:24:09",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8529411764705878,
+                "negativity": 0.14705882352941174
+            },
+            "user_id": 1312929373343952896,
+            "text_translation": ""
+        },
+        {
+            "id": 1414666911007322113,
+            "text": "3060 is now available on US Link : monitor …",
+            "created_at": "2021-07-12 19:24:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9321262431825462,
+                "negativity": 0.06787375681745264
+            },
+            "user_id": 1388860173968715776,
+            "text_translation": ""
+        },
+        {
+            "id": 1414666903327543299,
+            "text": "( US ) In Stock : 3060 Gaming - $ 509 . 99 : Link : As an Am …",
+            "created_at": "2021-07-12 19:24:07",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7814371257485043,
+                "negativity": 0.21856287425149656
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -5238,6 +5231,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414661898163851267,
+            "text": "( US ) In Stock : ROG Strix 6700 - Other Seller - $ 929 . 99 Link : :…",
+            "created_at": "2021-07-12 19:04:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5678073581898581,
+                "negativity": 0.43219264181014194
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
             "id": 1414661809089490957,
             "text": ": 3060 GAMING 12G V2 EN STOCK !!",
             "created_at": "2021-07-12 19:03:53",
@@ -5296,6 +5308,25 @@
                 "negativity": 0.7951267944571765
             },
             "user_id": 606567377,
+            "text_translation": ""
+        },
+        {
+            "id": 1414661034749534238,
+            "text": ": u proved it . I bought & ; registered it on their portal …",
+            "created_at": "2021-07-12 19:00:48",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9287669510525095,
+                "negativity": 0.0712330489474895
+            },
+            "user_id": 2754433446,
             "text_translation": ""
         },
         {
@@ -5435,6 +5466,25 @@
                 "negativity": 0.6229428516535537
             },
             "user_id": 734667131338514432,
+            "text_translation": ""
+        },
+        {
+            "id": 1414659887573790720,
+            "text": "$ 1499 Will Get You And ' For Snapdragon | cloud …",
+            "created_at": "2021-07-12 18:56:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5365385486798846,
+                "negativity": 0.46346145132011524
+            },
+            "user_id": 1368984611452121090,
             "text_translation": ""
         },
         {
@@ -5654,11 +5704,11 @@
             "text_translation": ""
         },
         {
-            "id": 1414655505633628160,
-            "text": "​. . : ROG - STRIX - RTX3080TI - O12G GAMING 12GB GDDR5 DPX3 🔗 💸 £ 1666 . 0 as of 🕒 1 …",
-            "created_at": "2021-07-12 18:38:50",
+            "id": 1414656795369512969,
+            "text": "ROG Strix 6700 Edition Gaming Graph radeon6700XT Source : Checker v3Z Reason : Sold …",
+            "created_at": "2021-07-12 18:43:57",
             "retweet_count": 0,
-            "favorite_count": 1,
+            "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -5666,10 +5716,53 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
+                "positivity": 0.9254275851112909,
+                "negativity": 0.0745724148887072
             },
-            "user_id": 1346887159656144896,
+            "user_id": 1363974177099816968,
+            "text_translation": ""
+        },
+        {
+            "id": 1414656344586604544,
+            "text": "ROG Strix 6700 Edition Gaming Graphics Card RX6700XT ad",
+            "created_at": "2021-07-12 18:42:10",
+            "retweet_count": 3,
+            "favorite_count": 4,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9006673511293631,
+                "negativity": 0.09933264887063645
+            },
+            "user_id": 1187131529299935234,
+            "text_translation": ""
+        },
+        {
+            "id": 1414655348057645058,
+            "text": ": 8 Launch confirmed for ! It ' s the only compact with a screen size of 5 . 9 \" and flagship …",
+            "created_at": "2021-07-12 18:38:12",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Size",
+                "Screen",
+                "Screen Size",
+                "Screen Size"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7475614547099716,
+                "negativity": 0.2524385452900278
+            },
+            "user_id": 1332251973446340608,
             "text_translation": ""
         },
         {
@@ -6126,9 +6219,9 @@
             "text_translation": ""
         },
         {
-            "id": 1414650892696137729,
-            "text": "I would like to know if the computer listed below can handle the 60HD S .",
-            "created_at": "2021-07-12 18:20:30",
+            "id": 1414650818008125444,
+            "text": "⚡ : Gaming 6800 Edition - [$ 989 . 99 ] Link : 🛒:…",
+            "created_at": "2021-07-12 18:20:12",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -6137,11 +6230,49 @@
             "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "neg",
-                "positivity": 0.10332404855367786,
-                "negativity": 0.8966759514463217
+                "classification": "pos",
+                "positivity": 0.9492099322799108,
+                "negativity": 0.05079006772009028
             },
-            "user_id": 878020554216939520,
+            "user_id": 1374247110313439236,
+            "text_translation": ""
+        },
+        {
+            "id": 1414650303882960898,
+            "text": "Grab a Gaming FX506LH 15 . 6 Full 144Hz Gaming for only £ 649 . 99",
+            "created_at": "2021-07-12 18:18:10",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7585031490306721,
+                "negativity": 0.24149685096932888
+            },
+            "user_id": 858636167184560129,
+            "text_translation": ""
+        },
+        {
+            "id": 1414650024143773696,
+            "text": "( US ) In Stock : rx6800 - Other Seller - $ 989 . 99 Link : :…",
+            "created_at": "2021-07-12 18:17:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5678073581898581,
+                "negativity": 0.43219264181014194
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -6951,6 +7082,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414640697769086978,
+            "text": ": Another Sandy / Ivy Bridge Now Works For ( P8Z77 - V )",
+            "created_at": "2021-07-12 17:39:59",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22048966816217047,
+                "negativity": 0.7795103318378304
+            },
+            "user_id": 14054254,
+            "text_translation": ""
+        },
+        {
             "id": 1414640504915075081,
             "text": "Want a new computer ? Read a review of my F541U with ice - cold technology , i7 & ; 220 of batt …",
             "created_at": "2021-07-12 17:39:13",
@@ -6969,6 +7119,25 @@
                 "negativity": 0.3122680319337499
             },
             "user_id": 557050034,
+            "text_translation": ""
+        },
+        {
+            "id": 1414640110847545349,
+            "text": "Enter for a chance to win a custom ORIGIN GENESIS gaming powered by and ! Giveaway i .…",
+            "created_at": "2021-07-12 17:37:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4765524878595753,
+                "negativity": 0.5234475121404288
+            },
+            "user_id": 29656588,
             "text_translation": ""
         },
         {
@@ -7102,10 +7271,29 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.07462962118394903,
+                "positivity": 0.07462962118394902,
                 "negativity": 0.925370378816051
             },
             "user_id": 964481369521799168,
+            "text_translation": ""
+        },
+        {
+            "id": 1414637338379046917,
+            "text": "( CANADA ) IN STOCK ALERT - : GAMING 6700 /",
+            "created_at": "2021-07-12 17:26:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5614602587800377,
+                "negativity": 0.4385397412199615
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -7202,6 +7390,27 @@
                 "classification": "neg",
                 "positivity": 0.3794157780360843,
                 "negativity": 0.6205842219639156
+            },
+            "user_id": 1383082054930329600,
+            "text_translation": ""
+        },
+        {
+            "id": 1414636220727050244,
+            "text": ": New build video ! Enjoy ! ROG",
+            "created_at": "2021-07-12 17:22:12",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6302048517844705,
+                "negativity": 0.36979514821552895
             },
             "user_id": 1383082054930329600,
             "text_translation": ""
@@ -7542,6 +7751,46 @@
             "text_translation": ""
         },
         {
+            "id": 1414632012518989828,
+            "text": "( US ) In Stock : 6900XT Gaming - $ 1 , 599 . 99 Link : : As an A …",
+            "created_at": "2021-07-12 17:05:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7814371257485043,
+                "negativity": 0.21856287425149656
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
+            "id": 1414632002943283201,
+            "text": ": for Snapdragon - Designed by - 6 . 78 \" + 144Hz - Triple Camera - Snapdragon 888 - 512GB U …",
+            "created_at": "2021-07-12 17:05:26",
+            "retweet_count": 122,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15376741918293288,
+                "negativity": 0.8462325808170675
+            },
+            "user_id": 182406617,
+            "text_translation": ""
+        },
+        {
             "id": 1414631956336234503,
             "text": "For ROG Phone 5 / 5 Pro Case Slim Carbon Fiber r Phone Cove R1X2",
             "created_at": "2021-07-12 17:05:15",
@@ -7560,6 +7809,63 @@
                 "negativity": 0.8549175976587903
             },
             "user_id": 1224349999841984512,
+            "text_translation": ""
+        },
+        {
+            "id": 1414631722378047490,
+            "text": "Gaming 6900 Edition Graphics Ca Source : Checker v3R Reason : Sold by 🛒:…",
+            "created_at": "2021-07-12 17:04:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9646662156167995,
+                "negativity": 0.035333784383200915
+            },
+            "user_id": 1363974177099816968,
+            "text_translation": ""
+        },
+        {
+            "id": 1414631526755622917,
+            "text": "⚡ : Gaming 6900 Edition - [$ 1599 . 99 ] 🛒: Link :…",
+            "created_at": "2021-07-12 17:03:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9492099322799108,
+                "negativity": 0.05079006772009028
+            },
+            "user_id": 1374247110313439236,
+            "text_translation": ""
+        },
+        {
+            "id": 1414631027931181056,
+            "text": "to release $ 1 , 500 with hardware",
+            "created_at": "2021-07-12 17:01:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7301362010622378,
+                "negativity": 0.26986379893776313
+            },
+            "user_id": 2872284965,
             "text_translation": ""
         },
         {
@@ -7600,6 +7906,25 @@
                 "negativity": 0.5075
             },
             "user_id": 1051845772927361024,
+            "text_translation": ""
+        },
+        {
+            "id": 1414630736141950977,
+            "text": "( US ) In Stock : 6900XT Gaming - Other Seller - $ 1 , 599 . 99 Link : :…",
+            "created_at": "2021-07-12 17:00:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.867880669731696,
+                "negativity": 0.13211933026830436
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -7724,6 +8049,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414629465125228546,
+            "text": "( US ) In Stock : 6900XT Gaming - $ 1 , 599 . 99 : Link : As an A …",
+            "created_at": "2021-07-12 16:55:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7814371257485043,
+                "negativity": 0.21856287425149656
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
             "id": 1414629394421854212,
             "text": ", need some help for a new monitor VG259QM - 1080p 280hz ( 320 €) or X24ih - 1080p 144hz ( 145 €)",
             "created_at": "2021-07-12 16:55:04",
@@ -7835,6 +8179,25 @@
                 "negativity": 0.16552726029738507
             },
             "user_id": 1119045634097582080,
+            "text_translation": ""
+        },
+        {
+            "id": 1414628519683006466,
+            "text": ": Our in by giving away another Monitor and 5 , which is why we are giving away 2x 36 …",
+            "created_at": "2021-07-12 16:51:36",
+            "retweet_count": 27,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8179993173779657,
+                "negativity": 0.1820006826220344
+            },
+            "user_id": 1198001901217996800,
             "text_translation": ""
         },
         {
@@ -8446,35 +8809,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414620875144433665,
-            "text": "🔥🔥🔥🔥🔥 🔥🔥🔥🔥🔥 DASH Gaming republic i7 16gb RAM 512gb storage 15inch screen size …",
-            "created_at": "2021-07-12 16:21:13",
-            "retweet_count": 39,
-            "favorite_count": 59,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "15inch",
-                "RAM",
-                "16GB",
-                "Storage",
-                "Size",
-                "Screen",
-                "Screen Size",
-                "Screen Size"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9368085580159219,
-                "negativity": 0.06319144198407613
-            },
-            "user_id": 1278216408984367107,
-            "text_translation": ""
-        },
-        {
             "id": 1414620865203818500,
             "text": "no inspired , other to follow suite",
             "created_at": "2021-07-12 16:21:11",
@@ -8488,7 +8822,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.8985323577546787,
-                "negativity": 0.10146764224532123
+                "negativity": 0.10146764224532125
             },
             "user_id": 945596752614195200,
             "text_translation": ""
@@ -8675,28 +9009,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414618914877812737,
-            "text": ": - ROG Gaming - Core i7 - 11700F - 16GB Memo rtx3070 geforce3070 Source : Best Buy checker Reason : Check …",
-            "created_at": "2021-07-12 16:13:26",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "16GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8750628012605082,
-                "negativity": 0.12493719873949034
-            },
-            "user_id": 380035496,
-            "text_translation": ""
-        },
-        {
             "id": 1414618650842222592,
             "text": "Dual RTX3060 12G 12GB ( 90YV0GB3 - M0 ... Stock from \" IN WAREHOUSE \" to \" N …",
             "created_at": "2021-07-12 16:12:23",
@@ -8871,25 +9183,6 @@
                 "negativity": 0.12899293770590345
             },
             "user_id": 44063831,
-            "text_translation": ""
-        },
-        {
-            "id": 1414616863787474949,
-            "text": "ROG Strix GA15DK Gaming w / RTX3070 : ~ Down to $ 1 , 638 . 31 o …",
-            "created_at": "2021-07-12 16:05:17",
-            "retweet_count": 0,
-            "favorite_count": 3,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8317049340498291,
-                "negativity": 0.16829506595017077
-            },
-            "user_id": 1303375647318835202,
             "text_translation": ""
         },
         {
@@ -9184,9 +9477,28 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.21480422349318085,
-                "negativity": 0.7851957765068185
+                "negativity": 0.7851957765068186
             },
             "user_id": 1386706976378220545,
+            "text_translation": ""
+        },
+        {
+            "id": 1414611781947887619,
+            "text": "for Snapdragon Specs , Price & ; the Competition Watch Here :",
+            "created_at": "2021-07-12 15:45:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7349031302649067,
+                "negativity": 0.2650968697350928
+            },
+            "user_id": 85073656,
             "text_translation": ""
         },
         {
@@ -9470,22 +9782,24 @@
             "text_translation": ""
         },
         {
-            "id": 1414608854017527812,
-            "text": "[$ 799 . 00 ]: ROG Strix 27 ” 4K Gaming Monitor ( 3840 x 2160 ) 🛒",
-            "created_at": "2021-07-12 15:33:27",
-            "retweet_count": 0,
+            "id": 1414608486256762880,
+            "text": ": Batman case cmws2021 Global ROG by",
+            "created_at": "2021-07-12 15:31:59",
+            "retweet_count": 4,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
+            "mention": [
+                "Case"
+            ],
             "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.9722222222222229,
-                "negativity": 0.027777777777777714
+                "classification": "neg",
+                "positivity": 0.4450481217013343,
+                "negativity": 0.5549518782986653
             },
-            "user_id": 1360770482556051457,
+            "user_id": 1282749631709970432,
             "text_translation": ""
         },
         {
@@ -9526,6 +9840,25 @@
                 "negativity": 0.16666666666666646
             },
             "user_id": 1338605739221413888,
+            "text_translation": ""
+        },
+        {
+            "id": 1414607470920540166,
+            "text": ": ⚡ ! ⚡ All powered up with 💪 x & ;& ;",
+            "created_at": "2021-07-12 15:27:57",
+            "retweet_count": 19,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3969083999782287,
+                "negativity": 0.6030916000217713
+            },
+            "user_id": 1160572457113149440,
             "text_translation": ""
         },
         {
@@ -9683,6 +10016,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414605282655703042,
+            "text": ": Dash F15 Review : Good + ' ' Performance ! 🚀 🚨 Video | By …",
+            "created_at": "2021-07-12 15:19:16",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4921868711551021,
+                "negativity": 0.5078131288448978
+            },
+            "user_id": 1382020472284475399,
+            "text_translation": ""
+        },
+        {
             "id": 1414605148991762440,
             "text": "ROG Nice i wish i had one",
             "created_at": "2021-07-12 15:18:44",
@@ -9741,6 +10093,25 @@
                 "negativity": 0.0511598373447576
             },
             "user_id": 1374751083164221445,
+            "text_translation": ""
+        },
+        {
+            "id": 1414604100910583812,
+            "text": "critic : Click here to see our review on the Tweak : …",
+            "created_at": "2021-07-12 15:14:34",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6180213264261288,
+                "negativity": 0.3819786735738707
+            },
+            "user_id": 704583568316633088,
             "text_translation": ""
         },
         {
@@ -10141,6 +10512,30 @@
             "text_translation": ""
         },
         {
+            "id": 1414600623060918272,
+            "text": "Flip C434TA - AI0041 Core i5 - 8200Y 8GB 128GB 14 Inch Chrome OS 2 - in - 1 electronics ad",
+            "created_at": "2021-07-12 15:00:45",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5",
+                "OS",
+                "8GB",
+                "OS"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.16779517562420612,
+                "negativity": 0.8322048243757943
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
             "id": 1414600596636807172,
             "text": "Please drop a link to the page for this phone ! 👍🏾",
             "created_at": "2021-07-12 15:00:38",
@@ -10236,66 +10631,22 @@
             "text_translation": ""
         },
         {
-            "id": 1414598964461117441,
-            "text": ": [$ 2129 ]: Gaming 3090 rtx3090 rtx3000 🤖 09 : 44 : 46",
-            "created_at": "2021-07-12 14:54:09",
-            "retweet_count": 1,
-            "favorite_count": 0,
+            "id": 1414598860559683588,
+            "text": "my mind I bought for my son .. … for yourself go for dell",
+            "created_at": "2021-07-12 14:53:44",
+            "retweet_count": 0,
+            "favorite_count": 6,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
-            "id": 1414598964020715524,
-            "text": ": 🔥 : 3090 GAMING Link : : | …",
-            "created_at": "2021-07-12 14:54:09",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
+            "mention": [],
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8529411764705878,
-                "negativity": 0.14705882352941174
+                "positivity": 0.8886928234972721,
+                "negativity": 0.11130717650272798
             },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
-            "id": 1414598963446026251,
-            "text": ": gaming ad rtx3090 Gaming 3090 Edition Graphics Card -…",
-            "created_at": "2021-07-12 14:54:09",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 984915961357721600,
+            "user_id": 1183081110550372352,
             "text_translation": ""
         },
         {
@@ -10332,6 +10683,44 @@
                 "classification": "neg",
                 "positivity": 0.43687198551203055,
                 "negativity": 0.5631280144879679
+            },
+            "user_id": 2271580069,
+            "text_translation": ""
+        },
+        {
+            "id": 1414598394094313476,
+            "text": ": Watch share his excitement about our new range of that will launch soon , in …",
+            "created_at": "2021-07-12 14:51:53",
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9294803316722683,
+                "negativity": 0.07051966832773053
+            },
+            "user_id": 2271580069,
+            "text_translation": ""
+        },
+        {
+            "id": 1414598361374547970,
+            "text": ": Be ready to be blown away by its stunning and brilliant performance . Timeless Jade Black finish , Display & ; 11th …",
+            "created_at": "2021-07-12 14:51:45",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8476623806154574,
+                "negativity": 0.15233761938454338
             },
             "user_id": 2271580069,
             "text_translation": ""
@@ -10434,11 +10823,11 @@
             "text_translation": ""
         },
         {
-            "id": 1414597125732585473,
-            "text": "gaming ad rtx3090 Gaming 3090 Edition …",
-            "created_at": "2021-07-12 14:46:51",
-            "retweet_count": 1,
-            "favorite_count": 1,
+            "id": 1414597195945414656,
+            "text": "( US ) In Stock : 3090 Gaming - $ 2 , 129 . 99 Link : : As an Am …",
+            "created_at": "2021-07-12 14:47:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -10448,10 +10837,10 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9415584415584424,
-                "negativity": 0.05844155844155841
+                "positivity": 0.7814371257485043,
+                "negativity": 0.21856287425149656
             },
-            "user_id": 1390332951892688897,
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -10496,27 +10885,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414596605827764227,
-            "text": "[$ 2129 ]: Gaming 3090 rtx3090 rtx3000 🤖 09 : 44 : 46",
-            "created_at": "2021-07-12 14:44:47",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.833333333333333,
-                "negativity": 0.16666666666666646
-            },
-            "user_id": 1306463816226660352,
-            "text_translation": ""
-        },
-        {
             "id": 1414596439913631755,
             "text": "ROG Well it is my dream to have a gaming . When I finish my collage I will study hard & ; work h …",
             "created_at": "2021-07-12 14:44:07",
@@ -10557,6 +10925,49 @@
             "text_translation": ""
         },
         {
+            "id": 1414596000719720453,
+            "text": "( de ): 3070 Ti 8GB GDDR6X ... Stock from \" Out of Stock \" to \" In …",
+            "created_at": "2021-07-12 14:42:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3070",
+                "8GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36961603183852,
+                "negativity": 0.6303839681614802
+            },
+            "user_id": 1307601967607410688,
+            "text_translation": ""
+        },
+        {
+            "id": 1414595929668210690,
+            "text": "( US ) In Stock : 3090 Gaming - Other Seller - $ 2 , 129 . 99 Link : :…",
+            "created_at": "2021-07-12 14:42:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8678806697316939,
+                "negativity": 0.13211933026830436
+            },
+            "user_id": 499672969,
+            "text_translation": ""
+        },
+        {
             "id": 1414595821597716482,
             "text": ": \" together \" as in together - ness ? , ! - check then give a blank check . Check check che …",
             "created_at": "2021-07-12 14:41:40",
@@ -10573,6 +10984,27 @@
                 "negativity": 0.7776100957606173
             },
             "user_id": 891171708786180099,
+            "text_translation": ""
+        },
+        {
+            "id": 1414595781131227142,
+            "text": ": 3090 In Stock at ampere Ryzen5000 …",
+            "created_at": "2021-07-12 14:41:30",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38135593220338976,
+                "negativity": 0.6186440677966099
+            },
+            "user_id": 1333467666980409353,
             "text_translation": ""
         },
         {
@@ -10595,6 +11027,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414595636213727236,
+            "text": "3090 In Stock at ampere Ryzen5000 …",
+            "created_at": "2021-07-12 14:40:56",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38135593220338976,
+                "negativity": 0.6186440677966099
+            },
+            "user_id": 1328823635793031168,
+            "text_translation": ""
+        },
+        {
             "id": 1414595509319127041,
             "text": "\" together \" as in together - ness ? , ! - check then give a blank check . Check check check .",
             "created_at": "2021-07-12 14:40:25",
@@ -10611,6 +11064,27 @@
                 "negativity": 0.5382204895148529
             },
             "user_id": 984098152939569152,
+            "text_translation": ""
+        },
+        {
+            "id": 1414595373801394178,
+            "text": "3090 is now available on US Link : monitor …",
+            "created_at": "2021-07-12 14:39:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3090"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9321262431825462,
+                "negativity": 0.06787375681745264
+            },
+            "user_id": 1388860173968715776,
             "text_translation": ""
         },
         {
@@ -10728,7 +11202,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.27536645613519606,
-                "negativity": 0.724633543864805
+                "negativity": 0.7246335438648049
             },
             "user_id": 1335383466351988737,
             "text_translation": ""
@@ -10806,7 +11280,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.27536645613519606,
-                "negativity": 0.724633543864805
+                "negativity": 0.7246335438648049
             },
             "user_id": 2915572024,
             "text_translation": ""
@@ -10868,6 +11342,25 @@
                 "negativity": 0.891269593181946
             },
             "user_id": 1243460210,
+            "text_translation": ""
+        },
+        {
+            "id": 1414592996851519494,
+            "text": "tech tip : this tech tip was brought to you by , use code COMPUTER to get now",
+            "created_at": "2021-07-12 14:30:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7615952275435022,
+                "negativity": 0.2384047724564959
+            },
+            "user_id": 907617044673257472,
             "text_translation": ""
         },
         {
@@ -11005,27 +11498,6 @@
                 "negativity": 0.4265155180522331
             },
             "user_id": 1214245971497869312,
-            "text_translation": ""
-        },
-        {
-            "id": 1414590698393849859,
-            "text": "3080 ROG STRIX O10G GAMING V2 ( ) for 1289 . 99 € is available at …",
-            "created_at": "2021-07-12 14:21:18",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {
@@ -11374,27 +11846,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414585648099508224,
-            "text": "3060 GAMING 12G V2 ( ) for 619 . 99 € is available at …",
-            "created_at": "2021-07-12 14:01:14",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
             "id": 1414585335934226436,
             "text": "Looking for a dynamic that ’ t take up much space ? PN41 is ultra compact and strong …",
             "created_at": "2021-07-12 14:00:00",
@@ -11411,27 +11862,6 @@
                 "negativity": 0.2062563979755843
             },
             "user_id": 591646425,
-            "text_translation": ""
-        },
-        {
-            "id": 1414584947533389827,
-            "text": "DUAL 3060 O12G for 599 . 95 € is available at rtx3060",
-            "created_at": "2021-07-12 13:58:27",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7971415779055518,
-                "negativity": 0.20285842209444796
-            },
-            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {
@@ -11492,6 +11922,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414584635397484551,
+            "text": ": We ’ re giving an 280Hz Gaming Monitor to one lucky winner that this and someone . To enter , perform these …",
+            "created_at": "2021-07-12 13:57:13",
+            "retweet_count": 978,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9867976410183289,
+                "negativity": 0.013202358981669037
+            },
+            "user_id": 20249136,
+            "text_translation": ""
+        },
+        {
             "id": 1414584568091447304,
             "text": "⚡ : Gaming 3070 Ti Edition - [$ 949 . 99 ] Link : 🛒:…",
             "created_at": "2021-07-12 13:56:57",
@@ -11548,27 +11997,6 @@
                 "negativity": 0.39724690213977726
             },
             "user_id": 1042803528530620416,
-            "text_translation": ""
-        },
-        {
-            "id": 1414584439078797318,
-            "text": "3060 12G GAMING V2 ( ) for 679 . 94 € is available at …",
-            "created_at": "2021-07-12 13:56:26",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {
@@ -11769,6 +12197,49 @@
                 "negativity": 0.08997706872742796
             },
             "user_id": 1261334433749139456,
+            "text_translation": ""
+        },
+        {
+            "id": 1414582905746071552,
+            "text": "Demon Slayer Inspired Pro 14 and 3060",
+            "created_at": "2021-07-12 13:50:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7073007003156863,
+                "negativity": 0.29269929968431363
+            },
+            "user_id": 230021049,
+            "text_translation": ""
+        },
+        {
+            "id": 1414582823625924609,
+            "text": "ROG : IN 👇 Fun OUT 👋 The laser - engraved design on the new ROG Gladius really bright ! See latest …",
+            "created_at": "2021-07-12 13:50:01",
+            "retweet_count": 15,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design",
+                "Bright"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2780046210905309,
+                "negativity": 0.7219953789094691
+            },
+            "user_id": 453045760,
             "text_translation": ""
         },
         {
@@ -12271,6 +12742,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414575990316191753,
+            "text": "™ 3080 Gaming 10GB ( 90YV ... Stock from \" IN WAREHOUSE \" to \" N …",
+            "created_at": "2021-07-12 13:22:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7933278064563768,
+                "negativity": 0.2066721935436225
+            },
+            "user_id": 1307601967607410688,
+            "text_translation": ""
+        },
+        {
             "id": 1414575772132577284,
             "text": "ROG I would love to build a with my . funny dude and streamer ✌️🏻🐢💨💨",
             "created_at": "2021-07-12 13:22:00",
@@ -12304,10 +12796,31 @@
             "label": "negative",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8347631867317706,
+                "positivity": 0.8347631867317705,
                 "negativity": 0.16523681326822723
             },
             "user_id": 704764785317941248,
+            "text_translation": ""
+        },
+        {
+            "id": 1414575234942898177,
+            "text": "™ 3080 Gaming 10GB ( 90YV ... Stock from \" NONE \" to \" IN …",
+            "created_at": "2021-07-12 13:19:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6134134518585775,
+                "negativity": 0.3865865481414225
+            },
+            "user_id": 1307601967607410688,
             "text_translation": ""
         },
         {
@@ -12662,25 +13175,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414569997612077058,
-            "text": "!! DROP NOTIFICATION !! Shop : Price : € 669 Product : DUAL - RTX3070 - - RTX3070 / o / / Shipping : BE …",
-            "created_at": "2021-07-12 12:59:03",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7333924579648166,
-                "negativity": 0.2666075420351836
-            },
-            "user_id": 1390588471962750976,
-            "text_translation": ""
-        },
-        {
             "id": 1414569939332214794,
             "text": "good for u",
             "created_at": "2021-07-12 12:58:49",
@@ -12780,48 +13274,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414568759868727297,
-            "text": ": 3090 ROG STRIX O24G GAMING for 2479 . 99 € is available at",
-            "created_at": "2021-07-12 12:54:08",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
-            "id": 1414568758631350274,
-            "text": ": ROG STRIX 3090 O24G GAMING for 2499 . 95 € is available at",
-            "created_at": "2021-07-12 12:54:08",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
             "id": 1414568156488683526,
             "text": "ROG back in 2009 i bought all the i could find to build a really mediocre , sometimes really …",
             "created_at": "2021-07-12 12:51:44",
@@ -12840,48 +13292,6 @@
                 "negativity": 0.24822997118360285
             },
             "user_id": 151167791,
-            "text_translation": ""
-        },
-        {
-            "id": 1414568093699936256,
-            "text": "3070 GAMING O8G V2 ( ) for 829 . 99 € is available at …",
-            "created_at": "2021-07-12 12:51:29",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3070"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
-            "id": 1414568091657326595,
-            "text": "3060 ROG STRIX O12G GAMING ( ) for 689 . 99 € is available at …",
-            "created_at": "2021-07-12 12:51:29",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {
@@ -12918,48 +13328,6 @@
                 "classification": "pos",
                 "positivity": 0.7971415779055518,
                 "negativity": 0.20285842209444796
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
-            "id": 1414568063828217859,
-            "text": "3090 ROG STRIX O24G GAMING for 2479 . 99 € is available at …",
-            "created_at": "2021-07-12 12:51:22",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
-            "id": 1414568046824464396,
-            "text": "3060 GAMING 12G V2 ( ) for 619 . 99 € is available at rtx3060",
-            "created_at": "2021-07-12 12:51:18",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
             },
             "user_id": 1332955480306675713,
             "text_translation": ""
@@ -13046,69 +13414,6 @@
                 "negativity": 0.2140069245334275
             },
             "user_id": 415778469,
-            "text_translation": ""
-        },
-        {
-            "id": 1414567336007372801,
-            "text": "3060 12G GAMING V2 ( ) for 679 . 94 € is available at rtx3060",
-            "created_at": "2021-07-12 12:48:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
-            "id": 1414567334266683394,
-            "text": "ROG STRIX 3090 O24G GAMING for 2499 . 95 € is available at …",
-            "created_at": "2021-07-12 12:48:28",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
-            "id": 1414567332475809794,
-            "text": "ROG STRIX 3060 O12G GAMING V2 ( ) for 699 . 95 € is available at …",
-            "created_at": "2021-07-12 12:48:28",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8938480319621188,
-                "negativity": 0.10615196803788084
-            },
-            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {
@@ -13782,27 +14087,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414559007424098306,
-            "text": "™ 3090 Gaming 24GB ( 90YV0FD ... Stock from \" IN WAREHOUSE \" to \" N …",
-            "created_at": "2021-07-12 12:15:23",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7933278064563768,
-                "negativity": 0.2066721935436225
-            },
-            "user_id": 1307601967607410688,
-            "text_translation": ""
-        },
-        {
             "id": 1414558773507629058,
             "text": "Here is the incredible innovation of Phone +…",
             "created_at": "2021-07-12 12:14:27",
@@ -13974,27 +14258,6 @@
                 "negativity": 0.4636117441711371
             },
             "user_id": 1384923801041850372,
-            "text_translation": ""
-        },
-        {
-            "id": 1414557241282338819,
-            "text": "- - RTX3070 8GB GDDR6 Express 4 . 0 Graphics Card Auction …",
-            "created_at": "2021-07-12 12:08:22",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.21403301886792434,
-                "negativity": 0.7859669811320765
-            },
-            "user_id": 307605293,
             "text_translation": ""
         },
         {
@@ -14230,6 +14493,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414553301987651589,
+            "text": ": Make the S S13 your go - to device for all your productivity needs ! Get the 11th Gen ® Core ™ powered …",
+            "created_at": "2021-07-12 11:52:42",
+            "retweet_count": 153,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.02817949189751577,
+                "negativity": 0.9718205081024824
+            },
+            "user_id": 1385792929134825475,
+            "text_translation": ""
+        },
+        {
             "id": 1414553168478838793,
             "text": "ROG fun to . I bet that display would look good as a smart watch too .",
             "created_at": "2021-07-12 11:52:11",
@@ -14365,27 +14647,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414551797239324672,
-            "text": "Gaming 3060 Edition Graphics Card RTX3060 ad",
-            "created_at": "2021-07-12 11:46:44",
-            "retweet_count": 0,
-            "favorite_count": 6,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 1187131529299935234,
-            "text_translation": ""
-        },
-        {
             "id": 1414551740880355331,
             "text": "mesh Wi - Fi 6 System AX6600 ( B - 2 - ) White ✔ 6 . 6 - Router ✔ Coverage up to 5 , 500 . …",
             "created_at": "2021-07-12 11:46:30",
@@ -14402,27 +14663,6 @@
                 "negativity": 0.16215151101961825
             },
             "user_id": 1239941855929708545,
-            "text_translation": ""
-        },
-        {
-            "id": 1414550697622835203,
-            "text": "™ 3090 Gaming 24GB ( 90YV0FD ... Stock from \" NONE \" to \" IN …",
-            "created_at": "2021-07-12 11:42:22",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6134134518585775,
-                "negativity": 0.3865865481414225
-            },
-            "user_id": 1307601967607410688,
             "text_translation": ""
         },
         {
@@ -15068,22 +15308,62 @@
             "text_translation": ""
         },
         {
-            "id": 1414543113180352515,
-            "text": "Overwatch",
-            "created_at": "2021-07-12 11:12:13",
-            "retweet_count": 0,
-            "favorite_count": 1,
+            "id": 1414543320215216128,
+            "text": ": [ ] : 600 +, , , , & ; , Mixed , Grade A & ; B , SEE LIST …",
+            "created_at": "2021-07-12 11:13:03",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4685783318610215,
+                "negativity": 0.5314216681389782
+            },
+            "user_id": 92962780,
+            "text_translation": ""
+        },
+        {
+            "id": 1414543193186570241,
+            "text": "[ ] : 600 +, , , , & ; , Mixed , Grade A & ; B , SEE LIST …",
+            "created_at": "2021-07-12 11:12:32",
+            "retweet_count": 1,
+            "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
             "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
+                "classification": "neg",
+                "positivity": 0.4685783318610215,
+                "negativity": 0.5314216681389782
             },
-            "user_id": 3023031425,
+            "user_id": 103398146,
+            "text_translation": ""
+        },
+        {
+            "id": 1414543084751400969,
+            "text": ": connected is easy - Master technology you to enjoy stable high - speed , whenever you want . …",
+            "created_at": "2021-07-12 11:12:07",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speed"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9297475284794665,
+                "negativity": 0.07025247152053242
+            },
+            "user_id": 2889937364,
             "text_translation": ""
         },
         {
@@ -15164,25 +15444,6 @@
                 "negativity": 0.373361074803523
             },
             "user_id": 272877984,
-            "text_translation": ""
-        },
-        {
-            "id": 1414541750807539714,
-            "text": "[ 90 ] Republic of Strix 6700 Graphics radeon6700XT Source : B & ; H …",
-            "created_at": "2021-07-12 11:06:48",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8946917808219176,
-                "negativity": 0.10530821917808203
-            },
-            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -15972,27 +16233,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414532746844704771,
-            "text": ": Dual 3060 Edition Gaming Graphics Card ad",
-            "created_at": "2021-07-12 10:31:02",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9548670502254707,
-                "negativity": 0.0451329497745295
-            },
-            "user_id": 2344333731,
-            "text_translation": ""
-        },
-        {
             "id": 1414532535791636480,
             "text": "45w 19v 2 . 37a 4phi back in stock - 45ZEB asus45w",
             "created_at": "2021-07-12 10:30:11",
@@ -16504,7 +16744,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.6911200000000002,
-                "negativity": 0.30888000000000015
+                "negativity": 0.3088800000000001
             },
             "user_id": 184049059,
             "text_translation": ""
@@ -17071,6 +17311,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414523487994093569,
+            "text": "Hi , we suggest you please visit the nearest service center for better assistance . Locate here :",
+            "created_at": "2021-07-12 09:54:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7941333104845325,
+                "negativity": 0.20586668951546933
+            },
+            "user_id": 1138751437096099843,
+            "text_translation": ""
+        },
+        {
             "id": 1414523304904429569,
             "text": "ROG My first computer assembly took place at 20 ☺️. I a computer with my father ( it was …",
             "created_at": "2021-07-12 09:53:31",
@@ -17130,6 +17389,29 @@
             "text_translation": ""
         },
         {
+            "id": 1414523071797424128,
+            "text": ": [ ] : 100 , Mix dell , I - SERIES i3 i5 i7 , B - grade , OFFER",
+            "created_at": "2021-07-12 09:52:35",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3",
+                "i5",
+                "i7"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6235064202047553,
+                "negativity": 0.37649357979524384
+            },
+            "user_id": 92962780,
+            "text_translation": ""
+        },
+        {
             "id": 1414523008719413250,
             "text": "New US Black Keyboard with Black frame For P50 P50IJ PRO66 PRO66IC",
             "created_at": "2021-07-12 09:52:20",
@@ -17165,6 +17447,29 @@
                 "classification": "pos",
                 "positivity": 0.7583501869819574,
                 "negativity": 0.24164981301804106
+            },
+            "user_id": 103398146,
+            "text_translation": ""
+        },
+        {
+            "id": 1414522950066196480,
+            "text": "[ ] : 100 , Mix dell , I - SERIES i3 i5 i7 , B - grade , OFFER …",
+            "created_at": "2021-07-12 09:52:06",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3",
+                "i5",
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6235064202047553,
+                "negativity": 0.37649357979524384
             },
             "user_id": 103398146,
             "text_translation": ""
@@ -17246,6 +17551,25 @@
                 "negativity": 0.32926829268292673
             },
             "user_id": 799830017844752384,
+            "text_translation": ""
+        },
+        {
+            "id": 1414522136782323712,
+            "text": "tech tip : this tech tip was brought to you by , use code COMPUTER to get to tech",
+            "created_at": "2021-07-12 09:48:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7589226900069714,
+                "negativity": 0.2410773099930279
+            },
+            "user_id": 907617044673257472,
             "text_translation": ""
         },
         {
@@ -17419,27 +17743,6 @@
                 "negativity": 0.26351444267788066
             },
             "user_id": 1363238421976797184,
-            "text_translation": ""
-        },
-        {
-            "id": 1414519011921088515,
-            "text": "🤟 DROP !! 🤟 ROG Strix 3090 Edition 24GB GDDR6X Gaming Graphics Card with Axial - tech …",
-            "created_at": "2021-07-12 09:36:27",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9133498284835151,
-                "negativity": 0.08665017151648592
-            },
-            "user_id": 1379697321613615105,
             "text_translation": ""
         },
         {
@@ -18256,48 +18559,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414508342534361088,
-            "text": ": 3090 ROG STRIX 24G WHITE for 2529 . 99 € is available at",
-            "created_at": "2021-07-12 08:54:03",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6768385265947658,
-                "negativity": 0.3231614734052345
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
-            "id": 1414508341917888520,
-            "text": ": 3090 ROG STRIX O24G WHITE for 2549 . 99 € is available at",
-            "created_at": "2021-07-12 08:54:03",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6768385265947658,
-                "negativity": 0.3231614734052345
-            },
-            "user_id": 984915961357721600,
-            "text_translation": ""
-        },
-        {
             "id": 1414508292953440269,
             "text": "ROG when the house owner find out that someone use his without permission he immediately change password …",
             "created_at": "2021-07-12 08:53:51",
@@ -18314,48 +18575,6 @@
                 "negativity": 0.42988165707882603
             },
             "user_id": 3313499840,
-            "text_translation": ""
-        },
-        {
-            "id": 1414508138963869699,
-            "text": "3090 ROG STRIX O24G WHITE for 2549 . 99 € is available at rtx3090",
-            "created_at": "2021-07-12 08:53:15",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6768385265947658,
-                "negativity": 0.3231614734052345
-            },
-            "user_id": 1332955480306675713,
-            "text_translation": ""
-        },
-        {
-            "id": 1414508137143537664,
-            "text": "3090 ROG STRIX 24G WHITE for 2529 . 99 € is available at rtx3090",
-            "created_at": "2021-07-12 08:53:14",
-            "retweet_count": 1,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6768385265947658,
-                "negativity": 0.3231614734052345
-            },
-            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {
@@ -18394,6 +18613,25 @@
                 "negativity": 0.10565703535210637
             },
             "user_id": 3313499840,
+            "text_translation": ""
+        },
+        {
+            "id": 1414507561626345474,
+            "text": "I ' got thirteen of on the T . V . to choose from",
+            "created_at": "2021-07-12 08:50:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7672933586085552,
+                "negativity": 0.23270664139144423
+            },
+            "user_id": 1160702532370309120,
             "text_translation": ""
         },
         {
@@ -18437,6 +18675,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414506244476338176,
+            "text": "ROG So i do my normal stuff watch more ' ' video and same time i discover that i can game …",
+            "created_at": "2021-07-12 08:45:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6492426396506793,
+                "negativity": 0.3507573603493208
+            },
+            "user_id": 3313499840,
+            "text_translation": ""
+        },
+        {
             "id": 1414505905060601861,
             "text": "I Have ' you but I got no response 🤷",
             "created_at": "2021-07-12 08:44:22",
@@ -18470,6 +18727,25 @@
                 "classification": "neg",
                 "positivity": 0.47303468222865375,
                 "negativity": 0.5269653177713458
+            },
+            "user_id": 3313499840,
+            "text_translation": ""
+        },
+        {
+            "id": 1414505311625310208,
+            "text": "ROG after of discover about ' ' my again but this time the …",
+            "created_at": "2021-07-12 08:42:01",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5300908673052092,
+                "negativity": 0.4699091326947909
             },
             "user_id": 3313499840,
             "text_translation": ""
@@ -18510,6 +18786,46 @@
                 "negativity": 0.677563562631395
             },
             "user_id": 591646425,
+            "text_translation": ""
+        },
+        {
+            "id": 1414504697969348610,
+            "text": "3060 and Pro 14 inspired by Demon Slayer manga",
+            "created_at": "2021-07-12 08:39:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9235612959470861,
+                "negativity": 0.07643870405291443
+            },
+            "user_id": 939814906584375301,
+            "text_translation": ""
+        },
+        {
+            "id": 1414504184603308032,
+            "text": "ROG But not stop in there because next thing i do was to go video search section . During that time i had n …",
+            "created_at": "2021-07-12 08:37:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.527859634805252,
+                "negativity": 0.4721403651947483
+            },
+            "user_id": 3313499840,
             "text_translation": ""
         },
         {
@@ -19914,6 +20230,65 @@
             "text_translation": ""
         },
         {
+            "id": 1414485257362022402,
+            "text": ": L210 Ultra Thin , 11 . 6 ” Display , N4020 Processor , 4GB RAM , 64GB …",
+            "created_at": "2021-07-12 07:22:19",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05099311870737255,
+                "negativity": 0.9490068812926287
+            },
+            "user_id": 3064146644,
+            "text_translation": ""
+        },
+        {
+            "id": 1414485190660050945,
+            "text": "Dash 15 ( 2021 ) Ultra Slim Gaming , 15 . 6 ” 144Hz , 3050 Ti , …",
+            "created_at": "2021-07-12 07:22:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9112375427636465,
+                "negativity": 0.08876245723635282
+            },
+            "user_id": 1197364662,
+            "text_translation": ""
+        },
+        {
+            "id": 1414485183294803968,
+            "text": "L210 Ultra Thin , 11 . 6 ” Display , N4020 Processor , 4GB RA …",
+            "created_at": "2021-07-12 07:22:02",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21177028451001073,
+                "negativity": 0.7882297154899891
+            },
+            "user_id": 1197364662,
+            "text_translation": ""
+        },
+        {
             "id": 1414485044064829442,
             "text": "ROG A fun tech story ? Nothing comes to mind . Unless it is funny that my current to be …",
             "created_at": "2021-07-12 07:21:29",
@@ -20008,6 +20383,25 @@
                 "negativity": 0.23033178815320948
             },
             "user_id": 1242552332094705671,
+            "text_translation": ""
+        },
+        {
+            "id": 1414484161067290624,
+            "text": "ROG Zephyrus G14 : the",
+            "created_at": "2021-07-12 07:17:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.50025,
+                "negativity": 0.49974999999999997
+            },
+            "user_id": 1384434998393016330,
             "text_translation": ""
         },
         {
@@ -20205,49 +20599,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414479880595460097,
-            "text": "The Pro 15 ( UX535 ) is powered by 10th Generation Core i7 , 16 of RAM and an G …",
-            "created_at": "2021-07-12 07:00:57",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.031794273197547164,
-                "negativity": 0.9682057268024544
-            },
-            "user_id": 1117023861696913408,
-            "text_translation": ""
-        },
-        {
-            "id": 1414479416508440576,
-            "text": "​. de : 3090 24 Version Gaming ( Ampere , 4 . 0 , , 🔗…",
-            "created_at": "2021-07-12 06:59:07",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3090"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8596096096096095,
-                "negativity": 0.14039039039039017
-            },
-            "user_id": 1329697243524444160,
-            "text_translation": ""
-        },
-        {
             "id": 1414479039943872515,
             "text": "ROG One time I built a computer now the stuff",
             "created_at": "2021-07-12 06:57:37",
@@ -20427,6 +20778,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414476846700367872,
+            "text": "ROG Damn , I wish I could build a bad ass . Instead I ' m stuck with a stupid N …",
+            "created_at": "2021-07-12 06:48:54",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.043672989465220524,
+                "negativity": 0.9563270105347796
+            },
+            "user_id": 204958050,
+            "text_translation": ""
+        },
+        {
             "id": 1414476517313294338,
             "text": "ROG I would build it with my dad / I ’ never built one before but I know now thanks to",
             "created_at": "2021-07-12 06:47:36",
@@ -20445,6 +20817,27 @@
                 "negativity": 0.24079763270068932
             },
             "user_id": 1392245837305155585,
+            "text_translation": ""
+        },
+        {
+            "id": 1414475872468443136,
+            "text": ": 👑 Holding the key to the kingdom 👑 Let ' s build together ! & ;& ;",
+            "created_at": "2021-07-12 06:45:02",
+            "retweet_count": 14,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9219181967775619,
+                "negativity": 0.07808180322243849
+            },
+            "user_id": 42772970,
             "text_translation": ""
         },
         {
@@ -20685,27 +21078,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414470217103777792,
-            "text": ": ROG Strix 3080 Ti Edition Gaming Graphics Card ad",
-            "created_at": "2021-07-12 06:22:34",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 831731882903687168,
-            "text_translation": ""
-        },
-        {
             "id": 1414470191371612163,
             "text": "ROG I watch people build and it like so much fun . After making my first computer I …",
             "created_at": "2021-07-12 06:22:27",
@@ -20807,90 +21179,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414469181853077504,
-            "text": ": ROG Strix 3080 Ti Edition Gaming Graphics Card Ad",
-            "created_at": "2021-07-12 06:18:27",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 1347298785853059078,
-            "text_translation": ""
-        },
-        {
-            "id": 1414469078522150913,
-            "text": "ROG Strix 3080 Ti Edition Gaming Graphics Card Ad",
-            "created_at": "2021-07-12 06:18:02",
-            "retweet_count": 2,
-            "favorite_count": 5,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 1335470932958261249,
-            "text_translation": ""
-        },
-        {
-            "id": 1414469018061258752,
-            "text": "[$ 2 , 099 . 99 ]: ROG Strix 3080 Ti rtx3080 rtx3000 ⏰ 01 : 17 : 47",
-            "created_at": "2021-07-12 06:17:48",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 1360770482556051457,
-            "text_translation": ""
-        },
-        {
-            "id": 1414468938348605442,
-            "text": "ROG Strix 3080 Ti Edition Gaming Graphics Card ad",
-            "created_at": "2021-07-12 06:17:29",
-            "retweet_count": 4,
-            "favorite_count": 16,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9006673511293631,
-                "negativity": 0.09933264887063645
-            },
-            "user_id": 1187131529299935234,
-            "text_translation": ""
-        },
-        {
             "id": 1414468934124941318,
             "text": "Especially since my and is from .",
             "created_at": "2021-07-12 06:17:28",
@@ -20910,24 +21198,24 @@
             "text_translation": ""
         },
         {
-            "id": 1414468493303484417,
-            "text": ": Dual 3060 Edition Gaming Graphics Card Ad",
-            "created_at": "2021-07-12 06:15:43",
-            "retweet_count": 2,
+            "id": 1414468804285960194,
+            "text": "( US ) In Stock : ROG Strix 3080 Ti - $ 2 , 099 . 99 Link : :",
+            "created_at": "2021-07-12 06:16:57",
+            "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [
-                "3060"
+                "3080"
             ],
             "label": "neutral",
             "note": {
-                "classification": "pos",
-                "positivity": 0.9548670502254707,
-                "negativity": 0.0451329497745295
+                "classification": "neg",
+                "positivity": 0.416932907348243,
+                "negativity": 0.5830670926517572
             },
-            "user_id": 1347298785853059078,
+            "user_id": 499672969,
             "text_translation": ""
         },
         {
@@ -20950,27 +21238,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414468405931958277,
-            "text": "Dual 3060 Edition Gaming Graphics Card Ad",
-            "created_at": "2021-07-12 06:15:22",
-            "retweet_count": 2,
-            "favorite_count": 4,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9548670502254707,
-                "negativity": 0.0451329497745295
-            },
-            "user_id": 1335470932958261249,
-            "text_translation": ""
-        },
-        {
             "id": 1414468197152174081,
             "text": "ROG haven ' t actually built any but it would be so fun to try 😃",
             "created_at": "2021-07-12 06:14:32",
@@ -20987,48 +21254,6 @@
                 "negativity": 0.4510301505562645
             },
             "user_id": 98510195,
-            "text_translation": ""
-        },
-        {
-            "id": 1414468195411533824,
-            "text": "Dual 3060 Edition Gaming Graphics Card ad",
-            "created_at": "2021-07-12 06:14:31",
-            "retweet_count": 4,
-            "favorite_count": 7,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9548670502254707,
-                "negativity": 0.0451329497745295
-            },
-            "user_id": 1187131529299935234,
-            "text_translation": ""
-        },
-        {
-            "id": 1414468177929584642,
-            "text": "⚡ : Dual 3060 Edition Gaming - [$ 460 . 73 ] Link : ⏰ 2 :…",
-            "created_at": "2021-07-12 06:14:27",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9924140256237363,
-                "negativity": 0.007585974376264334
-            },
-            "user_id": 1374247110313439236,
             "text_translation": ""
         },
         {
@@ -21093,11 +21318,11 @@
             "text_translation": ""
         },
         {
-            "id": 1414467926095286273,
-            "text": "( US ) In Stock : Dual 3060 - $ 460 . 73 Link : :…",
-            "created_at": "2021-07-12 06:13:27",
+            "id": 1414467853504454658,
+            "text": "🔥 : 3060 Dual Link : | | rtx3060",
+            "created_at": "2021-07-12 06:13:10",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -21107,10 +21332,31 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8334854014598537,
-                "negativity": 0.1665145985401459
+                "positivity": 0.7302158273381291,
+                "negativity": 0.2697841726618707
             },
-            "user_id": 499672969,
+            "user_id": 1312929373343952896,
+            "text_translation": ""
+        },
+        {
+            "id": 1414467847422685184,
+            "text": "3060 DUAL is now available on US Link : monitor …",
+            "created_at": "2021-07-12 06:13:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3060"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9697375165393194,
+                "negativity": 0.030262483460681167
+            },
+            "user_id": 1388860173968715776,
             "text_translation": ""
         },
         {
@@ -21301,8 +21547,8 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4348837209302324,
-                "negativity": 0.5651162790697675
+                "positivity": 0.43488372093023253,
+                "negativity": 0.5651162790697677
             },
             "user_id": 1324332236846456833,
             "text_translation": ""
@@ -21324,27 +21570,6 @@
                 "negativity": 0.3682278645859155
             },
             "user_id": 1290418582111891456,
-            "text_translation": ""
-        },
-        {
-            "id": 1414465791454556160,
-            "text": "Any on this setup ? Duo 14 UX482 14 ” Touch Display , Core i7 - 1165G7 , …",
-            "created_at": "2021-07-12 06:04:58",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5055962515671278,
-                "negativity": 0.4944037484328711
-            },
-            "user_id": 125227438,
             "text_translation": ""
         },
         {
@@ -21545,7 +21770,7 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.867305963627037,
+                "positivity": 0.8673059636270372,
                 "negativity": 0.13269403637296376
             },
             "user_id": 1346062231096606723,
@@ -21732,25 +21957,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414461474232229892,
-            "text": ". My set up was basic and I was on an too",
-            "created_at": "2021-07-12 05:47:49",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5187729942427202,
-                "negativity": 0.48122700575727956
-            },
-            "user_id": 1018495098651365376,
-            "text_translation": ""
-        },
-        {
             "id": 1414461179833901056,
             "text": "ROG I ' t build any before , but I ' m looking forward to build one ! I was about to have my first …",
             "created_at": "2021-07-12 05:46:39",
@@ -21769,6 +21975,25 @@
                 "negativity": 0.46392036407664816
             },
             "user_id": 1356908769943244800,
+            "text_translation": ""
+        },
+        {
+            "id": 1414460565632823296,
+            "text": "Gaming 6800 Edition Graphics Card radeon6800 Source : Checker v3R Reason : Sold by …",
+            "created_at": "2021-07-12 05:44:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9544467562559539,
+                "negativity": 0.04555324374404768
+            },
+            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -21807,6 +22032,25 @@
                 "negativity": 0.46296296296296297
             },
             "user_id": 1336123093543215104,
+            "text_translation": ""
+        },
+        {
+            "id": 1414460289488203780,
+            "text": "⚡ : Gaming 6800 Edition - [$ 989 . 99 ] 🛒: Link :…",
+            "created_at": "2021-07-12 05:43:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9492099322799108,
+                "negativity": 0.05079006772009028
+            },
+            "user_id": 1374247110313439236,
             "text_translation": ""
         },
         {
@@ -21885,25 +22129,6 @@
                 "negativity": 0.05844155844155841
             },
             "user_id": 1360770482556051457,
-            "text_translation": ""
-        },
-        {
-            "id": 1414459747554693123,
-            "text": "Gaming 6800 Edition Graphics Ca ... is now in stock . Product Page :…",
-            "created_at": "2021-07-12 05:40:57",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5836875917077058,
-                "negativity": 0.41631240829229216
-            },
-            "user_id": 1377519267143376898,
             "text_translation": ""
         },
         {
@@ -22376,6 +22601,27 @@
                 "negativity": 0.21624911640414718
             },
             "user_id": 1142734430,
+            "text_translation": ""
+        },
+        {
+            "id": 1414454588011393027,
+            "text": "- DASH 15 . 6 \" Gaming - 11th Gen i7 - 16 rtx3070 geforce3070 Source : Best Buy checker Reason :…",
+            "created_at": "2021-07-12 05:20:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7920106867461889,
+                "negativity": 0.20798931325381226
+            },
+            "user_id": 1342919737358110720,
             "text_translation": ""
         },
         {
@@ -23505,6 +23751,27 @@
             "text_translation": ""
         },
         {
+            "id": 1414442354187046913,
+            "text": ", what is the best for Design and 4 ?",
+            "created_at": "2021-07-12 04:31:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Design"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6791472975221081,
+                "negativity": 0.32085270247789166
+            },
+            "user_id": 1381647299751899136,
+            "text_translation": ""
+        },
+        {
             "id": 1414442258565271553,
             "text": ": 6 . 78 \"( 2448 × 1080p ) 144Hz Snapdragon 888 64 + 12 + 8MP 24MP 4000mAh battery 65W Charging Android 11 Dual Speaker G -…",
             "created_at": "2021-07-12 04:31:28",
@@ -23566,27 +23833,6 @@
                 "negativity": 0.29486752260657123
             },
             "user_id": 14263748,
-            "text_translation": ""
-        },
-        {
-            "id": 1414441576030380037,
-            "text": "ROG My first build was with a 6200 😄 Used to run on medium . Currently use a gam …",
-            "created_at": "2021-07-12 04:28:45",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Build"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7981375466165318,
-                "negativity": 0.2018624533834688
-            },
-            "user_id": 1050662404533567489,
             "text_translation": ""
         },
         {
@@ -23918,27 +24164,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414439072244895746,
-            "text": "​. de : Gaming 3060 Edition ( 🔗 💸 € 528 . 77 as …",
-            "created_at": "2021-07-12 04:18:48",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "3060"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9415584415584424,
-                "negativity": 0.05844155844155841
-            },
-            "user_id": 1314575666130694144,
-            "text_translation": ""
-        },
-        {
             "id": 1414439048358158342,
             "text": "ROG Make sure your have 2 . 0 and 8th gen processor .. so you can to 11",
             "created_at": "2021-07-12 04:18:42",
@@ -24194,6 +24419,25 @@
                 "negativity": 0.4520366661577015
             },
             "user_id": 2667847939,
+            "text_translation": ""
+        },
+        {
+            "id": 1414436501169991685,
+            "text": ": Tech News Live Edge 20 778 Under 20k , 8Z Launch Date , , Big Go …",
+            "created_at": "2021-07-12 04:08:35",
+            "retweet_count": 33,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8097784997711753,
+                "negativity": 0.19022150022882622
+            },
+            "user_id": 708561032633909248,
             "text_translation": ""
         },
         {
@@ -25092,6 +25336,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414417063150440452,
+            "text": ": We ' re giving an 165Hz Gaming Monitor to one lucky winner that this and someone . To enter , click the link be …",
+            "created_at": "2021-07-12 02:51:21",
+            "retweet_count": 179,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9902157845893831,
+                "negativity": 0.009784215410615174
+            },
+            "user_id": 1388121903152332805,
+            "text_translation": ""
+        },
+        {
             "id": 1414416892446474245,
             "text": "We are live come hangout twitch corsair",
             "created_at": "2021-07-12 02:50:40",
@@ -25123,7 +25386,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.3357309161956301,
+                "positivity": 0.33573091619563017,
                 "negativity": 0.6642690838043692
             },
             "user_id": 3826662554,
@@ -25146,6 +25409,25 @@
                 "negativity": 0.34792720045405723
             },
             "user_id": 1158242959092883456,
+            "text_translation": ""
+        },
+        {
+            "id": 1414416315864035330,
+            "text": "tech tip : this tech tip was brought to you by , use code COMPUTER to get 20 % off",
+            "created_at": "2021-07-12 02:48:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7419429977293589,
+                "negativity": 0.25805700227064016
+            },
+            "user_id": 907617044673257472,
             "text_translation": ""
         },
         {
@@ -25222,6 +25504,25 @@
                 "negativity": 0.49142327652632695
             },
             "user_id": 95197226,
+            "text_translation": ""
+        },
+        {
+            "id": 1414414924290347008,
+            "text": ": Hold up 👀 ! Show us something rare or limited edition in your setup in the 👇👇 📷: Jay via …",
+            "created_at": "2021-07-12 02:42:51",
+            "retweet_count": 7,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9774636474521964,
+                "negativity": 0.022536352547801404
+            },
+            "user_id": 978672063060824065,
             "text_translation": ""
         },
         {
@@ -25543,6 +25844,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414408782851969033,
+            "text": ": Tinker Board 2S Review : No Competition for Raspberry Pi",
+            "created_at": "2021-07-12 02:18:26",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.42227652708743607,
+                "negativity": 0.5777234729125643
+            },
+            "user_id": 956556223,
+            "text_translation": ""
+        },
+        {
             "id": 1414408437539037184,
             "text": "ROG love your shirt 🥺♥️",
             "created_at": "2021-07-12 02:17:04",
@@ -25756,6 +26076,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414402519162232836,
+            "text": ": to release $ 1 , 500 with hardware",
+            "created_at": "2021-07-12 01:53:33",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7301362010622378,
+                "negativity": 0.26986379893776313
+            },
+            "user_id": 283746639,
+            "text_translation": ""
+        },
+        {
             "id": 1414402480511782915,
             "text": "I the 36 part , but if she is , then ... yea , its a hard 36 . It like she ' s had some work done and its still hard .",
             "created_at": "2021-07-12 01:53:24",
@@ -25889,48 +26228,6 @@
             "text_translation": ""
         },
         {
-            "id": 1414397542813605889,
-            "text": "Alameda 👉 i9 - 10980xe 18c / 36h ( Tu …",
-            "created_at": "2021-07-12 01:33:47",
-            "retweet_count": 0,
-            "favorite_count": 3,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i9"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 1020429831866109954,
-            "text_translation": ""
-        },
-        {
-            "id": 1414397356649467907,
-            "text": "2070 SUPER Dual 8GB GDDR6 Graphics Card ... Auction …",
-            "created_at": "2021-07-12 01:33:02",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "8GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2616382599847374,
-                "negativity": 0.738361740015264
-            },
-            "user_id": 307605293,
-            "text_translation": ""
-        },
-        {
             "id": 1414397299476688897,
             "text": "Rog phone 2",
             "created_at": "2021-07-12 01:32:49",
@@ -26030,6 +26327,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414393083358294019,
+            "text": ": Taking to the next level ⏫😲 the ultimate gaming machine the Z590 and …",
+            "created_at": "2021-07-12 01:16:03",
+            "retweet_count": 33,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.838873349036864,
+                "negativity": 0.1611266509631363
+            },
+            "user_id": 3169323374,
+            "text_translation": ""
+        },
+        {
             "id": 1414388176974647296,
             "text": "ROG This is be sick ! Any specific theme your going with ? All your have been 👌",
             "created_at": "2021-07-12 00:56:34",
@@ -26084,6 +26400,44 @@
                 "negativity": 0.5550217894660011
             },
             "user_id": 627032433,
+            "text_translation": ""
+        },
+        {
+            "id": 1414386133467869185,
+            "text": ": ١٥٢ 65W C Charger , GaN Charger Dual Type C Wall Charger Plug , Power Adapter C …",
+            "created_at": "2021-07-12 00:48:26",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9103531127437444,
+                "negativity": 0.08964688725625578
+            },
+            "user_id": 880404478758932482,
+            "text_translation": ""
+        },
+        {
+            "id": 1414386031051350016,
+            "text": "١٥٢ 65W C Charger , GaN Charger Dual Type C Wall Charger Plug , Power Ad …",
+            "created_at": "2021-07-12 00:48:02",
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9103531127437444,
+                "negativity": 0.08964688725625578
+            },
+            "user_id": 880404478758932482,
             "text_translation": ""
         },
         {
@@ -26164,6 +26518,25 @@
                 "negativity": 0.426887890976131
             },
             "user_id": 354375188,
+            "text_translation": ""
+        },
+        {
+            "id": 1414380654175965189,
+            "text": "( US ) In Stock : 6700 DUAL - Other Seller - $ 999 . 95 Link : :",
+            "created_at": "2021-07-12 00:26:40",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2540711389288248,
+                "negativity": 0.7459288610711727
+            },
+            "user_id": 499672969,
             "text_translation": ""
         },
         {

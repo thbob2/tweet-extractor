@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432404192656822272,
+            "text": "$ 249 . 08 as of 08 / 28 / 2021 20 : 22 314 14 \" N4000 4GB 6 …",
+            "created_at": "2021-08-30 18:05:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1417980173979373568,
+            "text_translation": ""
+        },
+        {
+            "id": 1432288980943396867,
+            "text": "314 , N4000 , 14 ″ Full Display , 4GB LPDDR4 , 64GB , , Chrome , …",
+            "created_at": "2021-08-30 10:27:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.438125568698817,
+                "negativity": 0.5618744313011829
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        }
+    ]
+}

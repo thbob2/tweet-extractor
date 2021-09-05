@@ -152,7 +152,7 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.9868617890031284,
+                "positivity": 0.9868617890031283,
                 "negativity": 0.013138210996871095
             },
             "user_id": 4328383235,
@@ -280,6 +280,28 @@
                 "negativity": 0.17763157894736797
             },
             "user_id": 103398146,
+            "text_translation": ""
+        },
+        {
+            "id": 1413003711345999873,
+            "text": "harmony : Dell 15 16gb 512ssd Core i7 2gb",
+            "created_at": "2021-07-08 05:15:11",
+            "retweet_count": 33,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8536895674300253,
+                "negativity": 0.14631043256997497
+            },
+            "user_id": 1093218301960949761,
             "text_translation": ""
         },
         {

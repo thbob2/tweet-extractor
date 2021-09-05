@@ -1,28 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1419429821420085251,
-            "text": "Dell 15 9570 I7 - 8750H 32GbB RAM 512GB 10 PRO - Silver electronics ad",
-            "created_at": "2021-07-25 22:50:15",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.31081081081080925,
-                "negativity": 0.6891891891891884
-            },
-            "user_id": 336556251,
-            "text_translation": ""
-        },
-        {
             "id": 1419416540940734468,
             "text": "hashtag4 Dell Precision M3800 & ; 15 ( 9530 / 9550 ) 130W Adapter 492 -",
             "created_at": "2021-07-25 21:57:29",
@@ -61,6 +39,47 @@
                 "negativity": 0.5
             },
             "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1419354344156278788,
+            "text": "Dell 15 9570 i9 - 8950HK , 12MB Cache , 6 Core , 32GB Ram , 1TB , 1050Ti electronics ad",
+            "created_at": "2021-07-25 17:50:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i9",
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2414248021108173,
+                "negativity": 0.7585751978891807
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1419329876335763456,
+            "text": "13 . 5 15 Inch Case for Ladies Bag with Electronics Organizer for Dell 15 7590 9575 , …",
+            "created_at": "2021-07-25 16:13:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6793671958204832,
+                "negativity": 0.3206328041795179
+            },
+            "user_id": 801900606910844928,
             "text_translation": ""
         },
         {
@@ -118,6 +137,25 @@
                 "negativity": 0.3813176617283314
             },
             "user_id": 3385651828,
+            "text_translation": ""
+        },
+        {
+            "id": 1419276872215638021,
+            "text": "Dell 15 .",
+            "created_at": "2021-07-25 12:42:29",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 122647962,
             "text_translation": ""
         },
         {

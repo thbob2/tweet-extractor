@@ -58,6 +58,37 @@
             "text_translation": ""
         },
         {
+            "id": 1375202088192475146,
+            "text": "-& ; 1 Seat",
+            "created_at": "2021-03-25 21:45:02",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    19.1691203,
+                    72.9667919
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    72.9667919,
+                    19.1691203
+                ]
+            },
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6194029850746269,
+                "negativity": 0.3805970149253731
+            },
+            "user_id": 87188071,
+            "text_translation": ""
+        },
+        {
             "id": 1375198584514093059,
             "text": ": 2 Type of \" Low \" 😅",
             "created_at": "2021-03-25 21:31:07",
@@ -865,25 +896,6 @@
             "text_translation": ""
         },
         {
-            "id": 1375066388092571648,
-            "text": ": Back in the ‘ 60s , Ford ' s vision for the future of trucking was Big Red , a massive 600 - turbine - powered semi truck . It ' s bee …",
-            "created_at": "2021-03-25 12:45:49",
-            "retweet_count": 42,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6856329832188827,
-                "negativity": 0.31436701678112106
-            },
-            "user_id": 3242394666,
-            "text_translation": ""
-        },
-        {
             "id": 1375061461538459648,
             "text": ": The first time I fled was in 2000 . I a refugee . The second time was in 2018 , because I was w …",
             "created_at": "2021-03-25 12:26:14",
@@ -900,6 +912,25 @@
                 "negativity": 0.47914159783975047
             },
             "user_id": 1014877087130423297,
+            "text_translation": ""
+        },
+        {
+            "id": 1375055709457412100,
+            "text": ": Visit the following to improve ' s today 📈 ⭐ No Log - in : Go …",
+            "created_at": "2021-03-25 12:03:23",
+            "retweet_count": 43,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8860547101195752,
+                "negativity": 0.11394528988042428
+            },
+            "user_id": 1292503737416572928,
             "text_translation": ""
         },
         {
@@ -1449,6 +1480,25 @@
                 "negativity": 0.6289014509240256
             },
             "user_id": 382252472,
+            "text_translation": ""
+        },
+        {
+            "id": 1374917671469350913,
+            "text": ": \" Sorry , , where was I ? Anyway , her is 10 . I mean her is girl . I mean I ' M girl . I mean gay . I mean she ' s cut …",
+            "created_at": "2021-03-25 02:54:52",
+            "retweet_count": 1001,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.20765264158507962,
+                "negativity": 0.7923473584149217
+            },
+            "user_id": 959493240771592194,
             "text_translation": ""
         },
         {

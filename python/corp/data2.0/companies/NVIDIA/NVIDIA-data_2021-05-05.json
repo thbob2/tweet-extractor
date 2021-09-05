@@ -61,28 +61,6 @@
             "text_translation": ""
         },
         {
-            "id": 1390042451608539137,
-            "text": "[$ 2 , 199 . 99 ]: OMEN 30L Gaming - Core i9 - 10850K , 3080 …",
-            "created_at": "2021-05-05 20:35:20",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i9",
-                "3080"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6676882661996489,
-                "negativity": 0.3323117338003505
-            },
-            "user_id": 1306463816226660352,
-            "text_translation": ""
-        },
-        {
             "id": 1390035952291270657,
             "text": ": My Joker Theme Gaming Build 🤡 …",
             "created_at": "2021-05-05 20:09:31",
@@ -161,6 +139,25 @@
             "text_translation": ""
         },
         {
+            "id": 1389999780433039361,
+            "text": "x : Sample image from random point in latent space . imagination …",
+            "created_at": "2021-05-05 17:45:47",
+            "retweet_count": 17,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.251797896926349,
+                "negativity": 0.7482021030736528
+            },
+            "user_id": 1311904892076781568,
+            "text_translation": ""
+        },
+        {
             "id": 1389975995856297991,
             "text": ": $ Expanded Deal with Variational AI for Machine Learning Compute new (…",
             "created_at": "2021-05-05 16:11:16",
@@ -217,6 +214,27 @@
                 "negativity": 0.5550170323907588
             },
             "user_id": 1336444796886536200,
+            "text_translation": ""
+        },
+        {
+            "id": 1389951406094831617,
+            "text": "3080 10G for 1599 . 99 € is available at …",
+            "created_at": "2021-05-05 14:33:33",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "3080"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6274344326149051,
+                "negativity": 0.37256556738509455
+            },
+            "user_id": 1332955480306675713,
             "text_translation": ""
         },
         {

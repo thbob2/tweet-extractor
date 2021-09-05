@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1421604193119481862,
+            "text": "Dell , 13 ”, 9305 , i5 - 1135G7 , 11th Gen , CORE electronics ad",
+            "created_at": "2021-07-31 22:50:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i5"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.19426751592356656,
+                "negativity": 0.8057324840764357
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
             "id": 1421574617165180931,
             "text": "just mine to W11 Dell 13",
             "created_at": "2021-07-31 20:52:54",
@@ -38,28 +59,6 @@
                 "negativity": 0.14541707494167477
             },
             "user_id": 633429782,
-            "text_translation": ""
-        },
-        {
-            "id": 1421498481420681222,
-            "text": "Dell 13 9365 2 - in - 1 i5 7th Gen 8GB 256SSD BATTERY NOT CHARGING electronics ad",
-            "created_at": "2021-07-31 15:50:22",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i5",
-                "8GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.24908225138688533,
-                "negativity": 0.7509177486131151
-            },
-            "user_id": 336556251,
             "text_translation": ""
         },
         {
@@ -139,6 +138,25 @@
                 "negativity": 0.6568708315829609
             },
             "user_id": 1872029598,
+            "text_translation": ""
+        },
+        {
+            "id": 1421372716305711106,
+            "text": "Dell 13 9360 Battery 60Wh 4 Cell PW23Y TP1GT £ 89 . 59 Brand new Genuine Dell re …",
+            "created_at": "2021-07-31 07:30:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6253609904916285,
+                "negativity": 0.3746390095083693
+            },
+            "user_id": 95885979,
             "text_translation": ""
         }
     ]

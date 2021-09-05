@@ -319,7 +319,7 @@
             "label": "negative",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4406785925670072,
+                "positivity": 0.44067859256700725,
                 "negativity": 0.5593214074329923
             },
             "user_id": 996128570,
@@ -803,6 +803,25 @@
             "text_translation": ""
         },
         {
+            "id": 1385949404918542340,
+            "text": ": \" .\" ① ( 1 / 3 )",
+            "created_at": "2021-04-24 13:31:02",
+            "retweet_count": 730,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 733069462648160256,
+            "text_translation": ""
+        },
+        {
             "id": 1385945453770989568,
             "text": "me : ' 57 Chevy with 650 🔥",
             "created_at": "2021-04-24 13:15:20",
@@ -990,6 +1009,25 @@
                 "negativity": 0.20904436860068282
             },
             "user_id": 1115880739642531841,
+            "text_translation": ""
+        },
+        {
+            "id": 1385865176793030656,
+            "text": "I vote for at the",
+            "created_at": "2021-04-24 07:56:20",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3850488627843843,
+                "negativity": 0.6149511372156153
+            },
+            "user_id": 1171610043516506112,
             "text_translation": ""
         },
         {
@@ -1298,6 +1336,25 @@
                 "negativity": 0.5041804483686705
             },
             "user_id": 1349374354589708289,
+            "text_translation": ""
+        },
+        {
+            "id": 1385780108821073923,
+            "text": ": 🔎 🐨🔎 Goal : 200 and 50 🔗 🔗 🔗",
+            "created_at": "2021-04-24 02:18:19",
+            "retweet_count": 30,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4697712418300661,
+                "negativity": 0.5302287581699343
+            },
+            "user_id": 2319973195,
             "text_translation": ""
         },
         {

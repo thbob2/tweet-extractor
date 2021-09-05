@@ -435,7 +435,7 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6562975770196511,
+                "positivity": 0.656297577019651,
                 "negativity": 0.3437024229803496
             },
             "user_id": 1351347747396349952,
@@ -515,25 +515,6 @@
                 "negativity": 0.44396220081207455
             },
             "user_id": 1097379207234183171,
-            "text_translation": ""
-        },
-        {
-            "id": 1369332073723551747,
-            "text": "down",
-            "created_at": "2021-03-09 16:59:41",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.49708029197080295,
-                "negativity": 0.5029197080291972
-            },
-            "user_id": 744074099916300289,
             "text_translation": ""
         },
         {
@@ -1113,25 +1094,6 @@
             "text_translation": ""
         },
         {
-            "id": 1369198353691652098,
-            "text": "[ MAY BE EARLY ] Sapphire 11305 - 02 - 20G Pulse 6800 4 . 0 radeon6800 Source : Checker v3S …",
-            "created_at": "2021-03-09 08:08:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4717061756984148,
-                "negativity": 0.5282938243015862
-            },
-            "user_id": 1363974177099816968,
-            "text_translation": ""
-        },
-        {
             "id": 1369180560673869825,
             "text": "I ' been gaming with for 10 now",
             "created_at": "2021-03-09 06:57:38",
@@ -1186,6 +1148,25 @@
                 "negativity": 0.752099137055242
             },
             "user_id": 1338072958670028801,
+            "text_translation": ""
+        },
+        {
+            "id": 1369172681275367427,
+            "text": ": We are to celebrate the at and around the world who continue pushing us all forward to solve some of t …",
+            "created_at": "2021-03-09 06:26:19",
+            "retweet_count": 39,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7539023976936194,
+                "negativity": 0.2460976023063821
+            },
+            "user_id": 82837121,
             "text_translation": ""
         },
         {

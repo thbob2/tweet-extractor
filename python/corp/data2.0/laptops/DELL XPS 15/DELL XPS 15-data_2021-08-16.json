@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1427417479911985162,
+            "text": "Dell 15 9560 electronics ad",
+            "created_at": "2021-08-16 23:50:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
             "id": 1427365811350552582,
             "text": "The new Dell 15 should be good",
             "created_at": "2021-08-16 20:25:03",
@@ -97,6 +116,27 @@
                 "negativity": 0.23307083034039575
             },
             "user_id": 834988241640165376,
+            "text_translation": ""
+        },
+        {
+            "id": 1427149319040233476,
+            "text": "One of the on the specs is 15 . 6 display . from is only 13 something . So it wont comply w …",
+            "created_at": "2021-08-16 06:04:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6954236960767599,
+                "negativity": 0.3045763039232411
+            },
+            "user_id": 1088320459010174976,
             "text_translation": ""
         },
         {

@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1422700315988488193,
-            "text": "The Dell 15 , x360 and more are on sale today",
-            "created_at": "2021-08-03 23:26:02",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9577041637664625,
-                "negativity": 0.04229583623353804
-            },
-            "user_id": 33756681,
-            "text_translation": ""
-        },
-        {
             "id": 1422691926688649216,
             "text": ": The Dell 15 , x360 and more are on sale today",
             "created_at": "2021-08-03 22:52:42",
@@ -176,6 +157,25 @@
             "text_translation": ""
         },
         {
+            "id": 1422554410274762755,
+            "text": "the dell 13 / 15 is pretty great for the money , or the nitro if you have a budget",
+            "created_at": "2021-08-03 13:46:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.13409117911999296,
+                "negativity": 0.8659088208800069
+            },
+            "user_id": 842555219171008513,
+            "text_translation": ""
+        },
+        {
             "id": 1422518287171297287,
             "text": "Told I need 15 on my , they ' t even respond",
             "created_at": "2021-08-03 11:22:43",
@@ -271,6 +271,25 @@
                 "negativity": 0.1997414615038173
             },
             "user_id": 728307108098277377,
+            "text_translation": ""
+        },
+        {
+            "id": 1422419636096749583,
+            "text": "Dell 15 or 13 . Though I prefer the screen when .",
+            "created_at": "2021-08-03 04:50:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8718590548760613,
+                "negativity": 0.12814094512393912
+            },
+            "user_id": 1412470742239911936,
             "text_translation": ""
         },
         {

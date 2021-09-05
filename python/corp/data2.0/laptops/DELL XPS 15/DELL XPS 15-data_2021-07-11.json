@@ -1,27 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1414361294266830855,
-            "text": ": NEW VIDEO !! DELL 15 9510 in Arctic White : Core i9 - 11900H & ; 3050ti . That display ……",
-            "created_at": "2021-07-11 23:09:44",
-            "retweet_count": 2,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i9"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9322165990429576,
-                "negativity": 0.06778340095704262
-            },
-            "user_id": 2161654962,
-            "text_translation": ""
-        },
-        {
             "id": 1414285619216494593,
             "text": "I ' been a Dell 15 since college so 4 - 5 now and it ' s been not too bad once I fixed e …",
             "created_at": "2021-07-11 18:09:02",
@@ -41,6 +20,25 @@
             "text_translation": ""
         },
         {
+            "id": 1414285522906886144,
+            "text": "I ' d recommend the Dell 13 series . It ' s been considered king of the hill for quite a while , I think .…",
+            "created_at": "2021-07-11 18:08:39",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8634101360975582,
+                "negativity": 0.13658986390244118
+            },
+            "user_id": 14170650,
+            "text_translation": ""
+        },
+        {
             "id": 1414257532151947274,
             "text": "Genuine Dell 15 9560 UPPER CASE Y2F9N",
             "created_at": "2021-07-11 16:17:25",
@@ -57,6 +55,27 @@
                 "negativity": 0.06516757376109965
             },
             "user_id": 1221379289121054721,
+            "text_translation": ""
+        },
+        {
+            "id": 1414222533306503169,
+            "text": "” Standard specs ” Really ? The vast majority of don ’ t have 10 …",
+            "created_at": "2021-07-11 13:58:21",
+            "retweet_count": 0,
+            "favorite_count": 10,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6817239267473441,
+                "negativity": 0.3182760732526551
+            },
+            "user_id": 1352020459861237760,
             "text_translation": ""
         },
         {

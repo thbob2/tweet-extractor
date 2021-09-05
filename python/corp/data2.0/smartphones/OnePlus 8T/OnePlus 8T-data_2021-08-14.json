@@ -109,7 +109,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.6324595209643322,
-                "negativity": 0.3675404790356697
+                "negativity": 0.3675404790356698
             },
             "user_id": 1386323687113060355,
             "text_translation": ""
@@ -305,6 +305,44 @@
             "text_translation": ""
         },
         {
+            "id": 1426528395987464196,
+            "text": "S20 fe , 8 8t",
+            "created_at": "2021-08-14 12:57:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1015191785742749697,
+            "text_translation": ""
+        },
+        {
+            "id": 1426527609526050817,
+            "text": "8 & ; 8T , Galaxy S20 , Note 10 Pro & ; & ; & ; grad ?",
+            "created_at": "2021-08-14 12:54:20",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5094043057643047,
+                "negativity": 0.4905956942356952
+            },
+            "user_id": 1082678111282569222,
+            "text_translation": ""
+        },
+        {
             "id": 1426526834519416835,
             "text": "💙 but I ' m still my 8T 😁",
             "created_at": "2021-08-14 12:51:15",
@@ -362,6 +400,25 @@
             "text_translation": ""
         },
         {
+            "id": 1426504888205430784,
+            "text": "GB5 COMPUTE ( ) Name : Snapdragon 855 Identifier : ARM 65 architecture 8 variant 1 part 3396 r …",
+            "created_at": "2021-08-14 11:24:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9044656732582469,
+                "negativity": 0.09553432674175422
+            },
+            "user_id": 1281135823539314688,
+            "text_translation": ""
+        },
+        {
             "id": 1426504267863625728,
             "text": "It ' s August 14 , 2021 at 01 : 21PM to buy a device 90hz oneplus8tpro …",
             "created_at": "2021-08-14 11:21:35",
@@ -378,6 +435,25 @@
                 "negativity": 0.37324766355140176
             },
             "user_id": 178042538,
+            "text_translation": ""
+        },
+        {
+            "id": 1426504047188660227,
+            "text": "on : GAME FOR PEACE 🥵 INSANE CAR | , 9R , 9 , 8T , 7T ,, 7 , 6T , 8 , N105G , N100 , , 5T ,",
+            "created_at": "2021-08-14 11:20:42",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.676550283812961,
+                "negativity": 0.3234497161870388
+            },
+            "user_id": 786918738213924865,
             "text_translation": ""
         },
         {

@@ -337,7 +337,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.5226729149721334,
-                "negativity": 0.4773270850278657
+                "negativity": 0.47732708502786564
             },
             "user_id": 19936982,
             "text_translation": ""
@@ -1249,6 +1249,27 @@
             "text_translation": ""
         },
         {
+            "id": 1411048910651490309,
+            "text": "specs ?",
+            "created_at": "2021-07-02 19:47:30",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 831288930804707328,
+            "text_translation": ""
+        },
+        {
             "id": 1411048753134374912,
             "text": "2nd got here today and I ’ m very happy",
             "created_at": "2021-07-02 19:46:53",
@@ -1639,6 +1660,25 @@
             "text_translation": ""
         },
         {
+            "id": 1411029704094584833,
+            "text": ": Embrace the glow of Night City with the 520 2077 Limited Edition ! Add it to your custom at",
+            "created_at": "2021-07-02 18:31:11",
+            "retweet_count": 25,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9725870048248827,
+                "negativity": 0.027412995175117
+            },
+            "user_id": 1655198150,
+            "text_translation": ""
+        },
+        {
             "id": 1411029414767378435,
             "text": "My H510 Elite , and brake line * should * arrive soon as well .",
             "created_at": "2021-07-02 18:30:02",
@@ -1693,6 +1733,27 @@
                 "negativity": 0.5325811344225434
             },
             "user_id": 19936982,
+            "text_translation": ""
+        },
+        {
+            "id": 1411023862968508426,
+            "text": ": Specs : B450M gaming 1660 5 2600 32GB Corsair vengeance ddr4 3200mhz …",
+            "created_at": "2021-07-02 18:07:59",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "32GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.749999999999999,
+                "negativity": 0.25
+            },
+            "user_id": 1158512722272763906,
             "text_translation": ""
         },
         {
@@ -1832,6 +1893,25 @@
                 "negativity": 0.05384064625973426
             },
             "user_id": 756432691927605248,
+            "text_translation": ""
+        },
+        {
+            "id": 1411008782063357952,
+            "text": "Ratio",
+            "created_at": "2021-07-02 17:08:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5192307692307693,
+                "negativity": 0.4807692307692311
+            },
+            "user_id": 892175276,
             "text_translation": ""
         },
         {
@@ -2278,6 +2358,25 @@
             "text_translation": ""
         },
         {
+            "id": 1410987808056135686,
+            "text": ": Happy from ! ✨ and set this as your background for a chance to win a prize !",
+            "created_at": "2021-07-02 15:44:42",
+            "retweet_count": 154,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7067109556794939,
+                "negativity": 0.2932890443205052
+            },
+            "user_id": 543242825,
+            "text_translation": ""
+        },
+        {
             "id": 1410987020097261568,
             "text": ": MASTER RACE , DRIP 💧",
             "created_at": "2021-07-02 15:41:35",
@@ -2370,25 +2469,6 @@
                 "negativity": 0.2945205479452054
             },
             "user_id": 1211152147628212226,
-            "text_translation": ""
-        },
-        {
-            "id": 1410972970265104385,
-            "text": "I wish",
-            "created_at": "2021-07-02 14:45:45",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4955357142857142,
-                "negativity": 0.5044642857142856
-            },
-            "user_id": 775682211861237760,
             "text_translation": ""
         },
         {
@@ -2854,6 +2934,25 @@
             "text_translation": ""
         },
         {
+            "id": 1410937248984580097,
+            "text": "de",
+            "created_at": "2021-07-02 12:23:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 907996508909391872,
+            "text_translation": ""
+        },
+        {
             "id": 1410933003161907209,
             "text": "Yes ... \" Hey , do you like potatoes ? Potatoes this week 50 % off !!!....\"",
             "created_at": "2021-07-02 12:06:56",
@@ -3160,6 +3259,25 @@
             "text_translation": ""
         },
         {
+            "id": 1410914861702205449,
+            "text": "what the",
+            "created_at": "2021-07-02 10:54:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4927499456245921,
+                "negativity": 0.5072500543754077
+            },
+            "user_id": 1116082105132281856,
+            "text_translation": ""
+        },
+        {
             "id": 1410913024068751362,
             "text": "My fun mail came last week just in time for !",
             "created_at": "2021-07-02 10:47:33",
@@ -3252,6 +3370,25 @@
                 "negativity": 0.4848544453186467
             },
             "user_id": 763112482390978563,
+            "text_translation": ""
+        },
+        {
+            "id": 1410909379436548100,
+            "text": "Not really",
+            "created_at": "2021-07-02 10:33:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5024739242421957,
+                "negativity": 0.4975260757578043
+            },
+            "user_id": 1302307329782681600,
             "text_translation": ""
         },
         {
@@ -3687,7 +3824,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4035396200884955,
+                "positivity": 0.4035396200884954,
                 "negativity": 0.5964603799115025
             },
             "user_id": 1329631823601623040,
@@ -3750,6 +3887,27 @@
                 "negativity": 0.47317085053028973
             },
             "user_id": 22598860,
+            "text_translation": ""
+        },
+        {
+            "id": 1410869278170091521,
+            "text": "H510 - CA - H510B - W1 - Compact Mid - Tower Gaming Case - Front I / O Type - C Port - Tempered Glass Side Pa …",
+            "created_at": "2021-07-02 07:53:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.969461643583943,
+                "negativity": 0.03053835641605616
+            },
+            "user_id": 3168876270,
             "text_translation": ""
         },
         {
@@ -3907,6 +4065,25 @@
             "text_translation": ""
         },
         {
+            "id": 1410847490010763266,
+            "text": ": the Beacon ® INFINITE global giveaway . See their prize announcement at Other …",
+            "created_at": "2021-07-02 06:27:08",
+            "retweet_count": 9,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.05759616898943757,
+                "negativity": 0.94240383101056
+            },
+            "user_id": 883828927839469568,
+            "text_translation": ""
+        },
+        {
             "id": 1410846950669361156,
             "text": "what the hell",
             "created_at": "2021-07-02 06:24:59",
@@ -4037,6 +4214,25 @@
                 "negativity": 0.5089086859688196
             },
             "user_id": 859931501479198720,
+            "text_translation": ""
+        },
+        {
+            "id": 1410840719107952642,
+            "text": "Happy !",
+            "created_at": "2021-07-02 06:00:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5702702702702702,
+                "negativity": 0.4297297297297299
+            },
+            "user_id": 1403237754251747328,
             "text_translation": ""
         },
         {
@@ -4268,6 +4464,25 @@
             "text_translation": ""
         },
         {
+            "id": 1410811281150398464,
+            "text": ": Mobile count too !",
+            "created_at": "2021-07-02 04:03:15",
+            "retweet_count": 12,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6430285277225517,
+                "negativity": 0.3569714722774488
+            },
+            "user_id": 1274650175680573440,
+            "text_translation": ""
+        },
+        {
             "id": 1410810476519473154,
             "text": "WANT 😍😍😍",
             "created_at": "2021-07-02 04:00:03",
@@ -4433,7 +4648,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.6909714732854126,
-                "negativity": 0.30902852671458847
+                "negativity": 0.3090285267145885
             },
             "user_id": 1337474486019391489,
             "text_translation": ""
@@ -4800,7 +5015,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.33924153858434264,
-                "negativity": 0.6607584614156573
+                "negativity": 0.6607584614156574
             },
             "user_id": 1657319132,
             "text_translation": ""

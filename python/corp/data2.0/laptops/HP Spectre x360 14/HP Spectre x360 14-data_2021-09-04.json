@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1434078229929742339,
+            "text": "I read a the review of x360 14 from series is just a charade from as …",
+            "created_at": "2021-09-04 08:57:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5048625109792816,
+                "negativity": 0.49513748902071847
+            },
+            "user_id": 761794253727162368,
+            "text_translation": ""
+        },
+        {
+            "id": 1434074150771965952,
+            "text": "X360 14 review : Where style substance via",
+            "created_at": "2021-09-04 08:41:36",
+            "retweet_count": 1,
+            "favorite_count": 26,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.48991143660971836,
+                "negativity": 0.5100885633902823
+            },
+            "user_id": 134758540,
+            "text_translation": ""
+        }
+    ]
+}

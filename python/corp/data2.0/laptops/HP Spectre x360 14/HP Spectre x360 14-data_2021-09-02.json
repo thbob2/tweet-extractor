@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1433577024728154121,
+            "text": "I ' m a dummy who for an out of warranty replacement Surface Book , because like many people , it ' s a fire hazard …",
+            "created_at": "2021-09-02 23:46:11",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6225016323383,
+                "negativity": 0.3774983676617021
+            },
+            "user_id": 26382067,
+            "text_translation": ""
+        },
+        {
+            "id": 1433454070078099460,
+            "text": "x360 14",
+            "created_at": "2021-09-02 15:37:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1370623956,
+            "text_translation": ""
+        },
+        {
+            "id": 1433301285323878401,
+            "text": ": * Stylish premium design * Extremely versatile * Excellent battery life * super SENSITIVE * 4K DISPLAY * H …",
+            "created_at": "2021-09-02 05:30:30",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9757653996388801,
+                "negativity": 0.024234600361122616
+            },
+            "user_id": 1212775589783883776,
+            "text_translation": ""
+        }
+    ]
+}

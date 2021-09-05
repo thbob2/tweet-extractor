@@ -1,25 +1,41 @@
 {
     "tweets": [
         {
-            "id": 1426972218479742981,
-            "text": ": Quality over Quantity .. Super fresh 2021 Gaming Dell ......( 8th Gen ) core i7 8gig ram 256ssd 1TB 15 2 . 60GH …",
-            "created_at": "2021-08-15 18:21:03",
-            "retweet_count": 24,
+            "id": 1427019221679185924,
+            "text": "Dell 13 or 15",
+            "created_at": "2021-08-15 21:27:49",
+            "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM"
-            ],
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 884538933383757824,
+            "text_translation": ""
+        },
+        {
+            "id": 1426984945092894720,
+            "text": "Dell 13 15 Review - The Best ? Dell XPS13 XPS15",
+            "created_at": "2021-08-15 19:11:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.6006467087524419,
-                "negativity": 0.39935329124755764
+                "positivity": 0.77503278706079,
+                "negativity": 0.2249672129392099
             },
-            "user_id": 1401064463600607232,
+            "user_id": 1290986925952835584,
             "text_translation": ""
         },
         {

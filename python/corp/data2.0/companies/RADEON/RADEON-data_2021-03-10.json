@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1369717258654736390,
+            "text": "Use code O3Q4AP5FKXJ1 for an incredible discount ! ;",
+            "created_at": "2021-03-10 18:30:17",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6028171287719166,
+                "negativity": 0.3971828712280843
+            },
+            "user_id": 1260968439931420677,
+            "text_translation": ""
+        },
+        {
             "id": 1369679801829752838,
             "text": "6800 and 6800 : Check for inventory at , Best Buy and more",
             "created_at": "2021-03-10 16:01:26",

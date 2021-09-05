@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1416185515150385154,
-            "text": ": 8 mil on Twitch 💜 giving away 8 or console of YOUR CHOICE to 8 ! + like + comment to …",
-            "created_at": "2021-07-16 23:58:32",
-            "retweet_count": 80312,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6549477848432512,
-                "negativity": 0.34505221515674817
-            },
-            "user_id": 1156241972136423427,
-            "text_translation": ""
-        },
-        {
             "id": 1416184618080894977,
             "text": "Less goo",
             "created_at": "2021-07-16 23:54:59",
@@ -114,6 +95,25 @@
                 "negativity": 0.46972222222222226
             },
             "user_id": 1206316035776876544,
+            "text_translation": ""
+        },
+        {
+            "id": 1416182500930605057,
+            "text": "thanks",
+            "created_at": "2021-07-16 23:46:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5990990990990991,
+                "negativity": 0.4009009009009008
+            },
+            "user_id": 4645102335,
             "text_translation": ""
         },
         {
@@ -594,25 +594,6 @@
             "text_translation": ""
         },
         {
-            "id": 1416166965916356612,
-            "text": "That would be awesome",
-            "created_at": "2021-07-16 22:44:50",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6991449084768908,
-                "negativity": 0.3008550915231093
-            },
-            "user_id": 1413103741339832323,
-            "text_translation": ""
-        },
-        {
             "id": 1416166779794214919,
             "text": "I wish i had seen this tweet",
             "created_at": "2021-07-16 22:44:06",
@@ -626,7 +607,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.5337721504045769,
-                "negativity": 0.46622784959542307
+                "negativity": 0.4662278495954231
             },
             "user_id": 2657736314,
             "text_translation": ""
@@ -746,6 +727,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416165481489354756,
+            "text": "hard",
+            "created_at": "2021-07-16 22:38:56",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4877232142857141,
+                "negativity": 0.5122767857142856
+            },
+            "user_id": 1280566270195367941,
+            "text_translation": ""
+        },
+        {
             "id": 1416165425910538242,
             "text": "Well damn , good for you",
             "created_at": "2021-07-16 22:38:43",
@@ -819,6 +819,25 @@
                 "negativity": 0.20232413236053348
             },
             "user_id": 859177995805896704,
+            "text_translation": ""
+        },
+        {
+            "id": 1416162749776859137,
+            "text": "Limited edition",
+            "created_at": "2021-07-16 22:28:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8292751981879956,
+                "negativity": 0.17072480181200453
+            },
+            "user_id": 84856887,
             "text_translation": ""
         },
         {
@@ -948,8 +967,8 @@
             "label": "neutral",
             "note": {
                 "classification": "pos",
-                "positivity": 0.536923076923077,
-                "negativity": 0.46307692307692305
+                "positivity": 0.5369230769230768,
+                "negativity": 0.463076923076923
             },
             "user_id": 1196722215661649920,
             "text_translation": ""
@@ -1163,6 +1182,25 @@
                 "negativity": 0.3452380952380953
             },
             "user_id": 2946675683,
+            "text_translation": ""
+        },
+        {
+            "id": 1416151616936423425,
+            "text": "sick",
+            "created_at": "2021-07-16 21:43:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4672131147540984,
+                "negativity": 0.5327868852459015
+            },
+            "user_id": 1088867914441281536,
             "text_translation": ""
         },
         {
@@ -2010,6 +2048,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416128260262567939,
+            "text": "I hope i win",
+            "created_at": "2021-07-16 20:11:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5637254901960784,
+                "negativity": 0.4362745098039217
+            },
+            "user_id": 900032317116342272,
+            "text_translation": ""
+        },
+        {
             "id": 1416128168830939144,
             "text": "Quite cool , shame they didnt release a card like they …",
             "created_at": "2021-07-16 20:10:40",
@@ -2064,25 +2121,6 @@
                 "negativity": 0.608575407288089
             },
             "user_id": 1642794050,
-            "text_translation": ""
-        },
-        {
-            "id": 1416127985438973952,
-            "text": "great !",
-            "created_at": "2021-07-16 20:09:56",
-            "retweet_count": 0,
-            "favorite_count": 5,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.589541547277937,
-                "negativity": 0.41045845272206305
-            },
-            "user_id": 19936982,
             "text_translation": ""
         },
         {
@@ -2159,25 +2197,6 @@
                 "negativity": 0.06343370260096018
             },
             "user_id": 2566114513,
-            "text_translation": ""
-        },
-        {
-            "id": 1416126048895324160,
-            "text": "thank you for your support !",
-            "created_at": "2021-07-16 20:02:15",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6743579275826063,
-                "negativity": 0.3256420724173934
-            },
-            "user_id": 19936982,
             "text_translation": ""
         },
         {
@@ -3967,6 +3986,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416086728381698048,
+            "text": "Nice !",
+            "created_at": "2021-07-16 17:26:00",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5462962962962964,
+                "negativity": 0.45370370370370355
+            },
+            "user_id": 2342786010,
+            "text_translation": ""
+        },
+        {
             "id": 1416086657066061831,
             "text": "Could sell my .",
             "created_at": "2021-07-16 17:25:43",
@@ -4119,25 +4157,6 @@
                 "negativity": 0.5002626050420168
             },
             "user_id": 895268620066066434,
-            "text_translation": ""
-        },
-        {
-            "id": 1416085636008669187,
-            "text": "Hello",
-            "created_at": "2021-07-16 17:21:39",
-            "retweet_count": 0,
-            "favorite_count": 1,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.38888888888888884,
-                "negativity": 0.6111111111111108
-            },
-            "user_id": 931603586416566272,
             "text_translation": ""
         },
         {
@@ -4540,25 +4559,6 @@
             "text_translation": ""
         },
         {
-            "id": 1416080252191662089,
-            "text": "Yes .",
-            "created_at": "2021-07-16 17:00:16",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.4348837209302324,
-                "negativity": 0.5651162790697675
-            },
-            "user_id": 2481542108,
-            "text_translation": ""
-        },
-        {
             "id": 1416080087057903627,
             "text": "I love you ❤❤",
             "created_at": "2021-07-16 16:59:36",
@@ -4727,6 +4727,25 @@
                 "negativity": 0.5
             },
             "user_id": 1006270637445451776,
+            "text_translation": ""
+        },
+        {
+            "id": 1416077784548618242,
+            "text": ",",
+            "created_at": "2021-07-16 16:50:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1294316001941651456,
             "text_translation": ""
         },
         {
@@ -5710,25 +5729,6 @@
             "text_translation": ""
         },
         {
-            "id": 1416057014946615300,
-            "text": "I love",
-            "created_at": "2021-07-16 15:27:56",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5441400304414004,
-                "negativity": 0.45585996955859964
-            },
-            "user_id": 801222725872259073,
-            "text_translation": ""
-        },
-        {
             "id": 1416056764886310919,
             "text": "Just like everyone at 👊🏻💜",
             "created_at": "2021-07-16 15:26:56",
@@ -6130,25 +6130,6 @@
             "text_translation": ""
         },
         {
-            "id": 1416052109670223879,
-            "text": "Damn",
-            "created_at": "2021-07-16 15:08:26",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.44936708860759494,
-                "negativity": 0.5506329113924052
-            },
-            "user_id": 804996771390820352,
-            "text_translation": ""
-        },
-        {
             "id": 1416051580198080513,
             "text": "I wish for my first",
             "created_at": "2021-07-16 15:06:20",
@@ -6493,6 +6474,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416044297741291522,
+            "text": "i love",
+            "created_at": "2021-07-16 14:37:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5441400304414004,
+                "negativity": 0.45585996955859964
+            },
+            "user_id": 1056883043816955905,
+            "text_translation": ""
+        },
+        {
             "id": 1416043886456152069,
             "text": "fairy , give me a please",
             "created_at": "2021-07-16 14:35:46",
@@ -6549,6 +6549,25 @@
                 "negativity": 0.2788673694532981
             },
             "user_id": 818057567729352704,
+            "text_translation": ""
+        },
+        {
+            "id": 1416043137303252997,
+            "text": "! Well deserved !",
+            "created_at": "2021-07-16 14:32:47",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6563684085885697,
+                "negativity": 0.3436315914114306
+            },
+            "user_id": 22568325,
             "text_translation": ""
         },
         {
@@ -7358,6 +7377,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416023426276364288,
+            "text": "Can I get a free ?",
+            "created_at": "2021-07-16 13:14:27",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5035290067718317,
+                "negativity": 0.4964709932281686
+            },
+            "user_id": 1295295405605785602,
+            "text_translation": ""
+        },
+        {
             "id": 1416023122386563073,
             "text": "I wish for a free built",
             "created_at": "2021-07-16 13:13:15",
@@ -7585,25 +7623,6 @@
                 "negativity": 0.28736376364743205
             },
             "user_id": 1416019647900553216,
-            "text_translation": ""
-        },
-        {
-            "id": 1416020331400032256,
-            "text": "Let ’ s",
-            "created_at": "2021-07-16 13:02:10",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.45,
-                "negativity": 0.5499999999999999
-            },
-            "user_id": 440479697,
             "text_translation": ""
         },
         {
@@ -7918,25 +7937,6 @@
             "text_translation": ""
         },
         {
-            "id": 1416013975641284609,
-            "text": "simp",
-            "created_at": "2021-07-16 12:36:54",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5,
-                "negativity": 0.5
-            },
-            "user_id": 1173359902519111680,
-            "text_translation": ""
-        },
-        {
             "id": 1416013735911641102,
             "text": "give me give use me use give me use give me you",
             "created_at": "2021-07-16 12:35:57",
@@ -8073,6 +8073,25 @@
             "text_translation": ""
         },
         {
+            "id": 1416008634232762376,
+            "text": "a",
+            "created_at": "2021-07-16 12:15:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1379924837217472513,
+            "text_translation": ""
+        },
+        {
             "id": 1416008503358115840,
             "text": "so my lost the key after ( i fixed it already ) so I about it and all they told …",
             "created_at": "2021-07-16 12:15:10",
@@ -8167,6 +8186,25 @@
                 "negativity": 0.34593509810291473
             },
             "user_id": 1400680377606316033,
+            "text_translation": ""
+        },
+        {
+            "id": 1416007011846787074,
+            "text": "that",
+            "created_at": "2021-07-16 12:09:14",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5012729124236253,
+                "negativity": 0.49872708757637485
+            },
+            "user_id": 954517913507069952,
             "text_translation": ""
         },
         {
@@ -9016,6 +9054,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415994702629806082,
+            "text": "crossed",
+            "created_at": "2021-07-16 11:20:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.525,
+                "negativity": 0.4750000000000001
+            },
+            "user_id": 2803594038,
+            "text_translation": ""
+        },
+        {
             "id": 1415994298340986882,
             "text": "Between my work breaking and getting one that that ’ s the most basic with out a …",
             "created_at": "2021-07-16 11:18:43",
@@ -9086,7 +9143,7 @@
             "note": {
                 "classification": "neg",
                 "positivity": 0.3013097953918149,
-                "negativity": 0.6986902046081842
+                "negativity": 0.6986902046081841
             },
             "user_id": 1152505098,
             "text_translation": ""
@@ -10490,6 +10547,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415970734044815360,
+            "text": "You ?",
+            "created_at": "2021-07-16 09:45:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49219810040705564,
+                "negativity": 0.5078018995929443
+            },
+            "user_id": 883828927839469568,
+            "text_translation": ""
+        },
+        {
             "id": 1415970288605360128,
             "text": ", now that ' s cool ! 👌 ^",
             "created_at": "2021-07-16 09:43:18",
@@ -10734,6 +10810,25 @@
                 "negativity": 0.48993915004000105
             },
             "user_id": 861438537731682304,
+            "text_translation": ""
+        },
+        {
+            "id": 1415968255894867968,
+            "text": "Its",
+            "created_at": "2021-07-16 09:35:14",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5264869888475836,
+                "negativity": 0.4735130111524163
+            },
+            "user_id": 789987213710942208,
             "text_translation": ""
         },
         {
@@ -12761,6 +12856,25 @@
                 "negativity": 0.5018642682689002
             },
             "user_id": 1067596670614016000,
+            "text_translation": ""
+        },
+        {
+            "id": 1415948147105411072,
+            "text": "I want one 🥺",
+            "created_at": "2021-07-16 08:15:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4972809224555189,
+                "negativity": 0.5027190775444811
+            },
+            "user_id": 1401558880480600066,
             "text_translation": ""
         },
         {
@@ -15569,6 +15683,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415931537502179331,
+            "text": "Sick",
+            "created_at": "2021-07-16 07:09:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4672131147540984,
+                "negativity": 0.5327868852459015
+            },
+            "user_id": 782519458405515265,
+            "text_translation": ""
+        },
+        {
             "id": 1415930444110077956,
             "text": "I never win anything but huge fan",
             "created_at": "2021-07-16 07:04:59",
@@ -15664,6 +15797,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415925338152996865,
+            "text": "please",
+            "created_at": "2021-07-16 06:44:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3423913043478261,
+                "negativity": 0.6576086956521738
+            },
+            "user_id": 1305068513799749632,
+            "text_translation": ""
+        },
+        {
             "id": 1415924479813996547,
             "text": "Let ' s try my luck 🙏",
             "created_at": "2021-07-16 06:41:17",
@@ -15680,6 +15832,25 @@
                 "negativity": 0.6163538873994635
             },
             "user_id": 1120614460824145920,
+            "text_translation": ""
+        },
+        {
+            "id": 1415924394258362370,
+            "text": ": What real are",
+            "created_at": "2021-07-16 06:40:56",
+            "retweet_count": 30,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5123376942144743,
+                "negativity": 0.48766230578552555
+            },
+            "user_id": 1250416258568220676,
             "text_translation": ""
         },
         {
@@ -16295,6 +16466,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415907038954102787,
+            "text": "Prime365 is dumb …",
+            "created_at": "2021-07-16 05:31:59",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2876106194690265,
+                "negativity": 0.7123893805309733
+            },
+            "user_id": 1147457132708503553,
+            "text_translation": ""
+        },
+        {
             "id": 1415906750578913282,
             "text": "8 mil is damn impressive . .",
             "created_at": "2021-07-16 05:30:50",
@@ -16349,6 +16539,25 @@
                 "negativity": 0.567554233930767
             },
             "user_id": 1144505810258550784,
+            "text_translation": ""
+        },
+        {
+            "id": 1415904220138545154,
+            "text": "I want",
+            "created_at": "2021-07-16 05:20:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49109131403118045,
+                "negativity": 0.5089086859688196
+            },
+            "user_id": 756089867700834305,
             "text_translation": ""
         },
         {
@@ -17136,6 +17345,25 @@
                 "negativity": 0.6351750323063126
             },
             "user_id": 1278716481576906753,
+            "text_translation": ""
+        },
+        {
+            "id": 1415885623643172867,
+            "text": "try",
+            "created_at": "2021-07-16 04:06:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.525,
+                "negativity": 0.4749999999999998
+            },
+            "user_id": 1214482619561177089,
             "text_translation": ""
         },
         {
@@ -18092,6 +18320,25 @@
             "text_translation": ""
         },
         {
+            "id": 1415861951415128068,
+            "text": "Let ’ s go",
+            "created_at": "2021-07-16 02:32:49",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45,
+                "negativity": 0.5499999999999999
+            },
+            "user_id": 1234460244354457606,
+            "text_translation": ""
+        },
+        {
             "id": 1415861886252371969,
             "text": "is a spy it will get ur discord token and will use it to spread …",
             "created_at": "2021-07-16 02:32:33",
@@ -18928,6 +19175,46 @@
             "text_translation": ""
         },
         {
+            "id": 1415845154406080512,
+            "text": "Gaming Build White 2021 | Hellhound Spectral | T - Force | ...",
+            "created_at": "2021-07-16 01:26:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8321736246597096,
+                "negativity": 0.167826375340291
+            },
+            "user_id": 424969119,
+            "text_translation": ""
+        },
+        {
+            "id": 1415845090984071172,
+            "text": "😎",
+            "created_at": "2021-07-16 01:25:49",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 2958557038,
+            "text_translation": ""
+        },
+        {
             "id": 1415844986260688896,
             "text": "I ' m 100 % getting one . People are about the storage space like they ' t do the exact same thing …",
             "created_at": "2021-07-16 01:25:24",
@@ -19442,6 +19729,25 @@
                 "negativity": 0.23740694824755745
             },
             "user_id": 3241069978,
+            "text_translation": ""
+        },
+        {
+            "id": 1415836404483952644,
+            "text": "all",
+            "created_at": "2021-07-16 00:51:18",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5021820448877805,
+                "negativity": 0.4978179551122194
+            },
+            "user_id": 2460851000,
             "text_translation": ""
         },
         {
@@ -20149,25 +20455,6 @@
                 "negativity": 0.7815380747649199
             },
             "user_id": 958752843388907520,
-            "text_translation": ""
-        },
-        {
-            "id": 1415825037777506307,
-            "text": "Among Us",
-            "created_at": "2021-07-16 00:06:08",
-            "retweet_count": 0,
-            "favorite_count": 2,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5812182741116751,
-                "negativity": 0.41878172588832474
-            },
-            "user_id": 968604991521931264,
             "text_translation": ""
         },
         {

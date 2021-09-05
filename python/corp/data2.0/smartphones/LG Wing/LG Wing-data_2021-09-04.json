@@ -1,0 +1,80 @@
+{
+    "tweets": [
+        {
+            "id": 1434297150461128705,
+            "text": "at 2 am and i want to buy wing or Galaxy Flip .",
+            "created_at": "2021-09-04 23:27:43",
+            "retweet_count": 0,
+            "favorite_count": 6,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.482846603592626,
+                "negativity": 0.5171533964073733
+            },
+            "user_id": 1241713599300505601,
+            "text_translation": ""
+        },
+        {
+            "id": 1434214375208808450,
+            "text": "I can Assure you all now that the Wing Name is Just a Marketing . Today I a WING 5G but it ' t …",
+            "created_at": "2021-09-04 17:58:48",
+            "retweet_count": 4,
+            "favorite_count": 184,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7624040810934622,
+                "negativity": 0.23759591890653728
+            },
+            "user_id": 811832313604608000,
+            "text_translation": ""
+        },
+        {
+            "id": 1434163123993391107,
+            "text": "WING FULLY UNLOCKED READY FOR ANY CARRIER AVAILABLE WITH US AT 9644 BEECHNUT ST 77036 CONTACT 713 -…",
+            "created_at": "2021-09-04 14:35:08",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.758454185284712,
+                "negativity": 0.24154581471529055
+            },
+            "user_id": 956660022938951680,
+            "text_translation": ""
+        },
+        {
+            "id": 1434049828749594624,
+            "text": "I ' m happy , and confused at the same time with this product",
+            "created_at": "2021-09-04 07:04:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.49771416087361914,
+                "negativity": 0.502285839126381
+            },
+            "user_id": 1202767015414398976,
+            "text_translation": ""
+        }
+    ]
+}

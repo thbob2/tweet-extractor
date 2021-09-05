@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1431039779190173697,
+            "text": "【 】 CE 5G EB2101 ( 256GB ) / Ink",
+            "created_at": "2021-08-26 23:44:05",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.75,
+                "negativity": 0.2499999999999997
+            },
+            "user_id": 516198585,
+            "text_translation": ""
+        },
+        {
             "id": 1431037293641441282,
             "text": "Beast of Mobile | 2 12 RAM | Short",
             "created_at": "2021-08-26 23:34:12",
@@ -13,7 +32,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.2773512476007678,
+                "positivity": 0.27735124760076774,
                 "negativity": 0.7226487523992325
             },
             "user_id": 1430525458148253699,
@@ -36,6 +55,25 @@
                 "negativity": 0.5496811688376677
             },
             "user_id": 219290530,
+            "text_translation": ""
+        },
+        {
+            "id": 1431015359826567168,
+            "text": "Save $ 28 off of this 128GB unlocked N10 5G & ; grab it for only $ 272 . 11 . …",
+            "created_at": "2021-08-26 22:07:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2547840163020123,
+                "negativity": 0.7452159836979877
+            },
+            "user_id": 316282893,
             "text_translation": ""
         },
         {
@@ -101,22 +139,24 @@
             "text_translation": ""
         },
         {
-            "id": 1430983610589347842,
-            "text": ": VERY Hard to PICK ! - 2 Master Edition ! |",
-            "created_at": "2021-08-26 20:00:53",
-            "retweet_count": 31,
+            "id": 1430983892765487104,
+            "text": "9to5Google : : N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more . via",
+            "created_at": "2021-08-26 20:02:01",
+            "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
-            "label": "negative",
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8332207749893777,
-                "negativity": 0.16677922501062342
+                "positivity": 0.9265888270589575,
+                "negativity": 0.07341117294104352
             },
-            "user_id": 952419639887216640,
+            "user_id": 209038505,
             "text_translation": ""
         },
         {
@@ -177,6 +217,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430977790489288704,
+            "text": "We start today ’ s with a selection of Apple Watch SE that are currently getting up to 16 percent saving …",
+            "created_at": "2021-08-26 19:37:46",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7232317717549528,
+                "negativity": 0.2767682282450472
+            },
+            "user_id": 805418410435756033,
+            "text_translation": ""
+        },
+        {
             "id": 1430974721827516425,
             "text": "Here ' s my detailed comparison video of the 2 and 4a camera and …",
             "created_at": "2021-08-26 19:25:34",
@@ -214,6 +273,25 @@
                 "negativity": 0.16677922501062342
             },
             "user_id": 956001381416079363,
+            "text_translation": ""
+        },
+        {
+            "id": 1430969279583768583,
+            "text": "Apple Watch SE , N10 5G and more are on sale",
+            "created_at": "2021-08-26 19:03:57",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8480421603391353,
+                "negativity": 0.15195783966086435
+            },
+            "user_id": 1334621655130320897,
             "text_translation": ""
         },
         {
@@ -388,6 +466,27 @@
             "text_translation": ""
         },
         {
+            "id": 1430933082182352900,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more …",
+            "created_at": "2021-08-26 16:40:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 19159076,
+            "text_translation": ""
+        },
+        {
             "id": 1430931599126794245,
             "text": "IN Why my 2 mobile DN2101 11 A . 09 update not show Please respond me .",
             "created_at": "2021-08-26 16:34:13",
@@ -404,6 +503,81 @@
                 "negativity": 0.7436147143982839
             },
             "user_id": 1430928750137458692,
+            "text_translation": ""
+        },
+        {
+            "id": 1430930345021513730,
+            "text": ": : N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more by h …",
+            "created_at": "2021-08-26 16:29:14",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 910350192,
+            "text_translation": ""
+        },
+        {
+            "id": 1430925975521464327,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 ...",
+            "created_at": "2021-08-26 16:11:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": {
+                "type": "Point",
+                "coordinates": [
+                    41.391,
+                    2.15326
+                ]
+            },
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    2.15326,
+                    41.391
+                ]
+            },
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8684738955823291,
+                "negativity": 0.13152610441767096
+            },
+            "user_id": 1316862031,
+            "text_translation": ""
+        },
+        {
+            "id": 1430925106558246923,
+            "text": ": N10 5G to $ 273 , Roam Smart Speaker at $ 111 , more by …",
+            "created_at": "2021-08-26 16:08:25",
+            "retweet_count": 3,
+            "favorite_count": 31,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Speaker"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8735189895870703,
+                "negativity": 0.1264810104129295
+            },
+            "user_id": 177087369,
             "text_translation": ""
         },
         {
@@ -618,6 +792,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430888271488327683,
+            "text": "\" N10 6 . 4 \" 128GB 5G Unlocked Android only $ 272 . 25 : \" …",
+            "created_at": "2021-08-26 13:42:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5559907538204699,
+                "negativity": 0.44400924617952925
+            },
+            "user_id": 40173650,
+            "text_translation": ""
+        },
+        {
             "id": 1430887001532764164,
             "text": "A22 * 5g * CE * 5g * Mi 11 Lite * 4g *",
             "created_at": "2021-08-26 13:37:00",
@@ -698,6 +891,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430884838823710724,
+            "text": "IN only on the 2 for now , coming to 9 Series ( 9 / 9Pro ) in a future )",
+            "created_at": "2021-08-26 13:28:24",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5558940844249715,
+                "negativity": 0.4441059155750287
+            },
+            "user_id": 260259060,
+            "text_translation": ""
+        },
+        {
             "id": 1430882327836577800,
             "text": "IN What ' s happening !! you have 2 with very nice . But a big issue is the camera …",
             "created_at": "2021-08-26 13:18:26",
@@ -735,6 +947,46 @@
                 "negativity": 0.36550337314753956
             },
             "user_id": 3242353666,
+            "text_translation": ""
+        },
+        {
+            "id": 1430878754130350081,
+            "text": "is rolling out a new 11 . 0 . 1 update for the N10 with August 2021 security patch .",
+            "created_at": "2021-08-26 13:04:14",
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.09840641944346708,
+                "negativity": 0.901593580556533
+            },
+            "user_id": 127674014,
+            "text_translation": ""
+        },
+        {
+            "id": 1430878158337691655,
+            "text": "Which is better for Camera ? 1 . 8T 2 . 2",
+            "created_at": "2021-08-26 13:01:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4560385575668323,
+                "negativity": 0.543961442433168
+            },
+            "user_id": 1293406290274742272,
             "text_translation": ""
         },
         {
@@ -833,6 +1085,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430872871153319941,
+            "text": "N10 5G Dual - 128GB + 6GB RAM ( | ) Factory Unlocked ( Midnight Ice ) - I …",
+            "created_at": "2021-08-26 12:40:51",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5552160724491143,
+                "negativity": 0.44478392755088575
+            },
+            "user_id": 722533029713944576,
+            "text_translation": ""
+        },
+        {
             "id": 1430871776553144324,
             "text": "Paladin Yeah , the 2 is better , in my opinion . Though , the Mi 11X better display .",
             "created_at": "2021-08-26 12:36:30",
@@ -868,6 +1139,25 @@
                 "negativity": 0.18056019813864593
             },
             "user_id": 3168300649,
+            "text_translation": ""
+        },
+        {
+            "id": 1430870805554941952,
+            "text": "Hi Sir , How are you ? My Question is POCO F3 2 X7 ? Which …",
+            "created_at": "2021-08-26 12:32:38",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.666058714865152,
+                "negativity": 0.33394128513484866
+            },
+            "user_id": 1385551337169899520,
             "text_translation": ""
         },
         {
@@ -909,6 +1199,44 @@
             "text_translation": ""
         },
         {
+            "id": 1430867020233560068,
+            "text": ": N10 5G is now even more affordable following discount to $ 273 by",
+            "created_at": "2021-08-26 12:17:36",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6035690700374944,
+                "negativity": 0.3964309299625045
+            },
+            "user_id": 177087369,
+            "text_translation": ""
+        },
+        {
+            "id": 1430866979108315140,
+            "text": "N10 5G is now even more affordable following discount to $ 273",
+            "created_at": "2021-08-26 12:17:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6035690700374944,
+                "negativity": 0.3964309299625045
+            },
+            "user_id": 14989736,
+            "text_translation": ""
+        },
+        {
             "id": 1430866767845285891,
             "text": ": 2 Green and First Look | Beautiful Beauty Hit The Link Below …",
             "created_at": "2021-08-26 12:16:36",
@@ -925,6 +1253,25 @@
                 "negativity": 0.2874286509192372
             },
             "user_id": 1427231677143650314,
+            "text_translation": ""
+        },
+        {
+            "id": 1430866564484632576,
+            "text": "N10 5G is now even more affordable following discount to $ 273 by",
+            "created_at": "2021-08-26 12:15:47",
+            "retweet_count": 2,
+            "favorite_count": 17,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6035690700374944,
+                "negativity": 0.3964309299625045
+            },
+            "user_id": 42980370,
             "text_translation": ""
         },
         {
@@ -1158,6 +1505,44 @@
             "text_translation": ""
         },
         {
+            "id": 1430846691968569346,
+            "text": ": 2 5G Green Wood 12GB RAM variant in : Price , specs and more via …",
+            "created_at": "2021-08-26 10:56:49",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3322509273869352,
+                "negativity": 0.6677490726130643
+            },
+            "user_id": 2153605122,
+            "text_translation": ""
+        },
+        {
+            "id": 1430843852542283776,
+            "text": ": 2 & ; First Look - Flagship In Budget !!! GIVEAWAY 🔥🔥🔥 via",
+            "created_at": "2021-08-26 10:45:32",
+            "retweet_count": 207,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.15606609057462748,
+                "negativity": 0.843933909425373
+            },
+            "user_id": 99037454,
+            "text_translation": ""
+        },
+        {
             "id": 1430842958136233987,
             "text": "worth , Mac Book , , and Apple to be won , jump on board the ultimate …",
             "created_at": "2021-08-26 10:41:59",
@@ -1335,6 +1720,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430829444889935873,
+            "text": ": Its been a month 2 .. and the only thing I ' m missing right now is .. !! to switch back to …",
+            "created_at": "2021-08-26 09:48:17",
+            "retweet_count": 38,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5978416484600473,
+                "negativity": 0.4021583515399517
+            },
+            "user_id": 987392378636976129,
+            "text_translation": ""
+        },
+        {
             "id": 1430829249573752832,
             "text": "Support I am facing Horrible battery drainage issue in 2 . I have one plus 2 on …",
             "created_at": "2021-08-26 09:47:31",
@@ -1488,6 +1892,25 @@
                 "negativity": 0.9657786549228131
             },
             "user_id": 2923571768,
+            "text_translation": ""
+        },
+        {
+            "id": 1430814725982597123,
+            "text": "Pro , 2 5G Head to The Lab Giving 10 People Chance to Review Them : How to Participate - Ga …",
+            "created_at": "2021-08-26 08:49:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.24112756121905315,
+                "negativity": 0.758872438780948
+            },
+            "user_id": 1183264020708515840,
             "text_translation": ""
         },
         {
@@ -1827,6 +2250,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430787807400710144,
+            "text": ": Does the GalaxyM32 5G have enough arsenal to take on the of this segment ? Find out in our comparison .",
+            "created_at": "2021-08-26 07:02:50",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8701577042575782,
+                "negativity": 0.12984229574242195
+            },
+            "user_id": 919782079444877312,
+            "text_translation": ""
+        },
+        {
             "id": 1430787587036237825,
             "text": "So the sale of oneplusnord2 Green Wood Is now available for sale in and …",
             "created_at": "2021-08-26 07:01:58",
@@ -1843,6 +2285,25 @@
                 "negativity": 0.15264251169973395
             },
             "user_id": 1310851065311457280,
+            "text_translation": ""
+        },
+        {
+            "id": 1430787344274182151,
+            "text": "Does the GalaxyM32 5G have enough arsenal to take on the of this segment ? Find out in our comparison .",
+            "created_at": "2021-08-26 07:01:00",
+            "retweet_count": 1,
+            "favorite_count": 18,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8701577042575782,
+                "negativity": 0.12984229574242195
+            },
+            "user_id": 170591903,
             "text_translation": ""
         },
         {
@@ -2057,6 +2518,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430774244682747906,
+            "text": "Galaxy M32 5G CE 5G Edge 20 Fusion : Price in , , and Feature …",
+            "created_at": "2021-08-26 06:08:57",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9796358483808856,
+                "negativity": 0.020364151619114833
+            },
+            "user_id": 1288294144037724161,
+            "text_translation": ""
+        },
+        {
             "id": 1430773763478474754,
             "text": "Tip : N10T or Upcoming device might launch as Lite In . Could be tagged with …",
             "created_at": "2021-08-26 06:07:02",
@@ -2073,6 +2553,44 @@
                 "negativity": 0.18412127802114145
             },
             "user_id": 2716650759,
+            "text_translation": ""
+        },
+        {
+            "id": 1430773078296973312,
+            "text": "No ..... I am Both 7T ( 8 + 256 ) and 1 ( 12 + 256 ) there …",
+            "created_at": "2021-08-26 06:04:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5895761565828574,
+                "negativity": 0.4104238434171426
+            },
+            "user_id": 1309334235812188160,
+            "text_translation": ""
+        },
+        {
+            "id": 1430771956303818760,
+            "text": "Oh , if budget and have problem then it ’ s fault . If budget …",
+            "created_at": "2021-08-26 05:59:51",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21305929422152295,
+                "negativity": 0.7869407057784769
+            },
+            "user_id": 1008627581116010496,
             "text_translation": ""
         },
         {
@@ -2190,6 +2708,28 @@
             "text_translation": ""
         },
         {
+            "id": 1430765623542534145,
+            "text": "case for 8 8T 7 7T Pro 6 6T 5 5T 8 5G Z New Leather design case cover with magnet design sale …",
+            "created_at": "2021-08-26 05:34:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case",
+                "Design"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.34265147115734146,
+                "negativity": 0.6573485288426595
+            },
+            "user_id": 1291793996671594497,
+            "text_translation": ""
+        },
+        {
             "id": 1430764669363441667,
             "text": "5a 2",
             "created_at": "2021-08-26 05:30:54",
@@ -2206,6 +2746,28 @@
                 "negativity": 0.5
             },
             "user_id": 229910946,
+            "text_translation": ""
+        },
+        {
+            "id": 1430763135254900736,
+            "text": ": for the upcoming phone have landed in . Getting mixed for the design and build . Let ' s se …",
+            "created_at": "2021-08-26 05:24:48",
+            "retweet_count": 6,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build",
+                "Design"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7074846449824538,
+                "negativity": 0.29251535501754733
+            },
+            "user_id": 1317680151027617792,
             "text_translation": ""
         },
         {
@@ -2520,6 +3082,44 @@
                 "negativity": 0.4551827658198794
             },
             "user_id": 1389837234451275779,
+            "text_translation": ""
+        },
+        {
+            "id": 1430698362408366083,
+            "text": "techy dude : 2 Green will go on sale 12PM . Apart from this , 6 + 128GB Variant of ( Blue Haze )…",
+            "created_at": "2021-08-26 01:07:25",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7074700462036337,
+                "negativity": 0.2925299537963659
+            },
+            "user_id": 397860476,
+            "text_translation": ""
+        },
+        {
+            "id": 1430694085787099139,
+            "text": ": 2 5G Master POCO F3 . Which is your pick ? below . 👉 More -",
+            "created_at": "2021-08-26 00:50:25",
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5104337475254312,
+                "negativity": 0.48956625247456814
+            },
+            "user_id": 788969594086039552,
             "text_translation": ""
         },
         {

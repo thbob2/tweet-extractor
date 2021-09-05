@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1432149971831230466,
+            "text": ": IN STOCK ⏰⏰⏰⏰⏰ A15 ( 512 ) Like and 👍 asustufa15",
+            "created_at": "2021-08-30 01:15:36",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36604055328513063,
+                "negativity": 0.6339594467148696
+            },
+            "user_id": 1337567299025309696,
+            "text_translation": ""
+        },
+        {
+            "id": 1432149772136181762,
+            "text": "IN STOCK ⏰⏰⏰⏰⏰ A15 ( 512 ) Like and 👍 asustufa15",
+            "created_at": "2021-08-30 01:14:48",
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36604055328513063,
+                "negativity": 0.6339594467148696
+            },
+            "user_id": 1307849715145347073,
+            "text_translation": ""
+        }
+    ]
+}

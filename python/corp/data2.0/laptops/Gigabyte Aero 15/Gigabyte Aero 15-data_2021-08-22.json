@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1429575894356594700,
+            "text": ": Enter our Giveaway for a chance to win this gaming package . a PS5 Bundle , Series X , an …",
+            "created_at": "2021-08-22 22:47:08",
+            "retweet_count": 106,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4243440595097431,
+                "negativity": 0.5756559404902587
+            },
+            "user_id": 1220949686955204609,
+            "text_translation": ""
+        },
+        {
+            "id": 1429538964927655943,
+            "text": "Open Box : AERO 15 - 15 . 6 & ; quot ; 4K AMOLE Source : Search Reason : = true …",
+            "created_at": "2021-08-22 20:20:23",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5578074502676197,
+                "negativity": 0.44219254973238104
+            },
+            "user_id": 1342919737358110720,
+            "text_translation": ""
+        }
+    ]
+}

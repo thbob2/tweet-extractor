@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1413990303007010819,
-            "text": "your weekend with this week ’ s best tech",
-            "created_at": "2021-07-10 22:35:33",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5854998755205439,
-                "negativity": 0.41450012447945633
-            },
-            "user_id": 3709137917,
-            "text_translation": ""
-        },
-        {
             "id": 1413941999191740420,
             "text": "Swift 3 Mi Notebook 14 Horizon Edition via",
             "created_at": "2021-07-10 19:23:37",
@@ -109,7 +90,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.5696960156235304,
-                "negativity": 0.43030398437646833
+                "negativity": 0.4303039843764683
             },
             "user_id": 61608747,
             "text_translation": ""

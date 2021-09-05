@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1428142468365623299,
-            "text": ": ' s Swift 3 is the perfect on - the - go with its lightweight material and design . with a 14 - inch …",
-            "created_at": "2021-08-18 23:51:12",
-            "retweet_count": 232,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3651873781160951,
-                "negativity": 0.6348126218839065
-            },
-            "user_id": 2975122580,
-            "text_translation": ""
-        },
-        {
             "id": 1428086641932046345,
             "text": "Hey ! 👋 One of our absolute is our Swift3 ! 💚 It ' s incredibly fast w / an i7 processor …",
             "created_at": "2021-08-18 20:09:22",
@@ -41,28 +22,6 @@
             "text_translation": ""
         },
         {
-            "id": 1428064517771177986,
-            "text": "Hey ! We vote stay team ! 😉 Apple ' s 13 \" Pro is $ 1699 for 16gb ram & ; 512gb but our Swift3 …",
-            "created_at": "2021-08-18 18:41:27",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "RAM",
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.13114927961221232,
-                "negativity": 0.868850720387786
-            },
-            "user_id": 239434259,
-            "text_translation": ""
-        },
-        {
             "id": 1428060743400820738,
             "text": "Hi ! 👋 One of our most popular for school is our Swift3 ! 💚 It ' s incredibly fast w / an i7 pro …",
             "created_at": "2021-08-18 18:26:27",
@@ -79,25 +38,6 @@
                 "classification": "pos",
                 "positivity": 0.6606996195448891,
                 "negativity": 0.33930038045510974
-            },
-            "user_id": 239434259,
-            "text_translation": ""
-        },
-        {
-            "id": 1428058259580129284,
-            "text": "Hey ! We understand wanting the best bang for your buck , and we have just the thing ! Apple ' s 13 \" …",
-            "created_at": "2021-08-18 18:16:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.34846896274209554,
-                "negativity": 0.6515310372579021
             },
             "user_id": 239434259,
             "text_translation": ""
@@ -235,6 +175,25 @@
                 "negativity": 0.06939621766222413
             },
             "user_id": 99878596,
+            "text_translation": ""
+        },
+        {
+            "id": 1427862168473534467,
+            "text": ": Freedom The ability to act and live the way you want . Look fresh and fashionable even while with ' s Swift …",
+            "created_at": "2021-08-18 05:17:24",
+            "retweet_count": 22,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9513844768653129,
+                "negativity": 0.048615523134689184
+            },
+            "user_id": 1392309656186327043,
             "text_translation": ""
         },
         {

@@ -1,6 +1,107 @@
 {
     "tweets": [
         {
+            "id": 1429226192423452672,
+            "text": "motivation Morocco Flag Coat Of Arms Phone Case For galaxy S 8 9 10 20 21 30 A 30 50 51 70 note 10 plus …",
+            "created_at": "2021-08-21 23:37:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9466791660732407,
+                "negativity": 0.05332083392676021
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1429219801428205570,
+            "text": "glass : Whitestone Dome for Note 20 And Note 20 Ultra - The World ' s First Tempered …",
+            "created_at": "2021-08-21 23:12:08",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6287935483266923,
+                "negativity": 0.3712064516733081
+            },
+            "user_id": 931067001384026113,
+            "text_translation": ""
+        },
+        {
+            "id": 1429219559848910852,
+            "text": "glass : Best Galaxy Note 20 Ultra Screen 2021 Why famous re …",
+            "created_at": "2021-08-21 23:11:11",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8426185872999783,
+                "negativity": 0.15738141270002148
+            },
+            "user_id": 931067001384026113,
+            "text_translation": ""
+        },
+        {
+            "id": 1429219282718625796,
+            "text": "glass : Galaxy Note 20 Ultra Whitestone Dome Glass - The World ' s First Tempered Glass Scree …",
+            "created_at": "2021-08-21 23:10:05",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7322743182979771,
+                "negativity": 0.26772568170202077
+            },
+            "user_id": 931067001384026113,
+            "text_translation": ""
+        },
+        {
+            "id": 1429205257192579074,
+            "text": "love New View Leather Flip Case for Galaxy S21 Ultra S20 FE S10 Lite S9 S8 Plus Cover On Galaxy Note 20 10 …",
+            "created_at": "2021-08-21 22:14:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3960283827124813,
+                "negativity": 0.6039716172875187
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
             "id": 1429191815996002317,
             "text": ": Galaxy Note 20 series : 1 . 17 million Galaxy Z Flip 3 & ; Z Fold 3 that number which is impressive and …",
             "created_at": "2021-08-21 21:20:56",
@@ -17,6 +118,69 @@
                 "negativity": 0.25427360973312757
             },
             "user_id": 1054753081349545984,
+            "text_translation": ""
+        },
+        {
+            "id": 1429173661290754051,
+            "text": "2Pcs 200D Hydrogel Film For Galaxy S21 S20 S10 S9 S8 Plus Note 20 10 9 Plus Screen Protector For S2 …",
+            "created_at": "2021-08-21 20:08:48",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7106351606060984,
+                "negativity": 0.2893648393939006
+            },
+            "user_id": 45938095,
+            "text_translation": ""
+        },
+        {
+            "id": 1429118879821795331,
+            "text": "power print photo Custom made Glass Phone Case For Galaxy S8 S9 S10e S21 S20 S20FE ultra …",
+            "created_at": "2021-08-21 16:31:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9009020756686418,
+                "negativity": 0.09909792433135844
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1429116170939023360,
+            "text": "✅ PGD3D Emboss Flower Case For Galaxy 💪 0 . 00 💯 9 . 95 ♨️ 3D Emboss Flower Case For Galaxy A51 A50 A21s A …",
+            "created_at": "2021-08-21 16:20:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6074093140781988,
+                "negativity": 0.39259068592180135
+            },
+            "user_id": 947874570136154112,
             "text_translation": ""
         },
         {
@@ -41,6 +205,69 @@
             "text_translation": ""
         },
         {
+            "id": 1429096726363770882,
+            "text": "Portable Charger 10000mAh Power Bank , T - CORE External Battery Ultra …",
+            "created_at": "2021-08-21 15:03:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.46283863915036144,
+                "negativity": 0.5371613608496368
+            },
+            "user_id": 1005357753861394432,
+            "text_translation": ""
+        },
+        {
+            "id": 1429084516044328962,
+            "text": "love Heavy Duty Protection armor Phone Case for Galaxy S21 Note 20 S20 Ultra 8 9 S8 S9 S10 Plus Lite S10e …",
+            "created_at": "2021-08-21 14:14:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8730407490892663,
+                "negativity": 0.12695925091073296
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1429061006186016772,
+            "text": "Leather Slim Thin Case for Galaxy S10e S9 S10 S20 Plus Note 9 10 20 S21 Plus Ultra A10 A20 A30 A40 …",
+            "created_at": "2021-08-21 12:41:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3301005891158167,
+                "negativity": 0.6698994108841854
+            },
+            "user_id": 1425818577970483204,
+            "text_translation": ""
+        },
+        {
             "id": 1429050107727646721,
             "text": "to deliver One 3 . 1 . 1 to the Galaxy S20 , Galaxy S21 and Galaxy Note 20 …",
             "created_at": "2021-08-21 11:57:50",
@@ -57,6 +284,27 @@
                 "negativity": 0.3524240955140048
             },
             "user_id": 174449087,
+            "text_translation": ""
+        },
+        {
+            "id": 1429045603451826180,
+            "text": "climate 360 Full Cover Shockproof Phone Case For Galaxy S21 S8 S9 Plus S20 FE S10 Lite Note 20 Ultra 8 9 1 …",
+            "created_at": "2021-08-21 11:39:56",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7357239381513226,
+                "negativity": 0.26427606184867786
+            },
+            "user_id": 1235695675175821312,
             "text_translation": ""
         },
         {
@@ -117,6 +365,147 @@
             "text_translation": ""
         },
         {
+            "id": 1428985509666119681,
+            "text": "climate Mirror Smart Case For Galaxy Note 20 S20 Ultra S10 Note 10 Plus A51 A71 A21 A31 A41 A11 Clear View …",
+            "created_at": "2021-08-21 07:41:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9403658921691928,
+                "negativity": 0.059634107830806096
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1428984240033734659,
+            "text": "C Wall Charger , 25W Fast Charger Block Compatible with Galaxy S21 / S21 +/ S21 U …",
+            "created_at": "2021-08-21 07:36:06",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2903191557399081,
+                "negativity": 0.7096808442600923
+            },
+            "user_id": 1005357753861394432,
+            "text_translation": ""
+        },
+        {
+            "id": 1428980202529386496,
+            "text": "all file ， for example ， Galaxy Note 20 Ultra 5G - N9860 Stock ( flash file ) ; …",
+            "created_at": "2021-08-21 07:20:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7436046587765606,
+                "negativity": 0.25639534122343705
+            },
+            "user_id": 1399281472855441411,
+            "text_translation": ""
+        },
+        {
+            "id": 1428971723991420928,
+            "text": "hashtag2 Full Cover Matte Ceramics screen protection for Galaxy Note 8 9 10 Plus 20 5G Ultra S8 S9 S10 S20 …",
+            "created_at": "2021-08-21 06:46:22",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6585492234983003,
+                "negativity": 0.3414507765016986
+            },
+            "user_id": 1213586194174341120,
+            "text_translation": ""
+        },
+        {
+            "id": 1428969245216444419,
+            "text": "climate Fashion Girl Phone Case For Galaxy S21 Ultra S20 FE S10E S10 S9 Plus Note 20 10 A52 A72 A51 A71 A3 …",
+            "created_at": "2021-08-21 06:36:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.732254393976015,
+                "negativity": 0.26774560602398473
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1428959584257933320,
+            "text": "like the Galaxy Note 20 Ultra mystic bronze ?",
+            "created_at": "2021-08-21 05:58:08",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6688122170226506,
+                "negativity": 0.3311877829773488
+            },
+            "user_id": 1166657647682080769,
+            "text_translation": ""
+        },
+        {
+            "id": 1428924867815133185,
+            "text": "hashtag4 Marble Case For Galaxy Cover",
+            "created_at": "2021-08-21 03:40:11",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8256416654425061,
+                "negativity": 0.1743583345574935
+            },
+            "user_id": 1418483923114463240,
+            "text_translation": ""
+        },
+        {
             "id": 1428921815183863809,
             "text": "to deliver One 3 . 1 . 1 to the Galaxy S20 , Galaxy S21 and Galaxy Note 20 series as another One …",
             "created_at": "2021-08-21 03:28:03",
@@ -155,6 +544,44 @@
             "text_translation": ""
         },
         {
+            "id": 1428898332789788673,
+            "text": "Top s10 Plus 📳📱📴 via",
+            "created_at": "2021-08-21 01:54:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6405096677674073,
+                "negativity": 0.35949033223259225
+            },
+            "user_id": 45938095,
+            "text_translation": ""
+        },
+        {
+            "id": 1428897796371980293,
+            "text": "galaxy Note 20 ultra 5G is 120 in brawl ?",
+            "created_at": "2021-08-21 01:52:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2788064378293696,
+                "negativity": 0.7211935621706299
+            },
+            "user_id": 1380156929402675200,
+            "text_translation": ""
+        },
+        {
             "id": 1428880695552794630,
             "text": "- TA20JBEUGUS Fast Charge - C 15W Wall Charger for Galaxy Note 8 , 9 , Galaxy S8 , S8 +, S9 , S9 +, S10 , S10 +,…",
             "created_at": "2021-08-21 00:44:39",
@@ -171,6 +598,46 @@
                 "negativity": 0.45083394721467124
             },
             "user_id": 173961531,
+            "text_translation": ""
+        },
+        {
+            "id": 1428880681371766784,
+            "text": "love Luxury Leather Case For Galaxy S21 S20 FE S10 E S9 S8 Note 8 9 10 20 Ultra Plus S7 S6 Edge Coque Flip …",
+            "created_at": "2021-08-21 00:44:36",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18600416571861145,
+                "negativity": 0.8139958342813899
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1428879058541105152,
+            "text": ": ' s new foldable phone is here , but does it beat ' s previous best ? We put the Galaxy Z Fold 3 again …",
+            "created_at": "2021-08-21 00:38:09",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.829698794796463,
+                "negativity": 0.17030120520353467
+            },
+            "user_id": 3608478316,
             "text_translation": ""
         }
     ]

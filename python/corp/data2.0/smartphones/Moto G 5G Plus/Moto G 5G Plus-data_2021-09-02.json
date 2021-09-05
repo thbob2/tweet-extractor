@@ -1,0 +1,42 @@
+{
+    "tweets": [
+        {
+            "id": 1433526534850158594,
+            "text": "🔥 G Stylus 5G 🔥 ( $ 249 . 99 ) | Switch to Boost Mobile $ 79 . 99 | New & ; qualified upgrade : $ 199 . 99 | Get our bes …",
+            "created_at": "2021-09-02 20:25:34",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8426826140752428,
+                "negativity": 0.15731738592475908
+            },
+            "user_id": 956632507025420290,
+            "text_translation": ""
+        },
+        {
+            "id": 1433406341293375493,
+            "text": "us worst service in of stocks & ; availability . Same for G 5G , …",
+            "created_at": "2021-09-02 12:27:57",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6805050028402205,
+                "negativity": 0.31949499715977886
+            },
+            "user_id": 1044617753393430528,
+            "text_translation": ""
+        }
+    ]
+}

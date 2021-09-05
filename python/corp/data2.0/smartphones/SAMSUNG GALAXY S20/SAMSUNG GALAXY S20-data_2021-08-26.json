@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1431037455747076097,
+            "text": ": de para tu Galaxy S20 Ultra Why famous …",
+            "created_at": "2021-08-26 23:34:51",
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6647095254286681,
+                "negativity": 0.3352904745713315
+            },
+            "user_id": 935782026963165184,
+            "text_translation": ""
+        },
+        {
             "id": 1431024872973651969,
             "text": "How about you make a special skin only for is it that hard you ' t before …",
             "created_at": "2021-08-26 22:44:51",
@@ -93,6 +112,28 @@
                 "negativity": 0.08021751292894291
             },
             "user_id": 486992230,
+            "text_translation": ""
+        },
+        {
+            "id": 1430993220670984196,
+            "text": "Galaxy S20 5G Tempered Glass Screen Protector + Camera Lens , Alignment Frame Easy Installation [ 2 …",
+            "created_at": "2021-08-26 20:39:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6861244731769389,
+                "negativity": 0.3138755268230576
+            },
+            "user_id": 1911670285,
             "text_translation": ""
         },
         {
@@ -233,6 +274,25 @@
             "text_translation": ""
         },
         {
+            "id": 1430971056634961923,
+            "text": ": G986BXXU9DUH2 G986BOXM9DUH2 ( Android 11 )",
+            "created_at": "2021-08-26 19:11:00",
+            "retweet_count": 0,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5833333333333333,
+                "negativity": 0.4166666666666665
+            },
+            "user_id": 89913536,
+            "text_translation": ""
+        },
+        {
             "id": 1430971053715730438,
             "text": ": G986BXXU9DUH2 G986BOXM9DUH2 H3G ( Android 11 )",
             "created_at": "2021-08-26 19:11:00",
@@ -257,6 +317,25 @@
             "created_at": "2021-08-26 19:10:30",
             "retweet_count": 0,
             "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5833333333333333,
+                "negativity": 0.4166666666666665
+            },
+            "user_id": 89913536,
+            "text_translation": ""
+        },
+        {
+            "id": 1430970034264977410,
+            "text": ": G981BXXU9DUH2 G981BOXM9DUH2 ( Android 11 )",
+            "created_at": "2021-08-26 19:06:56",
+            "retweet_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -306,6 +385,25 @@
                 "negativity": 0.22742688543721046
             },
             "user_id": 412862721,
+            "text_translation": ""
+        },
+        {
+            "id": 1430925092155006983,
+            "text": ": Galaxy S20 Series latest \" \" function",
+            "created_at": "2021-08-26 16:08:21",
+            "retweet_count": 51,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6300782643793517,
+                "negativity": 0.36992173562064806
+            },
+            "user_id": 1097907594918850561,
             "text_translation": ""
         },
         {
@@ -562,6 +660,44 @@
             "text_translation": ""
         },
         {
+            "id": 1430817558953926656,
+            "text": "Galaxy S20 Ultra , 128GB , Cosmic Gray - Fully Unlocked ( ) - G988U ...👉",
+            "created_at": "2021-08-26 09:01:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7033868407126472,
+                "negativity": 0.29661315928735216
+            },
+            "user_id": 360376907,
+            "text_translation": ""
+        },
+        {
+            "id": 1430817555837591556,
+            "text": "( ) Galaxy S20 5G , 128GB , Cosmic Gray - Fully Unlocked ...👉",
+            "created_at": "2021-08-26 09:01:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7171096904441473,
+                "negativity": 0.28289030955585465
+            },
+            "user_id": 360376907,
+            "text_translation": ""
+        },
+        {
             "id": 1430817099153395714,
             "text": ": G988BXXU9DUH2 G988BOXM9DUH2 COS ( Android 11 )",
             "created_at": "2021-08-26 08:59:14",
@@ -730,6 +866,69 @@
                 "classification": "pos",
                 "positivity": 0.8598891611489871,
                 "negativity": 0.14011083885101283
+            },
+            "user_id": 931067001384026113,
+            "text_translation": ""
+        },
+        {
+            "id": 1430808547323899904,
+            "text": "glass : BEST GALAXY S20 PLUS SCREEN IN 2020 Why famous …",
+            "created_at": "2021-08-26 08:25:15",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3950254241667049,
+                "negativity": 0.6049745758332943
+            },
+            "user_id": 931067001384026113,
+            "text_translation": ""
+        },
+        {
+            "id": 1430808423185096707,
+            "text": "glass : The Best Galaxy S20 Ultra Screen via The World ' s First Tempered Glass …",
+            "created_at": "2021-08-26 08:24:45",
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9375839560151475,
+                "negativity": 0.06241604398485107
+            },
+            "user_id": 931067001384026113,
+            "text_translation": ""
+        },
+        {
+            "id": 1430808364448063496,
+            "text": "glass : Best Galaxy S20 Screen 2020 The World ' s First Tempered Glass Screen Protector Sa …",
+            "created_at": "2021-08-26 08:24:31",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6373177686567848,
+                "negativity": 0.3626822313432137
             },
             "user_id": 931067001384026113,
             "text_translation": ""

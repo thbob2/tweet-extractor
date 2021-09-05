@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1377393808753631236,
-            "text": ": It ' s one of our favorite days at . Dell ' s - & ; . Tell us your favorite movie , story , or food fe …",
-            "created_at": "2021-03-31 22:54:09",
-            "retweet_count": 213,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8507602141042694,
-                "negativity": 0.14923978589573073
-            },
-            "user_id": 2903864697,
-            "text_translation": ""
-        },
-        {
             "id": 1377383192894656513,
             "text": "Already need to get a few minor to my , screen got up , but have to wait till 10 to …",
             "created_at": "2021-03-31 22:11:58",
@@ -173,8 +154,8 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4348837209302324,
-                "negativity": 0.5651162790697675
+                "positivity": 0.43488372093023253,
+                "negativity": 0.5651162790697677
             },
             "user_id": 916144832279711744,
             "text_translation": ""
@@ -358,6 +339,25 @@
                 "negativity": 0.11453689930131258
             },
             "user_id": 110285182,
+            "text_translation": ""
+        },
+        {
+            "id": 1377274119515860992,
+            "text": "dell7",
+            "created_at": "2021-03-31 14:58:33",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5,
+                "negativity": 0.5
+            },
+            "user_id": 1213483818482487296,
             "text_translation": ""
         },
         {

@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1433801989553598465,
+            "text": "My predator triton 500 begun its journey to for an expedited repair with their elite team .…",
+            "created_at": "2021-09-03 14:40:07",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9572186691984772,
+                "negativity": 0.0427813308015211
+            },
+            "user_id": 1401160027415658498,
+            "text_translation": ""
+        },
+        {
+            "id": 1433701637697069056,
+            "text": "Razer Blade 15 Advanced with last year ' s specs ? Or an Predator Triton 500 SE with this year ' s specs ? The …",
+            "created_at": "2021-09-03 08:01:21",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.616196496540708,
+                "negativity": 0.383803503459292
+            },
+            "user_id": 888789873951293441,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1,6 +1,27 @@
 {
     "tweets": [
         {
+            "id": 1423031370838851588,
+            "text": "5950X 64GB DDR4 ram , 3600mhz 2TB Rocket 4plus M . 2 ROG Strix X570i , …",
+            "created_at": "2021-08-04 21:21:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1447368421052631,
+                "negativity": 0.8552631578947358
+            },
+            "user_id": 1295079188605685761,
+            "text_translation": ""
+        },
+        {
             "id": 1422965072364662785,
             "text": "B550 tomahawk , 5600x , sniper , 3070 . Old card 2060 & ; 970 . System …",
             "created_at": "2021-08-04 16:58:05",

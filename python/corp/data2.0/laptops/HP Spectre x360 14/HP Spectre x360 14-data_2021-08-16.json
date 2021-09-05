@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1427230209187598337,
+            "text": ": This is X360 14 po . search sa net specs . !",
+            "created_at": "2021-08-16 11:26:13",
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "specs"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6952827290294532,
+                "negativity": 0.3047172709705461
+            },
+            "user_id": 1372544541723529216,
+            "text_translation": ""
+        }
+    ]
+}

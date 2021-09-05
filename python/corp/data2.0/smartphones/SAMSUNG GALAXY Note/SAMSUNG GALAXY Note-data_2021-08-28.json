@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1431766564580233218,
+            "text": "Galaxy Note 20 Review",
+            "created_at": "2021-08-28 23:52:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6053622634295545,
+                "negativity": 0.39463773657044504
+            },
+            "user_id": 1227841442,
+            "text_translation": ""
+        },
+        {
             "id": 1431756316306026496,
             "text": "phone fire on airplane five after Galaxy Note 7 debacle via …",
             "created_at": "2021-08-28 23:11:21",
@@ -17,46 +36,6 @@
                 "negativity": 0.27636236578112794
             },
             "user_id": 71562732,
-            "text_translation": ""
-        },
-        {
-            "id": 1431754491758407683,
-            "text": "climate Fur Perfume Bottle Phone Case For 12 11 Pro 7 8 Plus Galaxy S10 S20 Ultra S8 …",
-            "created_at": "2021-08-28 23:04:06",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6554651686180684,
-                "negativity": 0.34453483138192936
-            },
-            "user_id": 1235695675175821312,
-            "text_translation": ""
-        },
-        {
-            "id": 1431753355034955776,
-            "text": ": Galaxy S21 Ultra : This year ’ s Galaxy Note",
-            "created_at": "2021-08-28 22:59:35",
-            "retweet_count": 32,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6494604913413742,
-                "negativity": 0.35053950865862543
-            },
-            "user_id": 935782026963165184,
             "text_translation": ""
         },
         {
@@ -100,24 +79,43 @@
             "text_translation": ""
         },
         {
-            "id": 1431695873927524355,
-            "text": "Luxury Batman Phone Case For Galaxy S20 S10 e 5G S9 S8 Plus Note 10 9 8 Ultra - thin Car …",
-            "created_at": "2021-08-28 19:11:10",
+            "id": 1431701380826378243,
+            "text": "galaxy note 20 you ' love it . Great camera if you into that type of stuff !😉🤣",
+            "created_at": "2021-08-28 19:33:03",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [
-                "Case"
+                "Camera"
             ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6951521243878851,
+                "negativity": 0.30484787561211435
+            },
+            "user_id": 1295572378114641920,
+            "text_translation": ""
+        },
+        {
+            "id": 1431699356609089536,
+            "text": "Galaxy Note 20 256GB Mystic - Green 8GB RAM 6 , 7 ” . + 10MP - Magazine Jc79",
+            "created_at": "2021-08-28 19:25:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
             "label": "negative",
             "note": {
-                "classification": "neg",
-                "positivity": 0.08730635263902423,
-                "negativity": 0.9126936473609782
+                "classification": "pos",
+                "positivity": 0.8105321317145242,
+                "negativity": 0.18946786828547638
             },
-            "user_id": 4856312771,
+            "user_id": 901882520123400192,
             "text_translation": ""
         },
         {
@@ -194,25 +192,6 @@
                 "negativity": 0.25320916414730316
             },
             "user_id": 1249194189759406080,
-            "text_translation": ""
-        },
-        {
-            "id": 1431687847455625217,
-            "text": "What the absolute is with the downgrade in ' s ? Last night on a Galaxy Note 10 today when I …",
-            "created_at": "2021-08-28 18:39:16",
-            "retweet_count": 0,
-            "favorite_count": 3,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9426996058228653,
-                "negativity": 0.05730039417713616
-            },
-            "user_id": 733411954904039426,
             "text_translation": ""
         },
         {
@@ -646,6 +625,25 @@
             "text_translation": ""
         },
         {
+            "id": 1431581937123020804,
+            "text": ": Shop order page for Galaxy Note 20 now 1 MILLION ! 🔗 …",
+            "created_at": "2021-08-28 11:38:25",
+            "retweet_count": 33,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5066169466108581,
+                "negativity": 0.4933830533891415
+            },
+            "user_id": 1350418686419456000,
+            "text_translation": ""
+        },
+        {
             "id": 1431580860445167621,
             "text": "👉 $ 259 . 27 👈 Galaxy Note 9 128GB Ocean Blue Fully Unlocked …",
             "created_at": "2021-08-28 11:34:09",
@@ -665,120 +663,6 @@
             "text_translation": ""
         },
         {
-            "id": 1431573338032414721,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +...... 650 ,…",
-            "created_at": "2021-08-28 11:04:15",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431570162696835073,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +...... 65 …",
-            "created_at": "2021-08-28 10:51:38",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431567822052806659,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 00 …",
-            "created_at": "2021-08-28 10:42:20",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431567630842966017,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +......…",
-            "created_at": "2021-08-28 10:41:35",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431567598139887638,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........…",
-            "created_at": "2021-08-28 10:41:27",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431567585267654659,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +.....…",
-            "created_at": "2021-08-28 10:41:24",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
             "id": 1431566157799202821,
             "text": "Keep your once you have a Galaxy Note no other mobile 😉 will do",
             "created_at": "2021-08-28 10:35:43",
@@ -795,65 +679,6 @@
                 "negativity": 0.12902986708005762
             },
             "user_id": 1427344859501932545,
-            "text_translation": ""
-        },
-        {
-            "id": 1431560646391472128,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +...... 6 …",
-            "created_at": "2021-08-28 10:13:49",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431560562509557760,
-            "text": "Bernard94 ⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +....…",
-            "created_at": "2021-08-28 10:13:29",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
-            "text_translation": ""
-        },
-        {
-            "id": 1431553421706944513,
-            "text": "hashtag3 Shockproof Case for A51 A71 A31",
-            "created_at": "2021-08-28 09:45:07",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Case"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.486724896597842,
-                "negativity": 0.5132751034021579
-            },
-            "user_id": 1590117116,
             "text_translation": ""
         },
         {
@@ -911,25 +736,6 @@
                 "negativity": 0.5088000938593057
             },
             "user_id": 724849282067607552,
-            "text_translation": ""
-        },
-        {
-            "id": 1431537177385705472,
-            "text": "⚠️⚠️ PRICE DOWN ⚠️⚠️ NEW GALAXY S8 ........ 4550 , 00 S8 +...... 540 , 000 S9 ........ 550 , 000 S9 +...... 650 …",
-            "created_at": "2021-08-28 08:40:34",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.716243669077116,
-                "negativity": 0.28375633092288305
-            },
-            "user_id": 1410262672759721994,
             "text_translation": ""
         },
         {

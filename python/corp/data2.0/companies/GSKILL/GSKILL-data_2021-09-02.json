@@ -1,0 +1,101 @@
+{
+    "tweets": [
+        {
+            "id": 1433511749290967041,
+            "text": "This is my humble setup . Roast me hard . Its not much but its mine . My lighting though ... Specs …",
+            "created_at": "2021-09-02 19:26:49",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8891832558966427,
+                "negativity": 0.11081674410335537
+            },
+            "user_id": 1433504670006251531,
+            "text_translation": ""
+        },
+        {
+            "id": 1433511475910479875,
+            "text": "I was with sticks so I said it and got",
+            "created_at": "2021-09-02 19:25:43",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4081294599224123,
+                "negativity": 0.5918705400775877
+            },
+            "user_id": 1389506485051351040,
+            "text_translation": ""
+        },
+        {
+            "id": 1433491521916002307,
+            "text": "I promise it ’ s coming off the floor as soon as I find something to put it on and hide the . X57 …",
+            "created_at": "2021-09-02 18:06:26",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.22669499232629814,
+                "negativity": 0.7733050076737016
+            },
+            "user_id": 1345136370952642565,
+            "text_translation": ""
+        },
+        {
+            "id": 1433437116587970560,
+            "text": "0 . I bought my ram , and my other , myself .",
+            "created_at": "2021-09-02 14:30:15",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2424934365401608,
+                "negativity": 0.7575065634598401
+            },
+            "user_id": 394928915,
+            "text_translation": ""
+        },
+        {
+            "id": 1433313246174277635,
+            "text": "not publicly ?",
+            "created_at": "2021-09-02 06:18:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.30451666865814325,
+                "negativity": 0.6954833313418571
+            },
+            "user_id": 46621735,
+            "text_translation": ""
+        }
+    ]
+}

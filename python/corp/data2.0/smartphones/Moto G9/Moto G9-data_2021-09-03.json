@@ -1,0 +1,63 @@
+{
+    "tweets": [
+        {
+            "id": 1433916015251914755,
+            "text": "MX16 T Kirk g9",
+            "created_at": "2021-09-03 22:13:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5312500000000006,
+                "negativity": 0.4687499999999998
+            },
+            "user_id": 114059814,
+            "text_translation": ""
+        },
+        {
+            "id": 1433702073703428097,
+            "text": "climate Hybrid Rugged Armor 2 in 1 + Shockproof Case For G9 Plus G8 Power Lite One Fusion …",
+            "created_at": "2021-09-03 08:03:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.993432028680133,
+                "negativity": 0.006567971319865652
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        },
+        {
+            "id": 1433620963657232384,
+            "text": "So far I ' m considering the Note 8 2021 , Poco M3 , Poco X3 , One Fusion a …",
+            "created_at": "2021-09-03 02:40:47",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9168402800239797,
+                "negativity": 0.0831597199760208
+            },
+            "user_id": 16814246,
+            "text_translation": ""
+        }
+    ]
+}

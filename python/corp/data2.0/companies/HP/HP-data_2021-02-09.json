@@ -13,7 +13,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.48193503067061905,
+                "positivity": 0.4819350306706191,
                 "negativity": 0.5180649693293807
             },
             "user_id": 2269076441,
@@ -463,25 +463,6 @@
                 "negativity": 0.4431626074235261
             },
             "user_id": 984474287921881088,
-            "text_translation": ""
-        },
-        {
-            "id": 1359232729825558530,
-            "text": "happy",
-            "created_at": "2021-02-09 20:08:30",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5702702702702702,
-                "negativity": 0.4297297297297299
-            },
-            "user_id": 1727369563,
             "text_translation": ""
         },
         {
@@ -981,6 +962,25 @@
             "text_translation": ""
         },
         {
+            "id": 1359150324586577920,
+            "text": ": There ’ s more than one way to support our independent journalism . Subscribe for full access to our award - winning long -…",
+            "created_at": "2021-02-09 14:41:03",
+            "retweet_count": 13,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9757507075124701,
+                "negativity": 0.024249292487529904
+            },
+            "user_id": 885499999878094848,
+            "text_translation": ""
+        },
+        {
             "id": 1359145495898300420,
             "text": ": this is the thing he ’ s ever done like 🥺🥺🥺",
             "created_at": "2021-02-09 14:21:52",
@@ -1229,25 +1229,6 @@
                 "negativity": 0.2119357043731435
             },
             "user_id": 1452590617,
-            "text_translation": ""
-        },
-        {
-            "id": 1359101440841703425,
-            "text": ": I just sold this baby .🔌🔌🔌🔌 x360 convertible 8th Gen Corei7 512ssd , - touch …",
-            "created_at": "2021-02-09 11:26:49",
-            "retweet_count": 17,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.6761102061665856,
-                "negativity": 0.32388979383341426
-            },
-            "user_id": 2712596775,
             "text_translation": ""
         },
         {
@@ -1655,9 +1636,28 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.8222312643201525,
-                "negativity": 0.1777687356798468
+                "negativity": 0.17776873567984683
             },
             "user_id": 1187077844939218948,
+            "text_translation": ""
+        },
+        {
+            "id": 1359026604639473664,
+            "text": "I just added this listing on : CUBE PURSE - ✨✨✨. via",
+            "created_at": "2021-02-09 06:29:26",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.0546989467133333,
+                "negativity": 0.9453010532866672
+            },
+            "user_id": 1137644834523664384,
             "text_translation": ""
         },
         {
@@ -1979,7 +1979,7 @@
             "label": "neutral",
             "note": {
                 "classification": "neg",
-                "positivity": 0.39068702407982303,
+                "positivity": 0.390687024079823,
                 "negativity": 0.6093129759201763
             },
             "user_id": 1352407073963864073,

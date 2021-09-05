@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1432816888313090052,
+            "text": "V60 5G 128GB Android - V600TM ( ) ( Classy Blue , 128GB , Unlocked )",
+            "created_at": "2021-08-31 21:25:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8472152217741934,
+                "negativity": 0.15278477822580647
+            },
+            "user_id": 114677434,
+            "text_translation": ""
+        },
+        {
+            "id": 1432548974599151617,
+            "text": "climate Shockproof Armor Magnetic Ring Holder Stand Phone Case For G8X V60 V50S 5G Back Cover …",
+            "created_at": "2021-08-31 03:41:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5533601212355279,
+                "negativity": 0.44663987876447214
+            },
+            "user_id": 1235695675175821312,
+            "text_translation": ""
+        }
+    ]
+}

@@ -1027,7 +1027,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.8405902465206113,
-                "negativity": 0.15940975347938746
+                "negativity": 0.1594097534793875
             },
             "user_id": 896734710,
             "text_translation": ""
@@ -2204,6 +2204,25 @@
             "text_translation": ""
         },
         {
+            "id": 1372584134950932484,
+            "text": ": hey ! seeing on the film . working with to help get it back up and running !!! for …",
+            "created_at": "2021-03-18 16:22:13",
+            "retweet_count": 7329,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.45555001516366433,
+                "negativity": 0.544449984836335
+            },
+            "user_id": 1167799018388369410,
+            "text_translation": ""
+        },
+        {
             "id": 1372583215957950470,
             "text": "PS5 Next - Gen That Detect Your",
             "created_at": "2021-03-18 16:18:34",
@@ -2988,6 +3007,25 @@
                 "negativity": 0.3266892347740092
             },
             "user_id": 714997517838979072,
+            "text_translation": ""
+        },
+        {
+            "id": 1372492577434447873,
+            "text": ": For your chance to win a 5 , just follow me and reply with your thing about this gaming …",
+            "created_at": "2021-03-18 10:18:24",
+            "retweet_count": 245,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8569082652053277,
+                "negativity": 0.14309173479466963
+            },
+            "user_id": 1333661042413432832,
             "text_translation": ""
         },
         {

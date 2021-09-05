@@ -1,31 +1,12 @@
 {
     "query": "Acer ConceptD 7",
-    "start": "2021-07-08 04:46:21",
-    "end": "2021-08-25 06:01:30",
+    "start": "2021-07-08 00:54:59",
+    "end": "2021-08-25 19:57:46",
     "total": 14,
     "positive": 4,
     "neutral": 6,
     "negative": 4,
     "tweets": [
-        {
-            "id": 1412996453845422081,
-            "text": ": Even if you ’ t a creator , the ConceptD7Ezel is a beautiful and powerful piece of hardware . Don ’ t believe us ? Just …",
-            "created_at": "2021-07-08 04:46:21",
-            "retweet_count": 4,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.8210339847727985,
-                "negativity": 0.1789660152272018
-            },
-            "user_id": 1090606410898067456,
-            "text_translation": ""
-        },
         {
             "id": 1412938229146431489,
             "text": ": At the 2021 d & ; i , been for its innovative and . Let ' s applaud these awa …",
@@ -46,28 +27,28 @@
             "text_translation": ""
         },
         {
-            "id": 1413616463865425923,
-            "text": "The 7 & ; 7 Pro Swing - Hinge The hinge on each of t …",
-            "created_at": "2021-07-09 21:50:03",
-            "retweet_count": 0,
+            "id": 1412996453845422081,
+            "text": ": Even if you ’ t a creator , the ConceptD7Ezel is a beautiful and powerful piece of hardware . Don ’ t believe us ? Just …",
+            "created_at": "2021-07-08 04:46:21",
+            "retweet_count": 4,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "neutral",
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8399138954950168,
-                "negativity": 0.16008610450498267
+                "positivity": 0.8210339847727985,
+                "negativity": 0.1789660152272018
             },
-            "user_id": 864339338,
+            "user_id": 1090606410898067456,
             "text_translation": ""
         },
         {
-            "id": 1422122768657747968,
-            "text": "The 7 & ; 7 Pro swing - hinge The hinge on each of t …",
-            "created_at": "2021-08-02 09:11:04",
+            "id": 1413616463865425923,
+            "text": "The 7 & ; 7 Pro Swing - Hinge The hinge on each of t …",
+            "created_at": "2021-07-09 21:50:03",
             "retweet_count": 0,
             "favorite_count": 0,
             "lang": "en",
@@ -100,6 +81,25 @@
                 "negativity": 0.7263856585540686
             },
             "user_id": 1319696835972218881,
+            "text_translation": ""
+        },
+        {
+            "id": 1423053652256858118,
+            "text": "The 7 & ; 7 Pro swing - hinge The hinge on each of t …",
+            "created_at": "2021-08-04 22:50:04",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8399138954950168,
+                "negativity": 0.16008610450498267
+            },
+            "user_id": 864339338,
             "text_translation": ""
         },
         {
@@ -179,25 +179,6 @@
             "text_translation": ""
         },
         {
-            "id": 1429870611770249228,
-            "text": "On I posted a tutorial showing how to use the Lab . Here is a little sneak peek of what is in the v …",
-            "created_at": "2021-08-23 18:18:14",
-            "retweet_count": 0,
-            "favorite_count": 19,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "negative",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.2442829553117763,
-                "negativity": 0.7557170446882251
-            },
-            "user_id": 2982222845,
-            "text_translation": ""
-        },
-        {
             "id": 1429778889325285384,
             "text": ": I this animation the Lab and it on the ConceptD7pro from . Check out the tut …",
             "created_at": "2021-08-23 12:13:45",
@@ -217,11 +198,11 @@
             "text_translation": ""
         },
         {
-            "id": 1430620435088031750,
-            "text": "Just bought this bad boy ! 7 by & ; can ' t wait to create with it ! :) Bought with N …",
-            "created_at": "2021-08-25 19:57:46",
+            "id": 1429870611770249228,
+            "text": "On I posted a tutorial showing how to use the Lab . Here is a little sneak peek of what is in the v …",
+            "created_at": "2021-08-23 18:18:14",
             "retweet_count": 0,
-            "favorite_count": 5,
+            "favorite_count": 19,
             "lang": "en",
             "geo": null,
             "coordinates": null,
@@ -229,10 +210,29 @@
             "label": "negative",
             "note": {
                 "classification": "neg",
-                "positivity": 0.4335238248076812,
-                "negativity": 0.5664761751923193
+                "positivity": 0.2442829553117763,
+                "negativity": 0.7557170446882251
             },
-            "user_id": 1192662766194180101,
+            "user_id": 2982222845,
+            "text_translation": ""
+        },
+        {
+            "id": 1430409984530124800,
+            "text": "may launch multiple and 4K smart in 7 Pro -",
+            "created_at": "2021-08-25 06:01:30",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8227750394492788,
+                "negativity": 0.17722496055072173
+            },
+            "user_id": 939619788694966272,
             "text_translation": ""
         },
         {
@@ -255,22 +255,22 @@
             "text_translation": ""
         },
         {
-            "id": 1430409984530124800,
-            "text": "may launch multiple and 4K smart in 7 Pro -",
-            "created_at": "2021-08-25 06:01:30",
+            "id": 1430620435088031750,
+            "text": "Just bought this bad boy ! 7 by & ; can ' t wait to create with it ! :) Bought with N …",
+            "created_at": "2021-08-25 19:57:46",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 5,
             "lang": "en",
             "geo": null,
             "coordinates": null,
             "mention": [],
-            "label": "positive",
+            "label": "negative",
             "note": {
-                "classification": "pos",
-                "positivity": 0.8227750394492788,
-                "negativity": 0.17722496055072173
+                "classification": "neg",
+                "positivity": 0.4335238248076812,
+                "negativity": 0.5664761751923193
             },
-            "user_id": 939619788694966272,
+            "user_id": 1192662766194180101,
             "text_translation": ""
         }
     ]

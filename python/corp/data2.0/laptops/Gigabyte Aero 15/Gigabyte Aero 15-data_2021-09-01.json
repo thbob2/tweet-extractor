@@ -1,0 +1,66 @@
+{
+    "tweets": [
+        {
+            "id": 1433149734244524032,
+            "text": "Check this giveaway of a AERO 15 notebook ! 👉 👉",
+            "created_at": "2021-09-01 19:28:17",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.08608681827962848,
+                "negativity": 0.9139131817203712
+            },
+            "user_id": 3027173992,
+            "text_translation": ""
+        },
+        {
+            "id": 1433135371018285056,
+            "text": "Aero 15 . 6 - in 4K w / Core i7 , 1TB for $ 1299 . 99 ⭐ …",
+            "created_at": "2021-09-01 18:31:13",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4718218558681124,
+                "negativity": 0.5281781441318876
+            },
+            "user_id": 1355547360085073921,
+            "text_translation": ""
+        },
+        {
+            "id": 1432903897308405760,
+            "text": "[ ] AERO 15 - 72US623SP | i7 - 11800H | 16GB | 512GB | 15 . 6 \" 400 True Black , 10 …",
+            "created_at": "2021-09-01 03:11:25",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "16GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3566433758149209,
+                "negativity": 0.6433566241850791
+            },
+            "user_id": 2191322102,
+            "text_translation": ""
+        }
+    ]
+}

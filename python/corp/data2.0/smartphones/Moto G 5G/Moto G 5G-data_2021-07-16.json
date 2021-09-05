@@ -1,25 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1416185445730295808,
-            "text": ": Enter for a chance to win a new g stylus 5G ! Follow us or reply to this post by 7 / 18 / 21 Tag a friend …",
-            "created_at": "2021-07-16 23:58:16",
-            "retweet_count": 473,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5992010038089897,
-                "negativity": 0.4007989961910122
-            },
-            "user_id": 2443388437,
-            "text_translation": ""
-        },
-        {
             "id": 1416183728129335297,
             "text": "We ' got a in honor of the g stylus 5G being available in and today . Enter to win …",
             "created_at": "2021-07-16 23:51:26",
@@ -72,25 +53,6 @@
                 "classification": "pos",
                 "positivity": 0.7307838449907378,
                 "negativity": 0.2692161550092621
-            },
-            "user_id": 1918500036,
-            "text_translation": ""
-        },
-        {
-            "id": 1416178706972778498,
-            "text": ": Mobility Android 11 update for G 5G and it ' s now rolling out in US will let you know once roll …",
-            "created_at": "2021-07-16 23:31:29",
-            "retweet_count": 6,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.3447939367227243,
-                "negativity": 0.6552060632772743
             },
             "user_id": 1918500036,
             "text_translation": ""
@@ -475,6 +437,44 @@
                 "negativity": 0.5574463102055071
             },
             "user_id": 241865130,
+            "text_translation": ""
+        },
+        {
+            "id": 1415961936877916167,
+            "text": "usually . My g 5g plus a 765 . Also try this specific dolphin …",
+            "created_at": "2021-07-16 09:10:07",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1817506792961553,
+                "negativity": 0.818249320703846
+            },
+            "user_id": 1160379786641805312,
+            "text_translation": ""
+        },
+        {
+            "id": 1415946744337108995,
+            "text": "1107 G 5G plus got android 11 on March , Now G 5G is getting Android 11 update in US ( we don ' t …",
+            "created_at": "2021-07-16 08:09:45",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2592382796707111,
+                "negativity": 0.7407617203292909
+            },
+            "user_id": 1340703914107146247,
             "text_translation": ""
         },
         {

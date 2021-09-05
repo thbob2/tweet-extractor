@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1422305788958289923,
+            "text": "note 7 Series at $ 200 price !",
+            "created_at": "2021-08-02 21:18:19",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4716901513054408,
+                "negativity": 0.5283098486945598
+            },
+            "user_id": 1027031966397476864,
+            "text_translation": ""
+        },
+        {
             "id": 1422209109731037195,
             "text": "Same here . note note 7 pro",
             "created_at": "2021-08-02 14:54:09",

@@ -831,6 +831,29 @@
             "text_translation": ""
         },
         {
+            "id": 1383044514399416320,
+            "text": ": [ ] : 100 - 2000 , CLONE , , , STONE , i3 , i5 , i7 , , ANY , MAKE OFFER D …",
+            "created_at": "2021-04-16 13:08:02",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i3",
+                "i5",
+                "i7"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3435078472615001,
+                "negativity": 0.656492152738499
+            },
+            "user_id": 92962780,
+            "text_translation": ""
+        },
+        {
             "id": 1383042349417259008,
             "text": "Are you want your country ' s losing or Are you accepted my heavy for signature the peace …",
             "created_at": "2021-04-16 12:59:26",
@@ -1344,7 +1367,7 @@
             "note": {
                 "classification": "pos",
                 "positivity": 0.6858550239481865,
-                "negativity": 0.3141449760518127
+                "negativity": 0.31414497605181274
             },
             "user_id": 1367071856713416715,
             "text_translation": ""

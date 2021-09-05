@@ -1,0 +1,99 @@
+{
+    "tweets": [
+        {
+            "id": 1432795114447982597,
+            "text": "Since 7 . 30 I have gone 7 - 0 with an axe on my team . Shard + heart axe is literally unkillable …",
+            "created_at": "2021-08-31 19:59:09",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7397319736604436,
+                "negativity": 0.2602680263395551
+            },
+            "user_id": 1093122752469438465,
+            "text_translation": ""
+        },
+        {
+            "id": 1432723602768465920,
+            "text": "Start anywhere 📱",
+            "created_at": "2021-08-31 15:15:00",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.21233382570162482,
+                "negativity": 0.7876661742983747
+            },
+            "user_id": 2687887574,
+            "text_translation": ""
+        },
+        {
+            "id": 1432715101157605385,
+            "text": "I even won a game as axe last night when we 4 - 22 in the first 20 . I got sha …",
+            "created_at": "2021-08-31 14:41:13",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4792292392326937,
+                "negativity": 0.5207707607673063
+            },
+            "user_id": 1093122752469438465,
+            "text_translation": ""
+        },
+        {
+            "id": 1432678191840256004,
+            "text": ": Legion Phone Duel enlisted , launch soon !",
+            "created_at": "2021-08-31 12:14:33",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7802214183097318,
+                "negativity": 0.21977858169027037
+            },
+            "user_id": 1356552822859444225,
+            "text_translation": ""
+        },
+        {
+            "id": 1432678169014902785,
+            "text": "Legion Phone Duel enlisted , launch soon !",
+            "created_at": "2021-08-31 12:14:28",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7802214183097318,
+                "negativity": 0.21977858169027037
+            },
+            "user_id": 1247379455523213313,
+            "text_translation": ""
+        }
+    ]
+}

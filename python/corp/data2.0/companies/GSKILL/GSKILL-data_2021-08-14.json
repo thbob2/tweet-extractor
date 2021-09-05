@@ -78,6 +78,27 @@
             },
             "user_id": 152471353,
             "text_translation": ""
+        },
+        {
+            "id": 1426424611776892928,
+            "text": ": Do you prefer wooden or metallic build ? | u / …",
+            "created_at": "2021-08-14 06:05:03",
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.38419137175947565,
+                "negativity": 0.6158086282405235
+            },
+            "user_id": 1323597577586155520,
+            "text_translation": ""
         }
     ]
 }

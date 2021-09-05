@@ -1,0 +1,45 @@
+{
+    "tweets": [
+        {
+            "id": 1433823367287693322,
+            "text": ": Looking for a top - of - the - line gaming ? Get the AERO 15 that sports a 15 . 6 \" 4K display , 11th Gen i …",
+            "created_at": "2021-09-03 16:05:04",
+            "retweet_count": 5,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2730345113043344,
+                "negativity": 0.7269654886956644
+            },
+            "user_id": 1113942962923298816,
+            "text_translation": ""
+        },
+        {
+            "id": 1433641410960429062,
+            "text": "[ ] AERO 15 - 15 . 6 \" 4K , Core i7 11th Gen 11800H , 3060 , 6G …",
+            "created_at": "2021-09-03 04:02:02",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "3060"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1942675159235661,
+                "negativity": 0.8057324840764337
+            },
+            "user_id": 2189079116,
+            "text_translation": ""
+        }
+    ]
+}

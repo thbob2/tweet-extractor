@@ -1,0 +1,25 @@
+{
+    "tweets": [
+        {
+            "id": 1433550224031567872,
+            "text": ": Make \" working from home \" more fun with the brand new Swift 3x powered by an Core i7 processor . Learn mor …",
+            "created_at": "2021-09-02 21:59:42",
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.23877391773923948,
+                "negativity": 0.7612260822607603
+            },
+            "user_id": 1433066245679685633,
+            "text_translation": ""
+        }
+    ]
+}

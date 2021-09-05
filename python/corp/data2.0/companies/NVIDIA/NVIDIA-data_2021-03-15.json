@@ -39,27 +39,6 @@
             "text_translation": ""
         },
         {
-            "id": 1371593843775213571,
-            "text": ": Imagine . . . how we can build the future together . Join us at GTC21 .",
-            "created_at": "2021-03-15 22:47:09",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "Build"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.7494263687641957,
-                "negativity": 0.2505736312358054
-            },
-            "user_id": 280701396,
-            "text_translation": ""
-        },
-        {
             "id": 1371578240062562307,
             "text": "470 . 05 driver confirmed to remove 3060 mining limiter",
             "created_at": "2021-03-15 21:45:09",
@@ -234,25 +213,6 @@
                 "negativity": 0.81332625731817
             },
             "user_id": 765899062382039040,
-            "text_translation": ""
-        },
-        {
-            "id": 1371523477618966533,
-            "text": ": 🎉 made it on the list as one of the most innovative in gaming , alongside global like …",
-            "created_at": "2021-03-15 18:07:33",
-            "retweet_count": 115,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.9863545532587987,
-                "negativity": 0.013645446741203078
-            },
-            "user_id": 1358285862610612230,
             "text_translation": ""
         },
         {
@@ -448,29 +408,6 @@
             "text_translation": ""
         },
         {
-            "id": 1371447358857175047,
-            "text": "Pavilion Gaming Core i5 - 9400F 🖥️ 1660 6GB & ; 32GB RAM With advanced …",
-            "created_at": "2021-03-15 13:05:05",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i5",
-                "RAM",
-                "32GB"
-            ],
-            "label": "positive",
-            "note": {
-                "classification": "pos",
-                "positivity": 0.5148324004094708,
-                "negativity": 0.48516759959053035
-            },
-            "user_id": 1291683999392436225,
-            "text_translation": ""
-        },
-        {
             "id": 1371441476786290691,
             "text": "I need gaming card 🙄",
             "created_at": "2021-03-15 12:41:42",
@@ -607,6 +544,25 @@
                 "negativity": 0.1506644379318749
             },
             "user_id": 197705768,
+            "text_translation": ""
+        },
+        {
+            "id": 1371266299033223172,
+            "text": "Sample image from random point in latent space . urban cityscape …",
+            "created_at": "2021-03-15 01:05:37",
+            "retweet_count": 14,
+            "favorite_count": 9,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.2755604267123183,
+                "negativity": 0.7244395732876843
+            },
+            "user_id": 1359948098064195585,
             "text_translation": ""
         }
     ]

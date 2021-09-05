@@ -1,29 +1,6 @@
 {
     "tweets": [
         {
-            "id": 1424491854091931650,
-            "text": "harmony : Brand DELL 15 9510 16gb ram 1tb Core i7 11th gen 4GB 3050 4 thunderbolt FINGERPRINT SCANNER …",
-            "created_at": "2021-08-08 22:04:58",
-            "retweet_count": 35,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "i7",
-                "RAM",
-                "16GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.034154535274355864,
-                "negativity": 0.9658454647256449
-            },
-            "user_id": 1237450235493912577,
-            "text_translation": ""
-        },
-        {
             "id": 1424442896976162829,
             "text": "Dell 15 ( 9570 ) i7 - 8750H 4K 32GB 1TB with Station electronics ad",
             "created_at": "2021-08-08 18:50:26",
@@ -41,6 +18,29 @@
                 "classification": "pos",
                 "positivity": 0.5599989573170289,
                 "negativity": 0.44000104268297147
+            },
+            "user_id": 336556251,
+            "text_translation": ""
+        },
+        {
+            "id": 1424415349705953284,
+            "text": "Dell 15 \" 9560 I7 - 7700hq 16gb RAM 512gb - READ DESCRIPTION electronics ad",
+            "created_at": "2021-08-08 17:00:58",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "i7",
+                "RAM",
+                "16GB"
+            ],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.18727450390859854,
+                "negativity": 0.8127254960913997
             },
             "user_id": 336556251,
             "text_translation": ""
@@ -85,28 +85,6 @@
                 "negativity": 0.2006119542825658
             },
             "user_id": 1707009211,
-            "text_translation": ""
-        },
-        {
-            "id": 1424354898381004800,
-            "text": "Dell 15 9560 , 4K Touch - screen display , 32gb RAM , 1Tb - , 1050 electronics ad",
-            "created_at": "2021-08-08 13:00:45",
-            "retweet_count": 0,
-            "favorite_count": 0,
-            "lang": "en",
-            "geo": null,
-            "coordinates": null,
-            "mention": [
-                "RAM",
-                "32GB"
-            ],
-            "label": "neutral",
-            "note": {
-                "classification": "neg",
-                "positivity": 0.20456681990668085,
-                "negativity": 0.7954331800933215
-            },
-            "user_id": 336556251,
             "text_translation": ""
         },
         {

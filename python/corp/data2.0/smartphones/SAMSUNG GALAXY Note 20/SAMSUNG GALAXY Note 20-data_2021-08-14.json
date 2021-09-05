@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1426691268403515392,
+            "text": "model : Apple : ( ), , 11 ( pro ), 12 …",
+            "created_at": "2021-08-14 23:44:39",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7179483207336712,
+                "negativity": 0.2820516792663279
+            },
+            "user_id": 166102150,
+            "text_translation": ""
+        },
+        {
             "id": 1426684591520288768,
             "text": ": Cable 2 - Pack - C Cable Black 6 . 6 for Galaxy S9 / S8 / Note 8 , G6 / V30 , Switch , and …",
             "created_at": "2021-08-14 23:18:07",
@@ -17,6 +36,27 @@
                 "negativity": 0.2512672110730262
             },
             "user_id": 147223992,
+            "text_translation": ""
+        },
+        {
+            "id": 1426682057158184960,
+            "text": "Best Galaxy Note 20 and Note 20 Ultra screen The World ' s First Tempered Glass …",
+            "created_at": "2021-08-14 23:08:03",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9002116346966609,
+                "negativity": 0.0997883653033417
+            },
+            "user_id": 1299146363322527744,
             "text_translation": ""
         },
         {
@@ -77,22 +117,24 @@
             "text_translation": ""
         },
         {
-            "id": 1426679423982526467,
-            "text": ": N980FXXU3DUH2 N980FOXM3DUH2 ( Android 11 )",
-            "created_at": "2021-08-14 22:57:35",
+            "id": 1426678032304156675,
+            "text": "These are the best Galaxy Note 20 / 20 Ultra screen via The World ' s …",
+            "created_at": "2021-08-14 22:52:03",
             "retweet_count": 0,
-            "favorite_count": 0,
+            "favorite_count": 1,
             "lang": "en",
             "geo": null,
             "coordinates": null,
-            "mention": [],
-            "label": "neutral",
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.5833333333333333,
-                "negativity": 0.4166666666666665
+                "positivity": 0.880936316647066,
+                "negativity": 0.11906368335293398
             },
-            "user_id": 89913536,
+            "user_id": 1299146363322527744,
             "text_translation": ""
         },
         {
@@ -157,10 +199,32 @@
             "text_translation": ""
         },
         {
-            "id": 1426638139939074052,
-            "text": "Wireless Charger , 4 in 1 Fast Charging Station for Galaxy Watch 3 / Gear / / Note 20 / S21 for 12 / 11 …",
-            "created_at": "2021-08-14 20:13:32",
+            "id": 1426642322234744838,
+            "text": "Whitestone Note 20 Camera Screen Tempered Glass Protector - 2 Pack The World ' s First …",
+            "created_at": "2021-08-14 20:30:10",
             "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Camera",
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.9244737185678015,
+                "negativity": 0.07552628143219642
+            },
+            "user_id": 1299146363322527744,
+            "text_translation": ""
+        },
+        {
+            "id": 1426622922446233604,
+            "text": ": ' s Galaxy Note 20 Ultra is a huge 5G phone for people who want everything . ( ) Mobile Technology",
+            "created_at": "2021-08-14 19:13:04",
+            "retweet_count": 2,
             "favorite_count": 0,
             "lang": "en",
             "geo": null,
@@ -169,10 +233,48 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.5792892860348118,
-                "negativity": 0.4207107139651859
+                "positivity": 0.8830805506978953,
+                "negativity": 0.1169194493021026
             },
-            "user_id": 1360955818670252037,
+            "user_id": 1310836644946145286,
+            "text_translation": ""
+        },
+        {
+            "id": 1426622330491609088,
+            "text": "I like your honest view on this , I am looking toward to upgrade to Galaxy Note 20 Ultra 5G …",
+            "created_at": "2021-08-14 19:10:43",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.884299388023559,
+                "negativity": 0.1157006119764404
+            },
+            "user_id": 2327728747,
+            "text_translation": ""
+        },
+        {
+            "id": 1426613340663685122,
+            "text": "' s Galaxy Note 20 Ultra is a huge 5G phone for people who want everything . ( ) Mobile Technology …",
+            "created_at": "2021-08-14 18:35:00",
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8830805506978953,
+                "negativity": 0.1169194493021026
+            },
+            "user_id": 15221598,
             "text_translation": ""
         },
         {
@@ -214,6 +316,63 @@
             "text_translation": ""
         },
         {
+            "id": 1426519148952268805,
+            "text": "I got my Galaxy Note 20 Ultra 5G at launch was mad expensive out here cause people don ' t …",
+            "created_at": "2021-08-14 12:20:43",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.41400388166452823,
+                "negativity": 0.5859961183354717
+            },
+            "user_id": 994038145489559552,
+            "text_translation": ""
+        },
+        {
+            "id": 1426514711395319811,
+            "text": "Adaptive Fast Charger kit with Type C Cable Compatible Galaxy S21 / S21 Ultra 5G …",
+            "created_at": "2021-08-14 12:03:05",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.1414194536149096,
+                "negativity": 0.8585805463850922
+            },
+            "user_id": 1005357753861394432,
+            "text_translation": ""
+        },
+        {
+            "id": 1426511553919074308,
+            "text": "I recently got the Galaxy Note 20 Ultra ( which last year ). Possibly the last of this line . Nothing …",
+            "created_at": "2021-08-14 11:50:32",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4359659041693375,
+                "negativity": 0.5640340958306637
+            },
+            "user_id": 81901250,
+            "text_translation": ""
+        },
+        {
             "id": 1426476865951313920,
             "text": ": N981BXXU3DUH2 N981BOXM3DUH2 O2C ( Android 11 )",
             "created_at": "2021-08-14 09:32:42",
@@ -249,6 +408,27 @@
                 "negativity": 0.681818181818181
             },
             "user_id": 89913536,
+            "text_translation": ""
+        },
+        {
+            "id": 1426470119023149056,
+            "text": "Case for Galaxy S21 S20 Plus Note 20 Ultra Rugged Armor 360 Full ... qua",
+            "created_at": "2021-08-14 09:05:53",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Case"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8466982021006026,
+                "negativity": 0.15330179789939666
+            },
+            "user_id": 4726590559,
             "text_translation": ""
         },
         {
@@ -328,6 +508,46 @@
             "text_translation": ""
         },
         {
+            "id": 1426380489363951618,
+            "text": ", battery too small , s pen , no micro slot . I ' m trading in my galaxy note 20 ultra 5 .…",
+            "created_at": "2021-08-14 03:09:44",
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Battery"
+            ],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4068649211416262,
+                "negativity": 0.5931350788583735
+            },
+            "user_id": 798628208174399489,
+            "text_translation": ""
+        },
+        {
+            "id": 1426362740118073345,
+            "text": "Price : ( as of - ) Product Description Strap for Your Phone Secure p …",
+            "created_at": "2021-08-14 01:59:12",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.36204458837212355,
+                "negativity": 0.6379554116278756
+            },
+            "user_id": 1261337199246704642,
+            "text_translation": ""
+        },
+        {
             "id": 1426350421346455559,
             "text": ": I have galaxy note 20 . in Camera I do not find watermark option . s …",
             "created_at": "2021-08-14 01:10:15",
@@ -388,6 +608,25 @@
                 "negativity": 0.3209915970652043
             },
             "user_id": 1425131947475439620,
+            "text_translation": ""
+        },
+        {
+            "id": 1426335273177260033,
+            "text": "Galaxy Note 20 Ultra Whitestone Dome Glass - The World ' s First Tempered …",
+            "created_at": "2021-08-14 00:10:03",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7322743182979771,
+                "negativity": 0.26772568170202077
+            },
+            "user_id": 943633777904951296,
             "text_translation": ""
         }
     ]

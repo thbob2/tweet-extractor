@@ -1,0 +1,44 @@
+{
+    "tweets": [
+        {
+            "id": 1432652512365056001,
+            "text": "[$ 28 . 59 ] Screen and Digitizer Full Assembly with Frame for E7 Power PAMH0001IN PAMH0010IN PAMH0019 …",
+            "created_at": "2021-08-31 10:32:31",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Screen"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.4414558562091482,
+                "negativity": 0.5585441437908532
+            },
+            "user_id": 1001988409643200513,
+            "text_translation": ""
+        },
+        {
+            "id": 1432547681428287488,
+            "text": "Thank you for writing back ! We understand the concern . But , sorry to say your E7 Plus will …",
+            "created_at": "2021-08-31 03:35:57",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3729765403381857,
+                "negativity": 0.6270234596618136
+            },
+            "user_id": 2460859956,
+            "text_translation": ""
+        }
+    ]
+}

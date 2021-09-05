@@ -1,0 +1,64 @@
+{
+    "tweets": [
+        {
+            "id": 1433173896702877697,
+            "text": "anyone would mistake this for a dildo",
+            "created_at": "2021-09-01 21:04:18",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.3749358561161738,
+                "negativity": 0.6250641438838257
+            },
+            "user_id": 1508071842,
+            "text_translation": ""
+        },
+        {
+            "id": 1433014740331106304,
+            "text": "My was dead that was . Don ' t buy .",
+            "created_at": "2021-09-01 10:31:52",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "negative",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5430656954110388,
+                "negativity": 0.4569343045889614
+            },
+            "user_id": 1393546697263894535,
+            "text_translation": ""
+        },
+        {
+            "id": 1432949552525447170,
+            "text": "🤩 🛒 Note10 pro 8GB RAM 128GB 6 . 7 \" Helio G95 33W Fast Charging 64MP IP53 5000 …",
+            "created_at": "2021-09-01 06:12:50",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "RAM",
+                "8GB"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.04103390619343907,
+                "negativity": 0.9589660938065606
+            },
+            "user_id": 1382985848958951424,
+            "text_translation": ""
+        }
+    ]
+}

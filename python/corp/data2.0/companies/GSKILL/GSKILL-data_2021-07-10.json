@@ -1,6 +1,68 @@
 {
     "tweets": [
         {
+            "id": 1413985787906076672,
+            "text": ", is there any way to know if the ROG Z590 - i Gaming is capable of DDR4 - 4400 C17 as I can '…",
+            "created_at": "2021-07-10 22:17:37",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.7918335994515036,
+                "negativity": 0.2081664005484967
+            },
+            "user_id": 974019996987875328,
+            "text_translation": ""
+        },
+        {
+            "id": 1413969198791815169,
+            "text": "Hey Jay , tuff x570pro - . One year since build . clean …",
+            "created_at": "2021-07-10 21:11:41",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "Build"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5742292192178011,
+                "negativity": 0.42577078078219954
+            },
+            "user_id": 1392035523808563204,
+            "text_translation": ""
+        },
+        {
+            "id": 1413914303564902403,
+            "text": "specs : 5 3600 1660 Super Graphics Card B550 16GB Ram 550W 1TB",
+            "created_at": "2021-07-10 17:33:33",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [
+                "16GB",
+                "specs"
+            ],
+            "label": "positive",
+            "note": {
+                "classification": "neg",
+                "positivity": 0.06617978251077783,
+                "negativity": 0.9338202174892231
+            },
+            "user_id": 1148348959812804608,
+            "text_translation": ""
+        },
+        {
             "id": 1413693244563595264,
             "text": "The build 💯🚀🔥🔥🔥 windows10 gaming trading custom build …",
             "created_at": "2021-07-10 02:55:09",

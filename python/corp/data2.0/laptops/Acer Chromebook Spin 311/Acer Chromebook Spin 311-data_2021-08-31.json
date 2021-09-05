@@ -1,0 +1,61 @@
+{
+    "tweets": [
+        {
+            "id": 1432698873709989898,
+            "text": "| New ! Spin 311 Convertible y | shorts via",
+            "created_at": "2021-08-31 13:36:44",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6661595501974812,
+                "negativity": 0.33384044980251837
+            },
+            "user_id": 1420710550028361731,
+            "text_translation": ""
+        },
+        {
+            "id": 1432669178637389824,
+            "text": "Spin 311 Convertible ( Computer ) Order Now : List Price :…",
+            "created_at": "2021-08-31 11:38:44",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.6425673188660493,
+                "negativity": 0.35743268113395044
+            },
+            "user_id": 1426544505033924608,
+            "text_translation": ""
+        },
+        {
+            "id": 1432563193004523530,
+            "text": "Spin 311 Convertible , N4020 , 11 . 6 \" Touch , 4GB LPDDR4 , 3 …",
+            "created_at": "2021-08-31 04:37:35",
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "neutral",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.5948023426061497,
+                "negativity": 0.4051976573938508
+            },
+            "user_id": 758330759296016384,
+            "text_translation": ""
+        }
+    ]
+}

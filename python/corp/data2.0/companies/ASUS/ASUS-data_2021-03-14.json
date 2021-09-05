@@ -1,6 +1,25 @@
 {
     "tweets": [
         {
+            "id": 1371238800307986433,
+            "text": "Is this monitor good",
+            "created_at": "2021-03-14 23:16:21",
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "lang": "en",
+            "geo": null,
+            "coordinates": null,
+            "mention": [],
+            "label": "positive",
+            "note": {
+                "classification": "pos",
+                "positivity": 0.8750040942102846,
+                "negativity": 0.12499590578971446
+            },
+            "user_id": 561715516,
+            "text_translation": ""
+        },
+        {
             "id": 1371216026017357831,
             "text": "It ' s looking like Pro would be the way to go for something that ' s still ostensibly a …",
             "created_at": "2021-03-14 21:45:51",
@@ -342,7 +361,7 @@
             "label": "positive",
             "note": {
                 "classification": "pos",
-                "positivity": 0.8445376105327362,
+                "positivity": 0.8445376105327361,
                 "negativity": 0.15546238946726254
             },
             "user_id": 801098978121039873,
