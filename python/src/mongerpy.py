@@ -154,8 +154,8 @@ if __name__ == '__main__':
     import_companies()
     improt_companies_data()
 
-    export_database("t_punch","companies")
-    export_database("t_punch","laptops")
-    export_database("t_punch","smartphones")
-    export_database("t_punch","extracted_data")
-    export_database("t_punch","tweets")
+    #export_database("t_punch","companies")
+    #export_database("t_punch","laptops")
+    #export_database("t_punch","smartphones")
+    #export_database("t_punch","extracted_data")
+    #export_database("t_punch","tweets")
