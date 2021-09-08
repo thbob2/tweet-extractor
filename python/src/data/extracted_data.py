@@ -14,5 +14,5 @@ class EData(mongoengine.Document):
 
     meta = {
         'db_alias' :'core',
-        'collection': 'extracted_data'
+        'collection': 'extracted'
     }

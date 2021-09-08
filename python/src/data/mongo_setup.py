@@ -2,4 +2,4 @@ import mongoengine
 
 
 def global_init():
-    mongoengine.register_connection(alias='core', name='t_punch')
+    mongoengine.register_connection(alias='core', name='tpunch')
