@@ -56,6 +56,8 @@ class Lexor(object):
 
     def blobberRefresh(self):
         self.blober = Blobber(analyzer=NaiveBayesAnalyzer())
+
+        
     def feeling(self,text):
         result = TextBlob(text)          
         if(result.sentiment[0]>0): 

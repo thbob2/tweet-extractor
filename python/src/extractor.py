@@ -32,7 +32,7 @@ class Extractor(object):
                 for page in Alltweets:
                     for tweet in page:
                         tempo = Tweet(tweet.id,tweet.text,str(tweet.created_at),tweet.retweet_count,tweet.favorite_count,tweet.lang,tweet.user.id,tweet.coordinates,tweet.geo)      
-                        print(" FBI AGENT FUCKED {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
+                        print(" tweet fetched {} downloaded,time: {}".format(cpt,str(tempo.created_at))) # on la garde pour l'instant
                         lastDate=str(tempo.created_at)[:10]
                         if(lastDate!=dayDate):
                             newf = os.getcwd()+"/python/corp/data/"+str(query).strip()+"-data_{}.json".format(dayDate)
